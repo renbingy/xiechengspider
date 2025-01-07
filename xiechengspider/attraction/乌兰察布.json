@@ -1,0 +1,807 @@
+{
+    "内蒙古": {
+        "乌兰察布": {
+            "辉腾锡勒草原": {
+                "commentCount": 346,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i120008a6hifmD565.jpg",
+                "distanceStr": "距市中心43.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/67741.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "辉腾锡勒黄花沟草原旅游区": {
+                "commentCount": 2348,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1n12000bmoqz7xFD86.jpg",
+                "distanceStr": "距市中心51.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/67932.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰哈达火山地质公园": {
+                "commentCount": 144,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01027120008a73w37D3BE.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/4569973.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "红石崖国家生态公园": {
+                "commentCount": 150,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01072120009gtsyzo6BB3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/134004661.html?scene=online",
+                "isFree": false,
+                "price": 56.5
+            },
+            "林胡古塞": {
+                "commentCount": 264,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0u000000j33zsAAA7.jpg",
+                "distanceStr": "距市中心73.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/4728366.html?scene=online",
+                "isFree": false,
+                "price": 76.0
+            },
+            "乌兰察布草原": {
+                "commentCount": 24,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h120009orgv4e931A.jpg",
+                "distanceStr": "距市中心44.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/134222773.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰察布博物馆": {
+                "commentCount": 17,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6pv9va04CE.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/2699818.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大红山": {
+                "commentCount": 6,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c120008g2luat70EA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/5714479.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰哈达火山草原": {
+                "commentCount": 8,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l12000grg7qz4EAE0.jpg",
+                "distanceStr": "距市中心63.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/133548437.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "圣水梁九龙湾景区": {
+                "commentCount": 41,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350j0w000000kfhpb7EEF.jpg",
+                "distanceStr": "距市中心88.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/67936.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "日光雪原·大河湾国际滑雪旅游度假区": {
+                "commentCount": 11,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01066120008cggjmg622F.jpg",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/5101389.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大河湾国际滑雪场": {
+                "commentCount": 26,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000971bzpmD6E9.jpg",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/5719349.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "凉城岱海": {
+                "commentCount": 85,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grsrj40DA.jpg",
+                "distanceStr": "距市中心61.5km",
+                "detailUrl": "https://you.ctrip.com/sight/liangcheng2974/67933.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "格根塔拉草原": {
+                "commentCount": 74,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqwp28786.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/67739.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰察布古城": {
+                "commentCount": 3,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000f6uhbgi50BE.jpg",
+                "distanceStr": "距市中心6.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/130887043.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五号火山": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000f6q8efo594B.png",
+                "distanceStr": "距市中心62.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/130369365.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "永亮温泉水世界": {
+                "commentCount": 81,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6yzmB27B.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/4013621.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "察哈尔火山群": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104t12000c0qjh8i5CD4.jpg",
+                "distanceStr": "距市中心50.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/131897082.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老虎山生态公园": {
+                "commentCount": 92,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120009devmj958ED.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/1702901.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云冈石窟": {
+                "commentCount": 18124,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0z000000nofl48344.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/11311.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "红石崖寺旅游区": {
+                "commentCount": 24,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000833vz394E37.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/1696502.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "苏木山旅游区": {
+                "commentCount": 113,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gsr5iD88B.jpg",
+                "distanceStr": "距市中心75.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xinghe2959/1933092.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰哈达火山星悦滑草游乐园": {
+                "commentCount": 1,
+                "commentScore": 2.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000f6trpv59FD7.jpg",
+                "distanceStr": "距市中心61.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/148431926.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "涝利海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000grg59fh8436.jpg",
+                "distanceStr": "距市中心47.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xinghe2959/145057338.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "辉腾锡勒花海景区": {
+                "commentCount": 5,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010161200046ayslt074A.jpg",
+                "distanceStr": "距市中心46.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/5710363.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "草原皮都集宁国际皮革城": {
+                "commentCount": 87,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000f6tveheEFD3.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/1412672.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "察哈尔右翼后旗火山遗址": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105012000f6rk8b202F4.jpg",
+                "distanceStr": "距市中心23.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/4748361.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰哈达火山地质公园-露营地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104612000f6pshn8092F.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/134070867.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丰裕星空庄园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000f6trmh6B375.png",
+                "distanceStr": "距市中心31.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/148491878.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "集宁察汗营滑雪场": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000a9ayzsq032E.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/5700791.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "永兴湖诸景": {
+                "commentCount": 5,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqd7457AA.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/1713156.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "YOYO火山露营地(三号火山露营地)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104t12000f6pnvz8B723.jpg",
+                "distanceStr": "距市中心64.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/145523778.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大同古城": {
+                "commentCount": 43,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000ekcxkxf9E24.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/136052074.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华严寺": {
+                "commentCount": 4400,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060t000000ibeyfE231.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/11302.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "察哈尔古街": {
+                "commentCount": 10,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000bchtchw7D71.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/5552408.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "星遇火山露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t12000f6rrjseB7E9.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/135118384.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄旗海湿地自然保护区": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1a0000018ohn87FD3.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/5142999.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "壹号火山露营地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ2712000g6vp91r251F.jpg",
+                "distanceStr": "距市中心65.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/145217005.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰察布火山-露营地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w12000feuqzmi7A11.png",
+                "distanceStr": "距市中心61.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/145641263.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大召寺": {
+                "commentCount": 5647,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1b000001b2edx7356.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hohhot156/8950.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "苏木山森林公园": {
+                "commentCount": 4,
+                "commentScore": 2.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c120008ajtm4jA62E.jpg",
+                "distanceStr": "距市中心75.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xinghe2959/140960585.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰察布冬季旅游节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000gm9s6li061C.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/149573512.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北京向西一步·乌兰察布之夜·嗨耍新天地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0v12000c01e54k6478.jpg",
+                "distanceStr": "距市中心9.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightfrontbanner1446362/140890306.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "集宁战役纪念馆": {
+                "commentCount": 13,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0x000000lqgn9AD21.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/2642121.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "四子王旗王爷府": {
+                "commentCount": 11,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0rhk1151qsouzk12E2D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/1713065.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "察尔湖旅游区": {
+                "commentCount": 52,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gq9qp1C84.jpg",
+                "distanceStr": "距市中心80.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xinghe2959/1412682.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "代王府": {
+                "commentCount": 806,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4o12000ds1cjjxB68D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/5551423.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《黑神话：悟空》同款场景": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f73ifq174E2.jpg",
+                "distanceStr": "山西",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/0.html?poiId=148848765",
+                "isFree": false,
+                "price": ""
+            },
+            "牧野星空露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6ppstlEED5.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/145223540.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "岱海国际滑雪场": {
+                "commentCount": 31,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s12000f6tb8hu223D.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liangcheng2974/4275381.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "四子王旗博物馆": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031a0000018gtv859AC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/2687562.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "集宁林胡古寨": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ1v12000g2suujh5F8F.jpg",
+                "distanceStr": "距市中心70.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/64673522.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辉腾锡勒草原明珠": {
+                "commentCount": 9,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010691200081zfl531EEF.jpg",
+                "distanceStr": "距市中心44.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/4578523.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "岱海旅游度假区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105i12000f6q47lzD3E4.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liangcheng2974/145729883.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白泉山生态公园": {
+                "commentCount": 5,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120009edl7ry5C7E.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/2492789.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大同古城墙": {
+                "commentCount": 851,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000862yusy7048.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/124402.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰察布岩画": {
+                "commentCount": 11,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000f6txyxm4E6C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/1713181.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "谷力脑包火山地质遗迹": {
+                "commentCount": 6,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000f6rppe48713.jpg",
+                "distanceStr": "距市中心21.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightfrontbanner1446362/5657373.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "千古马颂": {
+                "commentCount": 183,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6wd221C6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hohhot156/2482988.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大同市博物馆御东新馆": {
+                "commentCount": 8,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100a12000f6rplaq9194.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/5596413.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大同市博物馆": {
+                "commentCount": 382,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000njn4vC50E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/76845.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "窝阔台蒙元文化度假中心": {
+                "commentCount": 6,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000f6ubrr450BE.jpg",
+                "distanceStr": "距市中心50.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/5066392.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "六号火山·南炼丹炉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u12000ez9qcg33E42.jpg",
+                "distanceStr": "距市中心61.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/145375156.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "霸王河欢乐世界": {
+                "commentCount": 16,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6z12000bdgoia0A354.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightfrontbanner1446362/1752927.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九曲山生态园": {
+                "commentCount": 10,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w1200092m297m86F4.jpg",
+                "distanceStr": "距市中心47.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/2542020.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大同方特欢乐世界": {
+                "commentCount": 6558,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v120006l3eriwDB24.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/1974238.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "席力图召": {
+                "commentCount": 475,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1e000001f8pjlAC5E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hohhot156/8971.html?scene=online",
+                "isFree": false,
+                "price": 23.0
+            },
+            "乌兰察布之夜·冰雪嘉年华": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0212000ekgjvgi9513.jpg",
+                "distanceStr": "距市中心9.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightfrontbanner1446362/145569269.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敕勒川草原": {
+                "commentCount": 13,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z12000az0kdkjACE7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hohhot156/33807872.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "商都县大石架地质公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e12000c75koyg2E65.jpg",
+                "distanceStr": "距市中心72.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shangdu2957/130368435.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰察布·相会敖包": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心47.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightmiddlebanner1446336/145510609.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "察哈尔火山博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010381200096z5gh69C56.png",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/69098612.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰察布植物园": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000c5ne7p0E60E.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/4569849.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "内蒙古博物院": {
+                "commentCount": 1387,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101p1200097pylwc4B36.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hohhot156/8960.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九龙壁": {
+                "commentCount": 492,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000b91vose6C44.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/11303.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蜂酷草原骑马部落": {
+                "commentCount": 3,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6712000dvigcy8347E.jpg",
+                "distanceStr": "距市中心41.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/145746344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "火星露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5812000f7ifjz0597C.jpg",
+                "distanceStr": "距市中心65.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/145484502.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰楼": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4m12000dfx1qfwAA24.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ulanqab1358/143756682.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "善化寺": {
+                "commentCount": 297,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060s000000hyxzh7E57.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/11309.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "悬空寺": {
+                "commentCount": 6036,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021a00000197yi05F62.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hunyuan3026/17724.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红石崖小王府温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01027120008kz0pon4EAD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuozi2978/120837227.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "塞外长城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j12000f6u4uww2907.jpg",
+                "distanceStr": "距市中心84.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fengzhen2953/5066587.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "察哈尔广场": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y12000c76t1akD3C2.jpg",
+                "distanceStr": "距市中心45.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/4582064.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "锡拉木伦庙": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000f5w5xw39883.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/145134136.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "火山草原星剧场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6trjqmB609.jpg",
+                "distanceStr": "距市中心61.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qaharrightrearbanner1446339/148500298.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "格根塔拉草原旅游区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000evfq7bg9576.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodbanner1446327/145500994.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "塞上老街": {
+                "commentCount": 270,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o12000f6sk1u841A6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hohhot156/1708602.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大同土林": {
+                "commentCount": 697,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grjch3089.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/1409754.html?scene=online",
+                "isFree": false,
+                "price": 47.0
+            },
+            "应县木塔": {
+                "commentCount": 5875,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c120007ywziam312C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yingcounty3006/74400.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            }
+        }
+    }
+}

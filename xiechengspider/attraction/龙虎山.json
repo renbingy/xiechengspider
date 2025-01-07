@@ -1,0 +1,780 @@
+{
+    "江西": {
+        "龙虎山": {
+            "龙虎山风景区": {
+                "commentCount": 4979,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3504160000010eiys2862.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/137685.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "鹰潭方特东方神画": {
+                "commentCount": 1327,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3i12000bpo47zd66B0.jpg",
+                "distanceStr": "距龙虎山23.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/140787599.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "天师府": {
+                "commentCount": 227,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0z000000mqqbyB80A.jpg",
+                "distanceStr": "距龙虎山6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/14381.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龟峰风景名胜区": {
+                "commentCount": 838,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0z000000ne3p72579.jpg",
+                "distanceStr": "距龙虎山49.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yiyang2406/127481.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "龙虎山仙人城景区": {
+                "commentCount": 38,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010021200092mfdpd55EA.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/140915.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上清古镇": {
+                "commentCount": 160,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0z000000mq5zu6BCC.jpg",
+                "distanceStr": "距龙虎山5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/14548.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正一观": {
+                "commentCount": 63,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0z000000n9dokC499.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/134641.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古越水街": {
+                "commentCount": 15,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0e12000atinf968CC9.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/5647387.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "葛仙村度假区": {
+                "commentCount": 1830,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3p12000fijo8m12CB3.jpg",
+                "distanceStr": "距龙虎山68.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yanshan2389/70702.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "望仙谷": {
+                "commentCount": 11707,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v1200092m69afAFE6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/104144785.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "大觉山": {
+                "commentCount": 704,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b12000f6psygw1C8B.jpg",
+                "distanceStr": "距龙虎山45.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zixi2433/141218.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "仙水岩芦溪河竹筏漂流": {
+                "commentCount": 59,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000f6tsxtn5B56.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/14319.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泸溪河": {
+                "commentCount": 8,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000f6rlasg95CA.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/5066780.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙虎山悬棺": {
+                "commentCount": 28,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grkpoAC45.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1832065.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙虎山花语世界景区": {
+                "commentCount": 48,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t120009dbv128A992.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1926711.html?scene=online",
+                "isFree": false,
+                "price": 25.9
+            },
+            "嗣汉天师府": {
+                "commentCount": 7,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f6ugd7tF49C.jpg",
+                "distanceStr": "距市中心108m",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/98278246.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "象鼻山": {
+                "commentCount": 35,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080y000000mcrmv3E0D.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/65425.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大地之母": {
+                "commentCount": 35,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r12000f6sfqjo6EB6.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/138126.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "竹桥古村": {
+                "commentCount": 17,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000nobmw48A0.jpg",
+                "distanceStr": "距龙虎山26.2km",
+                "detailUrl": "https://you.ctrip.com/sight/jinxi2405/4381352.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "无蚊村": {
+                "commentCount": 86,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A631200088hslvmD87E.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/16001.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙虎山-高空栈道": {
+                "commentCount": 19,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r12000c467ha3C95E.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/4335346.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷山国家公园": {
+                "commentCount": 9904,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k1200087dn6ma7C46.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/126481.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "龙虎山仙水岩": {
+                "commentCount": 24,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000f6tsxtn5B56.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1834610.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "兜率宫": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t12000aztd65dE537.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1675462.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "滕王阁": {
+                "commentCount": 17803,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqwviAF2C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/9075.html?scene=online",
+                "isFree": false,
+                "price": 44.5
+            },
+            "九曲溪竹筏漂流": {
+                "commentCount": 671,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p1700000137xwg843A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1407533.html?scene=online",
+                "isFree": false,
+                "price": 225.0
+            },
+            "灵山风景名胜区": {
+                "commentCount": 808,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z12000f6t3mr28971.jpg",
+                "distanceStr": "距龙虎山96.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/70711.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "龙虎山-十不得景点": {
+                "commentCount": 8,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000axjcsyb54E3.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/17825.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "崖墓": {
+                "commentCount": 63,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000b5v80lr3DB5.png",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/16000.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三清山风景区": {
+                "commentCount": 11674,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nsk5eBAA6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yushan1013/127445.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "仙岩": {
+                "commentCount": 23,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q1200099wufox3E9F.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1835086.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "景德镇古窑民俗博览区": {
+                "commentCount": 6612,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3312000bp27qi811B7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/61145.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "陶阳里历史文化旅游区": {
+                "commentCount": 2014,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7112000fam2hm3D366.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/127483.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "江西省博物馆(新馆)": {
+                "commentCount": 1088,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060z000000nm4tb24F1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/71124.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鄱阳湖国家湿地公园": {
+                "commentCount": 872,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x120008ij4nnhBCB7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/poyang2385/110160.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南昌之星摩天轮": {
+                "commentCount": 1659,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxbdbA68A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/119791.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "景德镇中国陶瓷博物馆": {
+                "commentCount": 569,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t120008132di5BA4D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/61150.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国道教博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000gbadtefFDB5.png",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/4572033.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南昌融创乐园": {
+                "commentCount": 7413,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01021120009gtuqw6A67D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/1836888.html?scene=online",
+                "isFree": false,
+                "price": 139.0
+            },
+            "南昌舰": {
+                "commentCount": 514,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z12000h4pwdw3A8DB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/2504992.html?scene=online",
+                "isFree": false,
+                "price": 42.0
+            },
+            "龙虎山博物馆": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s120008bwd7ks6208.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/105934519.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "仙岩悬棺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120008bwdz5e4C99.jpg",
+                "distanceStr": "距市中心108m",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/98278247.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南昌汉代海昏侯国遗址公园": {
+                "commentCount": 1306,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01046120008qj6lnfCFE6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/100097555.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "龙虎山国家级旅游风景区-三叠岩": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0n000000e2nim8FFD.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1675501.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "滕王阁游轮": {
+                "commentCount": 1000,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350u170000012w3xf0D04.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/1412299.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "陶溪川文创街区": {
+                "commentCount": 382,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104t120009bar3pn2CDB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/5072913.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "婺女洲度假区": {
+                "commentCount": 1814,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4212000c99m2ka4DC9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/133831507.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "八一起义纪念馆": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000f6tsrw19565.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/9055.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金湖": {
+                "commentCount": 1862,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4k12000dgs6ykz6842.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/taining2678/51061.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泰宁风景旅游区": {
+                "commentCount": 38,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt14j9846.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/taining2678/69542506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万寿宫历史文化街区": {
+                "commentCount": 58,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000f6qrh3oE297.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/5714996.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "婺源篁岭": {
+                "commentCount": 12819,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000h5l4k8cFEAD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/141512.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "婺源风景区": {
+                "commentCount": 4325,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120006c3pnxoA785.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/137726.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "九龙潭": {
+                "commentCount": 512,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0q000000glxb904DF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/taining2678/51113.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "景德镇御窑博物馆": {
+                "commentCount": 84,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6nylyd62A2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/5703493.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "仙水岩崖墓群": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104112000cf7t34n8274.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/4582380.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "廿八都古镇": {
+                "commentCount": 1193,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0612000dt4czng779F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/16771.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "飞云阁": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000c47zevn9B77.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1830542.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南昌汉代海昏侯国遗址博物馆": {
+                "commentCount": 242,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h1200098al0e1B844.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanchang175/111989165.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古越魔法世界": {
+                "commentCount": 9,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350m1c000001dccg6F9DE.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/5706007.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "地质馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000dk7zzxa3B78.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/4572036.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浮梁古县衙景区": {
+                "commentCount": 1274,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6t3wzcD73A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fuliang2420/61180.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "江郎山风景名胜区": {
+                "commentCount": 1929,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100210000000pi6bi02C1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/16223.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "庐山风景名胜区": {
+                "commentCount": 12305,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2x12000h5wr2zk968B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lushan2390/140585.html?scene=online",
+                "isFree": false,
+                "price": 160.0
+            },
+            "龙虎山-仙宠乐园": {
+                "commentCount": 14,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350c15000000xql8qC8D4.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/4976346.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "李坑景区": {
+                "commentCount": 1935,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f82zgfb9061.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17010.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "象鼻山-神斧开山,脸谱石": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101712000dv6zrvi8FB1.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1675496.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浴仙池": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000c467o2n0FD5.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1675497.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙虎山问道影院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102612000d2qd81gB624.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/80053299.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "飞升台": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000d2qfz6545F4.png",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1675480.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安义古村": {
+                "commentCount": 610,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1h000001hthyg56E0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/anyi2378/119888.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "龙虎山-蜡烛峰": {
+                "commentCount": 7,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104612000852rrc6A03B.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/1675463.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瑶里景区": {
+                "commentCount": 1649,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0q000000gc2q799A1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fuliang2420/137732.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "流坑古村": {
+                "commentCount": 131,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01006120009zn4lfw48DA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lean2414/1703527.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "江湾景区": {
+                "commentCount": 565,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h19wv6229.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/45228.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "桃花洲": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4x12000ehv3c6h043F.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/145403087.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "根宫佛国文化旅游区": {
+                "commentCount": 757,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y1200087dprbh6C73.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/kaihua1001/143278.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "石城": {
+                "commentCount": 147,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6prlajA9EB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/83876.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "玉华洞": {
+                "commentCount": 688,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350i1d000001ehqpn1BE0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jiangle143875/51074.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "庐山索道": {
+                "commentCount": 467,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000awt4tj42C90.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lushan2390/4330352.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "庐山西海主景区": {
+                "commentCount": 1666,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010071200087iv7mnD258.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yongxiu1848/96927.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "飞机之家龙虎山飞行基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000freccrrA4C8.png",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yingtan186/146124943.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宏村景区": {
+                "commentCount": 34057,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1k12000fjertwr7F8D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/140895.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "闽江源生态旅游区（金铙山风景区）": {
+                "commentCount": 340,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g1c000001cmg0hA291.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jianning2648/51083.html?scene=online",
+                "isFree": false,
+                "price": 137.0
+            },
+            "西递": {
+                "commentCount": 7952,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3g12000fjeu4k8A56D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/18052.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "齐云山景区": {
+                "commentCount": 3226,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2h12000dbbi1sj73C0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiuning2625/52735.html?scene=online",
+                "isFree": false,
+                "price": 57.0
+            }
+        }
+    }
+}

@@ -1,0 +1,780 @@
+{
+    "云南": {
+        "丽江": {
+            "玉龙雪山": {
+                "commentCount": 14081,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106s120009lagj5n461E.jpg",
+                "distanceStr": "距市中心31.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/3049.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泸沽湖": {
+                "commentCount": 8432,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqbm5EF3C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/4200.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "丽江千古情": {
+                "commentCount": 3991,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120008bg556z287C.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/1409369.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "丽江古城": {
+                "commentCount": 11389,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0m000000dfh4kDA7D.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/3056.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "玉龙雪山索道": {
+                "commentCount": 1173,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107312000f6tv5gzE40B.jpg",
+                "distanceStr": "距市中心27.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/128254.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "木府": {
+                "commentCount": 8364,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120008c4m8hw1A0C.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/12325.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "拉市海": {
+                "commentCount": 4417,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt1yqCA73.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/19738.html?scene=online",
+                "isFree": false,
+                "price": 29.0
+            },
+            "蓝月谷": {
+                "commentCount": 1230,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0u000000jfyq97C62.jpg",
+                "distanceStr": "距市中心30.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/109863.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "束河古镇": {
+                "commentCount": 2361,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j1200086v5yfb9A9B.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/17963.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丽江篝火体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000eq5ctiv4CF0.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=148480112",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江旅拍": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4d12000aaqi3rw938A.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=148485695",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江骑马": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs20p7FEE.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=148483146",
+                "isFree": false,
+                "price": ""
+            },
+            "白沙古镇": {
+                "commentCount": 290,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0g12000000sgbhw98D2.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/17965.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黑龙潭公园": {
+                "commentCount": 521,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080y000000lszn9167B.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/3057.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云杉坪索道": {
+                "commentCount": 132,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000nq2eo9C21.jpg",
+                "distanceStr": "距市中心30.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/132936.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "听花谷-丽江百花园": {
+                "commentCount": 127,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000h4dyj21DCF6.jpg",
+                "distanceStr": "距市中心9.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5713894.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "云杉坪": {
+                "commentCount": 179,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h13000000twch6065A.jpg",
+                "distanceStr": "距市中心31.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/12467.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "狮子山": {
+                "commentCount": 773,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n11000000q85as760A.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/128246.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉市海茶马古道": {
+                "commentCount": 836,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs20p7FEE.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/2499647.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "冰川公园": {
+                "commentCount": 219,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u10000000p3aii5327.jpg",
+                "distanceStr": "距市中心27.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/128202.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "万古楼": {
+                "commentCount": 804,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o12000f6pqe8dC027.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/17960.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "泸沽湖格姆女神山索道": {
+                "commentCount": 106,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p1200098dgp7tAC86.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/5066888.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉市海湿地公园": {
+                "commentCount": 253,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3509160000010fan4A837.jpg",
+                "distanceStr": "距市中心8.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5589377.html?scene=online",
+                "isFree": false,
+                "price": 29.0
+            },
+            "丽江国际民族文化交流中心": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6rictpA248.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/2057386.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪嵩村(玉湖村)": {
+                "commentCount": 64,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000mks883FB3.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/144852.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "牦牛坪": {
+                "commentCount": 99,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000falcggmC594.jpg",
+                "distanceStr": "距市中心34.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/132938.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "四方街": {
+                "commentCount": 970,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r1200086v8z40F7E7.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/60935.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "荒野之国": {
+                "commentCount": 9,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000az98s7e9F1C.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/133820887.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉市海湿地.候鸟湾": {
+                "commentCount": 124,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000914dz7x6D5A.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/112647685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "甘海子": {
+                "commentCount": 127,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l12000g2old43E370.jpg",
+                "distanceStr": "距市中心26.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/3050.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白水河": {
+                "commentCount": 101,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M08/2E/58/Cghzf1W2LAqAUbYdAAiPzrNX4h4306.jpg",
+                "distanceStr": "距市中心30.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/44854.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大水车": {
+                "commentCount": 496,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v10000000p8w5tEB0A.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/60937.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "玉龙骑马": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103212000epvkhn8EEF9.jpg",
+                "distanceStr": "丽江",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/0.html?poiId=148478023",
+                "isFree": false,
+                "price": ""
+            },
+            "格姆女神山": {
+                "commentCount": 352,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1b000001adgpp5F94.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/4201.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东巴谷": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000g2f1gfaCD28.jpg",
+                "distanceStr": "距市中心17.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/140842323.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "文海": {
+                "commentCount": 50,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0z000000nbted77DE.jpg",
+                "distanceStr": "距市中心14.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/109779.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观音峡": {
+                "commentCount": 406,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0612000fouj2fcAD82.jpg",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/110278.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江观鸟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350d160000010beugEB8B.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=149275370",
+                "isFree": false,
+                "price": ""
+            },
+            "拉市海骑马": {
+                "commentCount": 359,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b12000f6t9y57CC49.jpg",
+                "distanceStr": "距市中心7.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/2478975.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泸沽湖风景区-观景台": {
+                "commentCount": 449,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01022120008and0tvBA3A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/63745.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大落水村": {
+                "commentCount": 210,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4612000bvs1wokA3E5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/63769.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "里务比岛": {
+                "commentCount": 155,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f12000f6rcxzb6BE6.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/63746.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老君山黎明黎光丹霞地貌景区": {
+                "commentCount": 83,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1h12000bmomypb0256.jpg",
+                "distanceStr": "距市中心57.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/138181.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "古城忠义市场": {
+                "commentCount": 150,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000nca7r6639.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/147093.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓝月湖": {
+                "commentCount": 101,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp3vkE5DB.jpg",
+                "distanceStr": "距市中心30.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/1477328.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "冰川公园大索道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103012000f1rach00624.jpg",
+                "distanceStr": "距市中心31.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/98276833.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉龙划船": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000nj2onCD9D.jpg",
+                "distanceStr": "丽江",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/0.html?poiId=148480143",
+                "isFree": false,
+                "price": ""
+            },
+            "里格岛": {
+                "commentCount": 378,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1b0000019x43y952E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/63750.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "虎跳峡(香格里拉段)": {
+                "commentCount": 3826,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a120007u6uxdt7118.jpg",
+                "distanceStr": "距丽江38.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrila106/12236.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "大研纳西古乐会": {
+                "commentCount": 179,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0e12000bzfvg9x48A1.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/132950.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "【丽江】大落水锅庄篝火晚会": {
+                "commentCount": 75,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120000h9ruzrCC6A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/2483095.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉龙藏服体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4q12000bjsjpvbEA6D.jpg",
+                "distanceStr": "丽江",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/0.html?poiId=148473909",
+                "isFree": false,
+                "price": ""
+            },
+            "泸沽湖环湖游": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0212000fjtpd6h534A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/145612708.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东巴探险中心": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010411200093cxehcD44E.jpg",
+                "distanceStr": "距市中心19.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5710867.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "摩梭之家": {
+                "commentCount": 22,
+                "commentScore": 3.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01050120008c4w9lt7A50.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/1487412.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金沙江观景台": {
+                "commentCount": 10,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A16120008b7wurx9057.jpg",
+                "distanceStr": "距市中心26.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/69546103.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "玉水寨": {
+                "commentCount": 141,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gor1071A1.jpg",
+                "distanceStr": "距市中心16.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/44836.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉龙观鸟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350d160000010beugEB8B.jpg",
+                "distanceStr": "丽江",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/0.html?poiId=148480137",
+                "isFree": false,
+                "price": ""
+            },
+            "猪槽船游湖（里格码头）": {
+                "commentCount": 27,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010251200086usyq4445E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/2483922.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江纳西文化体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000g2f1gfaCD28.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=149275376",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江直升机空中游览基地": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1h000001hl01aD0DE.jpg",
+                "distanceStr": "距市中心12.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5709235.html?scene=online",
+                "isFree": false,
+                "price": 954.0
+            },
+            "玉龙雪山日照金山露营地": {
+                "commentCount": 10,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000as1rxb72C2A.jpg",
+                "distanceStr": "距市中心30.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/136427501.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丽江古城酒吧街": {
+                "commentCount": 59,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0u000000jglurE482.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/4571569.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "花海": {
+                "commentCount": 12,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200080y4kpa7EC0.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/3496751.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白沙壁画": {
+                "commentCount": 57,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000f6pwxjxCA5D.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/3052.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "牦牛坪索道": {
+                "commentCount": 4,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q120009hzq01r7BF2.jpg",
+                "distanceStr": "距市中心34.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/69342486.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉龙雪山4680米石碑": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102512000ci6y82u8770.jpg",
+                "distanceStr": "距市中心27.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/140771830.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丽宁十八弯观景台": {
+                "commentCount": 34,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w12000axk8esx05FC.jpg",
+                "distanceStr": "距市中心41.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/128189.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "猪槽船游湖（大落水码头）": {
+                "commentCount": 58,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120005otbog39070.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/2483271.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪山玫瑰庄园": {
+                "commentCount": 98,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq8jdB52E.jpg",
+                "distanceStr": "距市中心8.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/2116746.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九鼎龙潭": {
+                "commentCount": 136,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6pxcqbBC10.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/133440.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大研花巷": {
+                "commentCount": 46,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx7e28980.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/4325341.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "里格观景台": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000amjdplnAE65.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/136057584.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丽江大索道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6s108rF891.png",
+                "distanceStr": "距市中心26.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/70351389.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老君山景区": {
+                "commentCount": 39,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqhc10766.jpg",
+                "distanceStr": "距市中心58.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/3059.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙女湖": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000f6qrfa25511.jpg",
+                "distanceStr": "距市中心18.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5709553.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "清溪水库": {
+                "commentCount": 80,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A061c000001ddeuo5306.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/128180.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "玉柱擎天风景区": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0k15000000xy6tl4512.jpg",
+                "distanceStr": "距市中心17.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/21966.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "云端彼岸马场": {
+                "commentCount": 44,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070g0000007tpzg34B2.jpg",
+                "distanceStr": "距市中心11.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/1840856.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江雪山小镇": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6ugsoc8E62.jpg",
+                "distanceStr": "距市中心7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/121822747.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宝山石头城": {
+                "commentCount": 40,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqgmb033F.jpg",
+                "distanceStr": "距市中心71.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/12324.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "里格篝火晚会": {
+                "commentCount": 8,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s12000f6u179yB267.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/2484278.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白水台": {
+                "commentCount": 258,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000f6qjwt7BB09.jpg",
+                "distanceStr": "距丽江73.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrila106/4204.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "七一街": {
+                "commentCount": 96,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000at7xf3jCB4E.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/1991157.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "普达措国家公园": {
+                "commentCount": 6113,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010341200089z97r613F9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shangrila106/56571.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "丽江古城狮子山观景台": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01038120008c4wh5m5012.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/69345450.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

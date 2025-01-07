@@ -1,0 +1,807 @@
+{
+    "青海": {
+        "西宁": {
+            "塔尔寺": {
+                "commentCount": 14715,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e120007zf4uth8064.jpg",
+                "distanceStr": "距市中心23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/9794.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "青海藏文化博物院": {
+                "commentCount": 4867,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w120008vuputr4964.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/136209.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "日月山": {
+                "commentCount": 880,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000f6t348wECD2.jpg",
+                "distanceStr": "距市中心64.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/9809.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "西宁野生动物园": {
+                "commentCount": 1781,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1x12000az0ovuy4388.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/70428.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "青藏高原自然博物馆": {
+                "commentCount": 468,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120009e2lvbx7A93.jpg",
+                "distanceStr": "距市中心8.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/136219.html?scene=online",
+                "isFree": false,
+                "price": 53.0
+            },
+            "西宁电视塔": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000f2alqgx012C.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/144204143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "高原明珠": {
+                "commentCount": 276,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001guhr8D57B.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121097.html?scene=online",
+                "isFree": false,
+                "price": 22.0
+            },
+            "青海省博物馆": {
+                "commentCount": 445,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000h4yzbcwED79.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/136221.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁新华联童梦乐园": {
+                "commentCount": 3415,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k170000011i7kz7FDC.jpg",
+                "distanceStr": "距市中心18.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5600347.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "西宁市东关清真大寺": {
+                "commentCount": 837,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100712000et8lvs64518.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/9808.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宗喀拉则": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000f6s2hdnA584.jpg",
+                "distanceStr": "距西宁41.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guide2636/130369226.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "“丝路梦享号”旅游列车": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g12000et1kf0iB322.jpg",
+                "distanceStr": "青海",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/0.html?poiId=148472283",
+                "isFree": false,
+                "price": ""
+            },
+            "土楼观-北禅寺": {
+                "commentCount": 102,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0c10000000pm9yu0F52.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/10955.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "沐里沐外温泉": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r12000d9p26ux439E.jpg",
+                "distanceStr": "距市中心208m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/144305566.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莫家街": {
+                "commentCount": 248,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh1w12000blx9ozn1BAD.jpg",
+                "distanceStr": "距市中心676m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/134716.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丹噶尔古城": {
+                "commentCount": 114,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0n10000000ph0mn1B32.jpg",
+                "distanceStr": "距市中心46.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/110238.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南关清真寺": {
+                "commentCount": 77,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000f6rcpe4754F.png",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121069.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁市人民公园": {
+                "commentCount": 236,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1b000001ayl4r2B95.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/10962.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁市文庙": {
+                "commentCount": 75,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp2pj9B49.jpg",
+                "distanceStr": "距市中心935m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121072.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁熊猫馆": {
+                "commentCount": 18,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000awx56sl71ED.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/112649256.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西宁市力盟步行街-文化旅游区": {
+                "commentCount": 91,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000f6tefu5F380.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5125349.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁夏都博汇温泉水乐园": {
+                "commentCount": 87,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350f1f000001gj9ev0086.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5620377.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "西宁绿道": {
+                "commentCount": 28,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x12000bbmln8n4DE9.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5363450.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "塔尔寺大金瓦殿": {
+                "commentCount": 98,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gr0ctA505.jpg",
+                "distanceStr": "距市中心23.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1703699.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西宁野生动物园海洋馆": {
+                "commentCount": 16,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000f6u0nt34FA9.png",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/2476572.html?scene=online",
+                "isFree": false,
+                "price": 46.9
+            },
+            "青海藏文化馆": {
+                "commentCount": 89,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104112000f6qke4fC912.jpg",
+                "distanceStr": "距市中心22.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/134225.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南山公园": {
+                "commentCount": 42,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01016120009dmx7feB947.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/10958.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁市园林植物园": {
+                "commentCount": 59,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000b05q5th54C3.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/50172.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "塔尔寺-八宝如意塔": {
+                "commentCount": 133,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gor0cD7D9.jpg",
+                "distanceStr": "距市中心23.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1703731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "河湟文化夜市": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3x12000bwaqyev966E.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/133821034.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "唐蕃古道": {
+                "commentCount": 14,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5z1200094xn36122C8.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/4478976.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑泉水库": {
+                "commentCount": 78,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000653vilfC64E.jpg",
+                "distanceStr": "距市中心73.4km",
+                "detailUrl": "https://you.ctrip.com/sight/datong1446304/121289.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "塔尔寺游客服务中心": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh4u12000bkm3bq1420B.jpg",
+                "distanceStr": "距市中心23.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/69101423.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉脊山口": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6qramjD888.jpg",
+                "distanceStr": "距西宁41.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guide2636/130886691.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "马步芳公馆": {
+                "commentCount": 128,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000f6sdyoj4895.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/67787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天然大佛": {
+                "commentCount": 10,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1c000001dsiavACA3.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/10987.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拱辰门": {
+                "commentCount": 37,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101912000f6qwm5y3917.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121076.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西宁市博物馆": {
+                "commentCount": 6,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000av5ewhz07FF.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5069327.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金塔寺": {
+                "commentCount": 43,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gss6j589B.jpg",
+                "distanceStr": "距市中心499m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121153.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南禅寺": {
+                "commentCount": 60,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105212000f6qbls472CE.jpg",
+                "distanceStr": "距市中心794m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/136216.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "八瓣莲花非物质文化遗产传承体验中心": {
+                "commentCount": 34,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100a12000f6r0eol7F19.jpg",
+                "distanceStr": "距市中心22.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1840753.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海湖": {
+                "commentCount": 5291,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M00/88/41/CghzgFWwsiCAM7ytACpuK_dK2_I414.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/gonghe2644/11709.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青藏高原野生动物园-大型珍稀动物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0g12000dxy2755D7F3.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/145250465.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中心广场": {
+                "commentCount": 111,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01072120009dnqb8w8B3D.jpg",
+                "distanceStr": "距市中心740m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1835504.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "酥油花馆": {
+                "commentCount": 28,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4112000edjbxou6D2A.jpg",
+                "distanceStr": "距市中心24.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/2631692.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海湖二郎剑景区": {
+                "commentCount": 4618,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M01/7B/D2/CghzfFWwvD2AM7vYAAmtQ_jtNxM444.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/gonghe2644/50229.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "明长城遗址公园": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t1200092lq5v9B8B3.jpg",
+                "distanceStr": "距市中心35.1km",
+                "detailUrl": "https://you.ctrip.com/sight/datong1446304/121252.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "昆仑玉文化博物馆": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j12000bsbs3d4C9CD.jpg",
+                "distanceStr": "距市中心7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/3183120.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大黑沟森林公园": {
+                "commentCount": 5,
+                "commentScore": 2.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i120009e43y0e5D7E.jpg",
+                "distanceStr": "距市中心36.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/69331355.html?scene=online",
+                "isFree": false,
+                "price": 29.0
+            },
+            "西宁小峡": {
+                "commentCount": 12,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000f6qme6o82D3.jpg",
+                "distanceStr": "距市中心12.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1703718.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宗喀大慈宏觉寺": {
+                "commentCount": 7,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120008qbye18D855.jpg",
+                "distanceStr": "距市中心567m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5709871.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宗家沟文化旅游景区": {
+                "commentCount": 30,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m14000000wbu5c5BBE.jpg",
+                "distanceStr": "距市中心53.4km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/5355380.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贵德国家地质公园阿什贡七彩峰丛景区": {
+                "commentCount": 685,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000f6rdhblB693.jpg",
+                "distanceStr": "距西宁55.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guide2636/129857.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柴达木公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0v000000k4gos421E.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/4594276.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海美术馆": {
+                "commentCount": 8,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v120009d0mz5d488D.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/4155249.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老爷山": {
+                "commentCount": 75,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c120008hyegdx3A0B.jpg",
+                "distanceStr": "距市中心35.8km",
+                "detailUrl": "https://you.ctrip.com/sight/datong1446304/9807.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昆仑圣都扎麻隆凤凰山": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6ugi7fDEC7.png",
+                "distanceStr": "距市中心30.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/69328411.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海高原": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000f6pybrdDE45.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/4476732.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉脊山": {
+                "commentCount": 90,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M01/C8/68/CghzflWwvEKAYF59AA_LYswrikw942.jpg",
+                "distanceStr": "距西宁38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guide2636/146911.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青海省自然资源博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103r120009shk11lA222.png",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/4598315.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北川河湿地公园": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o12000aswas5l078A.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/134025681.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大佛寺": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o1200065bxfrt16DC.jpg",
+                "distanceStr": "距市中心536m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5138158.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "门源百里油菜花海": {
+                "commentCount": 697,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101712000f6t3q1y6992.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/menyuan1446317/45458.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "溶洞温泉": {
+                "commentCount": 6,
+                "commentScore": 2.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w12000f6pwf1w7DC2.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5701514.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "坎布拉国家森林公园": {
+                "commentCount": 387,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxen403B6.jpg",
+                "distanceStr": "距西宁56.2km",
+                "detailUrl": "https://you.ctrip.com/sight/jainca1446320/11723.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "群加国家级森林公园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A1n12000a3q4gqa4D37.jpg",
+                "distanceStr": "距市中心39.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/4477024.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丝路风情街": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a12000d39cj4l4EC2.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/126180923.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海省西宁市园林文化街步行街": {
+                "commentCount": 7,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000bj2trneDF4B.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5170551.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海省科学技术馆": {
+                "commentCount": 97,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwd7t3F07.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121103.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九天玄女祖宫": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t120009edg08454CD.jpg",
+                "distanceStr": "距市中心30.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/64673519.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青海大学": {
+                "commentCount": 33,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000f6sniz45DCC.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1833077.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赞普林卡": {
+                "commentCount": 34,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h19r1BE7C.jpg",
+                "distanceStr": "距市中心46.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/134898.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "彩绘大观厅": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5h12000ca6woag1294.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5608384.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "互助土族故土园景区": {
+                "commentCount": 179,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000811pgtp8165.jpg",
+                "distanceStr": "距西宁27.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhu2637/9820.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "边麻沟花海": {
+                "commentCount": 37,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n160000010m3q12BE7.jpg",
+                "distanceStr": "距市中心39.5km",
+                "detailUrl": "https://you.ctrip.com/sight/datong1446304/4594616.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉带桥清真寺": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000bncaj5q5BA9.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121063.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大经堂": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d120008dermnwE361.jpg",
+                "distanceStr": "距市中心23.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5069454.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西宁中国工农红军西路军纪念馆": {
+                "commentCount": 3,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k12000f6spa5h9397.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/2631958.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石榴籽园": {
+                "commentCount": 7,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106s12000a4oqa3kA7C7.png",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/5630391.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青海省民俗博物馆": {
+                "commentCount": 13,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000cmlmlrj34B4.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121125.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鹞子沟风景区": {
+                "commentCount": 18,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n12000f6prnvl76F2.jpg",
+                "distanceStr": "距市中心47.5km",
+                "detailUrl": "https://you.ctrip.com/sight/datong1446304/121246.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青唐城遗址": {
+                "commentCount": 40,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000b623cihE1AC.jpg",
+                "distanceStr": "距市中心758m",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121061.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西宁北山公园": {
+                "commentCount": 15,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gr0t4147E.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/9822.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海公园": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000f6qc4p7DFE7.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/144761.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湟源峡": {
+                "commentCount": 17,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01008120009ddftbi7DF2.jpg",
+                "distanceStr": "距市中心40.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/50182.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "日月山-文成公主纪念馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3712000eyfqiu9DB67.jpg",
+                "distanceStr": "距市中心64.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huangyuan2643/143743835.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乡趣卡阳景区": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01047120009kjj3ujC026.jpg",
+                "distanceStr": "距市中心38.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/134063955.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "班禅行宫": {
+                "commentCount": 43,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5q12000bkneepc4D40.jpg",
+                "distanceStr": "距市中心23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/1713838.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北关清真寺": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh1m12000bndechyA7C8.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xining237/121152.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,807 @@
+{
+    "河北": {
+        "石家庄": {
+            "隆兴寺": {
+                "commentCount": 2840,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y120005wbjji2F3EE.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/9505.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "正定古城": {
+                "commentCount": 180,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d120008jzkp6nEF8B.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/5717627.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙泉古镇·戏剧幻城": {
+                "commentCount": 650,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000a3kv4srB9DD.jpg",
+                "distanceStr": "距市中心15.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/5717492.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "河北博物院": {
+                "commentCount": 936,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6pr4grD632.jpg",
+                "distanceStr": "距市中心712m",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1469082.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正定荣国府": {
+                "commentCount": 912,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v120005w3byqh5E93.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/1833233.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "荣国府与宁荣街": {
+                "commentCount": 1140,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0u12000000ri86b3A4A.jpg",
+                "distanceStr": "距市中心13.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/9646.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "抱犊寨": {
+                "commentCount": 1098,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h120008jlfbzaA552.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/9524.html?scene=online",
+                "isFree": false,
+                "price": 37.0
+            },
+            "赵州桥": {
+                "commentCount": 1603,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090z000000njqya4320.jpg",
+                "distanceStr": "距市中心42.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaocounty2578/9493.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赵云庙": {
+                "commentCount": 358,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01009120009hzqu2j5111.jpg",
+                "distanceStr": "距市中心13.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/9698.html?scene=online",
+                "isFree": false,
+                "price": 19.68
+            },
+            "石家庄市动物园": {
+                "commentCount": 2981,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0r000000hfbx451C2.jpg",
+                "distanceStr": "距市中心18.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1409077.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "白鹿温泉": {
+                "commentCount": 977,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t120008b50esvF62A.jpg",
+                "distanceStr": "距市中心52.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/136292.html?scene=online",
+                "isFree": false,
+                "price": 159.0
+            },
+            "苍岩山风景区": {
+                "commentCount": 409,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0n000000e75jzDB35.jpg",
+                "distanceStr": "距市中心38.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/9494.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "西柏坡景区": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010561200087dmpeyF340.jpg",
+                "distanceStr": "距市中心60.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/1962032.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漫山花溪谷": {
+                "commentCount": 1161,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o170000010s6j92E6F.jpg",
+                "distanceStr": "距市中心91.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lingshou1446047/1974228.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石家庄海洋公园": {
+                "commentCount": 1021,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4r12000deiz12j9090.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1920960.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "嶂石岩": {
+                "commentCount": 201,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gprgj842C.jpg",
+                "distanceStr": "距市中心66.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zanhuang2572/9502.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "石家庄骑马": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5k12000cqlbv1m1E58.png",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/0.html?poiId=148485612",
+                "isFree": false,
+                "price": ""
+            },
+            "沕沕水生态风景区": {
+                "commentCount": 417,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01059120008j0mtb372C6.jpg",
+                "distanceStr": "距市中心69.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/136424.html?scene=online",
+                "isFree": false,
+                "price": 59.0
+            },
+            "清风峡风景区": {
+                "commentCount": 30,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gznp1D64C.jpg",
+                "distanceStr": "距市中心64.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/5100524.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "石家庄市毗卢寺博物院": {
+                "commentCount": 44,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1f12000fse105hA154.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/17856.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "西部长青": {
+                "commentCount": 71,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0o1b000001ao5c8FF3D.jpg",
+                "distanceStr": "距市中心19.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1702432.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "德明古镇": {
+                "commentCount": 60,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01028120005w2toz667FA.jpg",
+                "distanceStr": "距市中心20.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/5602423.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正定古城墙": {
+                "commentCount": 238,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1800000148jxw700D.jpg",
+                "distanceStr": "距市中心13.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/134647.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "河北省地质博物馆": {
+                "commentCount": 58,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000c2t16bj14A3.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/5536343.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西部长青滑雪场": {
+                "commentCount": 105,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h707dD933.jpg",
+                "distanceStr": "距市中心19.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1508227.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石家庄植物园": {
+                "commentCount": 409,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx4cjE734.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/113475.html?scene=online",
+                "isFree": false,
+                "price": 5.0
+            },
+            "【石家庄】石家庄滹沱跨年音乐节摇滚音乐party": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m12000h0vi5sd524D.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/149616657.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广惠寺华塔": {
+                "commentCount": 207,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o120009heeufg8C86.jpg",
+                "distanceStr": "距市中心11.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/9649.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石家庄泡温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1t12000chcd26686F0.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/0.html?poiId=148898483",
+                "isFree": false,
+                "price": ""
+            },
+            "石家庄极地海洋世界": {
+                "commentCount": 267,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g1200097lnikg8A12.jpg",
+                "distanceStr": "距市中心18.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1789102.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "开元寺": {
+                "commentCount": 33,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000fp8bf08D1D0.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/5713823.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天山海世界": {
+                "commentCount": 766,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030u000000j99st36D6.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/69561.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇古道滑雪场": {
+                "commentCount": 124,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grv5m5288.jpg",
+                "distanceStr": "距市中心29.4km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/1407685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄金寨原生态旅游区": {
+                "commentCount": 1316,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2e12000c3alobw07F9.jpg",
+                "distanceStr": "距市中心57.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/142179.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辛玛王国游乐园": {
+                "commentCount": 367,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6qwybr83AB.jpg",
+                "distanceStr": "距市中心18.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1408984.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敬业旅游度假区": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0c12000dolhtt68A52.png",
+                "distanceStr": "距市中心58.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/145094376.html?scene=online",
+                "isFree": false,
+                "price": 56.0
+            },
+            "天桂山风景区": {
+                "commentCount": 373,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h1a7fF03B.jpg",
+                "distanceStr": "距市中心71.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/9647.html?scene=online",
+                "isFree": false,
+                "price": 39.9
+            },
+            "石家庄露营": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n120009kp80j2A4CB.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/0.html?poiId=148928559",
+                "isFree": false,
+                "price": ""
+            },
+            "水上公园": {
+                "commentCount": 363,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01012120008jzmbnw4F6D.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/113476.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【石家庄】理查德·克莱德曼2025《爱·永恒》新年钢琴音乐会": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z12000e0voeiy10BF.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/146187273.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "驼梁风景区": {
+                "commentCount": 402,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6ycd0D92.jpg",
+                "distanceStr": "距市中心97.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/9694.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天宁寺": {
+                "commentCount": 42,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp57x1E2B.jpg",
+                "distanceStr": "距市中心12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/5068056.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西部长青温泉谷": {
+                "commentCount": 77,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gor5e2563.jpg",
+                "distanceStr": "距市中心19.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/5656358.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "正定博物馆": {
+                "commentCount": 13,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c12000f6r61530019.jpg",
+                "distanceStr": "距市中心12.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/5701635.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "威尼斯水世界": {
+                "commentCount": 68,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r120009njgnddA840.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1981545.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【石家庄】《小北指南》主打秀｜小北、小佳、良言": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000givpbr5B825.png",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/149557658.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红崖谷景区": {
+                "commentCount": 11,
+                "commentScore": 2.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000f6ui0ls7AA9.jpg",
+                "distanceStr": "距市中心52.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/133987710.html?scene=online",
+                "isFree": false,
+                "price": 39.9
+            },
+            "于家石头村": {
+                "commentCount": 35,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350s1f000001gvmy58FEB.png",
+                "distanceStr": "距市中心43.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/70348994.html?scene=online",
+                "isFree": false,
+                "price": 34.0
+            },
+            "西柏坡纪念馆": {
+                "commentCount": 84,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010611200087crtoh224A.jpg",
+                "distanceStr": "距市中心59.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/1675436.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "柏林禅寺": {
+                "commentCount": 705,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000bbdf58q6BC1.jpg",
+                "distanceStr": "距市中心40.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaocounty2578/17870.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "裕华万达火车头步行街": {
+                "commentCount": 34,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000f6tivrj97AA.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/5712958.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "临济寺": {
+                "commentCount": 45,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080w000000k61yyF3B4.jpg",
+                "distanceStr": "距市中心11.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/1675429.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "河北园博园": {
+                "commentCount": 622,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n0w000000kauw1A145.jpg",
+                "distanceStr": "距市中心14.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/140369.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桥楼殿": {
+                "commentCount": 17,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01065120008h3rnrw8119.jpg",
+                "distanceStr": "距市中心40.3km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/9496.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "解放广场": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6qhaz95BFC.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/134030672.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【石家庄】大力专场《孤光》 脱口秀": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k12000g699oduCB8C.png",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/149284835.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳和楼": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f12000f6tdpc46D96.jpg",
+                "distanceStr": "距市中心11.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/5073029.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石家庄赏红叶": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000f54n1m6755C.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/0.html?poiId=148849030",
+                "isFree": false,
+                "price": ""
+            },
+            "大浪淘沙": {
+                "commentCount": 43,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0u000000j2wfzE8AB.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/2324127.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "五岳寨风景区": {
+                "commentCount": 258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6ycd0D92.jpg",
+                "distanceStr": "距市中心94.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lingshou1446047/9499.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "正定冰雪嘉年华": {
+                "commentCount": 51,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106o12000f6tbk7lE042.jpg",
+                "distanceStr": "距市中心10.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/4281365.html?scene=online",
+                "isFree": false,
+                "price": 25.8
+            },
+            "【石家庄】脱口秀大会上的迪丽热巴《吐提古丽热杰主打秀》脱口秀全明星": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000cs7t75wD751.png",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/143360943.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石家庄1947": {
+                "commentCount": 9,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5y12000enykde78089.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/148474182.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "无极山滑雪场": {
+                "commentCount": 44,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r12000a65b3xn52F2.jpg",
+                "distanceStr": "距市中心33.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yuanshi2561/4283375.html?scene=online",
+                "isFree": false,
+                "price": 59.9
+            },
+            "西柏坡中共中央旧址": {
+                "commentCount": 304,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q1200087e4c40DBC6.jpg",
+                "distanceStr": "距市中心60.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/9648.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天鹅湖洗浴": {
+                "commentCount": 40,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090u000000j14op1FEA.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/2370361.html?scene=online",
+                "isFree": false,
+                "price": 56.0
+            },
+            "段家楼沉浸乐园": {
+                "commentCount": 18,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6ug57p7711.jpg",
+                "distanceStr": "距市中心42.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/69559143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五台山": {
+                "commentCount": 6978,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050z000000mn3y33A14.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wutai1446115/138392.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "临济寺澄灵塔": {
+                "commentCount": 70,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n18000001452or59D3.jpg",
+                "distanceStr": "距市中心11.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/9699.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正定县文庙": {
+                "commentCount": 41,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w120009heexyd5587.jpg",
+                "distanceStr": "距市中心12.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/9702.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "滹沱河": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6teqxq8D54.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/5140781.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石家庄市博物馆": {
+                "commentCount": 84,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000f6po5l034DA.jpg",
+                "distanceStr": "距市中心441m",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/17850.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "土门关驿道小镇": {
+                "commentCount": 43,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grk58DC2A.jpg",
+                "distanceStr": "距市中心20.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/4331372.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "娘子关景区": {
+                "commentCount": 325,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01061120009ymmvdeBBA7.jpg",
+                "distanceStr": "距石家庄55.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingding2057/52371.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "Yes石家庄（夜肆石家庄）": {
+                "commentCount": 58,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i12000f6q8jm76B13.jpg",
+                "distanceStr": "距市中心17.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/133980413.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "河北省科学技术馆": {
+                "commentCount": 86,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f6twne09E42.jpg",
+                "distanceStr": "距市中心889m",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/1675716.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天空之城游乐园(石家庄店)": {
+                "commentCount": 12,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103e120008s7j01dCB25.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/5553359.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "王母山": {
+                "commentCount": 142,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4v12000c3apxwh97B4.jpg",
+                "distanceStr": "距市中心62.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/1473795.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广惠寺": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh4012000gdvag51801B.jpg",
+                "distanceStr": "距市中心11.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/144101188.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "清凉山": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u120008e2dz827301.jpg",
+                "distanceStr": "距市中心43.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/17860.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "缥缈间温泉": {
+                "commentCount": 47,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gugipD060.jpg",
+                "distanceStr": "距市中心45.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/5050342.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "国御温泉": {
+                "commentCount": 311,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grloqDBCA.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/136332.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "锦山自然生态风景区": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6qd4uxE091.jpg",
+                "distanceStr": "距市中心49.4km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/1714548.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "璧山景区": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2r12000bac193oED75.jpg",
+                "distanceStr": "距市中心47.6km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/139484114.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "大悲阁": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d120008bwe9xe6EBF.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhengding2581/98279790.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大梁江古村落": {
+                "commentCount": 10,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp3rq315B.jpg",
+                "distanceStr": "距市中心49.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jingxingcounty2532/5099491.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北国水世界": {
+                "commentCount": 105,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350c1600000106ztoC3DD.jpg",
+                "distanceStr": "距市中心14.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shijiazhuang199/4745349.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柏坡温泉": {
+                "commentCount": 73,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxc6kA274.jpg",
+                "distanceStr": "距市中心52.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/1952817.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "黑山大峡谷": {
+                "commentCount": 85,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0s170000010xr298650.jpg",
+                "distanceStr": "距市中心98.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingshan1139/136333.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

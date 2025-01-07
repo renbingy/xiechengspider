@@ -1,0 +1,807 @@
+{
+    "贵州": {
+        "镇远古城": {
+            "青龙洞": {
+                "commentCount": 1234,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000nh0n59AAF.jpg",
+                "distanceStr": "距镇远古城883m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/109914.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "镇远古城": {
+                "commentCount": 1508,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000f3rikt67961.jpg",
+                "distanceStr": "距市中心579m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1410722.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远石屏山": {
+                "commentCount": 359,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f120008g2lsqq3FE3.jpg",
+                "distanceStr": "距市中心638m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/128685.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "西江千户苗寨": {
+                "commentCount": 19051,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070y000000mnnzt581E.jpg",
+                "distanceStr": "距镇远古城66.6km",
+                "detailUrl": "https://you.ctrip.com/sight/leishan2345/44302.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "镇远古城水上游": {
+                "commentCount": 132,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100916000000z01s28DAE.jpg",
+                "distanceStr": "距市中心419m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/70482.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "㵲阳河风景名胜区": {
+                "commentCount": 636,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j120008i679dxCBEB.jpg",
+                "distanceStr": "距镇远古城10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/17215.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "高过河漂流": {
+                "commentCount": 421,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6f12000bafksgl0AFC.jpg",
+                "distanceStr": "距镇远古城25.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702461.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贵州高过河风景名胜区": {
+                "commentCount": 141,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0q000000gco2kAA5F.jpg",
+                "distanceStr": "距镇远古城26.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/128693.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "祝圣桥": {
+                "commentCount": 209,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m12000f6q53425ACD.jpg",
+                "distanceStr": "距市中心747m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/128737.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "剑河仰阿莎温泉小镇": {
+                "commentCount": 506,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o120008bfnmhaA10C.jpg",
+                "distanceStr": "距镇远古城32.4km",
+                "detailUrl": "https://you.ctrip.com/sight/jianhe120446/2515424.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "镇远古镇-四方井巷": {
+                "commentCount": 29,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000a5y71k4D9BD.jpg",
+                "distanceStr": "距市中心400m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4704341.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梵净山": {
+                "commentCount": 11189,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0k1d000001ep6lw0E31.jpg",
+                "distanceStr": "距镇远古城99.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jiangkou2334/21690.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "古巷道": {
+                "commentCount": 52,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000asac1ce2ACD.jpg",
+                "distanceStr": "距市中心526m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/135161.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杉木河": {
+                "commentCount": 18,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000f6ucpuwEC20.jpg",
+                "distanceStr": "距镇远古城36.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shibing2352/5142806.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杉木河漂流": {
+                "commentCount": 319,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0z000000nrqnbBF86.jpg",
+                "distanceStr": "距镇远古城36.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shibing2352/134456.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石阡佛顶山温泉小镇": {
+                "commentCount": 264,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4v12000bcb5hsr55B3.jpg",
+                "distanceStr": "距镇远古城50.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shiqian2351/5100505.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "铁溪自然风景区": {
+                "commentCount": 291,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040w000000k4patDDF6.jpg",
+                "distanceStr": "距镇远古城3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/135160.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "云台山": {
+                "commentCount": 99,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01072120008amduwu71AD.jpg",
+                "distanceStr": "距镇远古城31.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shibing2352/134457.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "新大桥": {
+                "commentCount": 17,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w120009hfae738C81.jpg",
+                "distanceStr": "距市中心111m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4694349.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远府城垣": {
+                "commentCount": 46,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105412000bbuis3569F9.jpg",
+                "distanceStr": "距市中心568m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/128689.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉屏山": {
+                "commentCount": 30,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y120009dbhdf82D40.jpg",
+                "distanceStr": "距市中心568m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1713389.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "傅家大院": {
+                "commentCount": 33,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g6/M0B/75/F4/CggYtFcHaryAY9S9AAFEIm0_6yw614.jpg",
+                "distanceStr": "距市中心274m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702288.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "和平村": {
+                "commentCount": 77,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000f6sepqqACEC.jpg",
+                "distanceStr": "距市中心595m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/128683.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远天后宫": {
+                "commentCount": 37,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c12000f6t7er66F81.jpg",
+                "distanceStr": "距市中心200m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702041.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石阡古温泉": {
+                "commentCount": 446,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2n12000blgkodgBBAC.jpg",
+                "distanceStr": "距镇远古城54.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shiqian2351/21695.html?scene=online",
+                "isFree": false,
+                "price": 97.0
+            },
+            "西江千户苗寨景区-观景台": {
+                "commentCount": 515,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0n000000e2pms80C1.jpg",
+                "distanceStr": "距镇远古城66.9km",
+                "detailUrl": "https://you.ctrip.com/sight/leishan2345/134057.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙潭": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120008z2ym4p71A0.jpg",
+                "distanceStr": "距市中心594m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1701910.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远县博物馆": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0m12000fde4lf96C40.jpg",
+                "distanceStr": "距市中心587m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/144189181.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "郎德苗寨": {
+                "commentCount": 296,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000f6q5u4yB6EE.jpg",
+                "distanceStr": "距镇远古城73.3km",
+                "detailUrl": "https://you.ctrip.com/sight/leishan2345/1412492.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "万寿宫": {
+                "commentCount": 17,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000f6u2tu75E53.jpg",
+                "distanceStr": "距市中心843m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4691345.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "魁星楼": {
+                "commentCount": 8,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000a4pofm524D4.jpg",
+                "distanceStr": "距市中心775m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4705341.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "清舟水上游": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102112000dqr66ab5E31.jpg",
+                "distanceStr": "距市中心419m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/134715646.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "飞云崖": {
+                "commentCount": 16,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6rdv2eD5C4.jpg",
+                "distanceStr": "距镇远古城44.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huangping120442/1416611.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国历史文化名城镇远展览馆": {
+                "commentCount": 45,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105012000f6t4jyr2CDB.jpg",
+                "distanceStr": "距市中心567m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/128687.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "下司古镇": {
+                "commentCount": 631,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0q000000ga9gcC14E.jpg",
+                "distanceStr": "距镇远古城86.1km",
+                "detailUrl": "https://you.ctrip.com/sight/kaili491/128728.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚木沟风景区": {
+                "commentCount": 725,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060z000000nkl534607.jpg",
+                "distanceStr": "距镇远古城87.1km",
+                "detailUrl": "https://you.ctrip.com/sight/jiangkou2334/1408206.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "云龙洞": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104n12000a87z5woF282.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702328.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "四官殿": {
+                "commentCount": 12,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k120006lcw92u7926.jpg",
+                "distanceStr": "距市中心195m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702598.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "白沙井": {
+                "commentCount": 22,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120009gg84jf0078.png",
+                "distanceStr": "距镇远古城31.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shibing2352/134006874.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贵洞风景区": {
+                "commentCount": 7,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01005120009io06pm9379.jpg",
+                "distanceStr": "距镇远古城29.1km",
+                "detailUrl": "https://you.ctrip.com/sight/sansui120443/134049862.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朱砂古镇": {
+                "commentCount": 536,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q120005qi5k7k94AD.jpg",
+                "distanceStr": "距镇远古城94.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tongren680/1786577.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "炎帝宫": {
+                "commentCount": 25,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh2s12000anzue8v82AF.jpg",
+                "distanceStr": "距市中心678m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702312.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远古镇-慧丰": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050j000000b2qjw8B36.jpg",
+                "distanceStr": "距市中心400m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/67822175.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大河关码头": {
+                "commentCount": 6,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000dsbap2y7FF6.jpg",
+                "distanceStr": "距市中心757m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4701343.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "下舞阳河景区": {
+                "commentCount": 12,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102512000f6rm30b6D68.jpg",
+                "distanceStr": "距镇远古城20.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shibing2352/5139707.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "铜仁大峡谷": {
+                "commentCount": 159,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000929bcdc9F94.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/songtao2358/5072583.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "都匀秦汉影视城": {
+                "commentCount": 844,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100410000000q6aewE65D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/duyun678/4554005.html?scene=online",
+                "isFree": false,
+                "price": 63.0
+            },
+            "镇远县周达文故居纪念馆": {
+                "commentCount": 20,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000big5my1195D.jpg",
+                "distanceStr": "距市中心736m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1412490.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仰阿莎大雕像": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6r3rv60FD7.jpg",
+                "distanceStr": "距镇远古城35.3km",
+                "detailUrl": "https://you.ctrip.com/sight/jianhe120446/5254350.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远古城非遗龙舟竞渡": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1412000ezro3erCA26.jpg",
+                "distanceStr": "距市中心426m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/140771975.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "肇兴侗寨": {
+                "commentCount": 3510,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101312000f3z3rzpD6C3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/liping1346/60722.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "剑河温泉体验馆": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h383p30B2.jpg",
+                "distanceStr": "距镇远古城36.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jianhe120446/4944364.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "凤凰古城": {
+                "commentCount": 6500,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0q1700000118gee3001.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fenghuang988/17369.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "镇远革命史馆": {
+                "commentCount": 1,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A63120009h0j9o6C801.jpg",
+                "distanceStr": "距市中心238m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/5711113.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "铜仁古城": {
+                "commentCount": 59,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102612000h4ceivj5599.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/tongren680/1834181.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "贵州村BA": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105412000eyuos3c9867.jpg",
+                "distanceStr": "距镇远古城49.2km",
+                "detailUrl": "https://you.ctrip.com/sight/taijiang120447/148800315.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "寨沙侗寨": {
+                "commentCount": 114,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100ssa133timtbi7k47FA.jpg",
+                "distanceStr": "距镇远古城92.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jiangkou2334/1835229.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "贵州乌江寨国际旅游度假区": {
+                "commentCount": 730,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5012000c020l5u51D7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zunyi204/5719963.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "仰阿莎清江阁游船": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f120001ehmb2746C7.jpg",
+                "distanceStr": "距镇远古城35.6km",
+                "detailUrl": "https://you.ctrip.com/sight/jianhe120446/5709917.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "报京侗寨": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000b0r76yh35F4.jpg",
+                "distanceStr": "距镇远古城23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1418052.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "藏经楼": {
+                "commentCount": 6,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images//100517000001146gx66DE.jpg",
+                "distanceStr": "距市中心847m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4589525.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "施洞苗寨": {
+                "commentCount": 7,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010321200092lpip4CA21.jpg",
+                "distanceStr": "距镇远古城25.6km",
+                "detailUrl": "https://you.ctrip.com/sight/taijiang120447/1702072.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "河滨文化商业步行街": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww45120009475mpl8B09.jpg",
+                "distanceStr": "距市中心119m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/5165252.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "复兴巷": {
+                "commentCount": 22,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000buoukxaDEF7.jpg",
+                "distanceStr": "距市中心316m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1830646.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "台盘村BA篮球场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ6812000g6yuu218F29.jpg",
+                "distanceStr": "距镇远古城49.2km",
+                "detailUrl": "https://you.ctrip.com/sight/taijiang120447/140618498.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "和平村旧址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000dvl01xc2560.jpg",
+                "distanceStr": "距市中心600m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/144211592.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九龙洞": {
+                "commentCount": 99,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104112000a0j0z6cFC97.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/tongren680/21692.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "佛顶山": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010261200092m545i0849.jpg",
+                "distanceStr": "距镇远古城40.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shiqian2351/4478081.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贵州村超": {
+                "commentCount": 19,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0m12000dguwq2e645C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/rongjiang2346/140618499.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "榕江县大利侗寨景区": {
+                "commentCount": 56,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000et6mhv1D89C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/rongjiang2346/1416618.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杉木湖景区": {
+                "commentCount": 114,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b12000f6q6vr92142.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/duyun678/4554006.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "南江大峡谷": {
+                "commentCount": 609,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx3l4987A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/kaiyang2342/21889.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "黔阳古城": {
+                "commentCount": 297,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000nr4i29E53.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hongjiang2825/1415361.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "九天温泉": {
+                "commentCount": 298,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k12000f6t690d1041.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/sinan2355/1485953.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大明边城": {
+                "commentCount": 265,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/563/788/066/cc56ec96e0234d348b837b5669665217.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/tongren680/1408141.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凤凰磁浮观光快线": {
+                "commentCount": 290,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000f6q8gxv829D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fenghuang988/133955349.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沱江": {
+                "commentCount": 1177,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3412000b63oot033F9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fenghuang988/62062.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "中元禅院": {
+                "commentCount": 9,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t13000000v2dld0A65.jpg",
+                "distanceStr": "距市中心863m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702209.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "程阳八寨": {
+                "commentCount": 1046,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000f6ttw7h2CF6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/131755.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "大菜园休闲广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000gcn8hax2E85.png",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/4597491.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青岩古镇": {
+                "commentCount": 7381,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4z12000fsda3vlBC1C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guiyang33/20403.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "加榜梯田": {
+                "commentCount": 262,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01065120008g3dv8r766E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/congjiang2344/132880.html?scene=online",
+                "isFree": false,
+                "price": 99.9
+            },
+            "天下苗城·苗王城": {
+                "commentCount": 239,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000nko6z8317.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/songtao2358/138655.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "龙津风雨桥": {
+                "commentCount": 237,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120008js2ore2713.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zhijiang994/21062.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "遵义会议会址": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35011d000001eumat5296.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zunyi204/17661.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国名酒收藏博览馆": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0y000000lw5i2C3A7.jpg",
+                "distanceStr": "距市中心183m",
+                "detailUrl": "https://you.ctrip.com/sight/zhenyuan1840/1702317.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "岜沙苗寨": {
+                "commentCount": 537,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h12000f6rc69z76E8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/congjiang2344/44294.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "地笋苗寨": {
+                "commentCount": 288,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000f2520wj74EC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingzhou2832/1413682.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "花溪夜郎谷": {
+                "commentCount": 1369,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n120009d1uyb14EE9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guiyang33/1831311.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            }
+        }
+    }
+}

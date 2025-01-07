@@ -1,0 +1,789 @@
+{
+    "广西": {
+        "柳州": {
+            "程阳八寨": {
+                "commentCount": 1046,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000f6ttw7h2CF6.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/131755.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "鹿寨香桥岩溶国家地质公园": {
+                "commentCount": 412,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350f12000000shyzl5DF8.jpg",
+                "distanceStr": "距市中心52.1km",
+                "detailUrl": "https://you.ctrip.com/sight/luzhai3054/1407599.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "龙潭公园": {
+                "commentCount": 906,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000fi9goa9D241.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62242.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "柳州云顶观光": {
+                "commentCount": 374,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070w000000ksz9b1842.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/2485343.html?scene=online",
+                "isFree": false,
+                "price": 42.0
+            },
+            "百里柳江旅游景区": {
+                "commentCount": 796,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpct90A84.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1412452.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "水之星游船(东堤码头)": {
+                "commentCount": 294,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6y12000et6odkeC07C.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1412069.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "柳州博物馆": {
+                "commentCount": 255,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35091d000001ekk8u9885.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1832215.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "窑埠古镇": {
+                "commentCount": 44,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102n120008qj2jolEB2A.jpg",
+                "distanceStr": "距市中心856m",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/5072656.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丹洲景区": {
+                "commentCount": 153,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000f6t3h9c1077.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/62257.html?scene=online",
+                "isFree": false,
+                "price": 32.0
+            },
+            "柳江夜游(东堤旅游码头出发)": {
+                "commentCount": 29,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0z000000nhcf4F8D6.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/2478766.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月也侗寨": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v120008lh5330D829.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/98706652.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "步步高豪华游轮": {
+                "commentCount": 106,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01054120009orj122649B.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1485026.html?scene=online",
+                "isFree": false,
+                "price": 86.0
+            },
+            "柳州水上公交": {
+                "commentCount": 62,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105i120009dmzjsf5F8A.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1979753.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "双龙沟": {
+                "commentCount": 164,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000012bt2z41EF.jpg",
+                "distanceStr": "距市中心89.2km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/2486941.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "仙人山景区": {
+                "commentCount": 70,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020w000000kjcxcECE5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/2017331.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五星步行商业街": {
+                "commentCount": 17,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j12000h1bbtgz23CF.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/5171355.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三江鼓楼": {
+                "commentCount": 142,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A59120008n979xz3D19.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/1684136.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国三江大侗寨景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010191200097bpttr4B03.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/69570471.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "马鞍山公园": {
+                "commentCount": 22,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01063120009d3bqsd02E4.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/69269335.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "柳侯公园": {
+                "commentCount": 408,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01008120009cnca370CB9.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62241.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泰禾游船(东堤旅游码头)": {
+                "commentCount": 169,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0j12000f6qxnk2BDD2.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1485000.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "侗乡鸟巢": {
+                "commentCount": 7,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g120008qj2eiaEA82.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/5068644.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "程阳风雨桥": {
+                "commentCount": 207,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000f6qjqhg6D61.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/18135.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳州螺蛳粉小镇": {
+                "commentCount": 42,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01046120008xdj5pnC54C.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/112652553.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "老君洞": {
+                "commentCount": 87,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpctgB549.jpg",
+                "distanceStr": "距市中心82.4km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/2521995.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "柳州工业博物馆": {
+                "commentCount": 112,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030z000000nslj7E90A.jpg",
+                "distanceStr": "距市中心621m",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1412454.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三江风雨桥": {
+                "commentCount": 60,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f12000bbdvl8f5FB9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/1684141.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "柳州音乐喷泉": {
+                "commentCount": 31,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01039120008s7ewriEFEE.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/131754.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "克里湾欢乐世界": {
+                "commentCount": 1010,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxbcx2912.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/2505163.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "狼口泉": {
+                "commentCount": 13,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000ay3bor08449.jpg",
+                "distanceStr": "距市中心40.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/126934510.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石门仙湖景区": {
+                "commentCount": 307,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000f6q1ck6C1C3.jpg",
+                "distanceStr": "距市中心61.8km",
+                "detailUrl": "https://you.ctrip.com/sight/rongan3043/1482880.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "非凡1号游艇": {
+                "commentCount": 17,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6b12000bbbdpx99C15.png",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/130848810.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳州动物园": {
+                "commentCount": 118,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105u1200084dj7f502B2.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1488467.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "柳州文庙": {
+                "commentCount": 113,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000et8fcyk309D.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1476773.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "马鞍山": {
+                "commentCount": 170,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt23p88A0.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/16901.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鱼峰公园": {
+                "commentCount": 138,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x12000f6sdk8gB7BB.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62244.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三江侗乡": {
+                "commentCount": 104,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0z000000ndlkfF222.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/16900.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中渡古镇": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6u146a664D.jpg",
+                "distanceStr": "距市中心47.9km",
+                "detailUrl": "https://you.ctrip.com/sight/luzhai3054/2502035.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蟠龙山": {
+                "commentCount": 36,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s120008inxukj1369.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62248.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳侯祠": {
+                "commentCount": 104,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000f6rbw1mD7E0.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/18132.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳州白莲洞古人类遗址博物馆": {
+                "commentCount": 17,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010191200092lk3cxE74B.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/4612487.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "真龙号游船(东堤旅游码头)": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y12000880fsyi9957.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/5713513.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五星美食街": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m12000f6s2hbdB499.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/112648379.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西来古寺": {
+                "commentCount": 48,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01016120009dnkgc88632.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/50299.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梦呜苗寨": {
+                "commentCount": 20,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t1200087fhoht0647.jpg",
+                "distanceStr": "距市中心89.2km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/98282708.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "银子岩": {
+                "commentCount": 4832,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/963/634/210/d97f27e0107044e1a3e992fbb763e027.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lipu2020/18147.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "遇龙河漂流": {
+                "commentCount": 5082,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000f6qxe2e20DC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/137485.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "江滨公园(驾鹤路)": {
+                "commentCount": 66,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s120009wg6x8wBEA8.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62250.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桂林千古情": {
+                "commentCount": 3000,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01005120008s6fb28FB96.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/4734370.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "遇龙河景区": {
+                "commentCount": 5168,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w120005quonp495C1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/22081.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "如意峰索道景区": {
+                "commentCount": 972,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a12000a4t7qi49F79.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/5706026.html?scene=online",
+                "isFree": false,
+                "price": 208.0
+            },
+            "都乐公园": {
+                "commentCount": 41,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6z8i59F7.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62245.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三江斗牛场-《牛战三江》": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000f6rqa9i6003.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/5700545.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林两江四湖景区": {
+                "commentCount": 13162,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000e4ng77b43EC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/5925.html?scene=online",
+                "isFree": false,
+                "price": 175.0
+            },
+            "象鼻山景区": {
+                "commentCount": 20161,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0z000000nk0ag0DF4.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/107505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "中渡镇响水瀑布": {
+                "commentCount": 21,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u12000f6sknch4635.jpg",
+                "distanceStr": "距市中心49.9km",
+                "detailUrl": "https://you.ctrip.com/sight/luzhai3054/1714143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "胜利烧烤城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t12000f6psp8j489D.png",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/62776546.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰河御品堂": {
+                "commentCount": 77,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104612000a7ktvxiD72E.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/1678792.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "独秀峰王城景区": {
+                "commentCount": 18361,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0812000cjb4ken2CDF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/107501.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "融水雨卜苗寨景区(3A)": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5j12000f4t6s9gC4B5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/145361971.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雨卜景区": {
+                "commentCount": 2,
+                "commentScore": 2.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101712000f6tj5qeE258.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/69574119.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳版九寨沟": {
+                "commentCount": 7,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w12000aubn9vb28A2.jpg",
+                "distanceStr": "距市中心46.7km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/134773352.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漓江风景名胜区": {
+                "commentCount": 13206,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01059120005qzc6xp3CF2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/2888.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "柳宗元纪念馆": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000f6rbw1mD7E0.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/4603140.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳州柳航游船": {
+                "commentCount": 126,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m12000f6t5x5nD325.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/69655.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "世外桃源": {
+                "commentCount": 6556,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6v12000buxotbkA0CF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/140484.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "月亮街": {
+                "commentCount": 23,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1f12000agikpwcDC11.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/1835204.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "崖山景区": {
+                "commentCount": 44,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35030x000000l4s4fA05F.jpg",
+                "distanceStr": "距市中心45.8km",
+                "detailUrl": "https://you.ctrip.com/sight/liucheng3072/70416.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "侗天宫景区": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4012000c2o40j44C0D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/141044772.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漓江三星游船": {
+                "commentCount": 3787,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001gri9a3F3C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/1478560.html?scene=online",
+                "isFree": false,
+                "price": 167.0
+            },
+            "柳州市军事博物园": {
+                "commentCount": 11,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000a4sdfx39CCE.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/3397252.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漓江竹筏游": {
+                "commentCount": 1389,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000f6q5ywyF0A1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/1508972.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "北帝山旅游区": {
+                "commentCount": 580,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6ybs9851.jpg",
+                "distanceStr": "距柳州93.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingnan1398/5649406.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "龙女沟景区": {
+                "commentCount": 48,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107112000f6q5foyF065.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/70254.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "布央茶山旅游区": {
+                "commentCount": 5,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120008s7eek99F8F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/sanjiang975/4603609.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "十里画廊": {
+                "commentCount": 1740,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000f6qk9l4AFC6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/52551.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雨卜民族风情旅游度假村": {
+                "commentCount": 24,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0v000000k0uboC805.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/70397.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阳朔骑行": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000eq5jdkj2166.jpg",
+                "distanceStr": "桂林",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/0.html?poiId=148483141",
+                "isFree": false,
+                "price": ""
+            },
+            "响水石林": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000ddkcq3434CE.jpg",
+                "distanceStr": "距市中心50.3km",
+                "detailUrl": "https://you.ctrip.com/sight/luzhai3054/112653257.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蟠龙山公园": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6p12000h224sau8F98.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/144210629.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "谷埠特色美食街": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105712000f6udlm15C46.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/5171347.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柳州卡乐星球欢乐世界-观景平台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051g000001h3n0h7D6A.png",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/83399237.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东门城楼": {
+                "commentCount": 84,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f12000f6rbnpi3B5D.jpg",
+                "distanceStr": "距柳州2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lanshan2834/16902.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三友瀑布景区": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g12000a5qo9nzCED4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/rongshui3047/4603549.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "刘三姐故居": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g16000000yxyspDAD2.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/liuzhou143/2604890.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漓江四星游船": {
+                "commentCount": 1543,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5912000gv3jq7o1991.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/1478723.html?scene=online",
+                "isFree": false,
+                "price": 305.0
+            },
+            "中渡古镇鹿鸣谷": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0q000000gac9q297B.jpg",
+                "distanceStr": "距市中心50.9km",
+                "detailUrl": "https://you.ctrip.com/sight/luzhai3054/130369274.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

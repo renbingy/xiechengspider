@@ -1,0 +1,807 @@
+{
+    "广东": {
+        "潮州": {
+            "广济桥": {
+                "commentCount": 1139,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f6rcogm9470.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56634.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "潮州古城": {
+                "commentCount": 589,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g1200086whnyf0883.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/145618.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青岚怪臼谷国家地质公园": {
+                "commentCount": 614,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0k12000d2y61872E9D.jpg",
+                "distanceStr": "距市中心23.4km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/56859.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "韩文公祠": {
+                "commentCount": 250,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000f6t3h8f7817.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56645.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "开元寺": {
+                "commentCount": 385,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100310000000pd7wxEBE5.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56642.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "牌坊街": {
+                "commentCount": 476,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grkel4BC3.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/131443.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙湖古寨": {
+                "commentCount": 98,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000nollt70BF.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56809.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广济楼": {
+                "commentCount": 75,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g1200086whnyf0883.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/131446.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "潮州东山湖温泉度假村": {
+                "commentCount": 121,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n120008dfto2b0A60.jpg",
+                "distanceStr": "距市中心17.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/135813.html?scene=online",
+                "isFree": false,
+                "price": 106.8
+            },
+            "开元寺泰佛殿": {
+                "commentCount": 32,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0m1a00000193jjs9D7B.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56890.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南澳岛": {
+                "commentCount": 1455,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gosu27500.jpg",
+                "distanceStr": "距潮州51.2km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/17810.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "许驸马府": {
+                "commentCount": 48,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A20120008mo5ideC36A.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56728.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "甲第巷": {
+                "commentCount": 80,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i120009dddqxhC224.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56808.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凤凰天池": {
+                "commentCount": 37,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000f6puwq594D3.jpg",
+                "distanceStr": "距市中心32.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56811.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "潮州西湖": {
+                "commentCount": 216,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000ev4fue735D1.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56665.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广济桥灯光秀": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t1200081qk3zt65E8.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/134099324.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮州市博物馆": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6u07we5778.jpg",
+                "distanceStr": "距市中心497m",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1829927.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东山岛": {
+                "commentCount": 897,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000f6rbscq7AAE.jpg",
+                "distanceStr": "距潮州80.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/17147.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮州绿太阳欢乐世界": {
+                "commentCount": 169,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5c12000ceuh9tf3553.jpg",
+                "distanceStr": "距市中心12.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1994423.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西马路": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0g180000014b5jvFD31.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/5072671.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "淡浮院": {
+                "commentCount": 102,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350212000000taati0195.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56913.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "砚峰公园": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000bkeiasp2D71.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/131917554.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "麒麟阁": {
+                "commentCount": 21,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsw9o3EFF.jpg",
+                "distanceStr": "距市中心18.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/5379360.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "青龙古庙": {
+                "commentCount": 23,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101e12000f6se7s6D470.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56889.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "礐石风景区": {
+                "commentCount": 453,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpe7r93BD.jpg",
+                "distanceStr": "距潮州36.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17812.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头老城": {
+                "commentCount": 789,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041b000001bwb5bBA06.jpg",
+                "distanceStr": "距潮州34.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50159.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云水谣景区": {
+                "commentCount": 2970,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y1200086wwijz1B8A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing2672/1488041.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "福建土楼(南靖)景区": {
+                "commentCount": 523,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m12000f6q8fq67183.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing2672/69239823.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "福建土楼(永定)景区": {
+                "commentCount": 2898,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p1200082e5mei9497.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longyan366/1410893.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "汕头小公园": {
+                "commentCount": 348,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091a0000019klo41850.jpg",
+                "distanceStr": "距潮州34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/1646565.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鱼骨沙洲": {
+                "commentCount": 100,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2j12000deqy7xi7A1A.jpg",
+                "distanceStr": "距潮州73.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/5013395.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "总兵府": {
+                "commentCount": 281,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000f6ty8wv5153.jpg",
+                "distanceStr": "距潮州53.9km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1714961.html?scene=online",
+                "isFree": false,
+                "price": 12.0
+            },
+            "涵碧楼": {
+                "commentCount": 27,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grkxk456E.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1829843.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "颐园": {
+                "commentCount": 10,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k120008ii0ms339E3.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/131447.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄满寨瀑布": {
+                "commentCount": 1006,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000b2vz8ph39CC.png",
+                "distanceStr": "距潮州65.1km",
+                "detailUrl": "https://you.ctrip.com/sight/jiexi2930/1413466.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "汛洲岛": {
+                "commentCount": 16,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g1200085rquno423A.jpg",
+                "distanceStr": "距市中心43.2km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/2503828.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "己略黄公祠": {
+                "commentCount": 38,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6tteh3891B.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56727.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东山风动石景区": {
+                "commentCount": 1534,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01070120008e8mdb50997.jpg",
+                "distanceStr": "距潮州93.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/140554.html?scene=online",
+                "isFree": false,
+                "price": 42.0
+            },
+            "陈慈黉故居": {
+                "commentCount": 79,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A071e000001fx6z8A470.jpg",
+                "distanceStr": "距潮州16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50153.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "田螺坑土楼群": {
+                "commentCount": 3178,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0s000000iacyx3302.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing2672/60746.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "滨江长廊": {
+                "commentCount": 33,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpc9109B7.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1714818.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "客天下客家小镇景区": {
+                "commentCount": 2050,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0r000000hcu2457CF.jpg",
+                "distanceStr": "距潮州81.9km",
+                "detailUrl": "https://you.ctrip.com/sight/meizhou523/136131.html?scene=online",
+                "isFree": false,
+                "price": 37.9
+            },
+            "道韵楼": {
+                "commentCount": 13,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0z000000nhhh8B8C3.jpg",
+                "distanceStr": "距市中心41.0km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/56729.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "韩江": {
+                "commentCount": 64,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1a0000019rmhfC99E.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1714868.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凤溪竹筏漂流": {
+                "commentCount": 28,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u12000f6t5jgb045B.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/70286.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "青澳湾": {
+                "commentCount": 434,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000f6tt6ya35CA.jpg",
+                "distanceStr": "距潮州57.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/50155.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮州直升机基地": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120009gknexi5657.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/133986949.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰山": {
+                "commentCount": 4,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6pz6aq29F5.jpg",
+                "distanceStr": "距市中心29.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/69266652.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金银岛": {
+                "commentCount": 198,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000h4ef3298C85.jpg",
+                "distanceStr": "距潮州54.7km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/131150.html?scene=online",
+                "isFree": false,
+                "price": 5.5
+            },
+            "凤凰洲公园": {
+                "commentCount": 19,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m120009d3jilw7124.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56672.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳岛宋井": {
+                "commentCount": 244,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i120009hzqldgDBF6.jpg",
+                "distanceStr": "距潮州57.3km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1832599.html?scene=online",
+                "isFree": false,
+                "price": 14.0
+            },
+            "潮州绿岛旅游山庄": {
+                "commentCount": 84,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx5cc89DA.jpg",
+                "distanceStr": "距市中心25.8km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/135815.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "雁南飞茶田景区": {
+                "commentCount": 813,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2b12000h144aax5416.jpg",
+                "distanceStr": "距潮州84.4km",
+                "detailUrl": "https://you.ctrip.com/sight/meizhou523/17691.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "云水谣古镇": {
+                "commentCount": 5449,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e0s000000ibts84EB7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing2672/107566.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "北阁佛灯": {
+                "commentCount": 23,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A44120008mc7if4792C.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1714844.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汕头蓝水星欢乐世界": {
+                "commentCount": 868,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gr0uk72D8.jpg",
+                "distanceStr": "距潮州37.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/109996.html?scene=online",
+                "isFree": false,
+                "price": 39.9
+            },
+            "甘露寺": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000f6qjyon13EF.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56903.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "潮州古城墙": {
+                "commentCount": 18,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gspd96F8B.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56805.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "慧如公园": {
+                "commentCount": 19,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000f6psplu137E.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/61288.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南门湾": {
+                "commentCount": 50,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grjw2AB5F.jpg",
+                "distanceStr": "距潮州92.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/3394038.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凤翔峡原始生态旅游区": {
+                "commentCount": 63,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p16000000zchc5BDBE.jpg",
+                "distanceStr": "距市中心20.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/131445.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "福建土楼王景区": {
+                "commentCount": 678,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p120009nj7uxuD790.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longyan366/60656.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "鼓浪屿": {
+                "commentCount": 39269,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwb0k4589.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/57405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西澳岛": {
+                "commentCount": 7,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d12000f6r0tga3C88.jpg",
+                "distanceStr": "距市中心47.2km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/2519808.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫莲森林度假村": {
+                "commentCount": 199,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqgg4C54D.jpg",
+                "distanceStr": "距市中心14.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1409168.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "四马拖车": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000evujyrhB6FA.jpg",
+                "distanceStr": "距市中心12.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/145680138.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "初溪古村落景区": {
+                "commentCount": 194,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grjbl46FF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longyan366/60655.html?scene=online",
+                "isFree": false,
+                "price": 64.9
+            },
+            "韩愈纪念馆": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f6tbkaxF80A.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/4553591.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮州凤凰单丛茶博物馆": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106o120008h77u3u762E.jpg",
+                "distanceStr": "距市中心27.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/107330862.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "妈屿岛旅游区": {
+                "commentCount": 34,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000f6t2q6nE9BD.jpg",
+                "distanceStr": "距潮州38.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17814.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "饶平土楼南阳楼": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000b0gc10v7713.jpg",
+                "distanceStr": "距市中心68.8km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/131917545.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰山乌岽顶": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000c6lsb8xF02C.jpg",
+                "distanceStr": "距市中心33.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/5066801.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙归寨瀑布": {
+                "commentCount": 302,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000f6q4j223296.jpg",
+                "distanceStr": "距潮州38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/fengshun2934/51344.html?scene=online",
+                "isFree": false,
+                "price": 43.0
+            },
+            "厦门园林植物园": {
+                "commentCount": 12344,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6prceqB206.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8625.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "丰顺金德宝凯悦国际温泉": {
+                "commentCount": 270,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102t12000f6t6clx53F6.jpg",
+                "distanceStr": "距潮州44.5km",
+                "detailUrl": "https://you.ctrip.com/sight/fengshun2934/1460045.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "钟鼓索道": {
+                "commentCount": 5440,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6tupfy47AF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145125.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "钱澳湾灯塔": {
+                "commentCount": 9,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6rpu6h3608.jpg",
+                "distanceStr": "距潮州46.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/67828133.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮州镇海楼(旧府衙)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m12000ew9o3h405DA.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/145503364.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰塔": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1900000163br66DEF.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/1830474.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "潮汕历史文化博览中心": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120009czciz37575.jpg",
+                "distanceStr": "距潮州38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/69518748.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金汤湾海水温泉公园": {
+                "commentCount": 325,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010021200099trhdt5BA8.jpg",
+                "distanceStr": "距潮州81.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yunxiao2669/140558.html?scene=online",
+                "isFree": false,
+                "price": 109.0
+            },
+            "揭阳学宫": {
+                "commentCount": 28,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqdtm5B89.jpg",
+                "distanceStr": "距潮州30.3km",
+                "detailUrl": "https://you.ctrip.com/sight/jieyang835/3218562.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观海长廊": {
+                "commentCount": 301,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxdda4270.jpg",
+                "distanceStr": "距潮州35.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17817.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮府工夫茶文化博物馆": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6p12000b0tre3d3BFA.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/124906597.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汕头狮子城（原汕头欧美文化小镇）": {
+                "commentCount": 40,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000011qy7g7AF0.jpg",
+                "distanceStr": "距潮州30.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5601346.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北回归线广场": {
+                "commentCount": 22,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d1200094134lc9C80.jpg",
+                "distanceStr": "距潮州57.6km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/3398024.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头内海湾游船": {
+                "commentCount": 10,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120009rki5ps3314.jpg",
+                "distanceStr": "距潮州34.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/134397681.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海阳县儒学宫": {
+                "commentCount": 17,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1900000163cuv6C1B.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56748.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳大桥": {
+                "commentCount": 92,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsx17EFFF.jpg",
+                "distanceStr": "距潮州37.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/131138.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

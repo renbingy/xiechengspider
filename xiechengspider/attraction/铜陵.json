@@ -1,0 +1,753 @@
+{
+    "安徽": {
+        "铜陵": {
+            "永泉小镇": {
+                "commentCount": 92,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000f6uosyv3185.png",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/145073920.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "铜陵犁桥水镇景区": {
+                "commentCount": 284,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3e12000f5ztoke090A.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/5708790.html?scene=online",
+                "isFree": false,
+                "price": 33.9
+            },
+            "永泉忆江南十二景": {
+                "commentCount": 146,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grk0xE0C5.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/5380342.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九华山": {
+                "commentCount": 13564,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f1200087dvhgu60B0.jpg",
+                "distanceStr": "距铜陵51.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qingyang2613/126392.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "九宝温泉": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t1200093ywr57254D.jpg",
+                "distanceStr": "距市中心20.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/5718633.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "黄山风景区": {
+                "commentCount": 44611,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000nm6w7F15F.jpg",
+                "distanceStr": "距铜陵97.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/64844.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "大通古镇风景区": {
+                "commentCount": 31,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120008ay3yrhC1F9.jpg",
+                "distanceStr": "距市中心16.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/4376364.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宏村景区": {
+                "commentCount": 34057,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1k12000fjertwr7F8D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/140895.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "查济": {
+                "commentCount": 1881,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r12000f6tt2z9942F.jpg",
+                "distanceStr": "距铜陵52.6km",
+                "detailUrl": "https://you.ctrip.com/sight/jingcounty2616/55309.html?scene=online",
+                "isFree": false,
+                "price": 53.0
+            },
+            "三河古镇": {
+                "commentCount": 3932,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s120005wqe27b5DA9.jpg",
+                "distanceStr": "距铜陵82.9km",
+                "detailUrl": "https://you.ctrip.com/sight/feixi2619/20464.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九华山大愿文化园": {
+                "commentCount": 1412,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g1200087doyf9C076.jpg",
+                "distanceStr": "距铜陵45.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qingyang2613/141721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桃花潭": {
+                "commentCount": 2269,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101e12000f6q58zf1515.jpg",
+                "distanceStr": "距铜陵61.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jingcounty2616/55299.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "浮山": {
+                "commentCount": 176,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2u120008pssj2g79B0.jpg",
+                "distanceStr": "距市中心50.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zongyang1445971/55564.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "天井湖公园": {
+                "commentCount": 471,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101z120008anr8f3E04C.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/141209.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天门山": {
+                "commentCount": 130,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000f6sfxks0792.jpg",
+                "distanceStr": "距市中心13.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/141212.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "芜湖方特梦幻王国": {
+                "commentCount": 7962,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p120006dypoehFDDE.jpg",
+                "distanceStr": "距铜陵77.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/138891.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "芜湖方特旅游区": {
+                "commentCount": 154,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0y000000m269zB243.jpg",
+                "distanceStr": "距铜陵77.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/5009422.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "牛首山文化旅游区": {
+                "commentCount": 19525,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsqkfCFBE.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/18093.html?scene=online",
+                "isFree": false,
+                "price": 145.0
+            },
+            "石台牯牛降": {
+                "commentCount": 1687,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3d12000d2hzkrp3C0E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shitai2624/1408445.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西递": {
+                "commentCount": 7952,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3g12000fjeu4k8A56D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/18052.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "姥山岛": {
+                "commentCount": 956,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5012000bthxbm1D16A.jpg",
+                "distanceStr": "距铜陵77.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/17484.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "凤凰山景区": {
+                "commentCount": 187,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000f6qwflcCFEE.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/141208.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "芜湖方特东方神画": {
+                "commentCount": 4738,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g4/M07/5A/C9/CggYHFXEZaWABKdGAAEcwXI7YGA578.jpg",
+                "distanceStr": "距铜陵77.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/1732727.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "马仁奇峰风景区": {
+                "commentCount": 2477,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n1800000155gre3650.jpg",
+                "distanceStr": "距铜陵34.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/65169.html?scene=online",
+                "isFree": false,
+                "price": 73.0
+            },
+            "包公园": {
+                "commentCount": 2853,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01058120005wqx3of7F29.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66484.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "铜陵博物馆": {
+                "commentCount": 99,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000f6ri49s2CC3.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/1834172.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "呈坎": {
+                "commentCount": 2760,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b120009vmiao3E112.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/20485.html?scene=online",
+                "isFree": false,
+                "price": 103.0
+            },
+            "太平湖": {
+                "commentCount": 1631,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000h4wsjimAC73.jpg",
+                "distanceStr": "距铜陵68.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/19828.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥融创乐园": {
+                "commentCount": 1599,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2s12000h5c8zhp9DE2.jpg",
+                "distanceStr": "距铜陵96.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1941985.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "合肥融创文化旅游城": {
+                "commentCount": 44,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000b0f5ql039EA.jpg",
+                "distanceStr": "距铜陵96.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/4330351.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "宣纸文化园": {
+                "commentCount": 690,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6tvavs46AB.jpg",
+                "distanceStr": "距铜陵74.4km",
+                "detailUrl": "https://you.ctrip.com/sight/jingcounty2616/1408628.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "杏花村风景区": {
+                "commentCount": 475,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp95bB72F.jpg",
+                "distanceStr": "距铜陵46.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chizhou825/140451.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "安徽博物院(新馆)": {
+                "commentCount": 690,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6rfcnt23D3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1682342.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "敬亭山": {
+                "commentCount": 2061,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100210000000oxwxh7FEE.jpg",
+                "distanceStr": "距铜陵86.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xuancheng504/17524.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "天柱山": {
+                "commentCount": 3613,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106112000f6rd8dlFE83.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/qianshan1016/126298.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "木坑竹海": {
+                "commentCount": 1215,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gou7g21EF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/18452.html?scene=online",
+                "isFree": false,
+                "price": 33.0
+            },
+            "齐云山景区": {
+                "commentCount": 3226,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2h12000dbbi1sj73C0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiuning2625/52735.html?scene=online",
+                "isFree": false,
+                "price": 57.0
+            },
+            "采石矶": {
+                "commentCount": 3203,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i120008lvw9xx9BA5.jpg",
+                "distanceStr": "距铜陵100.0km",
+                "detailUrl": "https://you.ctrip.com/sight/maanshan503/17529.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "双龙洞": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f12000frqpt2s9388.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/145725944.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "徽州古城": {
+                "commentCount": 2002,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120008263zhi4855.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty527/126201.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "古徽州文化旅游区": {
+                "commentCount": 125,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l1200089rytxs3414.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty527/1751362.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西海大峡谷": {
+                "commentCount": 1484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h37e31E73.jpg",
+                "distanceStr": "距铜陵96.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/19823.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "夫子庙秦淮风光带": {
+                "commentCount": 6043,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqya4D90B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/16583.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "夫子庙": {
+                "commentCount": 14529,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6rav2xB39C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1663.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "深业半汤御泉庄温泉": {
+                "commentCount": 1226,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqxbv3F09.jpg",
+                "distanceStr": "距铜陵79.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/136324.html?scene=online",
+                "isFree": false,
+                "price": 143.0
+            },
+            "蓬莱仙洞": {
+                "commentCount": 663,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35070y000000md78b3468.jpg",
+                "distanceStr": "距铜陵84.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shitai2624/140453.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九华天池": {
+                "commentCount": 497,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxd8lC8FF.jpg",
+                "distanceStr": "距铜陵39.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chizhou825/136654.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "松鼠小镇": {
+                "commentCount": 225,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6112000bey877hB6ED.jpg",
+                "distanceStr": "距铜陵63.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/112366313.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "合肥海洋世界": {
+                "commentCount": 3433,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l120008gcgso9B569.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/64786.html?scene=online",
+                "isFree": false,
+                "price": 155.0
+            },
+            "红山森林动物园": {
+                "commentCount": 12158,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g12000h4doykfA13A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/18090.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "九子岩景区": {
+                "commentCount": 183,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6v12000ffukfbd3353.jpg",
+                "distanceStr": "距铜陵45.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qingyang2613/126398.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "月亮湾风景区": {
+                "commentCount": 170,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01041120008bv96ldCF5E.jpg",
+                "distanceStr": "距铜陵77.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jingcounty2616/5069284.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "塔川": {
+                "commentCount": 1274,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0s12000gi7h97q469F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/18451.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "明孝陵": {
+                "commentCount": 14380,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000f6pspkn3783.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1653.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "南京总统府": {
+                "commentCount": 54310,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000f6t298y1DFA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1681.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "钟山风景名胜区": {
+                "commentCount": 7423,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010381200087eer63C010.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/114921.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "芜湖新华联大白鲸海洋公园": {
+                "commentCount": 3744,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0y000000md72s064C.jpg",
+                "distanceStr": "距铜陵77.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/1970310.html?scene=online",
+                "isFree": false,
+                "price": 188.0
+            },
+            "芜湖古城": {
+                "commentCount": 76,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000f1tmjpc7A1D.jpg",
+                "distanceStr": "距铜陵68.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/112366328.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南京博物院": {
+                "commentCount": 2914,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000f6ts7ttC5B8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/19519.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "包公祠": {
+                "commentCount": 440,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01053120005wr7vq7A738.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10954.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "李鸿章故居": {
+                "commentCount": 4457,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/917/303/677/c50ef065676b443fa70542ed8338a4fc.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/20461.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大报恩寺遗址景区": {
+                "commentCount": 7329,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3v12000c9l4u4pF9BB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1790736.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "永泉江南小院6号院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106212000f5m1yvcDAC0.jpg",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/145320031.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦淮河画舫": {
+                "commentCount": 6308,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0g00000086s9zD645.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1479078.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "铜官山1978": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000bxt6np45A6C.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/130368953.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "万佛湖风景区": {
+                "commentCount": 947,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g0v000000jujxo53B0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shucheng2630/65747.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "皖南大峡谷激情漂流": {
+                "commentCount": 99,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6tizha7748.jpg",
+                "distanceStr": "距铜陵68.3km",
+                "detailUrl": "https://you.ctrip.com/sight/jingcounty2616/5709621.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "婺源篁岭": {
+                "commentCount": 12819,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000h5l4k8cFEAD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/141512.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "齐山平天湖景区": {
+                "commentCount": 95,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010161200085di1sg9587.jpg",
+                "distanceStr": "距铜陵42.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chizhou825/83249.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大青山野生动物世界": {
+                "commentCount": 545,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350h1c000001cp9ea9A4D.jpg",
+                "distanceStr": "距铜陵90.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dangtu1445969/5701523.html?scene=online",
+                "isFree": false,
+                "price": 56.0
+            },
+            "西湖欢乐世界": {
+                "commentCount": 16,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a170000011c54c09D8.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/2388266.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九龙瀑": {
+                "commentCount": 765,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w120009dzwm9eD318.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/4416.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "太平天国历史博物馆(瞻园)": {
+                "commentCount": 5463,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102t12000f6scq8hCAC3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1665.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "六朝博物馆": {
+                "commentCount": 3370,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f6qxy6d72CC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1479107.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "新安江山水画廊": {
+                "commentCount": 1461,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6tv7lu20AD.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty527/55544.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清风阁": {
+                "commentCount": 213,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000f6ts5ooDDA4.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10540.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "西湖城市湿地公园": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01026120008ik20d6686B.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/5569347.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "光明顶": {
+                "commentCount": 1222,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gqa0o271D.jpg",
+                "distanceStr": "距铜陵96.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/5090.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【芜湖】2024-2025中国羽毛球俱乐部超级联赛安徽赛区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000grnnhynD38D.jpg",
+                "distanceStr": "距铜陵81.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuhu457/149585930.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中山陵景区": {
+                "commentCount": 18686,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h11000000ripuy3B79.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/1655.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "合肥露营": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4912000cfc07ui6A1A.jpg",
+                "distanceStr": "安徽",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/0.html?poiId=148914464",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥融创水世界": {
+                "commentCount": 13706,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0x000000la43h9C8C.jpg",
+                "distanceStr": "距铜陵97.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1942065.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "儿童游乐园": {
+                "commentCount": 60,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww5w120009rkkg1lEFB1.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/tongling472/1932002.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

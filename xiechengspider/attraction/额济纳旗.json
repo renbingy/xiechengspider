@@ -1,0 +1,816 @@
+{
+    "内蒙古": {
+        "额济纳旗": {
+            "额济纳胡杨林旅游区": {
+                "commentCount": 3059,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350u18000001598vb569E.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/51640.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东风航天城": {
+                "commentCount": 226,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000f6sd32j97AE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/11113.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑城弱水胡杨风景区": {
+                "commentCount": 759,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0w000000knl8d1ABC.jpg",
+                "distanceStr": "距市中心17.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5013350.html?scene=online",
+                "isFree": false,
+                "price": 170.0
+            },
+            "居延海": {
+                "commentCount": 866,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grm5dDF44.jpg",
+                "distanceStr": "距市中心43.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144737.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大漠胡杨林景区": {
+                "commentCount": 241,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020q000000geqo82101.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1740767.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "策克口岸": {
+                "commentCount": 171,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0z000000msns04FD6.jpg",
+                "distanceStr": "距市中心71.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1713123.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "怪树林": {
+                "commentCount": 26,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000f6s2wtgC2FA.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5717264.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑城遗址": {
+                "commentCount": 12,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f12000f6q8boa816F.jpg",
+                "distanceStr": "距市中心22.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5717263.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑水古城": {
+                "commentCount": 8,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6ui4g76B74.jpg",
+                "distanceStr": "距市中心14.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5718240.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "八道桥": {
+                "commentCount": 65,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000c9c1xrf3E27.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/147173.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿拉善沙漠国家地质公园": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000f6rld64A4B4.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5067059.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "七道桥": {
+                "commentCount": 26,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g12000cd89myt37C2.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5062376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《额济纳》大型民族歌舞秀": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4m12000furnuoy211C.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/148930784.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "弱水金沙岛": {
+                "commentCount": 30,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103112000f6r07g3858D.jpg",
+                "distanceStr": "距市中心17.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/2018696.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古居延泽景区": {
+                "commentCount": 239,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01035120008w6kejr5949.jpg",
+                "distanceStr": "距市中心42.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5716813.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "二道桥": {
+                "commentCount": 58,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c120008684f35FB49.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1830483.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "额济纳博物馆": {
+                "commentCount": 30,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A011800000142qjbA81F.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1713059.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "胡杨林景区枯树林": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r120008dgmv8pF9C7.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5710154.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "额济纳胡杨英雄影视城": {
+                "commentCount": 11,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01061120009dlwrq84114.jpg",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/2505378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "八道桥沙海王国(巴丹吉林沙漠北缘腹地)景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1f12000drkb7byFBF7.jpg",
+                "distanceStr": "距市中心20.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145128586.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新居延海公园": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104t120009iigr9406A3.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/4568704.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大同城遗址": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v12000aroxl7h1A58.png",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1713049.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漠中胡杨景区": {
+                "commentCount": 6,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m120008w71gdf9707.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5716855.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东风胡杨林露营公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f4lzh2iDCD7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143742490.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "苏泊淖尔神树": {
+                "commentCount": 29,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f120004cllih4C60B.jpg",
+                "distanceStr": "距市中心24.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/51883.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗老人湖胡杨牧场旅游风景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w120008ys7u8cBBDA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5715483.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "京新高速胡杨林观景台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心43.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145318294.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗商业步行街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww6j12000946mmn9B2C4.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5168961.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗绿城遗址": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1b000001bkcoo34B1.jpg",
+                "distanceStr": "距市中心43.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1713015.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "塔王府": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c14000000vsz1345B1.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5067589.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红城": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000a2p944g9A57.jpg",
+                "distanceStr": "距市中心18.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/1713014.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿拉善沙漠世界地质公园居延海园区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心619m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145110736.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "野奢帐篷营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145535737.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金胡杨国际风情商业街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww6j12000946mmn9B2C4.jpg",
+                "distanceStr": "距市中心590m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/5168964.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳湿地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145594537.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东风航天城礼堂": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145661973.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "房车自驾营地区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145447031.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东风革命烈士陵园": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000eyv06kt5A8F.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/3142175.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳胡杨林沙海王国": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心21.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145178520.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "房车自驾营地B区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145555406.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗文化馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144125506.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大漠胡杨林景区游客中心广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/148634545.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大漠胡杨林景区-怡景亭": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000flimf2kEF2F.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145278618.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗澜溪山庄": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145367593.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗胡杨林生态营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心22.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145139721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大漠胡杨林景区土尔扈特人家景点": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145169609.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大漠胡杨林景区娜茨格": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145209328.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漠中胡杨景区星空帐篷": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心21.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145307258.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "GO城市露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145584822.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日落观赏点": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145471681.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红城子遗址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心17.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145259019.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东风航天城铸剑英雄祭坛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145593460.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "达来呼布镇老干部活动中心": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143704020.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怪树林东广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145838786.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "油画林": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心15.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145447074.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沃布格德音淖尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/148787477.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "包子铺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心14.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145633787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漠中胡杨滑沙区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心23.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145681491.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿拉腾陶来广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M07/FC/25/CghzflW7IASANUuCAAAtJkkq6KA204.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/4568969.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳清真寺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心576m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145397059.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿拉善沙漠世界地质公园额济纳旗管理局": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/145209321.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桃来影城(额济纳旗)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/146027295.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "胡杨风情度假村": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6212000935jd369489.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/4568971.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "享干包勒格": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0A/C4/B1/CghzgVW7IAmADUW6AABCA4axk04917.jpg",
+                "distanceStr": "距市中心51.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/64293996.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴润乌尼格图": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0B/C4/B0/CghzgVW7H_uAYZlqAAAxbqRlqeE036.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/65963597.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿都库布": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0A/C4/B1/CghzgVW7IAmADUW6AABCA4axk04917.jpg",
+                "distanceStr": "距市中心61.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/69098741.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "切刀哈日": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0B/C4/B0/CghzgVW7H_uAYZlqAAAxbqRlqeE036.jpg",
+                "distanceStr": "距市中心91.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/69099185.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴润扎哈乌素": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0A/C4/B1/CghzgVW7IAmADUW6AABCA4axk04917.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/69102255.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小白山南": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0B/C4/B0/CghzgVW7H_uAYZlqAAAxbqRlqeE036.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/69103407.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "绍布格日乌拉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0B/C4/B0/CghzgVW7H_uAYZlqAAAxbqRlqeE036.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/69130169.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈林济格达": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0A/C4/B1/CghzgVW7IAmADUW6AABCA4axk04917.jpg",
+                "distanceStr": "距市中心51.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/83067405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杭盖音嘎顺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0A/C4/B1/CghzgVW7IAmADUW6AABCA4axk04917.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/83315574.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳旗老年活动中心": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143287917.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额木讷高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143320877.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙吉音高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心25.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143324508.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "呼吉日图音浩特格日": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143691035.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赛音乌素图呼都格": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143714223.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石缘堂": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/143732489.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "考克新高郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心487m",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124122.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "马特格日音高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心36.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124135.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "色日陶来音高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124147.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "劳动渠": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124153.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "毛呼日淖尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124155.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "班巴嘎日音高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心11.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124163.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "查干淖尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心58.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124165.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额济纳高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124166.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰淖尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124198.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赛汉高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心35.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124699.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昂茨音高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124711.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦德郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心46.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ejinbanner2973/144124714.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

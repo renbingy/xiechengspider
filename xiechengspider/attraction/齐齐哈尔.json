@@ -1,0 +1,807 @@
+{
+    "黑龙江": {
+        "齐齐哈尔": {
+            "扎龙生态旅游区": {
+                "commentCount": 2818,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000f6sd34a197D.jpg",
+                "distanceStr": "距市中心30.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/17440.html?scene=online",
+                "isFree": false,
+                "price": 73.0
+            },
+            "龙沙动植物园": {
+                "commentCount": 1417,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000f6t611eDF6B.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1413223.html?scene=online",
+                "isFree": false,
+                "price": 93.0
+            },
+            "水师森林公园": {
+                "commentCount": 19,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z12000f6tt8h30BD6.jpg",
+                "distanceStr": "距市中心13.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/51222.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "水师森林温泉度假区": {
+                "commentCount": 243,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g5/M01/B6/3F/CggYsVchgcuAe4W5AAE8-YStd5E335.jpg",
+                "distanceStr": "距市中心13.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1913650.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "齐齐哈尔博物馆": {
+                "commentCount": 239,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f6ppq6kD0CE.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1832967.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "黑龙江督军署": {
+                "commentCount": 109,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q12000b9dy9r822B2.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/136080.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "明月岛": {
+                "commentCount": 34,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000f6rl08dBF97.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5069021.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙沙公园": {
+                "commentCount": 384,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000f6pq1jk4133.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/17444.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "奥悦碾子山国际滑雪场": {
+                "commentCount": 32,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c120009rbvarfEAB8.jpg",
+                "distanceStr": "距市中心83.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/4281376.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "鹤城欢乐世界": {
+                "commentCount": 17,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q120008xeyp7s223E.jpg",
+                "distanceStr": "距市中心6.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5715663.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北纬47度城市温泉家园": {
+                "commentCount": 103,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gsqgtEC3C.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/2504676.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑龙江将军府": {
+                "commentCount": 9,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000f6sfhhk66A4.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/136081.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "欢乐谷亲子游乐园": {
+                "commentCount": 8,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6rw1skB9EC.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/141042049.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "罗西亚大街历史文化街区": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6v12000aqx10pfB16A.jpg",
+                "distanceStr": "距市中心22.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5066790.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "爱之城温泉水世界": {
+                "commentCount": 20,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q1c000001d5w6r724F.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5554439.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "齐齐哈尔市鹤城公园": {
+                "commentCount": 32,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01013120009hbp3jcB235.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/133554379.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昂昂溪遗址": {
+                "commentCount": 17,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000f6sfqxlE41A.jpg",
+                "distanceStr": "距市中心24.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/138275.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大乘寺": {
+                "commentCount": 77,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101412000f6tt2xq404C.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/51175.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "望江楼": {
+                "commentCount": 24,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1312000ei7tmusCB26.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/138308.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "齐齐哈尔国家森林公园": {
+                "commentCount": 37,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000azqawkiE244.jpg",
+                "distanceStr": "距市中心36.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1832983.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泰湖": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l120008qjf1svA70A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tailai1445983/1833952.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "碾子山雅鲁河漂流": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n12000f6tbk173425.jpg",
+                "distanceStr": "距市中心84.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/3398928.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "观鹤台扎龙湿地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y12000det2w8x94EE.jpg",
+                "distanceStr": "距市中心29.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/143738005.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金凤凰温泉": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d120008bvjlltDD89.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/107333103.html?scene=online",
+                "isFree": false,
+                "price": 14.9
+            },
+            "嫩江公园": {
+                "commentCount": 11,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01073120009hp2me10ABD.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5066709.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "万达广场儿童水上乐园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1700000111uzb2F7E.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/4611560.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "和平广场": {
+                "commentCount": 7,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6r27boB290.jpg",
+                "distanceStr": "距市中心663m",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5069025.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "劳动湖": {
+                "commentCount": 42,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x120009dok1lz61B4.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1714664.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昂昂溪遗址博物馆": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i120009ii6y5s03E3.jpg",
+                "distanceStr": "距市中心24.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1829335.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红岸公园": {
+                "commentCount": 73,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120008s7lcj15DA7.jpg",
+                "distanceStr": "距市中心26.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/51232.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黑龙江省碾子山地质公园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c120008iztrhhEADE.jpg",
+                "distanceStr": "距市中心79.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/4611576.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "扎龙国家级自然保护区-博物馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000f6qj2a78C45.jpg",
+                "distanceStr": "距市中心29.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145381042.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "圣弥勒大教堂": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000f6u52eeD2BE.png",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5067143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华安军工文化园": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000c3y8s2f736B.jpg",
+                "distanceStr": "距市中心77.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/136331724.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "关帝庙": {
+                "commentCount": 42,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e12000bbdllx24C89.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/136078.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雨亭公园": {
+                "commentCount": 49,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000f6qb1ipB73A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nehe2229/51220.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "齐齐哈尔哈拉新村": {
+                "commentCount": 9,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000967od645579.png",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1714721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "齐齐哈尔市马戏团": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A011c000001de4sf2108.jpg",
+                "distanceStr": "距市中心858m",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/2205999.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浏园": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000auh9cmlF470.jpg",
+                "distanceStr": "距市中心754m",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/18471325.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "奥悦水世界": {
+                "commentCount": 40,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u120009px516c6502.png",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/2485537.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辽金古城遗址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6a12000a09pckv0092.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tailai1445983/5067878.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梅里斯湖风景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01068120009m31dsdE852.png",
+                "distanceStr": "距市中心12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/69575541.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "明月岛滑雪场": {
+                "commentCount": 4,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g1200087h68ao21E1.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5705521.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "连环湖国际温泉旅游度假区": {
+                "commentCount": 146,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a0x000000l3m691EB4.jpg",
+                "distanceStr": "距齐齐哈尔67.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodcounty2231/134312.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "江桥抗战纪念馆": {
+                "commentCount": 47,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120008s79uor100C.jpg",
+                "distanceStr": "距市中心66.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tailai1445983/1412431.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "查罕诺村": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o12000f6uhy4u4FEB.jpg",
+                "distanceStr": "距市中心15.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/130368888.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大庆北国温泉": {
+                "commentCount": 202,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000f6tu8d176B6.jpg",
+                "distanceStr": "距齐齐哈尔74.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lindian2219/134330.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "吕氏旧居": {
+                "commentCount": 8,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000b5preudE852.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/4600336.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "毛岸青纪念馆": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w12000f6tcndr1AC3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/keshan2244/4600317.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "水师森林公园-冰川水世界": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh2i12000f3kqs6uE146.jpg",
+                "distanceStr": "距市中心12.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145470313.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五大连池": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145513315.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "明月岛风景名胜区-丹顶鹤": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q12000ewhvm4a1501.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145568731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "兴安山风景区": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000b6ykdqj5214.jpg",
+                "distanceStr": "距市中心83.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/51224.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "嘎布喀大草原风景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心79.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nehe2229/145602503.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "讷河市博物馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000auh8b6vC200.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nehe2229/5704552.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丹顶鹤冰雪梦幻王国": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7312000d94fxol07B8.jpg",
+                "distanceStr": "距市中心446m",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/144301701.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "侵华日军第516部队遗址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i12000f0ay2nk9194.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145627421.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "依安植物园": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071900000189lrq10C3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yian2242/4600315.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "发现王国": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106212000f6l8nhe910A.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145519666.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鹤乡龙瓷体验馆": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01064120009i3azxq8E05.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/134041644.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "二克山": {
+                "commentCount": 21,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010631200092lor5wA584.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/kedong2241/51235.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雅鲁河": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c120009dcz0024464.jpg",
+                "distanceStr": "距市中心86.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/51176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "音河水库": {
+                "commentCount": 14,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t120008cs118jB830.jpg",
+                "distanceStr": "距市中心76.3km",
+                "detailUrl": "https://you.ctrip.com/sight/gannancounty120035/51221.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清真寺(鑫海家园)": {
+                "commentCount": 32,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww2v120009laqzcx8CF0.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/17441.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "普渡寺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1h000001hnkf4DE0E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nehe2229/4612512.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蛇洞山": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6012000f37aib56420.jpg",
+                "distanceStr": "距市中心83.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145307016.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金长城遗址公园": {
+                "commentCount": 10,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f120009ebtzhnAE8E.jpg",
+                "distanceStr": "距市中心86.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/136086.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万善宫": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000f6i5j8w032A.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/1714717.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "如意阁": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106412000f6l3fpn113A.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145371191.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大庆石油馆": {
+                "commentCount": 98,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c120008e23vlrE90F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/daqing531/3152990.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "丹丹的森林奇艺之旅": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh4112000f3l37hd2D95.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145302106.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙腾生态温泉度假庄园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000flbtjjuF9CE.png",
+                "distanceStr": "距市中心46.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/140960414.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "学府美食步行街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww62120009c6s44e3FF7.jpg",
+                "distanceStr": "距市中心955m",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5168747.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "富裕县乌裕尔河湿地公园": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000axoyah9FF8B.jpg",
+                "distanceStr": "距市中心45.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyu1445985/4573303.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "兴十四村": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01055120009qrx8rd3A08.png",
+                "distanceStr": "距市中心59.7km",
+                "detailUrl": "https://you.ctrip.com/sight/gannancounty120035/138315.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "齐齐哈尔云祥射击场": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh2012000f3eyogb1E6B.jpg",
+                "distanceStr": "距市中心77.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145727152.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "库勒湾旅游度假区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6k12000ej53abb7EA9.jpg",
+                "distanceStr": "距市中心62.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/140960723.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雅鲁河国家湿地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000f4sqntt0C8F.jpg",
+                "distanceStr": "距市中心81.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145593233.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "道德院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0312000f1eqxgf66F3.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145351375.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "尼尔基斯湖大架山滑雪场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d12000a4m2lcxEFC1.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nehe2229/2641605.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "齐齐哈尔市科技馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000d7tmfm93951.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/3993826.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重山园": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s12000a50ef8r4DE3.jpg",
+                "distanceStr": "距市中心79.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/5069023.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杜尔伯特草原": {
+                "commentCount": 21,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000f6rc0ne00F2.jpg",
+                "distanceStr": "距齐齐哈尔67.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dorbodcounty2231/50718.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黑龙江省龙江剧院(龙江分院)": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000cz6q1pt2C9A.jpg",
+                "distanceStr": "距市中心55.3km",
+                "detailUrl": "https://you.ctrip.com/sight/longjiang1445991/3679539.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鹤鸣湖湿地温泉度假区": {
+                "commentCount": 85,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031g000001hjw39774F.png",
+                "distanceStr": "距齐齐哈尔47.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lindian2219/142003.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "鹤泉园": {
+                "commentCount": 26,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090x000000l6nn9441D.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/51234.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹤城公园主题游乐园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/145832089.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泰来县博物馆": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1a0000018ppf3A506.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tailai1445983/2684788.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "波波笑剧场-齐齐哈尔店": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000d102mmc05AA.png",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qiqihar395/133824993.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,816 @@
+{
+    "广东": {
+        "丹霞山": {
+            "丹霞山": {
+                "commentCount": 6257,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l1200048mguv521D1.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/1408735.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "丹霞山索道": {
+                "commentCount": 201,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h12000b8d3kndBD8E.jpg",
+                "distanceStr": "距市中心873m",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/69257565.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "水上丹霞": {
+                "commentCount": 453,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0v000000jspj5F415.jpg",
+                "distanceStr": "距市中心742m",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/1409097.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "帽子峰旅游景区": {
+                "commentCount": 863,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001grzz9A091.jpg",
+                "distanceStr": "距丹霞山49.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nanxiong2921/1714914.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "云门山旅游度假区": {
+                "commentCount": 2027,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1h000001ht7gxB033.jpg",
+                "distanceStr": "距丹霞山49.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ruyuan2937/1990753.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "阴元石": {
+                "commentCount": 51,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000f6t50pe9B5B.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/131361.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莽山五指峰景区": {
+                "commentCount": 1250,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000csmsuxdB81A.jpg",
+                "distanceStr": "距丹霞山78.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yizhang2861/5679393.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "阳元山": {
+                "commentCount": 100,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqxgzC23E.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/110192.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汝城温泉福泉汤谷": {
+                "commentCount": 583,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c090000004bvk93E4A.jpg",
+                "distanceStr": "距丹霞山56.9km",
+                "detailUrl": "https://you.ctrip.com/sight/rucheng2852/135258.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丹霞丰源温泉度假村": {
+                "commentCount": 52,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01032120008lwvpp39D73.jpg",
+                "distanceStr": "距丹霞山31.9km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/67835200.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长老峰景区": {
+                "commentCount": 48,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0b14000000w7fe30D9D.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/1730700.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九龙江国家森林公园": {
+                "commentCount": 362,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040r000000hbs2i2884.jpg",
+                "distanceStr": "距丹霞山38.5km",
+                "detailUrl": "https://you.ctrip.com/sight/rucheng2852/140900.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东江湖旅游区": {
+                "commentCount": 4953,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6qv2c3DE6C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zixing1570/16641.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "丹霞灵溪森林度假景区": {
+                "commentCount": 60,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350j160000010o06d452B.jpg",
+                "distanceStr": "距丹霞山16.3km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/1714848.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "丹霞山翔龙湖": {
+                "commentCount": 42,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h38suD9CD.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/4730361.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "高椅岭旅游区": {
+                "commentCount": 2216,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1800000148z1dFB78.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chenzhou336/1714278.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "南华禅寺": {
+                "commentCount": 614,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g6/M04/C1/7D/CggYtFc6hRCAP_oxACiPaeuStjE858.jpg",
+                "distanceStr": "距丹霞山45.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/11562.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "珠玑古巷": {
+                "commentCount": 472,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gopel6FFF.jpg",
+                "distanceStr": "距丹霞山63.5km",
+                "detailUrl": "https://you.ctrip.com/sight/nanxiong2921/11568.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "仰天湖大草原": {
+                "commentCount": 1382,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gqar6437C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chenzhou336/16637.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "百年东街": {
+                "commentCount": 69,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01037120009cumegh2DCF.jpg",
+                "distanceStr": "距丹霞山29.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/1730863.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "小东江景区": {
+                "commentCount": 223,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000f6pti23764B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zixing1570/5140856.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莽山旅游区(西门)": {
+                "commentCount": 524,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000ffhqdra228D.jpg",
+                "distanceStr": "距丹霞山87.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yizhang2861/16640.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "巴寨景区": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2y120009gwb6j19270.png",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/69342741.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳元石景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102n12000ghgrxfa5169.jpg",
+                "distanceStr": "距市中心961m",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/145232826.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "曹溪温泉度假村": {
+                "commentCount": 202,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6h12000e918ia8A73F.jpg",
+                "distanceStr": "距丹霞山44.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/50237.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "快乐東方·温泉旅行度假村": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101p12000f6raogd8AA6.jpg",
+                "distanceStr": "距丹霞山46.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shixing2945/142155716.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华南虎园": {
+                "commentCount": 32,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0r12000cvdepg96B04.jpg",
+                "distanceStr": "距丹霞山32.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/20281.html?scene=online",
+                "isFree": false,
+                "price": 19.9
+            },
+            "经律论文化旅游小镇": {
+                "commentCount": 223,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z120008s7j2rpB533.jpg",
+                "distanceStr": "距丹霞山40.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/1790241.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "细美寨": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000b82limr68F3.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/5709531.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梅关古道": {
+                "commentCount": 263,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000f6rbq34D96C.jpg",
+                "distanceStr": "距丹霞山67.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanxiong2921/11563.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "莽山森林温泉": {
+                "commentCount": 228,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103p12000a616k033610.jpg",
+                "distanceStr": "距丹霞山88.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yizhang2861/142181.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "韶关国家森林公园": {
+                "commentCount": 71,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01012120008yfob8kB7E5.jpg",
+                "distanceStr": "距丹霞山32.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/50230.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙门奇峡": {
+                "commentCount": 3974,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35041e000001f37ltA5AD.jpg",
+                "distanceStr": "距丹霞山83.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ruyuan2937/140613.html?scene=online",
+                "isFree": false,
+                "price": 76.0
+            },
+            "中国丹霞山世界地质公园-锦石岩寺": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1g000001hiony32FB.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/62042063.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "风采楼": {
+                "commentCount": 74,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x12000f6rba4i012E.jpg",
+                "distanceStr": "距丹霞山29.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/11586.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "牛鼻村": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000b5qo7gc5B4B.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/1714849.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海豹石": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103312000b0nkjm87FAC.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/5709583.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "飞天山国家地质公园": {
+                "commentCount": 535,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5712000fk13xv6B2A0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chenzhou336/17983.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "古佛洞天": {
+                "commentCount": 71,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6qjtk73F63.jpg",
+                "distanceStr": "距丹霞山41.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lechang957/11559.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "马坝人遗址": {
+                "commentCount": 43,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6912000a169ukp7CD2.jpg",
+                "distanceStr": "距丹霞山44.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/11602.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广东大峡谷": {
+                "commentCount": 1395,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000g4mosd2D97D.jpg",
+                "distanceStr": "距丹霞山85.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ruyuan2937/17621.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "韶关通天塔": {
+                "commentCount": 17,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000f6r5mrk9D1E.jpg",
+                "distanceStr": "距丹霞山31.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/5554425.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "韶阳楼": {
+                "commentCount": 32,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000f6snlgj50D1.jpg",
+                "distanceStr": "距丹霞山32.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/1969857.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "韶关南岭红沙漠景区": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000nwgp720A1.jpg",
+                "distanceStr": "距丹霞山37.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shixing2945/133891819.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南武当山景区": {
+                "commentCount": 657,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k1e000001f22x26E49.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/4380343.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "丹霞山-竹筏": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh3x12000b1qt09u11C1.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/135453320.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "观音送子": {
+                "commentCount": 6,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000d7mjmofB68D.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/5709409.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汤溪四合院温泉": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5b12000b6ycmp304C8.jpg",
+                "distanceStr": "距丹霞山35.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/136667317.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "苏仙岭": {
+                "commentCount": 383,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p0x000000l6v4f6A1E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chenzhou336/16639.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广东第一峰旅游风景区": {
+                "commentCount": 792,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103p12000f6qviw0E2D1.jpg",
+                "distanceStr": "距丹霞山88.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshancounty1142/20466.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "张九龄纪念公园": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010191200099cd2m20A2C.jpg",
+                "distanceStr": "距丹霞山41.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/133562135.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桃源梯田": {
+                "commentCount": 137,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010621200085l4wma9AD2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/suichuan2418/100016735.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丹霞山博物馆": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000857bo5p8359.jpg",
+                "distanceStr": "距市中心437m",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/3226801.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "江南宋城历史文化旅游区": {
+                "commentCount": 457,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c1200093ln916B003.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5718511.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "裕后街": {
+                "commentCount": 20,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071g000001hh3mr0805.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chenzhou336/2020006.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "连州地下河": {
+                "commentCount": 3226,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040q000000ga6c452BB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lianzhou1141/17609.html?scene=online",
+                "isFree": false,
+                "price": 103.0
+            },
+            "汤湖温泉": {
+                "commentCount": 172,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5v12000cqdkzdlE5BC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/suichuan2418/140587.html?scene=online",
+                "isFree": false,
+                "price": 87.0
+            },
+            "关西围景区": {
+                "commentCount": 233,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6zp41000.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/4383341.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "韶关市博物馆": {
+                "commentCount": 24,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww2a12000946fxd4E3BB.jpg",
+                "distanceStr": "距丹霞山33.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/1833377.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣州方特东方欲晓": {
+                "commentCount": 3312,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01065120008ovcgjeA3F5.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/112655285.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "睡美人": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000azq3hgxFF8E.jpg",
+                "distanceStr": "距市中心705m",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/5709589.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "通天岩": {
+                "commentCount": 990,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01026120009hl1t2lFA88.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/17568.html?scene=online",
+                "isFree": false,
+                "price": 27.5
+            },
+            "洞天仙境": {
+                "commentCount": 2539,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1k12000bexjad748D8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yingde962/135906.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "云冰山旅游景区": {
+                "commentCount": 445,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h120008e3qv9j765E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/lanshan2834/5382348.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳明心谷景区": {
+                "commentCount": 10,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2d12000bvx0i72E36B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/140898148.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "玄机台": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z12000d7owuh28463.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/5709542.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清远宝晶宫国际旅游度假区": {
+                "commentCount": 3136,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqwtyA2E1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yingde962/17617.html?scene=online",
+                "isFree": false,
+                "price": 73.0
+            },
+            "七鲤古镇度假区": {
+                "commentCount": 423,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1812000c6lztmx705D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/140808930.html?scene=online",
+                "isFree": false,
+                "price": 34.9
+            },
+            "千年瑶寨": {
+                "commentCount": 7063,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1512000ewa3cjs0784.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/liannan2941/1409681.html?scene=online",
+                "isFree": false,
+                "price": 103.0
+            },
+            "必背瑶寨": {
+                "commentCount": 25,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120009d3ro2vF48E.jpg",
+                "distanceStr": "距丹霞山47.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ruyuan2937/11588.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "韶关时光隧道": {
+                "commentCount": 29,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v120009dln5kh9A9D.jpg",
+                "distanceStr": "距丹霞山46.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoguan222/2479301.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "从化碧水湾温泉": {
+                "commentCount": 3711,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2d12000b0r7vddD1CA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1402174.html?scene=online",
+                "isFree": false,
+                "price": 179.0
+            },
+            "峰林晓镇": {
+                "commentCount": 1371,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4012000h5ht57s5B7B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yingde962/2016031.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "炎帝陵": {
+                "commentCount": 315,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grw9fB488.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yanling2860/48576.html?scene=online",
+                "isFree": false,
+                "price": 59.0
+            },
+            "赣州极地海洋世界": {
+                "commentCount": 767,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000d2n3aq4B8BA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/4711345.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "姐妹峰": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0z000000njaxq0585.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/98281247.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白水寨风景名胜区": {
+                "commentCount": 5482,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020s000000hqzdm8FA3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/140555.html?scene=online",
+                "isFree": false,
+                "price": 56.0
+            },
+            "岭南红叶世界": {
+                "commentCount": 24,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3r12000d94pbcp6E38.jpg",
+                "distanceStr": "距丹霞山98.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xinfeng1445183/5715561.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "狮子岩庙遗址": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v15000000yb3xxBC65.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/4596132.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三百山景区": {
+                "commentCount": 819,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q12000f6qb3md1755.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/anyuan2381/17574.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "新丰县云髻山景区": {
+                "commentCount": 84,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grig6B632.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xinfeng1445183/51311.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "古龙峡": {
+                "commentCount": 749,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6412000erztxtzC17D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/qingyuan517/5139702.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "熹乐谷温泉度假区": {
+                "commentCount": 18,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b120009f6dq0b34D7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fogang2935/133975942.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙居岩道观": {
+                "commentCount": 7,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e120008aujbtw87AA.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/4803957.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国红石公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000ghmcr9zA1DF.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/144168028.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "虔心小镇": {
+                "commentCount": 150,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0512000gdxdy13CB74.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/4733368.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "龟裂填充岩楔": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j120008b7bnjtF307.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/renhua959/4587724.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "井冈山": {
+                "commentCount": 2211,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350l15000000y6zrc8128.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jinggangshan171/137657.html?scene=online",
+                "isFree": false,
+                "price": 145.0
+            },
+            "森林海嬉水乐园": {
+                "commentCount": 515,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5p12000bi6bfh51D65.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5707848.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "南昆山云顶温泉": {
+                "commentCount": 2966,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000f6qx4opE70A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longmen2949/1407154.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            }
+        }
+    }
+}

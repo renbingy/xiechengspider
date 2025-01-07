@@ -1,0 +1,798 @@
+{
+    "黑龙江": {
+        "哈尔滨": {
+            "哈尔滨冰雪大世界": {
+                "commentCount": 29948,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3y12000h4qso528678.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/20017.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东北虎林园": {
+                "commentCount": 6207,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102t12000f6trxe5E30D.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7707.html?scene=online",
+                "isFree": false,
+                "price": 105.0
+            },
+            "松花江观光索道": {
+                "commentCount": 4971,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6m12000fmztpfm188F.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/113617.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "伏尔加庄园": {
+                "commentCount": 3195,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000adjeg722AB4.jpg",
+                "distanceStr": "距市中心22.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/91334.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "哈尔滨极地公园·极地馆": {
+                "commentCount": 2154,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4b12000cm1ndhwBA69.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/106021661.html?scene=online",
+                "isFree": false,
+                "price": 193.0
+            },
+            "哈尔滨极地公园": {
+                "commentCount": 1030,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1j12000gvf07n7E0E0.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/106022509.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太阳岛风景区": {
+                "commentCount": 2144,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0y000000lwabz98EA.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7700.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "圣索菲亚大教堂": {
+                "commentCount": 5423,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000ng5sn3ED6.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7705.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "哈尔滨索菲亚广场": {
+                "commentCount": 153,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs0yh92E9.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/2002558.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中央大街": {
+                "commentCount": 6940,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w14000000x603fA358.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7712.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚布力滑雪旅游度假区": {
+                "commentCount": 268,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqgk5407A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/7701.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚布力阳光度假村滑雪场": {
+                "commentCount": 721,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0r000000hed5r5B60.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/136123.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "波塞冬旅游度假区": {
+                "commentCount": 1967,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p1200046etgosAB6F.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/2023826.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "波塞冬海底世界": {
+                "commentCount": 1243,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3w12000b75o8kt40D4.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5246353.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "龙塔": {
+                "commentCount": 2542,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101x12000af80kmgD3C3.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/21089.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "哈尔滨天恒山滑雪场": {
+                "commentCount": 154,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x1200087fzto0F932.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5705459.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "哈尔滨滑雪圈": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i1b000001a3hh62A2E.jpg",
+                "distanceStr": "黑龙江",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/0.html?poiId=148483098",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨滑雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000adjeg1z68FB.jpg",
+                "distanceStr": "黑龙江",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/0.html?poiId=148473890",
+                "isFree": false,
+                "price": ""
+            },
+            "哈药六版画博物馆": {
+                "commentCount": 342,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000f6ux7ft98EB.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/148457657.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "哈尔滨冰雪大世界梦幻冰雪馆": {
+                "commentCount": 165,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100412000engye56C434.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/148464433.html?scene=online",
+                "isFree": false,
+                "price": 263.0
+            },
+            "亚布力新体委滑雪场": {
+                "commentCount": 1379,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106912000f6tvssqC5DC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/136126.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "哈尔滨融创乐园": {
+                "commentCount": 4289,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106j120001enu2e36505.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/2016603.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨融创文旅城": {
+                "commentCount": 29,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01030120008i378qs06C9.jpg",
+                "distanceStr": "距市中心12.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/115987053.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈尔滨热雪奇迹": {
+                "commentCount": 2278,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106712000a3wz8bq88D9.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/2481179.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "哈尔滨雪橇体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0304p120008c8hkfaDB55.jpg",
+                "distanceStr": "黑龙江",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/0.html?poiId=148488406",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨极地公园·海洋馆": {
+                "commentCount": 6636,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o120009ddn56d0E8E.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/48182.html?scene=online",
+                "isFree": false,
+                "price": 125.0
+            },
+            "松花江": {
+                "commentCount": 1896,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i12000000skvaoBD2C.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7715.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈尔滨冰雕展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w0r000000hj291C4D0.jpg",
+                "distanceStr": "黑龙江",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/0.html?poiId=148892932",
+                "isFree": false,
+                "price": ""
+            },
+            "俄罗斯风情小镇": {
+                "commentCount": 823,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000f6q5e1t6B54.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/138288.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "侵华日军第七三一部队罪证陈列馆": {
+                "commentCount": 204,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp35qAF59.jpg",
+                "distanceStr": "距市中心16.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7710.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中华巴洛克风情街": {
+                "commentCount": 267,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6wy680D0.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/2028281.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "帽儿山滑雪场": {
+                "commentCount": 144,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqxko878A.jpg",
+                "distanceStr": "距市中心84.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/1486543.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银河欢乐世界": {
+                "commentCount": 89,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5y12000cmhc2mb8940.jpg",
+                "distanceStr": "距市中心12.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/142254713.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "亚布力滑雪": {
+                "commentCount": 141,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1y12000f1vlvl419B5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/148839884.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨大剧院": {
+                "commentCount": 232,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6u0spd51F0.jpg",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1998814.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "枫叶小镇温泉度假区": {
+                "commentCount": 305,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gqbnw8B44.jpg",
+                "distanceStr": "距市中心15.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5079350.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "斯大林公园": {
+                "commentCount": 279,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c120009zdd79d8CF5.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7703.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚布力森林温泉": {
+                "commentCount": 338,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp2dmD614.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/2003565.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "雪谷": {
+                "commentCount": 218,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010371200085xkhj5C4A2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchang2237/132768.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈尔滨外滩雪人码头": {
+                "commentCount": 256,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000aas9np99B38.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5079364.html?scene=online",
+                "isFree": false,
+                "price": 298.0
+            },
+            "波塞冬沙滩水世界": {
+                "commentCount": 1010,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01002120008dp0f91EE86.jpg",
+                "distanceStr": "距市中心14.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/4446743.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑龙江德云社": {
+                "commentCount": 228,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000fusj5p304E0.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1815328.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑龙江省博物馆": {
+                "commentCount": 284,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000f6t2h67B6E9.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7907.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈药集团制药六厂": {
+                "commentCount": 8,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6z12000e8ohd6y81F8.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/136060684.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨工业大学": {
+                "commentCount": 58,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gon560808.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5065390.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香炉山国家森林公园": {
+                "commentCount": 728,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000gzkd9d13518.jpg",
+                "distanceStr": "距市中心72.0km",
+                "detailUrl": "https://you.ctrip.com/sight/bincounty2223/113618.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "防洪纪念塔": {
+                "commentCount": 657,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070z000000npvos2A49.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/7708.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚布力熊猫馆": {
+                "commentCount": 199,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120008i92d9q03ED.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/2017774.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "太阳岛雪博会": {
+                "commentCount": 2269,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2b12000ct75cnx5D3C.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/113685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨博物馆": {
+                "commentCount": 53,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105712000f6tatyd4019.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/3393016.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "太阳岛冰雪艺术馆": {
+                "commentCount": 135,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h12000h0jb2l58DB9.jpg",
+                "distanceStr": "距市中心5.4km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/134254.html?scene=online",
+                "isFree": false,
+                "price": 195.0
+            },
+            "哈尔滨刘老根大舞台": {
+                "commentCount": 8,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1i12000cpwvvr78F0D.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/143245750.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "龙江大舞台（旗舰店）": {
+                "commentCount": 46,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120008pftla5B10C.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5681496.html?scene=online",
+                "isFree": false,
+                "price": 238.0
+            },
+            "大江户汤池(金爵万象店)": {
+                "commentCount": 50,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120008hdbvprC1E3.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/115615960.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "凤凰山国家森林公园": {
+                "commentCount": 323,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6u12000dtxswyp07BC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchang2237/1675916.html?scene=online",
+                "isFree": false,
+                "price": 63.0
+            },
+            "松花江铁路桥": {
+                "commentCount": 192,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u120005lyn01g8D4C.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/109836.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中东铁路公园": {
+                "commentCount": 59,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000f6t98axEEB6.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1975295.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北方森林动物园": {
+                "commentCount": 949,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/269/636/651/aeaa2b25948b4921b251f8f52de3c79b.jpg",
+                "distanceStr": "距市中心54.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/140851.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "帽儿山风景区": {
+                "commentCount": 382,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7112000b86cqc621E4.jpg",
+                "distanceStr": "距市中心90.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/145471.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪乡十里冰雪画廊": {
+                "commentCount": 11,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000b8knhtz81C8.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchang2237/5700684.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨师大夜市": {
+                "commentCount": 55,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000f6qqomw0AD8.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5592365.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈尔滨世界欢乐城": {
+                "commentCount": 144,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d1200082ojtyn5153.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5710677.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨工业大学航天馆": {
+                "commentCount": 54,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4h120009x50v3d028E.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1675088.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "果戈里大街": {
+                "commentCount": 402,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107412000f6tughmF840.jpg",
+                "distanceStr": "距市中心835m",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/145532.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈尼动物园": {
+                "commentCount": 80,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200083xl9oc2A9E.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5712716.html?scene=online",
+                "isFree": false,
+                "price": 47.0
+            },
+            "尚志滑雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2s120008b9s1tc53DB.jpg",
+                "distanceStr": "哈尔滨",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/0.html?poiId=149275354",
+                "isFree": false,
+                "price": ""
+            },
+            "海豚堡温泉水乐园": {
+                "commentCount": 126,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r120009ar3yxq13FD.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5715816.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "哈尔滨松花江冰雪嘉年华": {
+                "commentCount": 11,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000agraiom5DF6.png",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5078356.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚布力森林小火车": {
+                "commentCount": 78,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o1200089k7cr59D27.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/1479395.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宾县英杰温泉": {
+                "commentCount": 298,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350l12000000rovzf96BF.jpg",
+                "distanceStr": "距市中心56.1km",
+                "detailUrl": "https://you.ctrip.com/sight/bincounty2223/1408905.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "英杰风景区": {
+                "commentCount": 7,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01015120008ouyuhpFDE1.jpg",
+                "distanceStr": "距市中心56.6km",
+                "detailUrl": "https://you.ctrip.com/sight/bincounty2223/1675921.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "亚布力虎峰岭风景区": {
+                "commentCount": 44,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000f9vk0c7872F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/1683212.html?scene=online",
+                "isFree": false,
+                "price": 32.0
+            },
+            "平山神鹿旅游区": {
+                "commentCount": 327,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01063120009hzq5k9CE13.jpg",
+                "distanceStr": "距市中心76.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/142064.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【哈尔滨】王齐铭·刀脚·揽佬孟菲斯联合专场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000cf1paz9C289.png",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/149576787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "“林都号”旅游列车": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103312000enldcuc939A.jpg",
+                "distanceStr": "黑龙江",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/0.html?poiId=148472212",
+                "isFree": false,
+                "price": ""
+            },
+            "浴玺湾温泉水汇": {
+                "commentCount": 56,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000f6uo37v6B48.jpg",
+                "distanceStr": "距市中心21.0km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/140135664.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨极地公园·恐龙馆": {
+                "commentCount": 27,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c1200097ksxfkAD4F.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5719059.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "圣阿列克谢耶夫教堂": {
+                "commentCount": 158,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020z000000nvqwf64E9.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/145533.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平山神鹿滑雪场": {
+                "commentCount": 41,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000986so72F8D7.jpg",
+                "distanceStr": "距市中心76.0km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/25244.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "【哈尔滨】原创音乐剧《将进酒》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106o12000gnj73k28C63.png",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/149578771.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "普罗旺斯薰衣草庄园": {
+                "commentCount": 139,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0q000000gia2o8336.jpg",
+                "distanceStr": "距市中心23.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/2486462.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天恒山冰雪运动大世界": {
+                "commentCount": 27,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r10000000pd4o028FB.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/5099352.html?scene=online",
+                "isFree": false,
+                "price": 155.0
+            },
+            "黑龙江虎林园国际马戏城": {
+                "commentCount": 46,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000f6qz65001BE.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1791309.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "侵华日军第七三一部队遗址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103r12000f6tru6v1A81.jpg",
+                "distanceStr": "距市中心16.5km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/145252308.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "亚布力世界第一滑道": {
+                "commentCount": 64,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2i12000elbz9h12110.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shangzhi853/134259.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "霜雪滑雪场": {
+                "commentCount": 40,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t1200087g0wmvB665.jpg",
+                "distanceStr": "距市中心54.1km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1509823.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔滨世纪汽车历史博物馆": {
+                "commentCount": 53,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000f6t66zmF90E.jpg",
+                "distanceStr": "距市中心47.0km",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/1675706.html?scene=online",
+                "isFree": false,
+                "price": 59.0
+            },
+            "哈尔滨冰钓": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1q12000cusxmtgC13B.png",
+                "distanceStr": "黑龙江",
+                "detailUrl": "https://you.ctrip.com/sight/harbin151/0.html?poiId=148487164",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

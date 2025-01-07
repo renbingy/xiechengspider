@@ -1,0 +1,753 @@
+{
+    "陕西": {
+        "渭南": {
+            "华山": {
+                "commentCount": 41631,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0u000000j3fyv47C7.jpg",
+                "distanceStr": "距市中心51.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/136698.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "华山西峰索道": {
+                "commentCount": 1705,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t1200087e1l745781.jpg",
+                "distanceStr": "距市中心48.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/142318.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "华山北峰索道": {
+                "commentCount": 425,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f120008y6cd1tACD0.jpg",
+                "distanceStr": "距市中心54.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/5629354.html?scene=online",
+                "isFree": false,
+                "price": 43.0
+            },
+            "西峰": {
+                "commentCount": 869,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s12000f6prskd2670.jpg",
+                "distanceStr": "距市中心52.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/7259.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦始皇帝陵博物院(兵马俑)": {
+                "commentCount": 106951,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000f6rbl4996B9.jpg",
+                "distanceStr": "距渭南24.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1444.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "党家村": {
+                "commentCount": 839,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000f6pryp4D248.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/54588.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "华清宫": {
+                "commentCount": 18205,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100510000000o6ke620CB.jpg",
+                "distanceStr": "距渭南31.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1443.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "韩城古城": {
+                "commentCount": 178,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000f6prl534F55.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/1830939.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潼关古城": {
+                "commentCount": 53,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx3i29079.jpg",
+                "distanceStr": "距市中心73.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tongguan2780/5382343.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西安城墙": {
+                "commentCount": 48119,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f120005q6fsy8B56A.jpg",
+                "distanceStr": "距渭南58.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1449.html?scene=online",
+                "isFree": false,
+                "price": 54.0
+            },
+            "华山北峰": {
+                "commentCount": 111,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v12000f6qrajs5E84.jpg",
+                "distanceStr": "距市中心51.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/99496915.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "司马迁祠景区": {
+                "commentCount": 752,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2y120008p1dso5B488.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/52659.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "少华山国家森林公园": {
+                "commentCount": 747,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01050120005m0n8nvE504.jpg",
+                "distanceStr": "距市中心29.7km",
+                "detailUrl": "https://you.ctrip.com/sight/weinan908/55321.html?scene=online",
+                "isFree": false,
+                "price": 54.0
+            },
+            "大唐芙蓉园": {
+                "commentCount": 23023,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v12000aqxg06r2685.jpg",
+                "distanceStr": "距渭南58.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/26184.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "西岳庙": {
+                "commentCount": 285,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t1900000182twp5231.jpg",
+                "distanceStr": "距市中心55.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/7267.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "西安钟楼": {
+                "commentCount": 14552,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j10000000oj84v8909.jpg",
+                "distanceStr": "距渭南58.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/52702.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "陕西历史博物馆": {
+                "commentCount": 28138,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k120006t7ckgl8C33.jpg",
+                "distanceStr": "距渭南59.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1446.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长空栈道": {
+                "commentCount": 566,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f1tu5tvD3A1.jpg",
+                "distanceStr": "距市中心52.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/54073.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大明宫国家遗址公园": {
+                "commentCount": 6567,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h396493C8.jpg",
+                "distanceStr": "距渭南55.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/52685.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "长安十二时辰主题街区": {
+                "commentCount": 3125,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107112000f6tl5jk805D.jpg",
+                "distanceStr": "距渭南59.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/133979300.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "大唐不夜城": {
+                "commentCount": 1494,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsxqd9E36.jpg",
+                "distanceStr": "距渭南59.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/130441.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大慈恩寺": {
+                "commentCount": 314,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y1200087cu6nt8303.jpg",
+                "distanceStr": "距渭南59.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/69154461.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西安世博园": {
+                "commentCount": 363,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l120007tacpkq5758.jpg",
+                "distanceStr": "距渭南45.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/140445.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西安千古情": {
+                "commentCount": 2657,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000arp9hxoE129.png",
+                "distanceStr": "距渭南45.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/5709479.html?scene=online",
+                "isFree": false,
+                "price": 278.0
+            },
+            "西安碑林博物馆": {
+                "commentCount": 7261,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h70jcC839.jpg",
+                "distanceStr": "距渭南58.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/140439.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "西安博物院": {
+                "commentCount": 2166,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g120009ge86862EFB.jpg",
+                "distanceStr": "距渭南59.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/52677.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "《驼铃传奇》秀": {
+                "commentCount": 1801,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpcr4259E.jpg",
+                "distanceStr": "距渭南47.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/4336373.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "华夏文旅西安度假区": {
+                "commentCount": 863,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqfx35077.jpg",
+                "distanceStr": "距渭南47.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/4384369.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "地建南山(华山)温泉": {
+                "commentCount": 13,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h120009z7lf6443D4.jpg",
+                "distanceStr": "距市中心54.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/135317009.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "西安鼓楼": {
+                "commentCount": 5421,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o10000000oik0e8128.jpg",
+                "distanceStr": "距渭南58.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1410344.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "回民街": {
+                "commentCount": 10378,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0811000000ra8pt1815.jpg",
+                "distanceStr": "距渭南58.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/54080.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "高家大院": {
+                "commentCount": 2603,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzoouEBC7.jpg",
+                "distanceStr": "距渭南58.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/73059.html?scene=online",
+                "isFree": false,
+                "price": 14.91
+            },
+            "钟鼓楼广场": {
+                "commentCount": 2004,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d1200086v5yc5AEC4.jpg",
+                "distanceStr": "距渭南58.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1476787.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梁带村芮国遗址博物馆": {
+                "commentCount": 30,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p0v000000js0zr1598.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/5590448.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "丰图义仓": {
+                "commentCount": 71,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0314000000wb8dj85DA.jpg",
+                "distanceStr": "距市中心64.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dali2748/1480381.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "苍龙岭": {
+                "commentCount": 153,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000ac5tpt99F6E.jpg",
+                "distanceStr": "距市中心53.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/10449.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西考古博物馆": {
+                "commentCount": 859,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b12000f6uiela360A.jpg",
+                "distanceStr": "距渭南71.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/133987592.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "曲江海洋极地公园": {
+                "commentCount": 4745,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0r000000hnipp2495.jpg",
+                "distanceStr": "距渭南58.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/52697.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "东峰(朝阳峰)": {
+                "commentCount": 249,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s12000f6scp3z77B5.jpg",
+                "distanceStr": "距市中心53.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/7256.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦岭野生动物园": {
+                "commentCount": 7390,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106412000aroov86FB9F.jpg",
+                "distanceStr": "距渭南77.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/73279.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "华山冰雪世界": {
+                "commentCount": 49,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01045120009yngwon480A.png",
+                "distanceStr": "距市中心54.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/133967686.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鹳雀楼": {
+                "commentCount": 1736,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b120008k3ksg03460.jpg",
+                "distanceStr": "距渭南79.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yongji1772/51460.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "华夏文旅海洋公园": {
+                "commentCount": 3162,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1012000cmx09sp7689.jpg",
+                "distanceStr": "距渭南47.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/4336372.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "西安电影制片厂·西影电影博物馆": {
+                "commentCount": 499,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l12000f6s1ews9AC5.jpg",
+                "distanceStr": "距渭南58.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/5630404.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "陕西历史博物馆秦汉馆": {
+                "commentCount": 172,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0212000ctvfcnl84F2.jpg",
+                "distanceStr": "距渭南60.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyang632/143362467.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西安汉服体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gl39qF2DE.jpg",
+                "distanceStr": "陕西",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/0.html?poiId=149275327",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西自然博物馆": {
+                "commentCount": 1234,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000f6t5y6oB0F0.jpg",
+                "distanceStr": "距渭南61.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1476738.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "韩城市博物馆": {
+                "commentCount": 20,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0f12000br58hs3D035.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/5702783.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "华山国际滑雪场": {
+                "commentCount": 31,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwczhE41A.jpg",
+                "distanceStr": "距市中心57.3km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/1992608.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中华郡文化旅游景区": {
+                "commentCount": 37,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100312000f6pwnic7800.jpg",
+                "distanceStr": "距市中心36.3km",
+                "detailUrl": "https://you.ctrip.com/sight/fuping2771/5707694.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "华山御温泉": {
+                "commentCount": 107,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o0x000000kzvlk04B3.jpg",
+                "distanceStr": "距市中心41.3km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/130135.html?scene=online",
+                "isFree": false,
+                "price": 177.0
+            },
+            "骊山": {
+                "commentCount": 808,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103312000f6pml4fC2CF.jpg",
+                "distanceStr": "距渭南31.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/6087.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华山南峰": {
+                "commentCount": 93,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01061120001m3ata3038A.jpg",
+                "distanceStr": "距市中心52.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/7260.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西安半坡博物馆": {
+                "commentCount": 2089,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3o12000e2wv5qt74D7.png",
+                "distanceStr": "距渭南48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1441.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "洽川风景区": {
+                "commentCount": 134,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gdas0AE54.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/heyang1446142/140427.html?scene=online",
+                "isFree": false,
+                "price": 24.0
+            },
+            "西安城市观光车": {
+                "commentCount": 222,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j120009kel3sf38B7.jpg",
+                "distanceStr": "距渭南58.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/134049933.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "小雁塔(荐福寺)": {
+                "commentCount": 1587,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t12000f6sdcnr0148.jpg",
+                "distanceStr": "距渭南59.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/5418.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "终南山南五台景区": {
+                "commentCount": 766,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000aerimmq889E.jpg",
+                "distanceStr": "距渭南72.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/6099.html?scene=online",
+                "isFree": false,
+                "price": 24.46
+            },
+            "玉泉院": {
+                "commentCount": 114,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6t27ikC350.jpg",
+                "distanceStr": "距市中心52.6km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/7265.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中峰": {
+                "commentCount": 66,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105u12000f6rapym71E4.jpg",
+                "distanceStr": "距市中心53.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/7263.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古城三庙": {
+                "commentCount": 74,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0f12000br58hs3D035.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/1407332.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "鹞子翻身": {
+                "commentCount": 81,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000f6sgz3gEDF2.jpg",
+                "distanceStr": "距市中心53.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/54120.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "永兴坊": {
+                "commentCount": 441,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1d000001ejpmr13FC.jpg",
+                "distanceStr": "距渭南56.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/3884326.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汉阳陵国家考古遗址公园": {
+                "commentCount": 1416,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1c000001dihi71020.jpg",
+                "distanceStr": "距渭南51.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jingyang2749/140438.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "秦始皇帝陵博物院-丽山园": {
+                "commentCount": 662,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q12000f6ts48xCF15.jpg",
+                "distanceStr": "距渭南26.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/5420.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中华郡圣温泉": {
+                "commentCount": 58,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gwtlj5610.jpg",
+                "distanceStr": "距市中心36.5km",
+                "detailUrl": "https://you.ctrip.com/sight/fuping2771/5611355.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "华威滑道": {
+                "commentCount": 5,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q12000f6qqrun3667.png",
+                "distanceStr": "距市中心48.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huayin476/69100298.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "翠华山滑雪场": {
+                "commentCount": 258,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030b00000059b6nF3F1.jpg",
+                "distanceStr": "距渭南74.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/130646.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "翠华山·秦岭终南山世界地质公园": {
+                "commentCount": 1520,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120009cl8nm22C23.jpg",
+                "distanceStr": "距渭南74.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/1440.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "普照寺": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0w12000br5nmwoB5AF.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hancheng120420/55337.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "青曲社": {
+                "commentCount": 530,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0n000000eerb46601.jpg",
+                "distanceStr": "距渭南58.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/4042808.html?scene=online",
+                "isFree": false,
+                "price": 61.0
+            },
+            "丝路欢乐世界": {
+                "commentCount": 331,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w12000f6rr47u1B16.jpg",
+                "distanceStr": "距渭南78.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/133990402.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "唐睿宗桥陵": {
+                "commentCount": 50,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f120008s75qbn23BA.jpg",
+                "distanceStr": "距市中心53.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pucheng2738/55254.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "骑行古城墙": {
+                "commentCount": 108,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqdik91B8.jpg",
+                "distanceStr": "距渭南58.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/2483507.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大唐西市博物馆": {
+                "commentCount": 354,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h12000f6sg55j0056.jpg",
+                "distanceStr": "距渭南62.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/140429.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "赳赳大秦": {
+                "commentCount": 76,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5d12000fa23v49D0F6.png",
+                "distanceStr": "距渭南67.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/148428478.html?scene=online",
+                "isFree": false,
+                "price": 208.5
+            },
+            "潼关黄河古渡口": {
+                "commentCount": 24,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001got115A10.jpg",
+                "distanceStr": "距市中心72.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tongguan2780/5713044.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "普救寺": {
+                "commentCount": 821,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ2g12000cjc8qaq6696.jpg",
+                "distanceStr": "距渭南84.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yongji1772/17430.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "骊山索道": {
+                "commentCount": 255,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000f6ry2630B01.jpg",
+                "distanceStr": "距渭南31.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xian7/5253402.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "白鹿原影视城": {
+                "commentCount": 544,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000f6snfg88679.jpg",
+                "distanceStr": "距渭南51.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lantian2755/1959853.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乐华恒业欢乐世界": {
+                "commentCount": 3205,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w120004emuw2f1657.jpg",
+                "distanceStr": "距渭南54.4km",
+                "detailUrl": "https://you.ctrip.com/sight/jingyang2749/1708846.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "乐华城·国际欢乐度假区": {
+                "commentCount": 48,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2012000b6o7ud86359.jpg",
+                "distanceStr": "距渭南54.2km",
+                "detailUrl": "https://you.ctrip.com/sight/jingyang2749/5652350.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "茂陵博物馆": {
+                "commentCount": 885,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u120006exhle94AE0.jpg",
+                "distanceStr": "距渭南86.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xingping2739/52652.html?scene=online",
+                "isFree": false,
+                "price": 52.0
+            }
+        }
+    }
+}

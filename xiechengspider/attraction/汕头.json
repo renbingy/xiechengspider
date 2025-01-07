@@ -1,0 +1,807 @@
+{
+    "广东": {
+        "汕头": {
+            "南澳岛": {
+                "commentCount": 1455,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gosu27500.jpg",
+                "distanceStr": "距市中心39.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/17810.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "礐石风景区": {
+                "commentCount": 453,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpe7r93BD.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17812.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头老城": {
+                "commentCount": 789,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041b000001bwb5bBA06.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50159.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头小公园": {
+                "commentCount": 348,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091a0000019klo41850.jpg",
+                "distanceStr": "距市中心832m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/1646565.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "总兵府": {
+                "commentCount": 281,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000f6ty8wv5153.jpg",
+                "distanceStr": "距市中心44.3km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1714961.html?scene=online",
+                "isFree": false,
+                "price": 12.0
+            },
+            "陈慈黉故居": {
+                "commentCount": 79,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A071e000001fx6z8A470.jpg",
+                "distanceStr": "距市中心24.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50153.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青澳湾": {
+                "commentCount": 434,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000f6tt6ya35CA.jpg",
+                "distanceStr": "距市中心47.7km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/50155.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金银岛": {
+                "commentCount": 198,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000h4ef3298C85.jpg",
+                "distanceStr": "距市中心47.1km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/131150.html?scene=online",
+                "isFree": false,
+                "price": 5.5
+            },
+            "南澳岛宋井": {
+                "commentCount": 244,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i120009hzqldgDBF6.jpg",
+                "distanceStr": "距市中心43.7km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1832599.html?scene=online",
+                "isFree": false,
+                "price": 14.0
+            },
+            "汕头蓝水星欢乐世界": {
+                "commentCount": 868,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gr0uk72D8.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/109996.html?scene=online",
+                "isFree": false,
+                "price": 39.9
+            },
+            "妈屿岛旅游区": {
+                "commentCount": 34,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000f6t2q6nE9BD.jpg",
+                "distanceStr": "距市中心7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17814.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "钱澳湾灯塔": {
+                "commentCount": 9,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6rpu6h3608.jpg",
+                "distanceStr": "距市中心33.2km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/67828133.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮汕历史文化博览中心": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120009czciz37575.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/69518748.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观海长廊": {
+                "commentCount": 301,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxdda4270.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17817.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头狮子城（原汕头欧美文化小镇）": {
+                "commentCount": 40,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000011qy7g7AF0.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5601346.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北回归线广场": {
+                "commentCount": 22,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d1200094134lc9C80.jpg",
+                "distanceStr": "距市中心47.5km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/3398024.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头内海湾游船": {
+                "commentCount": 10,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120009rki5ps3314.jpg",
+                "distanceStr": "距市中心505m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/134397681.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳大桥": {
+                "commentCount": 92,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsx17EFFF.jpg",
+                "distanceStr": "距市中心25.2km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/131138.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莲花峰风景区": {
+                "commentCount": 133,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3712000cjc94x4FDD7.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17813.html?scene=online",
+                "isFree": false,
+                "price": 18.8
+            },
+            "南澳岛生态旅游区-三囱崖灯塔": {
+                "commentCount": 11,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f1200092m18ml3C1E.jpg",
+                "distanceStr": "距市中心47.2km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/5073203.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西堤公园": {
+                "commentCount": 39,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061a0000019irxt5CD3.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/2000188.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "绿梦欢乐世界": {
+                "commentCount": 152,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2y12000epqt9w0ED1F.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/2745681.html?scene=online",
+                "isFree": false,
+                "price": 37.5
+            },
+            "汕头市博物馆": {
+                "commentCount": 59,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6sivlmA859.jpg",
+                "distanceStr": "距市中心958m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/1646834.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "老妈宫": {
+                "commentCount": 82,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f6q4jlj42AB.jpg",
+                "distanceStr": "距市中心667m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17818.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "航运前江湾沙滩公园": {
+                "commentCount": 6,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t120008tlqdr7D429.jpg",
+                "distanceStr": "距市中心36.1km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/5716453.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东海岸公园": {
+                "commentCount": 16,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010301200092lyppvEBDC.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5714146.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "田仔地质公园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000f6s1v3k8A9B.jpg",
+                "distanceStr": "距市中心30.6km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/124907165.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头旅社": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102412000f6uovsmA95D.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/142973069.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中山公园": {
+                "commentCount": 204,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106o120006dgugix021D.jpg",
+                "distanceStr": "距市中心872m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17816.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东山岛": {
+                "commentCount": 897,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000f6rbscq7AAE.jpg",
+                "distanceStr": "距汕头83.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/17147.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄花山森林公园": {
+                "commentCount": 34,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000atts10g493E.jpg",
+                "distanceStr": "距市中心34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1831377.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "礐石塔山景区": {
+                "commentCount": 15,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01010120008s74aj56838.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/1418196.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中海黄金海岸水上乐园": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4312000e8we6fzE5B3.jpg",
+                "distanceStr": "距市中心14.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/144960592.html?scene=online",
+                "isFree": false,
+                "price": 47.0
+            },
+            "汕头中海度假村": {
+                "commentCount": 263,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1512000e8wg5c09DF3.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/62410.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳岛看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000fnih3o1719C.jpg",
+                "distanceStr": "汕头",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/0.html?poiId=148928522",
+                "isFree": false,
+                "price": ""
+            },
+            "汕头邮政总局大楼": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102t12000f6tiyw3FD04.jpg",
+                "distanceStr": "距市中心822m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5629365.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汕头开埠文化陈列馆": {
+                "commentCount": 41,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000f6t6tjl87B0.jpg",
+                "distanceStr": "距市中心853m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/1486038.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广济桥": {
+                "commentCount": 1139,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f6rcogm9470.jpg",
+                "distanceStr": "距汕头34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56634.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "南澳北回归线标志自然之门": {
+                "commentCount": 148,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000f6t7p6r6626.jpg",
+                "distanceStr": "距市中心47.5km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1714919.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮州古城": {
+                "commentCount": 589,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g1200086whnyf0883.jpg",
+                "distanceStr": "距汕头34.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/145618.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "后花园生态旅游村": {
+                "commentCount": 8,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v120009e14oud27EE.jpg",
+                "distanceStr": "距市中心41.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/69101573.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳岛看日落": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102812000fnihalhD7BE.jpg",
+                "distanceStr": "汕头",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/0.html?poiId=148928525",
+                "isFree": false,
+                "price": ""
+            },
+            "汕头赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A0y120009mja75yC936.png",
+                "distanceStr": "广东",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/0.html?poiId=148928510",
+                "isFree": false,
+                "price": ""
+            },
+            "北回归线标志": {
+                "commentCount": 35,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6ts6l670B5.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17820.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "老妈宫戏台": {
+                "commentCount": 19,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061a0000019ipytAC62.jpg",
+                "distanceStr": "距市中心679m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5544435.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海上渔村": {
+                "commentCount": 12,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107012000b6qjhs282B7.jpg",
+                "distanceStr": "距市中心45.7km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/1714939.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南澳岛出海捕鱼·海钓俱乐部": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f12000eq59cqx0FD1.jpg",
+                "distanceStr": "距市中心40.7km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/148457754.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青岚怪臼谷国家地质公园": {
+                "commentCount": 614,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0k12000d2y61872E9D.jpg",
+                "distanceStr": "距汕头44.7km",
+                "detailUrl": "https://you.ctrip.com/sight/raoping2932/56859.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "鱼骨沙洲": {
+                "commentCount": 100,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2j12000deqy7xi7A1A.jpg",
+                "distanceStr": "距汕头72.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/5013395.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄金海岸": {
+                "commentCount": 6,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6s3jlf7A09.jpg",
+                "distanceStr": "距市中心14.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/131896675.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "达濠古城": {
+                "commentCount": 46,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081a0000019i8x37B59.jpg",
+                "distanceStr": "距市中心9.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/131149.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "MELAND CLUB(华润万象城店)": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z120009bz9w6pF438.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/133826029.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "长山尾炮台": {
+                "commentCount": 7,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000f6t4q5w7F70.png",
+                "distanceStr": "距市中心28.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/131151.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石炮台公园": {
+                "commentCount": 92,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071a0000019yt5bC78B.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50169.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "风电场游览区": {
+                "commentCount": 87,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h1200081hy2fv629D.jpg",
+                "distanceStr": "距市中心39.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/131153.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汕头海湾大桥": {
+                "commentCount": 26,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b120008e292kp3566.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50157.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "菩提禅寺": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k1200095xwp1288AB.png",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/69258116.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "韩文公祠": {
+                "commentCount": 250,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000f6t3h8f7817.jpg",
+                "distanceStr": "距汕头34.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56645.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南澳岛北海银滩露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心47.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/145218372.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "开元寺": {
+                "commentCount": 385,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100310000000pd7wxEBE5.jpg",
+                "distanceStr": "距汕头34.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56642.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "展南亭": {
+                "commentCount": 2,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6u31hwF6FB.jpg",
+                "distanceStr": "距市中心38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/4602839.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东山风动石景区": {
+                "commentCount": 1534,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01070120008e8mdb50997.jpg",
+                "distanceStr": "距汕头96.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dongshan2662/140554.html?scene=online",
+                "isFree": false,
+                "price": 42.0
+            },
+            "汕头儿童公园星城湾欢乐世界": {
+                "commentCount": 10,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gsro9CA35.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5590429.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "北山湾旅游度假区": {
+                "commentCount": 34,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1a0000019iqnj3818.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17815.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄满寨瀑布": {
+                "commentCount": 1006,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000b2vz8ph39CC.png",
+                "distanceStr": "距汕头74.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jiexi2930/1413466.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "南澳海岛国家森林公园": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f12000941465yBC13.jpg",
+                "distanceStr": "距市中心32.3km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/5143551.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "存心善堂": {
+                "commentCount": 12,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01008120008dvx0csD9C2.jpg",
+                "distanceStr": "距市中心378m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5701162.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汕头动物园": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqws757B1.jpg",
+                "distanceStr": "距市中心789m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/3015267.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "牌坊街": {
+                "commentCount": 476,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grkel4BC3.jpg",
+                "distanceStr": "距汕头34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/131443.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南澳岛生态旅游区-后宅镇宫前大圆": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q12000d6ota6m48E5.jpg",
+                "distanceStr": "距市中心36.3km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/4604222.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "百货大楼": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f6s2790E8FC.jpg",
+                "distanceStr": "距市中心855m",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/5714210.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海润莲花山温泉": {
+                "commentCount": 40,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3504190000016a8sjF360.jpg",
+                "distanceStr": "距市中心30.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/50148.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "南澳岛海钓之源": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ1612000g2sclguD0D8.jpg",
+                "distanceStr": "距市中心35.9km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/69126087.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "竹栖肚湾": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x1200095xfu4vCB45.png",
+                "distanceStr": "距市中心47.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/5598367.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙湖古寨": {
+                "commentCount": 98,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000nollt70BF.jpg",
+                "distanceStr": "距汕头22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chaozhou467/56809.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "十一合村": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000as1tvoeB8EF.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/118481591.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "福建土楼(南靖)景区": {
+                "commentCount": 523,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m12000f6q8fq67183.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing2672/69239823.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "芹澎岛": {
+                "commentCount": 10,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c12000b711p8zF940.jpg",
+                "distanceStr": "距市中心59.8km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/5708801.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮汕风文化主题花园": {
+                "commentCount": 25,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g120009zdetjb3022.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/4333354.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "云水谣景区": {
+                "commentCount": 2970,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y1200086wwijz1B8A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing2672/1488041.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "南澳最美海滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000ez9msq81745.png",
+                "distanceStr": "距市中心39.3km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/145292916.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "塔山风景区": {
+                "commentCount": 40,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101612000f6qv2xb0B65.jpg",
+                "distanceStr": "距市中心22.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/17821.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳帆船运动": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f1200098wwit38734.jpg",
+                "distanceStr": "汕头",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/0.html?poiId=148928521",
+                "isFree": false,
+                "price": ""
+            },
+            "东海岸大道堤坝观景点": {
+                "commentCount": 23,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010441200092llyq468A8.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/2506398.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮汕华侨历史博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6rr6ktA5CB.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/134448782.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杨枝寺": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5t120009ofococBBFB.jpg",
+                "distanceStr": "距市中心18.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/133533176.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "福建土楼(永定)景区": {
+                "commentCount": 2897,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p1200082e5mei9497.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longyan366/1410893.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "汕头儿童公园": {
+                "commentCount": 17,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j12000f6s0welDBAD.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shantou215/69560323.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南澳县海丝广场": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000d4jetbuB8FD.jpg",
+                "distanceStr": "距市中心34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/nanao958/5716235.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

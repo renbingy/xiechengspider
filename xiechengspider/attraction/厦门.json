@@ -1,0 +1,762 @@
+{
+    "福建": {
+        "厦门": {
+            "鼓浪屿": {
+                "commentCount": 39272,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwb0k4589.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/57405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门园林植物园": {
+                "commentCount": 12345,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6prceqB206.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8625.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "钟鼓索道": {
+                "commentCount": 5441,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6tupfy47AF.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145125.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "厦门科技馆": {
+                "commentCount": 9213,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0a12000e4fqpcx4566.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/50128.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "胡里山炮台": {
+                "commentCount": 12234,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000c35o4p52F69.png",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2342.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "日光岩": {
+                "commentCount": 6904,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000825yd946670.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2345.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "厦门大学": {
+                "commentCount": 9998,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m120006pd9bte2D5C.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/14050.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹭江夜游": {
+                "commentCount": 2586,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5r12000bkuf5oq4208.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/139403.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "厦门海上游": {
+                "commentCount": 100,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4x12000dg6msprD30D.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133820986.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南普陀寺": {
+                "commentCount": 3616,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gpadeEECB.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门方特梦幻王国": {
+                "commentCount": 8315,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0212000cdml86u1EE1.jpg",
+                "distanceStr": "距市中心23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/140141.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "厦门方特旅游度假区": {
+                "commentCount": 252,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200081p2dng64EE.png",
+                "distanceStr": "距市中心24.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2483147.html?scene=online",
+                "isFree": false,
+                "price": 299.0
+            },
+            "环岛路": {
+                "commentCount": 4574,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0m12000000srfpzAF92.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8669.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "菽庄花园": {
+                "commentCount": 2112,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0u13000000u2b7x74C3.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2346.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "沙坡尾避风坞": {
+                "commentCount": 169,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1a0000019yl2jEB62.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1464492.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门双子塔": {
+                "commentCount": 563,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1i12000detsyywB90E.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2504037.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门海底世界": {
+                "commentCount": 3291,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1j12000deaaclmCAA1.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8619.html?scene=online",
+                "isFree": false,
+                "price": 107.0
+            },
+            "曾厝垵": {
+                "commentCount": 4024,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103p12000h4ckwpx36BB.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/109999.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "集美学村": {
+                "commentCount": 527,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061c000001did2k347B.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2343.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "潮汐之眼摩天轮": {
+                "commentCount": 315,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000a9tm8z83A86.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/135450276.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "中鱼视界·城市欢乐场": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6f12000buvdz8u786C.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/136601314.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五缘湾帆船港": {
+                "commentCount": 1233,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0412000deanrj2D62A.png",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1476796.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "中山路步行街": {
+                "commentCount": 1832,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r120006unrnrfAE3B.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/137032.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五缘湾游海帆船出海": {
+                "commentCount": 526,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102112000h4xwy298F64.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1930742.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "厦门老院子景区": {
+                "commentCount": 1572,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3612000fqt5q3kC0C8.jpg",
+                "distanceStr": "距市中心16.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1704246.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "海上看金门": {
+                "commentCount": 1511,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000f6t52mp18F5.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/118936.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "灵玲马戏城": {
+                "commentCount": 5597,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6c12000deucqqd6990.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1409728.html?scene=online",
+                "isFree": false,
+                "price": 260.0
+            },
+            "云上厦门观光厅": {
+                "commentCount": 1746,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1n12000deb58n731E5.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1977871.html?scene=online",
+                "isFree": false,
+                "price": 115.0
+            },
+            "白城沙滩": {
+                "commentCount": 539,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101412000h45qsnh9E63.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145124.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "皓月园": {
+                "commentCount": 886,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t13000000tv1v8B91E.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8614.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "日月谷温泉": {
+                "commentCount": 1887,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3012000bdpydx82829.jpg",
+                "distanceStr": "距市中心17.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48767.html?scene=online",
+                "isFree": false,
+                "price": 157.2
+            },
+            "厦门赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000f6tscsx5942.jpg",
+                "distanceStr": "福建",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/0.html?poiId=148483136",
+                "isFree": false,
+                "price": ""
+            },
+            "黄厝海滩": {
+                "commentCount": 214,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041c000001dqrtf900A.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/3656824.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门灵玲动物王国": {
+                "commentCount": 453,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y120008hcpvcbE1F9.jpg",
+                "distanceStr": "距市中心12.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/3439547.html?scene=online",
+                "isFree": false,
+                "price": 130.0
+            },
+            "厦门方特东方神画": {
+                "commentCount": 5058,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104n120005pz0twd7C4C.jpg",
+                "distanceStr": "距市中心24.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2017871.html?scene=online",
+                "isFree": false,
+                "price": 299.0
+            },
+            "厦门帆船运动": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350616000000yxrd31A31.jpg",
+                "distanceStr": "福建",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/0.html?poiId=148480068",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门市博物馆": {
+                "commentCount": 221,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000f6qv6n0B191.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8622.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "八卦楼": {
+                "commentCount": 448,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000f6q5oe8E531.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133087.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中鱼视界海洋王国": {
+                "commentCount": 75,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1812000buvde6uCC34.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/136599631.html?scene=online",
+                "isFree": false,
+                "price": 196.0
+            },
+            "鹭岛观光旅游巴士": {
+                "commentCount": 61,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i12000f6uhkyd10C0.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/112646924.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门方特水上乐园": {
+                "commentCount": 1285,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w120006pieqi3E379.jpg",
+                "distanceStr": "距市中心23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2481320.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "诚毅科技探索中心": {
+                "commentCount": 1447,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpbisCD85.jpg",
+                "distanceStr": "距市中心13.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1732731.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "厦门园林博览苑": {
+                "commentCount": 1053,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/874/186/555/e6d410752bd943a6bcdc62a33d546c0d.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/63494.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万国建筑博览": {
+                "commentCount": 199,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000h4anzo4A7B7.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8620.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "十里长堤": {
+                "commentCount": 25,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000f6qk24pDB4C.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48742.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海天堂构": {
+                "commentCount": 657,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f120009kjrbx6010B.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/67695.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "厦门滨海水运动度假区": {
+                "commentCount": 2498,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0g12000bjduyngF4B2.jpg",
+                "distanceStr": "距市中心15.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/140610728.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门山海健康步道": {
+                "commentCount": 45,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l120008jynu7bD92C.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5705910.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "一国两制沙滩": {
+                "commentCount": 21,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000f6t9k1a2929.jpg",
+                "distanceStr": "距市中心9.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2026465.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "最美转角": {
+                "commentCount": 26,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104x12000ezb1pfl1B10.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5073059.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "沙坡尾艺术西区": {
+                "commentCount": 87,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100213000000v38yqFC2A.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2065879.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【厦门】中国国家地理·探索《极致发现》科学艺术影像展": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ1n12000fu1rt1711DC.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/148805986.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "同安影视城": {
+                "commentCount": 459,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350i16000000ysd484059.jpg",
+                "distanceStr": "距市中心30.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8666.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "椰风寨": {
+                "commentCount": 170,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gswui7F1E.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/132444.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香山游艇会": {
+                "commentCount": 51,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s180000015czmu2F2D.jpg",
+                "distanceStr": "距市中心10.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1702351.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "香山帆船出海体验": {
+                "commentCount": 188,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq8n0BCA7.jpg",
+                "distanceStr": "距市中心10.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2023843.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "小嶝岛": {
+                "commentCount": 105,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000h4pltyh60EC.jpg",
+                "distanceStr": "距市中心31.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/77576.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "集美鳌园景区": {
+                "commentCount": 94,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y120009hocldy74F0.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/134028080.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "狐尾山公园": {
+                "commentCount": 120,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104x12000f6pxx6089B7.jpg",
+                "distanceStr": "距市中心595m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/119134.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海上明珠观光塔": {
+                "commentCount": 138,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120008jyobww8BBD.jpg",
+                "distanceStr": "距市中心516m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1418770.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "钢琴博物馆": {
+                "commentCount": 570,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grsgn0623.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48712.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海上自行车道": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f6uik1f2A6E.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133953906.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "彩虹沙滩": {
+                "commentCount": 35,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107012000f6ta0ql0F3B.jpg",
+                "distanceStr": "距市中心15.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2039821.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门尾波冲浪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p1200082mmkhlFE86.jpg",
+                "distanceStr": "福建",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/0.html?poiId=148483155",
+                "isFree": false,
+                "price": ""
+            },
+            "鼓浪屿名人蜡像馆": {
+                "commentCount": 602,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u1200088t8yhv1815.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48713.html?scene=online",
+                "isFree": false,
+                "price": 71.0
+            },
+            "海湾公园": {
+                "commentCount": 136,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01057120009zdewf22DFC.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48781.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "国际刻字艺术馆": {
+                "commentCount": 149,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f6pukt43C0D.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48709.html?scene=online",
+                "isFree": false,
+                "price": 5.0
+            },
+            "白鹭体育场": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000en6vbllC73D.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145247800.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贝壳梦幻世界": {
+                "commentCount": 1025,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0r000000hdzve5344.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1416078.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "邮轮中心厦鼓码头": {
+                "commentCount": 39,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000f6rql8a56E9.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/118822817.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门晟达海帆船出海体验": {
+                "commentCount": 630,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqgk9F309.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2090343.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "中山公园": {
+                "commentCount": 266,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f6rb0lfA882.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8627.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "番婆楼": {
+                "commentCount": 53,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r12000f6tuln5EBB0.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/134024.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "厦门国际游艇汇": {
+                "commentCount": 74,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3502170000011c6fz7C42.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1410391.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "五缘湾游艇服务中心": {
+                "commentCount": 10,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120009e4gwiy625B.png",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133913305.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "环岛路海滩": {
+                "commentCount": 32,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000g4vzl8b231C.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2026510.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "故宫鼓浪屿外国文物馆": {
+                "commentCount": 64,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a10000000pjzj74CF9.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2490465.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "屿见·海上会客厅": {
+                "commentCount": 12,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u120009u7w2q16DD6.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133998178.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白鹭洲公园": {
+                "commentCount": 336,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g1200089gwk2i9A29.jpg",
+                "distanceStr": "距市中心765m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48778.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观音山沙滩": {
+                "commentCount": 25,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010t000000iv0hd0B2D.jpg",
+                "distanceStr": "距市中心11.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1830738.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "望潮帆船海上乐园": {
+                "commentCount": 11,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o120008yf9gtxE11C.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5717679.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【厦门】Standby小鹿脱口秀专场《我的中女时代》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d12000gk3bxadF536.jpg",
+                "distanceStr": "距市中心12.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/149569696.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "第一码头": {
+                "commentCount": 50,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsn78D313.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2028276.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门夜游": {
+                "commentCount": 14,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p11000000q93zb1C81.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5099430.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

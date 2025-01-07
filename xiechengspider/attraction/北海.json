@@ -1,0 +1,816 @@
+{
+    "广西": {
+        "北海": {
+            "涠洲岛": {
+                "commentCount": 15702,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120004gdmn9m7016.jpg",
+                "distanceStr": "距市中心49.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9311.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "北海海底世界": {
+                "commentCount": 7308,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350u1700000129sie4579.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9312.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "北海银滩旅游度假区": {
+                "commentCount": 3378,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1h12000bz0uyd3BA36.jpg",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9308.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "北海看日落": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k120005um26cnF1CC.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148886366",
+                "isFree": false,
+                "price": ""
+            },
+            "北海金海湾红树林生态旅游区": {
+                "commentCount": 5601,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t170000011tbdy1029.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/131777.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "海丝首港景区": {
+                "commentCount": 415,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5w12000dbt1ig28425.jpg",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hepu965/5717907.html?scene=online",
+                "isFree": false,
+                "price": 76.0
+            },
+            "北海赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i12000f6pr6tb08E0.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148473888",
+                "isFree": false,
+                "price": ""
+            },
+            "红树林天天赶海": {
+                "commentCount": 886,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000f6u0n7x2C20.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/2017408.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "北海涠洲岛游船": {
+                "commentCount": 111,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z1200093jdjfdE7BE.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5718143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海潜水": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0j0000009th9eB632.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148480135",
+                "isFree": false,
+                "price": ""
+            },
+            "北海老城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000f2ajet38594.jpg",
+                "distanceStr": "距市中心407m",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/144177596.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海老街": {
+                "commentCount": 3220,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7012000eef2txn7F75.jpg",
+                "distanceStr": "距市中心599m",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/62160.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "涠洲岛火山国家地质公园": {
+                "commentCount": 137,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000f6uh6zfDFD0.png",
+                "distanceStr": "距市中心49.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/98278526.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "侨港风情街": {
+                "commentCount": 444,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000f6qx5by8A1F.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1418220.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鳄鱼山景区": {
+                "commentCount": 836,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t0z000000mwqrx9B84.jpg",
+                "distanceStr": "距市中心52.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/109882.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【北海】2024北海跨年热爱音乐节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v12000gxv2pwe4E63.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/149592279.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海银滩洲际游艇旅游中心": {
+                "commentCount": 208,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7112000dtjc71u6D43.jpg",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145098436.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海海钓": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1u12000beqn15u2A66.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148483140",
+                "isFree": false,
+                "price": ""
+            },
+            "北海观鲸": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101712000fjfbogk804A.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148914449",
+                "isFree": false,
+                "price": ""
+            },
+            "北海园博园": {
+                "commentCount": 445,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0e1b000001bcobd42BB.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1412796.html?scene=online",
+                "isFree": false,
+                "price": 35.3
+            },
+            "涠洲盛塘天主教堂": {
+                "commentCount": 405,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0u15000000xe29fF33E.jpg",
+                "distanceStr": "距市中心47.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/109881.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海洋之窗": {
+                "commentCount": 1391,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01017120009aynie4D78F.png",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/51834.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "五彩滩": {
+                "commentCount": 279,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0n000000e2n7n90BD.jpg",
+                "distanceStr": "距市中心51.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/109884.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北部湾海上游": {
+                "commentCount": 322,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsymb2EEC.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/137255.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "石螺口海滩": {
+                "commentCount": 130,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y120008eymwb83AAC.jpg",
+                "distanceStr": "距市中心50.8km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/109885.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "印象北海李泰山沙画剧院": {
+                "commentCount": 90,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350i1c000001d3vq15AF1.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1994271.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "红树林赶海服务中心": {
+                "commentCount": 79,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000f6s198u98BE.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/79926497.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "流下村": {
+                "commentCount": 13,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01059120009dh8zet151F.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/112647213.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北海金滩": {
+                "commentCount": 27,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120008bwd1yfEB5F.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5009397.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "斜阳岛": {
+                "commentCount": 52,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a12000f6se0i19C91.jpg",
+                "distanceStr": "距市中心64.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/52771.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贝壳沙滩": {
+                "commentCount": 132,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100412000862u7tl88B1.jpg",
+                "distanceStr": "距市中心48.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1674081.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银基水世界": {
+                "commentCount": 47,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f120008v672d9AAEA.png",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5716837.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "涠洲岛南湾浪街": {
+                "commentCount": 36,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0w12000dx9jp6j4350.jpg",
+                "distanceStr": "距市中心51.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5598344.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红树林欢乐赶海": {
+                "commentCount": 98,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i12000f6u4w4hB6D7.jpg",
+                "distanceStr": "距市中心10.7km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5120341.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "北海国际客运港": {
+                "commentCount": 5,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000924vn04971C.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/126934710.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南珠博物馆": {
+                "commentCount": 207,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grlau6347.jpg",
+                "distanceStr": "距市中心944m",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/54468.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "侨港海滩": {
+                "commentCount": 24,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000f6qg84g6F60.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/69551573.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北部湾广场": {
+                "commentCount": 301,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v120009yzw7mo9114.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9369.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "滴水丹屏": {
+                "commentCount": 273,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6set6mBF83.jpg",
+                "distanceStr": "距市中心52.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/109883.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海银滩法拉帝游艇帆船俱乐部": {
+                "commentCount": 121,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3812000dtjcjl158DE.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145739969.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北部湾一号": {
+                "commentCount": 107,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq9lt3EBF.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1418217.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "冠头岭国家森林公园": {
+                "commentCount": 217,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000f6rb4a14198.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9424.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "冠头岭海滩": {
+                "commentCount": 12,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c12000f6s2wqgB14C.jpg",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/131896652.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海游船观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0q000000gi8xz21C3.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148897009",
+                "isFree": false,
+                "price": ""
+            },
+            "北海鱼骨沙洲": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6e12000dpycl9h100C.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145068356.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓝桥": {
+                "commentCount": 44,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000axlqvg35884.jpg",
+                "distanceStr": "距市中心46.7km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1418236.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海贝雕博物馆": {
+                "commentCount": 64,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h38quDEED.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1913585.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "天下第一滩": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l12000f6uorgiD85F.jpg",
+                "distanceStr": "距市中心9.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145473521.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "外沙海鲜岛": {
+                "commentCount": 72,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000f6qwdlj05FD.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/52842.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "紫霞湾海滩": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0g12000ev0y97g3943.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/142204220.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南湾": {
+                "commentCount": 57,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0g12000000sya2pEECE.jpg",
+                "distanceStr": "距市中心51.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1674648.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "涠洲岛灯塔": {
+                "commentCount": 115,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120004gdmn9m7016.jpg",
+                "distanceStr": "距市中心52.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/109886.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "滴水村": {
+                "commentCount": 31,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l12000f6qddnm67F6.jpg",
+                "distanceStr": "距市中心52.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1975359.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石螺口海滩潜水体验": {
+                "commentCount": 8,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gst5oABAB.jpg",
+                "distanceStr": "距市中心50.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/2478125.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海海上豪华观光游艇（北港邮）": {
+                "commentCount": 53,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h37joF9ED.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1513561.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄金北岸海上观光栈道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w12000bonvkdv4D29.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/140029435.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天主教堂": {
+                "commentCount": 19,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6y2vFE83.jpg",
+                "distanceStr": "距市中心380m",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1418279.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大墩海海滩": {
+                "commentCount": 11,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6t7v7a4842.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1702301.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "涠洲岛主标志广场": {
+                "commentCount": 70,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01004120009jl04fe674D.jpg",
+                "distanceStr": "距市中心50.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1674756.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海大江埠": {
+                "commentCount": 155,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6tveey2A1D.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/131770.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "三娘湾": {
+                "commentCount": 3194,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5q120008q3zjztD158.jpg",
+                "distanceStr": "距北海40.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinzhou697/22119.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "北海银滩66赶海基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0612000ej2jbqzFB1D.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145165013.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海景广场": {
+                "commentCount": 39,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000bbderk9B850.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1829691.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "星岛湖": {
+                "commentCount": 74,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gopd3D80B.jpg",
+                "distanceStr": "距市中心34.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hepu965/9314.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "普度寺": {
+                "commentCount": 35,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gufyeD3F4.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1418429.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "荣和银滩one露营帐篷区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3112000e1ynbzwE29F.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145290332.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海枯石烂": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n12000f6tr3f6E05B.jpg",
+                "distanceStr": "距市中心52.8km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/140960821.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "暮崖": {
+                "commentCount": 13,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0z000000nxx7oEE67.jpg",
+                "distanceStr": "距市中心48.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5073264.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银滩罗马广场": {
+                "commentCount": 12,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g12000f6qe71vDE32.jpg",
+                "distanceStr": "距市中心7.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/4741412.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天隆三千海": {
+                "commentCount": 25,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w12000f6t78im7DC0.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1714089.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿萨卡网红城市": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l12000fmt3zx96756.webp",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145800437.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海港务局客运码头出海游": {
+                "commentCount": 14,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5m1200091601hfFC7F.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/2477927.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "扬帆大道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A1u12000a5mmpjx6B1C.jpg",
+                "distanceStr": "距市中心40.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5719083.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海市海滨公园": {
+                "commentCount": 7,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000f6td9rg506D.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5068563.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "彩色公路": {
+                "commentCount": 26,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000f6rec1t08E3.jpg",
+                "distanceStr": "距市中心47.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1674086.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海滩公园": {
+                "commentCount": 160,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102812000f6qjsds6D11.jpg",
+                "distanceStr": "距市中心8.7km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/52786.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南湾老街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000f6r7aee3525.png",
+                "distanceStr": "距市中心50.7km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/136166331.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "月亮广场": {
+                "commentCount": 47,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i12000b3kgis95863.jpg",
+                "distanceStr": "距市中心52.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1418243.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日不落海滩": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5r12000b64f5cp1706.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/135928023.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "高德古镇一期": {
+                "commentCount": 4,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s120009e1ie7mA2EF.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5719794.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宝谊步行街": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l120009yzwypb4561.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5168573.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海豪华游轮观光游": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l12000ajprxvi06CE.png",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/112647036.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "涠洲岛风行水上运动俱乐部": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101z12000f6qduqx7DBF.jpg",
+                "distanceStr": "距市中心46.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/2488005.html?scene=online",
+                "isFree": false,
+                "price": 160.0
+            },
+            "北海环岛游（南万码头）": {
+                "commentCount": 47,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000arcq9bl51D6.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/1964248.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小丑鱼潜水": {
+                "commentCount": 3,
+                "commentScore": 2.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105412000f6uaayu52ED.jpg",
+                "distanceStr": "距市中心50.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/4571446.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "冠头岭水上娱乐基地·潜水·帆船·游艇海钓": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000g5dz3v87A9F.jpg",
+                "distanceStr": "距市中心5.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/146138295.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合浦汉代文化博物馆": {
+                "commentCount": 29,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq9nf3ACC.jpg",
+                "distanceStr": "距市中心19.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hepu965/2489365.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "红树林渔家赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f6r6dr4ED50.jpg",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/108353429.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海市博物馆": {
+                "commentCount": 1,
+                "commentScore": 2.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6l12000elztps88C73.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/145570500.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "涠洲岛萤火虫基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000f6rpx4v3665.jpg",
+                "distanceStr": "距市中心50.3km",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/112178879.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

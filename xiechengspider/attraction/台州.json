@@ -1,0 +1,807 @@
+{
+    "浙江": {
+        "台州": {
+            "神仙居": {
+                "commentCount": 8013,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01071120009nhes3945E3.jpg",
+                "distanceStr": "距市中心79.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/16209.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "仙居风景名胜区": {
+                "commentCount": 363,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01056120008i6y9wj94BE.jpg",
+                "distanceStr": "距市中心79.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/62857.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "长屿硐天": {
+                "commentCount": 1046,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0y000000mck6m9C95.jpg",
+                "distanceStr": "距市中心23.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/16920.html?scene=online",
+                "isFree": false,
+                "price": 112.0
+            },
+            "大陈岛": {
+                "commentCount": 166,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120008ov24j3248B.jpg",
+                "distanceStr": "距市中心50.5km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/62829.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天台山景区": {
+                "commentCount": 916,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs09d7BCE.jpg",
+                "distanceStr": "距市中心67.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/143625.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "台州府城文化旅游区": {
+                "commentCount": 2647,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs1jqDD7D.jpg",
+                "distanceStr": "距市中心36.4km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/16913.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "天台山大瀑布": {
+                "commentCount": 752,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6ugs600DDF.jpg",
+                "distanceStr": "距市中心72.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/5709205.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "台州府城墙": {
+                "commentCount": 589,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000f6ugd4o0BEC.jpg",
+                "distanceStr": "距市中心36.9km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/69547960.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "台州方特·狂野大陆": {
+                "commentCount": 3421,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f120009in0w9m4C1B.jpg",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/69101963.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "七彩小箬村": {
+                "commentCount": 113,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq8pc8484.jpg",
+                "distanceStr": "距市中心47.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/5069505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东湖（台州府城）": {
+                "commentCount": 434,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grk341AC2.jpg",
+                "distanceStr": "距市中心36.0km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/62848.html?scene=online",
+                "isFree": false,
+                "price": 14.0
+            },
+            "国清景区": {
+                "commentCount": 530,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0z000000nmw1iC961.jpg",
+                "distanceStr": "距市中心67.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/1410515.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石塘": {
+                "commentCount": 299,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A09190000017heby5B8B.jpg",
+                "distanceStr": "距市中心48.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/16210.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "温岭石塘半岛旅游度假区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4g12000caeq83r9BDE.jpg",
+                "distanceStr": "距市中心48.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/140046149.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石梁飞瀑": {
+                "commentCount": 1148,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000h4fvlfpB2AD.jpg",
+                "distanceStr": "距市中心76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/135788.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "淡竹休闲谷": {
+                "commentCount": 93,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000f6t3gchD87E.jpg",
+                "distanceStr": "距市中心87.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/25569.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "温岭方山景区": {
+                "commentCount": 300,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y12000f6tv19wAF83.jpg",
+                "distanceStr": "距市中心31.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/70438.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "临海熊出没欢乐港湾": {
+                "commentCount": 99,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6y12000cw5vboeCEE4.jpg",
+                "distanceStr": "距市中心31.9km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/144310589.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "温岭山海之韵": {
+                "commentCount": 125,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c120000eql3tnA601.jpg",
+                "distanceStr": "距市中心43.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/5709842.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "台州海洋世界": {
+                "commentCount": 766,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y1200097mk7p61BA5.jpg",
+                "distanceStr": "距市中心786m",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/62844.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "琼台仙谷": {
+                "commentCount": 2395,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsx3kEC14.jpg",
+                "distanceStr": "距市中心73.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/9079.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "椒江潜艇观光基地": {
+                "commentCount": 258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m120008ov2dxm01CF.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/1485806.html?scene=online",
+                "isFree": false,
+                "price": 18.5
+            },
+            "仙人谷漂流": {
+                "commentCount": 79,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000f6rhaa5FFB5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/1937050.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫阳街": {
+                "commentCount": 258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A481200090lw79jF66C.jpg",
+                "distanceStr": "距市中心35.9km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/132783.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "如意桥": {
+                "commentCount": 27,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000f6r64ia38FE.jpg",
+                "distanceStr": "距市中心79.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/5714122.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蛇蟠岛": {
+                "commentCount": 867,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000969g6eyE6E9.jpg",
+                "distanceStr": "距市中心56.4km",
+                "detailUrl": "https://you.ctrip.com/sight/sanmen1945/16206.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "济公故居": {
+                "commentCount": 392,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0z000000nm8c7626D.jpg",
+                "distanceStr": "距市中心66.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/61118.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "雁荡山": {
+                "commentCount": 4562,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104812000f6qx4e77A06.jpg",
+                "distanceStr": "距台州49.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yueqing1022/135800.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "洞下沙滩": {
+                "commentCount": 24,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0w1a0000018ki3q4434.jpg",
+                "distanceStr": "距市中心44.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/1728979.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大鹿岛": {
+                "commentCount": 296,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35070x000000lpkx29D2F.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yuhuan1006/16211.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "对戒观景平台": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6pp9fm3A18.jpg",
+                "distanceStr": "距市中心46.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/5700680.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "路桥十里长街": {
+                "commentCount": 76,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A051a0000019uts29CAC.jpg",
+                "distanceStr": "距市中心9.4km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/69531013.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "国清寺": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000fjchlwsF4F4.jpg",
+                "distanceStr": "距市中心67.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/145235835.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "熊出没探险乐园": {
+                "commentCount": 33,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6y12000cw5vboeCEE4.jpg",
+                "distanceStr": "距市中心31.9km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/144310643.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "葭沚老街": {
+                "commentCount": 8,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000a2p90m4E82B.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/133829733.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄岩天空之城": {
+                "commentCount": 23,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104112000ar2kzg2FDC0.jpg",
+                "distanceStr": "距市中心34.6km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/92187750.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石塘镇": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0d12000b0316b1DA04.jpg",
+                "distanceStr": "距市中心45.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/69226038.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "永安溪漂流": {
+                "commentCount": 177,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01070120009hzq2i5EB55.jpg",
+                "distanceStr": "距市中心70.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/16918.html?scene=online",
+                "isFree": false,
+                "price": 72.0
+            },
+            "龙兴寺": {
+                "commentCount": 47,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6j12000b40z7f1D8D0.jpg",
+                "distanceStr": "距市中心35.9km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/144702.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天台温泉山庄": {
+                "commentCount": 68,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt2f17987.jpg",
+                "distanceStr": "距市中心67.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/2472123.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "海门老街": {
+                "commentCount": 40,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000a2p90m4E82B.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/2421734.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "华顶国家森林公园": {
+                "commentCount": 241,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0n000000e05v6B438.jpg",
+                "distanceStr": "距市中心73.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/9056.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "龙门沙滩": {
+                "commentCount": 16,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6s1vo73CB7.jpg",
+                "distanceStr": "距市中心36.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/112648086.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙潭头村": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A3j120009t860iv1638.jpg",
+                "distanceStr": "距市中心87.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/134100249.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "车关金沙滩": {
+                "commentCount": 31,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w12000auyn1jw32E8.jpg",
+                "distanceStr": "距市中心47.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/2505996.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "温岭市滨海绿道珍珠滩度假区": {
+                "commentCount": 11,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000f6u9te74A5C.jpg",
+                "distanceStr": "距市中心46.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/4633429.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "台州方特水上乐园": {
+                "commentCount": 57,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1e12000ed006n78822.jpg",
+                "distanceStr": "距市中心19.9km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/148429604.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "横溪镇": {
+                "commentCount": 12,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01066120009qr0y6p39DA.png",
+                "distanceStr": "距市中心92.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/62865.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三蒜岛": {
+                "commentCount": 8,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100512000000skif94944.jpg",
+                "distanceStr": "距市中心52.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/1713913.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "台州博物馆": {
+                "commentCount": 50,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01047120009denwv3A901.jpg",
+                "distanceStr": "距市中心631m",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/1959367.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "皤滩古镇": {
+                "commentCount": 344,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1812000f50wrmqA698.jpg",
+                "distanceStr": "距市中心86.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/16921.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桃渚古城": {
+                "commentCount": 116,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t1700000114yqk1832.jpg",
+                "distanceStr": "距市中心22.2km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/69580.html?scene=online",
+                "isFree": false,
+                "price": 14.5
+            },
+            "下大陈岛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3012000br24metC68E.jpg",
+                "distanceStr": "距市中心52.7km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/139491710.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "横店影视城": {
+                "commentCount": 24880,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5y12000f9mr46tCDE0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/dongyang608/75555.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "千年曙光园": {
+                "commentCount": 12,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A06190000017hh8y62D2.jpg",
+                "distanceStr": "距市中心48.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/5072682.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "景星岩": {
+                "commentCount": 263,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350m0x000000lia7uFA40.jpg",
+                "distanceStr": "距市中心74.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/135873.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "台州赏油菜花": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y12000fnocjwrBD2F.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/0.html?poiId=148925618",
+                "isFree": false,
+                "price": ""
+            },
+            "白沙湾海滨公园": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6s2hp22E6C.png",
+                "distanceStr": "距市中心21.8km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/124907991.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "临海大火山": {
+                "commentCount": 45,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000f6qb674E77D.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/144384.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "明岩古寺": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1w12000eef034yC7B8.jpg",
+                "distanceStr": "距市中心74.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/69342868.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "台州湾野生动物园": {
+                "commentCount": 217,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6takqg49BD.jpg",
+                "distanceStr": "距市中心10.6km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/2483435.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "灵岩景区": {
+                "commentCount": 964,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5x120008o2z3e93E92.jpg",
+                "distanceStr": "距台州46.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yueqing1022/61650.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "大龙湫景区": {
+                "commentCount": 1171,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A0g120008or75c2447B.jpg",
+                "distanceStr": "距台州49.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yueqing1022/8418.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "楠溪江风景旅游区": {
+                "commentCount": 599,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010231200085lxcgq7AE9.jpg",
+                "distanceStr": "距台州80.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yongjia785/56450.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵峰景区": {
+                "commentCount": 744,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104812000f6ttniw5ACB.jpg",
+                "distanceStr": "距台州43.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yueqing1022/61623.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "老龙头景区": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A3i120008vs14oy96D7.jpg",
+                "distanceStr": "距市中心38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/112650129.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国渔村": {
+                "commentCount": 3258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n180000013eef2D634.jpg",
+                "distanceStr": "距台州83.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65054.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "温岭动物园": {
+                "commentCount": 40,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n1200096fz40v4398.jpg",
+                "distanceStr": "距市中心34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/1834193.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "东海松沙湾-水桶岙沙滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5l12000bx3izyx5DAA.jpg",
+                "distanceStr": "距市中心41.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/133833208.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "临海看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100412000fq9u00o6F92.jpg",
+                "distanceStr": "台州",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/0.html?poiId=149275369",
+                "isFree": false,
+                "price": ""
+            },
+            "五岙村": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000f6s1exd83C1.jpg",
+                "distanceStr": "距市中心46.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/5700629.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "台州赏梅花": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j12000fjckps2DF09.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/0.html?poiId=148914481",
+                "isFree": false,
+                "price": ""
+            },
+            "赤城山": {
+                "commentCount": 128,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060n000000e1rtrC964.jpg",
+                "distanceStr": "距市中心68.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/9001.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "象山影视城": {
+                "commentCount": 5811,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000h14z2d5013E.jpg",
+                "distanceStr": "距台州81.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65051.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "双门硐景区": {
+                "commentCount": 28,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000f6rdnz06D3B.jpg",
+                "distanceStr": "距市中心24.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wenling546/125897.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "方洞景区": {
+                "commentCount": 482,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1007hk114x8oslfya9039.jpg",
+                "distanceStr": "距台州47.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yueqing1022/8542.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "神仙居景区-南天桥": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103012000ew80fou4E9E.jpg",
+                "distanceStr": "距市中心79.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/145706126.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "甲午岩景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6k12000dvutr8a1A36.jpg",
+                "distanceStr": "距市中心53.7km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/145287025.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桃江十三渚": {
+                "commentCount": 246,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y12000fnocjwrBD2F.jpg",
+                "distanceStr": "距市中心22.1km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/141440.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "丽水古街": {
+                "commentCount": 324,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000ndn5sAC54.jpg",
+                "distanceStr": "距台州75.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yongjia785/18264.html?scene=online",
+                "isFree": false,
+                "price": 13.5
+            },
+            "括苍山": {
+                "commentCount": 277,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A3q120008n54u765F6A.jpg",
+                "distanceStr": "距市中心50.6km",
+                "detailUrl": "https://you.ctrip.com/sight/linhai544/16207.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "通玄寺": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4l12000aixfpr86F72.jpg",
+                "distanceStr": "距市中心76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tiantai1445965/135932526.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "仙居淡竹野营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6t12000f1r8unv779C.jpg",
+                "distanceStr": "距市中心83.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xianju691/145345580.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸡山岛旅游景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1n12000cfz32jw4303.jpg",
+                "distanceStr": "距市中心62.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yuhuan1006/136639157.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "仙都景区": {
+                "commentCount": 3023,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grm54F063.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jinyun1021/135870.html?scene=online",
+                "isFree": false,
+                "price": 105.0
+            },
+            "白云阁": {
+                "commentCount": 45,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6q171p002A.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/2004425.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "白云飞瀑公园": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01051120009y5rgru4CF1.png",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/5068420.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雁荡山飞拉达景区": {
+                "commentCount": 61,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqhf18236.jpg",
+                "distanceStr": "距台州46.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yueqing1022/4336357.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上大陈岛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3012000br24metC68E.jpg",
+                "distanceStr": "距市中心50.2km",
+                "detailUrl": "https://you.ctrip.com/sight/taizhou402/139491700.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

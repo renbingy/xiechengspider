@@ -1,0 +1,816 @@
+{
+    "新疆": {
+        "伊犁": {
+            "喀拉峻景区": {
+                "commentCount": 1473,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e120008a6v60y242A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/109985.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "库尔德宁景区": {
+                "commentCount": 203,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0q12000bkbispwC573.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/gongliu1446369/134095.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "夏塔旅游区": {
+                "commentCount": 400,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100512000000roqqb19DE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/4785.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那拉提旅游风景区": {
+                "commentCount": 2344,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35081800000156fwk00BA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/4783.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "独库公路": {
+                "commentCount": 299,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grn4g8157.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/1713226.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "伊宁市六星街": {
+                "commentCount": 38,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000f6s1vbzC387.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/5716252.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "昭苏湿地公园景区": {
+                "commentCount": 124,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0r000000gtf9j659C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/4361361.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "伊犁天山花海景区": {
+                "commentCount": 79,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l12000f6q8lyq2100.jpg",
+                "distanceStr": "距市中心58.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yiningcounty1446400/136451072.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "特克斯八卦城": {
+                "commentCount": 136,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsvfgA7D7.jpg",
+                "distanceStr": "距市中心88.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/134337.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "琼库什台": {
+                "commentCount": 107,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0x000000ldb0g9F61.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/145517.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "那拉提草原": {
+                "commentCount": 119,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p120008wtrwhb5133.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/1713178.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "果子沟大桥": {
+                "commentCount": 167,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100810000000o9nia5F65.jpg",
+                "distanceStr": "距市中心64.6km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/1830977.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "伊犁老城喀赞其民俗旅游区": {
+                "commentCount": 98,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k12000dqnuma26765.jpg",
+                "distanceStr": "距市中心836m",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/126934711.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "霍尔果斯国门景区": {
+                "commentCount": 256,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5f12000bca9bkw84CC.jpg",
+                "distanceStr": "距市中心80.4km",
+                "detailUrl": "https://you.ctrip.com/sight/khorgas1446402/1411956.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "恰西森林公园": {
+                "commentCount": 18,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350214000000x95ev5AA7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/gongliu1446369/144759.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阔克苏大峡谷": {
+                "commentCount": 112,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0914000000x7qtu5D09.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/1831946.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊帕尔汗薰衣草观光园": {
+                "commentCount": 51,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1v12000bjg0fcp5911.png",
+                "distanceStr": "距市中心19.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yiningcounty1446400/1408900.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "解忧公主薰衣草园": {
+                "commentCount": 332,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f13000000teolwB636.jpg",
+                "distanceStr": "距市中心53.4km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/1408815.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "花海那拉提": {
+                "commentCount": 73,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g1600000104pn8BCFC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/5589391.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "恰西草原风景旅游区": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01039120009jfubqlCB80.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/gongliu1446369/144207658.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "图开沙漠旅游度假区": {
+                "commentCount": 25,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000f6q1ea995C2.jpg",
+                "distanceStr": "距市中心42.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/1713217.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "霍城薰衣草": {
+                "commentCount": 94,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp7o07BF7.jpg",
+                "distanceStr": "距市中心52.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/145522.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "惠远古城": {
+                "commentCount": 64,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b120008gn9pilAE08.jpg",
+                "distanceStr": "距市中心34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/18292.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中华福寿山景区": {
+                "commentCount": 67,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y120008gn7yod62E4.jpg",
+                "distanceStr": "距市中心71.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/1953264.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊昭公路": {
+                "commentCount": 35,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A02120008ryvepnB6E0.jpg",
+                "distanceStr": "距市中心14.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qapqal1445195/1969951.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "空中草原": {
+                "commentCount": 7,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0o14000000w2xpbBD31.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/5072460.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赛里木湖": {
+                "commentCount": 7184,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105212000a2cvssuAE2B.jpg",
+                "distanceStr": "距伊犁76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/bole922/5500.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "唐布拉草原": {
+                "commentCount": 64,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100ghk124d8kp7vk59A5A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/4781.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "伊犁将军府遗址": {
+                "commentCount": 38,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z12000evqmxzx1003.jpg",
+                "distanceStr": "距市中心34.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/4787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那拉提国家森林公园": {
+                "commentCount": 100,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000nxkfz2EE4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/134217.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太极眼摩天轮": {
+                "commentCount": 37,
+                "commentScore": 3.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100r12000f6sp8na9FFF.jpg",
+                "distanceStr": "距市中心87.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/2497724.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "特克斯县中心太极坛": {
+                "commentCount": 12,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ1b12000g90u00iD8DF.jpg",
+                "distanceStr": "距市中心88.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/142983670.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "夏塔古道国家森林公园": {
+                "commentCount": 9,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107312000f6uhmtm5BA9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/131149055.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "唐布拉孟克特景区": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0e12000c4g0d1n26EB.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/140064122.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "果子沟": {
+                "commentCount": 147,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200083pdanx1984.jpg",
+                "distanceStr": "距市中心61.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/4779.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "那拉提杏花谷": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6s5bm923B7.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/136465305.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汉人街大巴扎": {
+                "commentCount": 185,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t120009qiqajk06E0.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/134100.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "伊犁哈萨克自治州博物馆": {
+                "commentCount": 27,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000b0t011g4A26.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/1713187.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "那拉提空中乐园": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2212000bdjdo5e4406.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/139488950.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "百里画廊": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000echhg4b1941.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/145388227.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乔尔玛": {
+                "commentCount": 33,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v120009cye8vk3104.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/1727809.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "昭苏天马文化园": {
+                "commentCount": 21,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e0v000000joft73226.jpg",
+                "distanceStr": "距市中心97.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/1713192.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "克拉玛依湖湿地": {
+                "commentCount": 20,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000f6rm9wfAC24.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/kuytun1169/5143094.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "特克斯八卦城热气球体验": {
+                "commentCount": 10,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh5e12000beoylk4BE04.jpg",
+                "distanceStr": "距市中心84.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5717017.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天鹅泉湿地公园": {
+                "commentCount": 7,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6xy62D0C.jpg",
+                "distanceStr": "距市中心35.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yiningcounty1446400/5049363.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昭苏玉湖景区": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6a120008qidcuo29AB.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/5713069.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊犁河": {
+                "commentCount": 125,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0z000000n8z2gC8A3.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/15695.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漫心忘忧谷": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101x12000f6pnxwq2ACF.jpg",
+                "distanceStr": "距市中心48.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/144972859.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清水河镇": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000f6tdwy7CBA0.jpg",
+                "distanceStr": "距市中心56.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/5067900.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "河谷草原": {
+                "commentCount": 28,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0w14000000vu2qkD31A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/1713168.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "草原石人风景区": {
+                "commentCount": 20,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6xn4CE61.jpg",
+                "distanceStr": "距市中心88.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/129586.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "昭苏草原": {
+                "commentCount": 69,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000eywjbuqB20D.jpg",
+                "distanceStr": "距市中心88.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/134098.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "城市海景": {
+                "commentCount": 28,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000f6q1vw695A1.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/2497166.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "独库公路纪念碑": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000aogtdpy6B20.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/1727798.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "解忧公主薰衣草农场": {
+                "commentCount": 4,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01054120009cmhlob1554.png",
+                "distanceStr": "距市中心52.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/128809617.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀拉峻大草原": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000eczo3bq6505.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/145141176.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪莲谷": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0z000000nr00r2DEE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/1834833.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "人体草原": {
+                "commentCount": 7,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l12000f6qqnn42889.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5596375.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "特克斯离街": {
+                "commentCount": 8,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01018120008gkpmw0764C.jpg",
+                "distanceStr": "距市中心89.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5716238.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿克库勒湖": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s12000b0p2j4wB027.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5715918.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿克塔斯草原": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6tjj830FC3.jpg",
+                "distanceStr": "距市中心71.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5709708.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "快乐星滑雪场": {
+                "commentCount": 13,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6p12000cwpijzy0692.jpg",
+                "distanceStr": "距市中心17.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/1993145.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "奎屯市饮食休闲一条街": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103712000bnmxfe45557.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/kuytun1169/5164898.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "解忧公主薰衣草": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000eti93kq32F5.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/145378068.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊犁河大桥": {
+                "commentCount": 53,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000f6qx8ybAFA3.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/146988.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙女湖民俗文化旅游景区": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102612000ebi915o9073.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/145439342.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫苏丽人薰衣草创意产业园": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0m000000ddo3nC60B.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/2021733.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "环球影城（特克斯八卦城）": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000f4m19chBCEB.png",
+                "distanceStr": "距市中心88.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/148606573.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昭苏油菜花": {
+                "commentCount": 40,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100613000000tfa9yAE75.jpg",
+                "distanceStr": "距市中心89.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/1713140.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "帝锚·热岛乐园": {
+                "commentCount": 21,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01069120008m5h0n145E1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/kuytun1169/102644685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白石峰": {
+                "commentCount": 18,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1d000001egwok8471.jpg",
+                "distanceStr": "距市中心56.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qapqal1445195/1713194.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那拉提国家湿地公园": {
+                "commentCount": 35,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6a12000derltlp0A7E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/2475256.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊犁林则徐纪念馆": {
+                "commentCount": 13,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6sd94d2382.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/4790.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "霍尔果斯口岸国门参观通道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000f6up47xA01A.png",
+                "distanceStr": "距市中心80.5km",
+                "detailUrl": "https://you.ctrip.com/sight/khorgas1446402/145198676.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汉家公主纪念馆": {
+                "commentCount": 22,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4m12000bexhte2C187.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/2501505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "锡伯古城景区": {
+                "commentCount": 6,
+                "commentScore": 2.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000axj2yz539D0.jpg",
+                "distanceStr": "距市中心22.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qapqal1445195/5715247.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "2078度假营地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102812000epackxbF146.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/146098062.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "唐布拉国家森林公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A03120009eewk2f21FE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/131896466.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九曲十八弯": {
+                "commentCount": 6,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m120004g7neg6F357.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5596376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫霞仙子薰衣草园": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6riwuc635C.jpg",
+                "distanceStr": "距市中心52.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huocheng1446379/3353465.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "托乎拉苏景区": {
+                "commentCount": 15,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000nrngt038C.jpg",
+                "distanceStr": "距市中心53.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yiningcounty1446400/1512850.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "惠远古城历史文化展览馆": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000f6tzz1f41FD.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/1989223.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乔尔玛革命烈士陵园": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m12000f6poff6C264.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/1727654.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "唐布拉百里画廊松果野奢露营地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000f6pv2gd5AB7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nilkacounty2492/146127807.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "盘龙谷道": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000f6rbc5s6239.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xinyuan2500/145644612.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "野核桃沟": {
+                "commentCount": 22,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3012000dq5dwrq8848.jpg",
+                "distanceStr": "距市中心97.5km",
+                "detailUrl": "https://you.ctrip.com/sight/gongliu1446369/129591.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊犁州昭苏马场": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050p000000fizf9EDCA.jpg",
+                "distanceStr": "距市中心94.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhaosu2508/1834973.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鳄鱼湾": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010521200085kz2qp0BC1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/5598376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "琼库什台紫花坡": {
+                "commentCount": 22,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0w1e000001f2v8b46D7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tekes1446388/1833176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丝路之光旅游小镇": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6c12000e98vaklC263.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yining2058/145705315.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

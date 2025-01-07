@@ -1,0 +1,798 @@
+{
+    "陕西": {
+        "延安": {
+            "陕西黄河壶口瀑布": {
+                "commentCount": 9532,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1800000148ptx003D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/15997.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "黄帝陵": {
+                "commentCount": 3284,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gqa6k6C81.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/15880.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "甘泉大峡谷": {
+                "commentCount": 1876,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105h12000f6sp11y20EB.jpg",
+                "distanceStr": "距市中心40.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganquan2775/2507743.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "宝塔山": {
+                "commentCount": 23,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6tf2xhD4C9.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5140769.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杨家岭革命旧址": {
+                "commentCount": 596,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0z000000nncnv1373.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/15876.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "延安革命纪念馆": {
+                "commentCount": 533,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1800000148ptw6F1A.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/15877.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延安红街": {
+                "commentCount": 301,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l120009qz6wqvB0A3.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5715846.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "枣园革命旧址": {
+                "commentCount": 800,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000f9nllua0A8D.jpg",
+                "distanceStr": "距市中心7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/15879.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延川黄河乾坤湾景区": {
+                "commentCount": 979,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4712000gdhcyfa98FC.jpg",
+                "distanceStr": "距市中心84.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/142547.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南泥湾风景区": {
+                "commentCount": 116,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grmzo23F4.jpg",
+                "distanceStr": "距市中心29.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/43967.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中共中央西北局旧址": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1800000152nz03618.jpg",
+                "distanceStr": "距市中心937m",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/130113.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄帝陵轩辕庙": {
+                "commentCount": 114,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000h0krv4rB0F7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/130094.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红秀《延安延安》": {
+                "commentCount": 120,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grnar6461.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/1965698.html?scene=online",
+                "isFree": false,
+                "price": 169.0
+            },
+            "《黄河大合唱》民族抗战史诗剧": {
+                "commentCount": 202,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2712000f46vzh256B3.jpg",
+                "distanceStr": "距市中心98.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/148807047.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清凉山": {
+                "commentCount": 209,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103e12000b91a61m00D1.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/15875.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "历史舞台剧《延安保育院》": {
+                "commentCount": 142,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0r000000hcheu3AD2.jpg",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/140446.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "猫巷大峡谷": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c120009d0tz3k2492.jpg",
+                "distanceStr": "距市中心66.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhidan2777/133855572.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金延安旅游度假区": {
+                "commentCount": 25,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0v12000d0gb3xxD732.jpg",
+                "distanceStr": "距市中心9.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5719415.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄土高原观景台": {
+                "commentCount": 8,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6h12000db6f6qcAAEC.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/130886998.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杨家岭毛主席旧居": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grigsBDD3.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/1715006.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北京知青旧居": {
+                "commentCount": 6,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102412000f6tirmlC3EB.jpg",
+                "distanceStr": "距市中心93.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/5710060.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桦树沟峡谷": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5y12000cg9xqb40097.jpg",
+                "distanceStr": "距市中心40.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganquan2775/135457103.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梁家河村": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104112000f6py0u89FCD.jpg",
+                "distanceStr": "距市中心57.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/2494166.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "山西黄河壶口瀑布旅游区": {
+                "commentCount": 10061,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0z000000njsgxB840.jpg",
+                "distanceStr": "距延安99.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jicounty3038/11393.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "钟山石窟": {
+                "commentCount": 18,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01054120009cwpcrd4E01.jpg",
+                "distanceStr": "距市中心65.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zichang1446138/54839.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "王家坪革命旧址": {
+                "commentCount": 153,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6q4o6qFF66.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/18294.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中华始祖堂": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t1c000001cqzhjE592.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/5601370.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "永宁山古寨": {
+                "commentCount": 25,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000811hlysD1F9.jpg",
+                "distanceStr": "距市中心65.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhidan2777/5073327.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "延安国际滑雪场": {
+                "commentCount": 14,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020r000000hk47p94E5.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/4239686.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "弧幕影院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q1b000001bs8icBA95.jpg",
+                "distanceStr": "距市中心99.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/98279542.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南泥湾革命旧址": {
+                "commentCount": 22,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3n12000fo4vam398D7.jpg",
+                "distanceStr": "距市中心33.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/1832688.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延河大桥": {
+                "commentCount": 81,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102412000f6ppochA22A.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/134409.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中央大礼堂旧址": {
+                "commentCount": 19,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v12000f6r12t12FC0.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/3141529.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄土高坡观景台": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01067120008m3ua9a1605.jpg",
+                "distanceStr": "距市中心23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/69542397.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西古渡口小镇景区": {
+                "commentCount": 7,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6r5cpaA999.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/5628426.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "波浪谷": {
+                "commentCount": 1147,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070u000000jd9c7A3AE.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingbiancounty2745/1493240.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "孟门山": {
+                "commentCount": 26,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ3b12000bia6yrv9B11.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/54676.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "黄龙山景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104612000ew4oztr7478.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huanglong905/145710226.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "延安国家森林公园凤凰山景区": {
+                "commentCount": 63,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000f6qvu4vE870.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/54800.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万安禅院石窟": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsp2r325C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/54811.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "陕西壶口瀑布50元人民币取景处": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1800000148ptx003D.jpg",
+                "distanceStr": "距市中心99.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/145207397.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西黄陵国家森林公园": {
+                "commentCount": 119,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grkhj2ACB.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/1750582.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "梁家河知青旧址": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000eysb3ba7721.png",
+                "distanceStr": "距市中心57.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/148441218.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "陕西黄河壶口瀑布—二瀑布": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000f6po03u88BB.jpg",
+                "distanceStr": "距市中心99.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/145680608.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小西天": {
+                "commentCount": 638,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3z12000gfdftdz60D8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xicounty1446128/11407.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "毛泽东雕塑": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000b6jkdk72A9B.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/98276862.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鲁迅艺术文学院": {
+                "commentCount": 18,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120008qj91to6183.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/3194284.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "秦直道": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t120009dnkpolB809.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/54783.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清水湾景区": {
+                "commentCount": 17,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01056120008j1zl6rFFD6.jpg",
+                "distanceStr": "距市中心81.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/5072605.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "延安1938街区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2912000a627bpg72E1.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/131904951.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "轩辕殿": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01039120008bwb63pBFAE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huangling2734/5607360.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "文安驿镇": {
+                "commentCount": 15,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01026120008li44f36141.jpg",
+                "distanceStr": "距市中心59.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/2494254.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延安市清凉山旅游景区-万佛寺": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z120009fqiqo6527D.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5580349.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "会峰寨景点": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w0z000000nkmazD73E.jpg",
+                "distanceStr": "距市中心80.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/4380374.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洛川黄土国家地质公园": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f120009hzqidz6443.jpg",
+                "distanceStr": "距市中心97.3km",
+                "detailUrl": "https://you.ctrip.com/sight/luochuan2772/1731201.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰山革命旧址": {
+                "commentCount": 42,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000b2ext2i10C3.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/54840.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雨岔乡": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102n12000b7d44z99B67.jpg",
+                "distanceStr": "距市中心40.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ganquan2775/135994092.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "周总理故居": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000f6sk1wv19A0.jpg",
+                "distanceStr": "距市中心7.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/1715007.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "路遥故居": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h120009zr467jCF32.jpg",
+                "distanceStr": "距市中心67.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/69564377.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "延安博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3q12000gxwad909DFD.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/145461655.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《飞越延安》": {
+                "commentCount": 7,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000f6uetpf3527.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5258353.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "树顶漫步": {
+                "commentCount": 17,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1f12000awtx1992B64.jpg",
+                "distanceStr": "距市中心81.3km",
+                "detailUrl": "https://you.ctrip.com/sight/huanglong905/2855176.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瓦窑堡会议旧址": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105412000azu0ndw863E.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5136158.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙虎山风景区": {
+                "commentCount": 26,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p12000b1s40gu7356.jpg",
+                "distanceStr": "距市中心63.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zichang1446138/1480711.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国人民抗日军政大学纪念馆": {
+                "commentCount": 8,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010551200092m6zt01185.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/2512641.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "摘星楼": {
+                "commentCount": 6,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000bcxa5cb7A5B.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5601360.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤凰广场": {
+                "commentCount": 15,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d12000bewtoavEC82.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/4359368.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延安北京知青博物馆": {
+                "commentCount": 18,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x1200082l9b2nE545.jpg",
+                "distanceStr": "距市中心5.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/2492398.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杜公祠": {
+                "commentCount": 12,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh0c12000al4qfa1F3FC.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/54803.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中央红军长征胜利纪念园": {
+                "commentCount": 7,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w120009itgrca5A5B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wuqi2732/3141521.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "壶口瀑布旅游景点": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106912000f60fmab2133.jpg",
+                "distanceStr": "距市中心86.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/148681308.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吴起镇革命旧址": {
+                "commentCount": 34,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v12000ax7n008C2C8.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wuqi2732/54649.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西延安南泥湾国家湿地公园": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120009sj50j353CF.png",
+                "distanceStr": "距市中心28.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/133548110.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梁家河景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n12000h4geubq862E.jpg",
+                "distanceStr": "距市中心58.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/148914031.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "劳山国家森林公园": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwam7FC7D.jpg",
+                "distanceStr": "距市中心51.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganquan2775/54794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石门峡漂流": {
+                "commentCount": 16,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0q000000ge12rD670.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huanglong905/20321.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南泥湾大生产展览馆": {
+                "commentCount": 12,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me7412000dfsmp2b5317.jpg",
+                "distanceStr": "距市中心33.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/1832708.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕甘宁边区银行纪念馆": {
+                "commentCount": 3,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000brp0csi1787.jpg",
+                "distanceStr": "距市中心703m",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/2624940.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延安摩崖石刻": {
+                "commentCount": 12,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01028120008s75tuq51F1.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/4581739.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洛川会议纪念馆": {
+                "commentCount": 24,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000ac7dhs4FBE2.jpg",
+                "distanceStr": "距市中心85.2km",
+                "detailUrl": "https://you.ctrip.com/sight/luochuan2772/54842.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "延安大学旧址": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010181200097s0gw91E93.png",
+                "distanceStr": "距市中心713m",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/3141546.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西延安黄龙穆柯寨步道风景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5l12000dxi9ephEC44.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huanglong905/69316991.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "嗨世界无动力乐园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh2m12000aytv39k3DAD.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/134078670.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金延安冰雪世界": {
+                "commentCount": 2,
+                "commentScore": 2.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b120008e0fr6w0AF6.jpg",
+                "distanceStr": "距市中心9.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/5701644.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "千年古窑": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m1200093jm54v2D20.jpg",
+                "distanceStr": "距市中心84.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yanchuan1446145/4578065.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安塞腰鼓山风景区": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh6p12000g8bkzceBF6E.jpg",
+                "distanceStr": "距市中心33.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/145611819.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瓦窑堡革命旧址纪念馆": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d12000ccbg6n2EE1E.jpg",
+                "distanceStr": "距市中心63.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zichang1446138/54785.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "延安新闻纪念馆": {
+                "commentCount": 54,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m120009en8w2uB227.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yanan423/54673.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

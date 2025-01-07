@@ -1,0 +1,807 @@
+{
+    "山西": {
+        "平遥古城": {
+            "平遥古城": {
+                "commentCount": 13745,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6pnna58EEF.jpg",
+                "distanceStr": "距市中心218m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/132746.html?scene=online",
+                "isFree": false,
+                "price": 123.0
+            },
+            "双林寺": {
+                "commentCount": 1291,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120009ddscgqF61E.jpg",
+                "distanceStr": "距平遥古城5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16570.html?scene=online",
+                "isFree": false,
+                "price": 33.0
+            },
+            "乔家大院": {
+                "commentCount": 9570,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nnlpp028B.jpg",
+                "distanceStr": "距平遥古城32.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qicounty3039/74743.html?scene=online",
+                "isFree": false,
+                "price": 115.0
+            },
+            "镇国寺": {
+                "commentCount": 507,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j10000000p0cta01F8.jpg",
+                "distanceStr": "距平遥古城12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16565.html?scene=online",
+                "isFree": false,
+                "price": 23.0
+            },
+            "平遥古城墙": {
+                "commentCount": 698,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000h4goa68625C.jpg",
+                "distanceStr": "距市中心826m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16561.html?scene=online",
+                "isFree": false,
+                "price": 123.0
+            },
+            "山西王家大院": {
+                "commentCount": 7597,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021c000001dyo3p1980.jpg",
+                "distanceStr": "距平遥古城43.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lingshi3011/74745.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日升昌票号": {
+                "commentCount": 628,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A0u120008wm1iz8EA51.jpg",
+                "distanceStr": "距市中心219m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16563.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "晋祠博物馆": {
+                "commentCount": 7108,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t12000a434k2hB478.jpg",
+                "distanceStr": "距平遥古城60.7km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/50464.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "张壁古堡": {
+                "commentCount": 1330,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y120008qlq4n20401.jpg",
+                "distanceStr": "距平遥古城32.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jiexiu2982/74738.html?scene=online",
+                "isFree": false,
+                "price": 66.0
+            },
+            "平遥古县衙": {
+                "commentCount": 286,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102112000682o2va4DE6.jpg",
+                "distanceStr": "距市中心225m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16566.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "绵山景区": {
+                "commentCount": 1947,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6pomizA750.jpg",
+                "distanceStr": "距平遥古城38.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jiexiu2982/74719.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "晋祠胜境": {
+                "commentCount": 242,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A45120008uu66hb140F.jpg",
+                "distanceStr": "距平遥古城60.5km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/5621374.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "城隍庙": {
+                "commentCount": 265,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z12000bbdg3rqD8BC.jpg",
+                "distanceStr": "距市中心534m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50717.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "马家大院(平遥古城)": {
+                "commentCount": 21,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f6ubt755B1C.jpg",
+                "distanceStr": "距市中心605m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5069408.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月昇平遥": {
+                "commentCount": 59,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ5y12000dw1vec78059.jpg",
+                "distanceStr": "距市中心227m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/144833152.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "明清古街": {
+                "commentCount": 301,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w190000016ai1p2548.jpg",
+                "distanceStr": "距市中心276m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50732.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太原古县城景区": {
+                "commentCount": 1401,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k120009ueh27wA40D.jpg",
+                "distanceStr": "距平遥古城64.1km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/5715153.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "平遥文庙": {
+                "commentCount": 263,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000nhj7r2E48.jpg",
+                "distanceStr": "距市中心579m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16568.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太原植物园": {
+                "commentCount": 1523,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000f80wvod3454.jpg",
+                "distanceStr": "距平遥古城65.3km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/69532782.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "山西博物院": {
+                "commentCount": 1846,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5t4224o3zmwddc7D55.jpg",
+                "distanceStr": "距平遥古城79.7km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/66076.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蒙山大佛": {
+                "commentCount": 565,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01074120008aaet5jF3C3.jpg",
+                "distanceStr": "距平遥古城68.4km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/113580.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "平遥古城直升机空中游览": {
+                "commentCount": 12,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350f170000011cw9412FE.jpg",
+                "distanceStr": "距市中心907m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5603375.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "协同庆票号(中国钱庄博物馆)": {
+                "commentCount": 118,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010031200087eaai19216.jpg",
+                "distanceStr": "距市中心174m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "迎薰门": {
+                "commentCount": 42,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1900000166wew1763.jpg",
+                "distanceStr": "距市中心579m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1703267.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "听雨楼": {
+                "commentCount": 52,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080n000000e1m1vE0A2.jpg",
+                "distanceStr": "距市中心218m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/124547.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "焕真平遥数字艺术光影秀": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4q12000f1ltd230FB6.jpg",
+                "distanceStr": "距市中心740m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/136468021.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清虚观": {
+                "commentCount": 71,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gw96q9286.jpg",
+                "distanceStr": "距市中心725m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/16564.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "晋商博物院": {
+                "commentCount": 66,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v1200090g5essC7F4.jpg",
+                "distanceStr": "距平遥古城81.7km",
+                "detailUrl": "https://you.ctrip.com/sight/taiyuan167/5714471.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "中国镖局博物馆": {
+                "commentCount": 68,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0z000000nhco31668.jpg",
+                "distanceStr": "距市中心161m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50730.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广胜寺": {
+                "commentCount": 958,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5j12000d2vh7o91CD4.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hongtong3015/11391.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "二郎庙": {
+                "commentCount": 42,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs176C13C.jpg",
+                "distanceStr": "距市中心601m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1713729.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥大戏堂会馆东苑": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100a12000f4dvhqz0658.jpg",
+                "distanceStr": "距市中心321m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/145344594.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华北第一镖局": {
+                "commentCount": 90,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100510000000ob5378EC0.jpg",
+                "distanceStr": "距市中心337m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50725.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥电影宫": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v190000016ds13E908.jpg",
+                "distanceStr": "距市中心678m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5073277.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小西天": {
+                "commentCount": 638,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3z12000gfdftdz60D8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xicounty1446128/11407.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "同兴公镖局": {
+                "commentCount": 93,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y120008dglafzF33C.jpg",
+                "distanceStr": "距市中心228m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50723.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国科举博物馆": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0w000000kfwed2B94.jpg",
+                "distanceStr": "距市中心575m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1835522.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南门城楼": {
+                "commentCount": 36,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0v000000juru46B94.jpg",
+                "distanceStr": "距市中心542m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1832699.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洪洞大槐树寻根祭祖园": {
+                "commentCount": 1995,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gou3zE73A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hongtong3015/11386.html?scene=online",
+                "isFree": false,
+                "price": 64.0
+            },
+            "平遥古城-拍照点(县衙)": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000fastdqb3F2E.jpg",
+                "distanceStr": "距市中心174m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/145595113.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥印象剧场": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f12000f6o7ntc48DB.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/148706674.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "孔祥熙宅园": {
+                "commentCount": 82,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r12000f6t3mkd8DD7.jpg",
+                "distanceStr": "距平遥古城41.1km",
+                "detailUrl": "https://you.ctrip.com/sight/jinzhong639/74753.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥古城-火神庙": {
+                "commentCount": 9,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A061b0000019yw0sF7BA.jpg",
+                "distanceStr": "距市中心605m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1983266.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥古城-安家街天主堂": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l12000d9wdjss8B34.png",
+                "distanceStr": "距市中心712m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/143314683.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《平遥往事》动力360映画舞剧": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1012000d4i8it33384.jpg",
+                "distanceStr": "距市中心546m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/144841215.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华北第一镖局博物馆": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c12000d07y6k3A6A1.jpg",
+                "distanceStr": "距市中心338m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/69341864.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "2024第八届平遥国际电影展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000fem0u9dFE49.png",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/148898491.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥牛肉博物馆": {
+                "commentCount": 67,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000au401n81A91.jpg",
+                "distanceStr": "距市中心545m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1703209.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雷履泰故居": {
+                "commentCount": 45,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w0z000000nogrt5BB3.jpg",
+                "distanceStr": "距市中心537m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50727.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "隆昇游乐场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1d000001e9u9u6B00.png",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4610565.html?scene=online",
+                "isFree": false,
+                "price": 57.9
+            },
+            "百川通": {
+                "commentCount": 58,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g12000attj0t2CD8B.jpg",
+                "distanceStr": "距市中心249m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50729.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国平遥推光漆艺博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1900000169mb3983D.jpg",
+                "distanceStr": "距市中心706m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4610583.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国商会博物馆(平遥商会旧址)": {
+                "commentCount": 44,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000att1nht6EF4.jpg",
+                "distanceStr": "距市中心331m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50724.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西大街": {
+                "commentCount": 8,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010621200086yjduf260E.jpg",
+                "distanceStr": "距市中心251m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5069332.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "帝尧庙": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l120008r346gsFFF3.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4610584.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蔚泰厚": {
+                "commentCount": 65,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0u000000j4gxl08BE.jpg",
+                "distanceStr": "距市中心234m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50728.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武庙": {
+                "commentCount": 21,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w120008dglfrvDCA7.jpg",
+                "distanceStr": "距市中心602m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1834422.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥县文涛坊古兵器博物馆": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1900000162rj68939.jpg",
+                "distanceStr": "距市中心685m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/2813771.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拱极门": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100510000000p9hihE2D4.jpg",
+                "distanceStr": "距市中心891m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4610619.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "隆兴源商业步行街": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000cz4abo9973C.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5168713.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "忻州古城": {
+                "commentCount": 178,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h12000h0kv5qk659E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xinzhou783/75346.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "娲皇宫": {
+                "commentCount": 930,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a1200087dcrow8D68.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty2560/17353.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "蔚盛长": {
+                "commentCount": 36,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M00/8A/0C/Cghzf1WwzOGAccBeAA1cbV-c7tQ333.jpg",
+                "distanceStr": "距市中心248m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥县汇武林传统武术陈列馆": {
+                "commentCount": 43,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M0A/7D/08/CghzfVWw13CAahLoAAu9gM3UA_c775.jpg",
+                "distanceStr": "距市中心261m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/138363.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "榆次梦幻灯光节": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z1200096c0as8DC44.png",
+                "distanceStr": "距市中心601m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1948553.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "城隍庙戏台": {
+                "commentCount": 31,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0w000000kihsi104C.jpg",
+                "distanceStr": "距市中心460m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/137635.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥古城-真君府": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000crhvp39A75A.jpg",
+                "distanceStr": "距市中心393m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5067444.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "市楼": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0p12000g6bpq1zEF9A.jpg",
+                "distanceStr": "距市中心193m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/144211103.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天吉祥博物馆": {
+                "commentCount": 37,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d19000001619cu2293.jpg",
+                "distanceStr": "距市中心264m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50726.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉祥寺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1900000161kse3A58.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4610569.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "超山书院": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z120008ouwz7v56E1.jpg",
+                "distanceStr": "距市中心572m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/90497697.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平遥古城-浑漆斋大院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105212000crhpq1y7666.png",
+                "distanceStr": "距市中心526m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/5072353.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古民居博览苑": {
+                "commentCount": 47,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M09/8B/04/CghzgFWw1wqABztvABX-sy11US0286.jpg",
+                "distanceStr": "距市中心237m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/50722.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瓮城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h120008bweacrE18C.png",
+                "distanceStr": "距市中心577m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/98280075.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国珍奇报纸陈列馆": {
+                "commentCount": 29,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1900000161s75F81A.jpg",
+                "distanceStr": "距市中心346m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/137640.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "山西黄河壶口瀑布旅游区": {
+                "commentCount": 10061,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0z000000njsgxB840.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jicounty3038/11393.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "平遥县汇武林传统武术陈列馆-会客室": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u120008dglco34CD5.jpg",
+                "distanceStr": "距市中心267m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4610243.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "印象新街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y120008gd5vomE76F.png",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/112649136.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太行山大峡谷八泉峡景区": {
+                "commentCount": 2395,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gpucc5567.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huguan1446117/1925673.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "点将台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t120008bweaco0986.png",
+                "distanceStr": "距市中心754m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/98280068.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陕西黄河壶口瀑布": {
+                "commentCount": 9532,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1800000148ptx003D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichuan2757/15997.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "平遥国际摄影博物馆": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0w000000kdtsnEA97.jpg",
+                "distanceStr": "距市中心545m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/1832884.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国(平遥)监察文化博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4a12000fnmpcruCFC2.jpg",
+                "distanceStr": "距市中心258m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/111989249.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太行大峡谷景区": {
+                "commentCount": 3542,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5m12000bn80tst8612.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/linzhou1890/141427.html?scene=online",
+                "isFree": false,
+                "price": 135.0
+            },
+            "中国传统鞋文化馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A3m120008vuvjveEA52.jpg",
+                "distanceStr": "距市中心451m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/4607849.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "皇城相府": {
+                "commentCount": 3746,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0z000000nfyq225B1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yangcheng2076/51677.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "永庆祥": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2o12000dq7i638A90F.jpg",
+                "distanceStr": "距市中心331m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/144105082.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红旗渠": {
+                "commentCount": 2152,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060z000000nl9mn0649.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/linzhou1890/16650.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "中国心意拳第六陈列馆": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000co2tkty1F59.jpg",
+                "distanceStr": "距市中心335m",
+                "detailUrl": "https://you.ctrip.com/sight/pingyao365/121152260.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,816 @@
+{
+    "内蒙古": {
+        "赤峰": {
+            "乌兰布统旅游区": {
+                "commentCount": 1995,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2v12000eovi1lk0676.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/52001.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "玉龙沙湖": {
+                "commentCount": 1192,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350i1c000001d17yl381E.jpg",
+                "distanceStr": "距市中心95.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ongniudbanner1446358/124771.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "乌兰布统草原": {
+                "commentCount": 358,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000h0i5nypDF25.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/136471.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿斯哈图石林景区": {
+                "commentCount": 952,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000f6t35d7E9F0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/16685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桦木沟国家森林公园": {
+                "commentCount": 135,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2i12000eove6v07BA3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/124767.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "达里湖": {
+                "commentCount": 436,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gonm87055.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/16671.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红山公园": {
+                "commentCount": 79,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6rtocz1D64.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/16666.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赤峰红山文化博物馆": {
+                "commentCount": 88,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000aqe47meD0AC.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/5704455.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "乌兰布统之夜": {
+                "commentCount": 197,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k120008sg23bkDEB0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/127550912.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "美林谷": {
+                "commentCount": 73,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o1200089zb2an8A37.jpg",
+                "distanceStr": "距市中心88.9km",
+                "detailUrl": "https://you.ctrip.com/sight/harqinbanner2968/145056.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "美林谷滑雪场": {
+                "commentCount": 115,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000ak13vos266B.jpg",
+                "distanceStr": "距市中心88.9km",
+                "detailUrl": "https://you.ctrip.com/sight/harqinbanner2968/1408330.html?scene=online",
+                "isFree": false,
+                "price": 77.0
+            },
+            "欢乐城(原蒙古王城)": {
+                "commentCount": 202,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3b12000bkk5ah1EB76.jpg",
+                "distanceStr": "距市中心76.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ongniudbanner1446358/5708986.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀喇沁亲王府": {
+                "commentCount": 113,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq7wrF58F.jpg",
+                "distanceStr": "距市中心61.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harqinbanner2968/16669.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "皇家鹿园": {
+                "commentCount": 41,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q120008t84w1e16D6.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5716747.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰布统影视基地": {
+                "commentCount": 49,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i12000h0j6bx2FF3C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/133550.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赤峰博物馆": {
+                "commentCount": 150,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0z000000nkofh6D56.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/1829929.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蛤蟆坝": {
+                "commentCount": 158,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000fat95jv593A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/134295.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "公主湖草原度假区": {
+                "commentCount": 8,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4p12000eypdolhDBD7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/98281354.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "热水塘镇": {
+                "commentCount": 17,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b120008s7ajaw473F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1833175.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "公主湖": {
+                "commentCount": 4,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2j12000eqk47gyB504.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/145123552.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "道须沟风景区": {
+                "commentCount": 254,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35090u000000ivf0g65F2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ningcheng1736/140865.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红山国家森林公园": {
+                "commentCount": 22,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u120009d33x68F967.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/1831040.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "道谷南山滑雪场": {
+                "commentCount": 31,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106512000f6t6976D449.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/1512361.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "热阿线": {
+                "commentCount": 10,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01008120009f0wfnz9EB6.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5067126.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄岗梁国家森林公园": {
+                "commentCount": 85,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000ev1o7l46BFE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/51994.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰布统景区-百草敖包": {
+                "commentCount": 17,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1001160000010xwwr41A9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1701025.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰布统鄂温克驯鹿部落": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f6tsc2lA1FA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/148448326.html?scene=online",
+                "isFree": false,
+                "price": 59.9
+            },
+            "达里湖南岸景区": {
+                "commentCount": 105,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5112000eovczum835C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/70413.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "达里湖北岸景区": {
+                "commentCount": 57,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000f6t66swA6E5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/70549.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "达达线": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v070000002kdq334FA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5067116.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰布统旅游景区-将军泡子": {
+                "commentCount": 137,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b120008a5ml9f1AA4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/133547.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "克什克腾旗草原": {
+                "commentCount": 19,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g120008a524b61D41.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1831896.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贡格尔草原": {
+                "commentCount": 105,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6xnpD621.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/16667.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五彩山风景区": {
+                "commentCount": 36,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o120008fz1o9jA06C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/133553.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "欧式风景区": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120008a6ogj4CEAB.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1701013.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杨树背": {
+                "commentCount": 7,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020a0000004dndxDD43.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1701058.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "辽代历史文化博物馆": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000dux9l9h5AD0.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/145186490.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桥北动物园": {
+                "commentCount": 10,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000arhmalnC4A0.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/2714717.html?scene=online",
+                "isFree": false,
+                "price": 24.5
+            },
+            "红山军马场": {
+                "commentCount": 126,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0211000000rblmq7C7B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/107401.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "经棚镇": {
+                "commentCount": 6,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k1200084gzy1n46DB.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5067910.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "草原天牧温泉小镇": {
+                "commentCount": 2,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ4512000g6qrkl024D7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/140960431.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "公主湖-凉亭": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A15120008zfd8vh0C19.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/4600211.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白桦林": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6poxbrF7E5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5706002.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "二道井子遗址博物馆": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000ariek8803D0.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/5701560.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "克旗青山国家地质公园": {
+                "commentCount": 166,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000f6q0rgkFC71.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/70386.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀喇沁旗博物馆": {
+                "commentCount": 9,
+                "commentScore": 3.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01008120009i71rqv7381.jpg",
+                "distanceStr": "距市中心61.2km",
+                "detailUrl": "https://you.ctrip.com/sight/harqinbanner2968/5702757.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敖汉温泉城": {
+                "commentCount": 82,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp8zr5178.jpg",
+                "distanceStr": "距市中心92.6km",
+                "detailUrl": "https://you.ctrip.com/sight/aohanbanner1446343/1408415.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大光顶子旅游景区": {
+                "commentCount": 8,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000dfypmwn0714.jpg",
+                "distanceStr": "距市中心99.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/133937573.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白音敖包景区": {
+                "commentCount": 42,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6prwgg310B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/144731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰哈达公园": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x12000bk5luzoBC81.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/136601372.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "翁牛特旗地质公园": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grl2p9A8F.jpg",
+                "distanceStr": "距市中心73.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ongniudbanner1446358/1834240.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国·克什克腾世界地质公园": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107312000f6tdzvy11DC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5067726.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赤峰市布日敦沙漠旅游区": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100510000000q9spmE6E6.jpg",
+                "distanceStr": "距市中心84.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ongniudbanner1446358/5068944.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "和沐温泉城": {
+                "commentCount": 44,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000gicvuttEC9C.png",
+                "distanceStr": "距市中心91.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningcheng1736/1702237.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "灯笼河子草原": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w120009ohcaft5978.png",
+                "distanceStr": "距市中心95.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ongniudbanner1446358/130369230.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "热水塘温泉园区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b120008s7ajaw473F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/145726169.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰布统敖包吐": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000a4gb9nt390D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5067053.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "盘龙峡谷": {
+                "commentCount": 28,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp20x0700.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/133554.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辽上京遗址": {
+                "commentCount": 15,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v120009414idm57B2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/bairinleftbanner1446347/16684.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "野鸭湖": {
+                "commentCount": 21,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0a0000004dp0sC6D7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1701050.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西拉沐沦大峡谷园区": {
+                "commentCount": 20,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040m000000dchfo6533.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/145057.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "甘丹驼城游牧文化景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6rbchq3735.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/145263195.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫蒙湖旅游风景区": {
+                "commentCount": 38,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01021120008ipqkfq8BA0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ningcheng1736/1413293.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "苏鲁德营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000f6upjxjFD02.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/148419345.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大青山第四纪冰川遗迹公园": {
+                "commentCount": 6,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000f6u2yhc9D8B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/4470398.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赤峰博物馆南馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1i12000asml4zs1BDC.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/136456872.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青山景区(克什克腾世界地质公园青山园区)": {
+                "commentCount": 6,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d120009dlzzjtFCF4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5067918.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰布统旅游景区-围场坝上草原": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e120004gpplzdE6C9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/143730259.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "铁马蒙古文化园": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120004fhmnma7F11.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5716119.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "野狼谷景区": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1q12000czbescoFE25.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/5044344.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辽大明塔": {
+                "commentCount": 12,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000ay840rt697A.jpg",
+                "distanceStr": "距市中心79.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ningcheng1736/51926.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辽中京遗址": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d12000f6sdrm5B2D1.jpg",
+                "distanceStr": "距市中心79.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ningcheng1736/51991.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "克什克腾旗博物馆": {
+                "commentCount": 18,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f120008ab39gv1C10.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1835523.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天太永村": {
+                "commentCount": 6,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4c12000a0mhxmqC7DD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1750162.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观星露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000f6t1ucs7CB4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/145123482.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北沟风景区": {
+                "commentCount": 12,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e0a0000004dmv8C071.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1713077.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿西达牧场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4b12000ejfm0u9F187.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/148451625.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灯笼河草原": {
+                "commentCount": 15,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000f6pr1mhEB9B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/bairinleftbanner1446347/145055.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "马鞍山国家森林公园景区": {
+                "commentCount": 16,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000f6se4xj306A.jpg",
+                "distanceStr": "距市中心47.3km",
+                "detailUrl": "https://you.ctrip.com/sight/harqinbanner2968/51998.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "召庙": {
+                "commentCount": 93,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100r120008s7axv09709.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/bairinleftbanner1446347/69567.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浑善达克沙漠": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0c160000010cqqu4F68.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/4470397.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赤峰植物园": {
+                "commentCount": 52,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107412000f6sfw2y54DB.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/144734.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梦幻海欢乐世界": {
+                "commentCount": 24,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t12000f6qnwu34E56.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/2478139.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宝峰禅寺": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d1200095omw6x00C0.png",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/4600220.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辽上京博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A15120008qzu4d17E0C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/bairinleftbanner1446347/5702794.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰布统铁马草原不夜城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000evvrxfy1FC1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/145312547.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "静安寺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103012000f6u2kk0B051.jpg",
+                "distanceStr": "距市中心23.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/4612562.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "夹皮沟": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsmie51D2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hexigtenbanner2971/1740606.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴林左旗召庙": {
+                "commentCount": 6,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w120008s7arad0B1E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/bairinleftbanner1446347/5142998.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长青公园": {
+                "commentCount": 67,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000aqclu2g4BE9.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/chifeng483/1830016.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

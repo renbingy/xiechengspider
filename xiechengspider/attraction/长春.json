@@ -1,0 +1,780 @@
+{
+    "吉林": {
+        "长春": {
+            "净月潭": {
+                "commentCount": 4923,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0z000000nk6pxD1E9.jpg",
+                "distanceStr": "距市中心13.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10565.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "伪满皇宫博物院": {
+                "commentCount": 4530,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c12000f6qvmo933BE.jpg",
+                "distanceStr": "距市中心10.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10531.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长影世纪城": {
+                "commentCount": 4986,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01021120005znwtdt0DCB.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10564.html?scene=online",
+                "isFree": false,
+                "price": 121.0
+            },
+            "长春冰雪新天地": {
+                "commentCount": 915,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3012000d04g03a8718.jpg",
+                "distanceStr": "距市中心22.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5689343.html?scene=online",
+                "isFree": false,
+                "price": 268.0
+            },
+            "天定山旅游度假小镇": {
+                "commentCount": 8,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k120008rlyl4vD0C2.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5708596.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春电影制片厂": {
+                "commentCount": 562,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000f6sfxmpBE03.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/145514.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "长春动植物公园": {
+                "commentCount": 739,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0t12000dnssrxc0A02.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10561.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "长影旧址博物馆": {
+                "commentCount": 1955,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000f6t6vdkAA8A.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1486265.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "吉林省东北虎园": {
+                "commentCount": 440,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t12000f6sg7kn0733.jpg",
+                "distanceStr": "距市中心12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/113916.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "这有山": {
+                "commentCount": 116,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0c1c000001d05h78B21.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5700732.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "吉林省博物院": {
+                "commentCount": 172,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000auioojiEE19.jpg",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1831405.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春德云社": {
+                "commentCount": 141,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gueyj7F27.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/4370348.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "长春刘老根大舞台": {
+                "commentCount": 109,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5v12000ctq381w5913.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5552345.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "净月潭滑雪场": {
+                "commentCount": 249,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h1200095oshruE393.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1485033.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春天定山滑雪场": {
+                "commentCount": 227,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0f12000gbrpxek5D70.jpg",
+                "distanceStr": "距市中心23.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5700423.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "红旗街54路文旅专列": {
+                "commentCount": 49,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101712000f6qab42137E.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/146124715.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "中泰海洋世界": {
+                "commentCount": 325,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z120009g3bapr5043.png",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1415226.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "神鹿峰旅游度假区": {
+                "commentCount": 1053,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010691200082cfe784924.jpg",
+                "distanceStr": "距市中心68.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5710339.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南湖公园": {
+                "commentCount": 857,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q120009zdctbeA1BB.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10563.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春莲花岛影视休闲文化园": {
+                "commentCount": 165,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l120008ewmcvkB0C8.jpg",
+                "distanceStr": "距市中心9.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/4641537.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "莲花山滑雪场": {
+                "commentCount": 194,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000950yuyg2BB6.jpg",
+                "distanceStr": "距市中心33.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10671.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "国信南山温泉": {
+                "commentCount": 3652,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s120009b1s9a3BB24.jpg",
+                "distanceStr": "距市中心22.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1750917.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "长春滑雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000950yuyg2BB6.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=148480139",
+                "isFree": false,
+                "price": ""
+            },
+            "长春世界雕塑园": {
+                "commentCount": 836,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpe1rE89E.jpg",
+                "distanceStr": "距市中心718m",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/25083.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【长春】2024-2025中国男子篮球职业联赛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000g176i4qDF3E.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/148943645.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春泡温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y120009ar43rj5D9B.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=148483101",
+                "isFree": false,
+                "price": ""
+            },
+            "长春滑冰": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000faohks6613D.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=148885385",
+                "isFree": false,
+                "price": ""
+            },
+            "永乐喜剧大舞台二人转": {
+                "commentCount": 21,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1x12000c4g9m7g05A1.jpg",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/136642353.html?scene=online",
+                "isFree": false,
+                "price": 36.6
+            },
+            "长春庙香山滑雪场": {
+                "commentCount": 61,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g12000f6ug9ut3F23.jpg",
+                "distanceStr": "距市中心48.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/69481469.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春骑马": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1a0000018tl593358.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=148480104",
+                "isFree": false,
+                "price": ""
+            },
+            "2025 CBA全明星赛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104t12000fusue3o3D18.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/148933586.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春一汽": {
+                "commentCount": 153,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh7412000c1mbfdz5998.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1835361.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春中国光学科学技术馆": {
+                "commentCount": 42,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000b01zp5xB404.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/2492095.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "伪满八大部": {
+                "commentCount": 109,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m12000f6pwqp2D6F2.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10532.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春博物馆": {
+                "commentCount": 9,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010231200047xj7hw30EB.jpg",
+                "distanceStr": "距市中心716m",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5704531.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凯撒森林温泉": {
+                "commentCount": 302,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0q000000gbaxtDB44.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/2002738.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春滑雪圈": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01057120008cbz5d4BAB4.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=149275292",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林胡同美食街": {
+                "commentCount": 8,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A1q1200091f95lcD2FB.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/112646717.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东北沦陷史陈列馆": {
+                "commentCount": 100,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000astdibf5F7F.jpg",
+                "distanceStr": "距市中心10.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1696217.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春文庙": {
+                "commentCount": 111,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000bbe2k7fB331.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1696471.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【长春】《小北指南》主打秀｜小北、小佳、小麦": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000ggmw11b55F1.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/149545079.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春北湖湿地公园": {
+                "commentCount": 71,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt2inBFBA.jpg",
+                "distanceStr": "距市中心18.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1835337.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长白山天沐温泉": {
+                "commentCount": 25,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102012000arbd9sm3CE4.jpg",
+                "distanceStr": "距市中心9.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/136021743.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "莲花山巴图鲁乐园": {
+                "commentCount": 28,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01048120008lrgli96C2D.jpg",
+                "distanceStr": "距市中心33.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5715134.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "护国般若寺": {
+                "commentCount": 139,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p120009d9oc032279.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10534.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "净月缆车滑道站": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120009il5t0xABA3.jpg",
+                "distanceStr": "距市中心10.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/134049344.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林路商业街": {
+                "commentCount": 126,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m170000013f955FB76.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/133123.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春喂梅花鹿": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x120006o554ghEA67.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=148488408",
+                "isFree": false,
+                "price": ""
+            },
+            "吉春泉度假温泉": {
+                "commentCount": 13,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp2pa2BF2.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5355385.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "御龙温泉": {
+                "commentCount": 143,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350m10000000p4fr71605.jpg",
+                "distanceStr": "距市中心39.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/70391.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伪满洲国皇宫办公楼": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v12000bv7lmmbF573.jpg",
+                "distanceStr": "距市中心10.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/133554389.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北普陀寺": {
+                "commentCount": 19,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r0t000000inpck2F9F.jpg",
+                "distanceStr": "距市中心10.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1696224.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "一汽红旗文化展馆": {
+                "commentCount": 11,
+                "commentScore": 3.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000au5k9poF20B.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/2743410.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春 · 开心麻花主题体验式喜剧《偷心晚宴》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000el1f66c7A63.jpg",
+                "distanceStr": "距市中心6.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/148461791.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瓦萨博物馆": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000b01ng33C7B9.jpg",
+                "distanceStr": "距市中心13.7km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1696241.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伪满洲国国务院旧址": {
+                "commentCount": 86,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gug0y3563.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/10648.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "文化广场": {
+                "commentCount": 176,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01074120008jpfxslDED3.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/25182.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "原关东军司令部": {
+                "commentCount": 39,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h19s95BE0.jpg",
+                "distanceStr": "距市中心8.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1714657.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉林省自然博物馆": {
+                "commentCount": 79,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6tv6l41EB8.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/147045.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "吉林省科技馆(永顺路)": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e12000b8c3i9fBBED.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/69174847.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "欢乐谷": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4s12000bwwms89E241.jpg",
+                "distanceStr": "距市中心12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/4645219.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汤泉时代温泉": {
+                "commentCount": 29,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grvdg6BE7.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/2512484.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "吉林大学-地质博物馆": {
+                "commentCount": 110,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5e12000a6ph9fg7ECD.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/17800.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东北民族民俗博物馆": {
+                "commentCount": 77,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t1e000001fmq6aDFE5.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1413273.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "人民广场": {
+                "commentCount": 6,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v12000f6psmmbF92D.jpg",
+                "distanceStr": "距市中心7.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5710426.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春水文化生态园": {
+                "commentCount": 38,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y12000bbe2zubDF20.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5600421.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "樱桃汤泉": {
+                "commentCount": 47,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3509180000013siqt4303.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5621406.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "红旗街商业区": {
+                "commentCount": 116,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000f6rdg5jA908.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/141639.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春洗浴汗蒸": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35021b000001acfd9A616.jpg",
+                "distanceStr": "吉林",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/0.html?poiId=148928558",
+                "isFree": false,
+                "price": ""
+            },
+            "万寿寺": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01044120009cukk24947F.jpg",
+                "distanceStr": "距市中心20.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/69175881.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "同德殿": {
+                "commentCount": 73,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1a0000018tkc13AB7.jpg",
+                "distanceStr": "距市中心10.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1696196.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "星辰汇": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102412000f6up2piE65E.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/148421282.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【长春】《探秘山海经》沉浸式艺术展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103112000cuhyjgdDCAE.png",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/144301553.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "胜利公园": {
+                "commentCount": 182,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01063120008ikzdc9469A.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/113959.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "关东文化园": {
+                "commentCount": 225,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i120008ap2b8z935F.jpg",
+                "distanceStr": "距市中心16.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/141456.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天主教堂": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y120005zfnhd007BD.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5714176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长春国际汽车公园": {
+                "commentCount": 36,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i12000f6snxpp60DB.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1835270.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万科松花湖度假区": {
+                "commentCount": 455,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0e12000ci2oeuw49D2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jilin267/1673651.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "松花湖滑雪场": {
+                "commentCount": 541,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4812000dc1swi5D703.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jilin267/17803.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "龙嘉街道": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ7412000g8ys25e75B1.jpg",
+                "distanceStr": "距市中心39.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/4993359.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乐观博物馆(环球广场店)": {
+                "commentCount": 8,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000aoln8wq374D.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/131905583.html?scene=online",
+                "isFree": false,
+                "price": 42.0
+            },
+            "汽车博物馆(车城万达广场店)": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh1412000f9f3at72A4C.jpg",
+                "distanceStr": "距市中心10.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/145682879.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "和平大戏院(万宝街店)": {
+                "commentCount": 8,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a1c000001d45ru4D0F.jpg",
+                "distanceStr": "距市中心6.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/3139978.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长春新民大街": {
+                "commentCount": 51,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000f6t8587F429.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/1714822.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "亚泰新城饭店温泉": {
+                "commentCount": 6,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o190000015vhw69633.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/5618348.html?scene=online",
+                "isFree": false,
+                "price": 59.8
+            },
+            "十二街夜市": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01060120008gd93ysD57B.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changchun216/112652819.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,789 @@
+{
+    "广西": {
+        "桂林": {
+            "桂林两江四湖景区": {
+                "commentCount": 13162,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000e4ng77b43EC.jpg",
+                "distanceStr": "距市中心817m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/5925.html?scene=online",
+                "isFree": false,
+                "price": 175.0
+            },
+            "象鼻山景区": {
+                "commentCount": 20161,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0z000000nk0ag0DF4.jpg",
+                "distanceStr": "距市中心705m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/107505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "独秀峰王城景区": {
+                "commentCount": 18361,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0812000cjb4ken2CDF.jpg",
+                "distanceStr": "距市中心836m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/107501.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "漓江风景名胜区": {
+                "commentCount": 13206,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01059120005qzc6xp3CF2.jpg",
+                "distanceStr": "距市中心19.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/2888.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙脊梯田": {
+                "commentCount": 4953,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p15000000xouiz78F9.jpg",
+                "distanceStr": "距市中心56.7km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/14892.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "漓江三星游船": {
+                "commentCount": 3787,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001gri9a3F3C.jpg",
+                "distanceStr": "距市中心19.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/1478560.html?scene=online",
+                "isFree": false,
+                "price": 167.0
+            },
+            "桂林千古情": {
+                "commentCount": 3000,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01005120008s6fb28FB96.jpg",
+                "distanceStr": "距市中心58.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/4734370.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "遇龙河景区": {
+                "commentCount": 5168,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w120005quonp495C1.jpg",
+                "distanceStr": "距市中心57.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/22081.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "遇龙河漂流": {
+                "commentCount": 5082,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000f6qxe2e20DC.jpg",
+                "distanceStr": "距市中心52.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/137485.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漓江竹筏游": {
+                "commentCount": 1389,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000f6q5ywyF0A1.jpg",
+                "distanceStr": "距市中心46.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/1508972.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "银子岩": {
+                "commentCount": 4832,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/963/634/210/d97f27e0107044e1a3e992fbb763e027.jpg",
+                "distanceStr": "距市中心72.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lipu2020/18147.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "如意峰索道景区": {
+                "commentCount": 972,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a12000a4t7qi49F79.jpg",
+                "distanceStr": "距市中心69.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/5706026.html?scene=online",
+                "isFree": false,
+                "price": 208.0
+            },
+            "漓江四星游船": {
+                "commentCount": 1543,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5912000gv3jq7o1991.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/1478723.html?scene=online",
+                "isFree": false,
+                "price": 305.0
+            },
+            "芦笛岩": {
+                "commentCount": 10140,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h359hC89B.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/2880.html?scene=online",
+                "isFree": false,
+                "price": 82.0
+            },
+            "芦笛景区": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o1200089wza4o038E.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/70368412.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "世外桃源": {
+                "commentCount": 6556,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6v12000buxotbkA0CF.jpg",
+                "distanceStr": "距市中心46.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/140484.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "七星景区": {
+                "commentCount": 5086,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6q4xjl0C28.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/2882.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "十里画廊": {
+                "commentCount": 1740,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000f6qk9l4AFC6.jpg",
+                "distanceStr": "距市中心62.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/52551.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "相公山": {
+                "commentCount": 432,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsx301486.jpg",
+                "distanceStr": "距市中心43.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/1417461.html?scene=online",
+                "isFree": false,
+                "price": 79.9
+            },
+            "兴坪古镇": {
+                "commentCount": 833,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000g2o8xj3DAAF.jpg",
+                "distanceStr": "距市中心46.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/26887.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阳朔骑行": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000eq5jdkj2166.jpg",
+                "distanceStr": "桂林",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/0.html?poiId=148483141",
+                "isFree": false,
+                "price": ""
+            },
+            "独秀峰": {
+                "commentCount": 2373,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000f6pod0zF655.jpg",
+                "distanceStr": "距市中心966m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/2886.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日月双塔": {
+                "commentCount": 1791,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120007ymb8m66429.jpg",
+                "distanceStr": "距市中心441m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/50487.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "叠彩山": {
+                "commentCount": 2833,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000f6qv6m67B62.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/2879.html?scene=online",
+                "isFree": false,
+                "price": 23.0
+            },
+            "桂海晴岚": {
+                "commentCount": 149,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0b12000esreyve7C81.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/5718112.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "西街": {
+                "commentCount": 4911,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z12000abrjn57B4E8.jpg",
+                "distanceStr": "距市中心59.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/22079.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阳朔旅拍": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d120008c1l8i5A61E.jpg",
+                "distanceStr": "桂林",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/0.html?poiId=148487234",
+                "isFree": false,
+                "price": ""
+            },
+            "九马画山": {
+                "commentCount": 397,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z120005qp51t31BDC.jpg",
+                "distanceStr": "距市中心42.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/52594.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桂林看日落": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0h00000091wyb9EFB.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/0.html?poiId=148892931",
+                "isFree": false,
+                "price": ""
+            },
+            "东西巷": {
+                "commentCount": 281,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103712000f6u01uzBE4F.jpg",
+                "distanceStr": "距市中心545m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/1932650.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漓江古东景区": {
+                "commentCount": 629,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1212000d53yxr29800.jpg",
+                "distanceStr": "距市中心24.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/1412528.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "桂林融创国际旅游度假区": {
+                "commentCount": 755,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01052120008qov2zc101E.jpg",
+                "distanceStr": "距市中心25.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/118091268.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桂林猫儿山": {
+                "commentCount": 520,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010411200086rsxuzAE53.jpg",
+                "distanceStr": "距市中心70.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xingancounty722/18142.html?scene=online",
+                "isFree": false,
+                "price": 130.0
+            },
+            "大榕树": {
+                "commentCount": 2610,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000f6qviwl1EE7.jpg",
+                "distanceStr": "距市中心63.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/22083.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙颈河漂流": {
+                "commentCount": 652,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g12000f6sgf15F0B4.jpg",
+                "distanceStr": "距市中心46.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/141510.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳朔月亮山风景区": {
+                "commentCount": 767,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000f6quwgq15AF.jpg",
+                "distanceStr": "距市中心63.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/22084.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳朔漂流": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r0z000000n6wazD007.jpg",
+                "distanceStr": "桂林",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/0.html?poiId=148473891",
+                "isFree": false,
+                "price": ""
+            },
+            "冠岩": {
+                "commentCount": 860,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o120009d9u6sm9D7B.jpg",
+                "distanceStr": "距市中心29.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/6030.html?scene=online",
+                "isFree": false,
+                "price": 45.3
+            },
+            "伏波山": {
+                "commentCount": 547,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6qvcr83096.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/2883.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "正阳步行街": {
+                "commentCount": 407,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1a0000018j7ahF40F.jpg",
+                "distanceStr": "距市中心203m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/108721.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桂林丹霞八角寨景区": {
+                "commentCount": 314,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1b12000at0thzi90AF.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ziyuan980/48674.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "资源丹霞地质公园": {
+                "commentCount": 9,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000a6e6tt650A3.jpg",
+                "distanceStr": "距市中心94.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ziyuan980/131698.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漓江五星游船": {
+                "commentCount": 16,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r120009zin3g89BBF.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/134786346.html?scene=online",
+                "isFree": false,
+                "price": 1280.0
+            },
+            "龙脊梯田风景名胜区-金坑梯田": {
+                "commentCount": 365,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001gruwc22E7.jpg",
+                "distanceStr": "距市中心53.7km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/110465.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "七星岩": {
+                "commentCount": 371,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0u000000j1mr73AC9.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/131503.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "天籁·蝴蝶泉": {
+                "commentCount": 1220,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/536/241/941/abccce775d494cd4b5e0d8bd14dcf1b5.jpg",
+                "distanceStr": "距市中心62.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/48898.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "刘三姐大观园": {
+                "commentCount": 711,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000f6qxkx163F4.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/50478.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "大榕树景区-山水甲天下": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000a84cubj115F.jpg",
+                "distanceStr": "距市中心63.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/126934642.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "木龙湖景区": {
+                "commentCount": 353,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010451200087cafpa1E5D.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/140482.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "聚龙潭": {
+                "commentCount": 263,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000nnmwcB714.jpg",
+                "distanceStr": "距市中心64.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/48899.html?scene=online",
+                "isFree": false,
+                "price": 52.0
+            },
+            "桂花公社": {
+                "commentCount": 92,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120008qxgrcnA839.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/117918946.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金龙桥": {
+                "commentCount": 69,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000f6ri5caFDF4.jpg",
+                "distanceStr": "距市中心52.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/2495354.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "二十元人民币背景图": {
+                "commentCount": 22,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0n17000001194xu8001.jpg",
+                "distanceStr": "距市中心45.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/69546182.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "遇龙河竹筏漂流(金龙桥—旧县店)": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000ec0uztp8865.jpg",
+                "distanceStr": "距市中心51.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/145710463.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "富里桥": {
+                "commentCount": 63,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000mq4lbC232.jpg",
+                "distanceStr": "距市中心50.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/52541.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "恭城红岩村": {
+                "commentCount": 44,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030z000000nbipc5F25.jpg",
+                "distanceStr": "距市中心83.3km",
+                "detailUrl": "https://you.ctrip.com/sight/gongcheng1446252/1830751.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙胜温泉": {
+                "commentCount": 249,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxbqeAF39.jpg",
+                "distanceStr": "距市中心69.2km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/18143.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "黄洛红瑶寨": {
+                "commentCount": 97,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nnmnn4BB7.jpg",
+                "distanceStr": "距市中心54.9km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/50289.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵渠": {
+                "commentCount": 526,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000f6scvk22E78.jpg",
+                "distanceStr": "距市中心53.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xingancounty722/2884.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东漓古村": {
+                "commentCount": 31,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d120002cun7nk7107.jpg",
+                "distanceStr": "距市中心19.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/5537376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林荔浦荔江湾": {
+                "commentCount": 246,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0q000000gb03dF592.jpg",
+                "distanceStr": "距市中心92.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lipu2020/50486.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙脊峡漂流": {
+                "commentCount": 71,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o12000f6t5jjq7989.jpg",
+                "distanceStr": "距市中心54.3km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/131717.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林西山景区": {
+                "commentCount": 375,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000f6tugn19BAC.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/141374.html?scene=online",
+                "isFree": false,
+                "price": 27.5
+            },
+            "南溪山景区": {
+                "commentCount": 300,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01015120008iyrvye109D.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/50286.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漓江源大峡谷": {
+                "commentCount": 170,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6qb0ze8B2F.jpg",
+                "distanceStr": "距市中心66.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xingancounty722/131652.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "阳朔燕莎航空运动营地": {
+                "commentCount": 194,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040z000000moymsB297.jpg",
+                "distanceStr": "距市中心63.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/2015797.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "平安壮寨": {
+                "commentCount": 87,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsz1z1B9E.jpg",
+                "distanceStr": "距市中心56.2km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/107503.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳朔攀岩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A01180000014mtq5E5E9.jpg",
+                "distanceStr": "桂林",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/0.html?poiId=148485250",
+                "isFree": false,
+                "price": ""
+            },
+            "靖江王府-承运门": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120009ikc29a494A.jpg",
+                "distanceStr": "距市中心651m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/5066548.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林融创海世界": {
+                "commentCount": 139,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01012120008q45p19C886.jpg",
+                "distanceStr": "距市中心25.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/5715373.html?scene=online",
+                "isFree": false,
+                "price": 83.0
+            },
+            "富里桥竹筏漂流": {
+                "commentCount": 31,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000f6pshk64CB6.jpg",
+                "distanceStr": "距市中心50.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/4048864.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金水岩": {
+                "commentCount": 215,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000f6t2ua9010F.jpg",
+                "distanceStr": "距市中心64.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/50258.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "相公山观景台": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6s3fi4E63D.jpg",
+                "distanceStr": "距市中心43.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/134715804.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老寨山公园": {
+                "commentCount": 102,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i1f000001ftsu1BFC8.jpg",
+                "distanceStr": "距市中心46.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/1417363.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桂林融创水世界": {
+                "commentCount": 84,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l120008qov2q9344E.jpg",
+                "distanceStr": "距市中心25.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/5715383.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "燕莎滑翔伞飞行": {
+                "commentCount": 26,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050e000000714rs9771.jpg",
+                "distanceStr": "距市中心63.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/2483483.html?scene=online",
+                "isFree": false,
+                "price": 399.0
+            },
+            "穿山景区": {
+                "commentCount": 151,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e120009417rsv6983.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/50457.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "展卓直升机阳朔基地": {
+                "commentCount": 51,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040q000000ga5xx24A8.jpg",
+                "distanceStr": "距市中心63.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/2016604.html?scene=online",
+                "isFree": false,
+                "price": 380.0
+            },
+            "大圩古镇": {
+                "commentCount": 177,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0l12000000t97dkC967.jpg",
+                "distanceStr": "距市中心16.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lingchuan3064/26740.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "尧山": {
+                "commentCount": 400,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4s12000gse93e720F4.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/2887.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "靖江王陵": {
+                "commentCount": 51,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k1700000138py5F91B.jpg",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/50287.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "李宗仁官邸": {
+                "commentCount": 132,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r12000f6qbago044F.jpg",
+                "distanceStr": "距市中心503m",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/50437.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金坑大寨红瑶梯田": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000ewod883E533.jpg",
+                "distanceStr": "距市中心60.8km",
+                "detailUrl": "https://you.ctrip.com/sight/longsheng1445120/148480066.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《新梦幻漓江》大型山水情景剧": {
+                "commentCount": 93,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000f6rdtpp170C.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/137423.html?scene=online",
+                "isFree": false,
+                "price": 96.0
+            },
+            "梦幻漓江剧场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000gwszssc1B64.png",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guilin28/144176085.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄布倒影": {
+                "commentCount": 94,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0d1e000001fic6y041D.jpg",
+                "distanceStr": "距市中心44.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/50088.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桂林兴坪漓江(20元人民币背景)": {
+                "commentCount": 3,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l12000f1en4183E70.jpg",
+                "distanceStr": "距市中心46.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yangshuo702/148767111.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

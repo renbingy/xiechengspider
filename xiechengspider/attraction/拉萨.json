@@ -1,0 +1,798 @@
+{
+    "西藏": {
+        "拉萨": {
+            "布达拉宫": {
+                "commentCount": 18843,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c1200061ynv4356C0.jpg",
+                "distanceStr": "距市中心219m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3117.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "纳木措": {
+                "commentCount": 3898,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000nvtwoF2A3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/11793.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "纳木措国家公园": {
+                "commentCount": 418,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grtacC895.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/5073165.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "大昭寺": {
+                "commentCount": 3771,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010231200087e45x769E7.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3119.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "八廓街": {
+                "commentCount": 805,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v13000000ui5lyD2A4.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3124.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "《文成公主》大型史诗剧": {
+                "commentCount": 3293,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000f6sgon35628.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1411109.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "文成公主剧场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000dei11gwBE64.png",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/144264122.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "罗布林卡": {
+                "commentCount": 584,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060z000000nm57g70EB.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3118.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏博物馆": {
+                "commentCount": 281,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpbeq22C1.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/51555.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "色拉寺": {
+                "commentCount": 307,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105i12000f6t2w12C0EB.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3122.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "扎基寺": {
+                "commentCount": 93,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106j12000f6sflyjD6F0.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/138064.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哲蚌寺": {
+                "commentCount": 217,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l1200086923i3DB63.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3121.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "藏域星球天文体验馆": {
+                "commentCount": 1062,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o12000f6r5vzh59FF.jpg",
+                "distanceStr": "距市中心10.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5708293.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "药王山": {
+                "commentCount": 244,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0v14000000xcw65331B.jpg",
+                "distanceStr": "距市中心680m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5525.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "布达拉宫广场": {
+                "commentCount": 395,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gsq1yA247.jpg",
+                "distanceStr": "距市中心143m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487591.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那根拉山口": {
+                "commentCount": 126,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A0f12000a5672h973F8.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/109943.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "纳木措扎西岛": {
+                "commentCount": 24,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102012000fhmetbhCC0A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/1695824.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "小昭寺": {
+                "commentCount": 193,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000h0hei894AB9.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5520.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南山公园": {
+                "commentCount": 29,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n1200087egle1C96B.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5073302.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓝色天国羊八井地热旅游区": {
+                "commentCount": 126,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grl1t01A1.jpg",
+                "distanceStr": "距市中心77.4km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/50303.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "念青唐古拉观景台": {
+                "commentCount": 82,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d180000013zitt0742.jpg",
+                "distanceStr": "距市中心99.3km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/44016.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "甘丹寺": {
+                "commentCount": 60,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A09170000012xd9l1F5A.jpg",
+                "distanceStr": "距市中心36.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3120.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉萨藏服体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5j120008q7pc2o6750.jpg",
+                "distanceStr": "西藏",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/0.html?poiId=148487167",
+                "isFree": false,
+                "price": ""
+            },
+            "拉萨河": {
+                "commentCount": 127,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g4/M05/CB/30/CggYHVZzrUGAKPhNABwIGJ16XYQ767.jpg",
+                "distanceStr": "距市中心17.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/54499.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "藏北大草原": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01033120009d9u3mk5572.jpg",
+                "distanceStr": "距市中心88.5km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/83763058.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "川藏公路": {
+                "commentCount": 35,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01056120009dfj48uBE93.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/maizhokunggar1446407/1410734.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西藏自然科学博物馆": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6ta3i4B3FC.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/2121742.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "布达拉宫药王山观景台": {
+                "commentCount": 89,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01002120006201u932089.jpg",
+                "distanceStr": "距市中心251m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1694589.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "念青唐古拉山": {
+                "commentCount": 17,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000bbdyevpB5D0.jpg",
+                "distanceStr": "距市中心80.1km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/5143245.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青藏铁路": {
+                "commentCount": 10,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1c000001d3ke097D6.jpg",
+                "distanceStr": "距市中心60.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/4820207.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宗角禄康公园": {
+                "commentCount": 142,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt1nxB00E.jpg",
+                "distanceStr": "距市中心579m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5522.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "羊卓雍措": {
+                "commentCount": 1848,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000825yazuF17B.jpg",
+                "distanceStr": "距拉萨70.4km",
+                "detailUrl": "https://you.ctrip.com/sight/gongga120408/43863.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "千佛山": {
+                "commentCount": 7,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100914000000wbtchC765.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/2023056.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "念青唐古拉山脉": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h1200080y5n8s826A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/130886684.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉萨赏桃花": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000fnsdp0xD480.jpg",
+                "distanceStr": "西藏",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/0.html?poiId=148928566",
+                "isFree": false,
+                "price": ""
+            },
+            "云藏文化体验空间": {
+                "commentCount": 8,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m120009exys4oD798.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5710230.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "扎叶巴寺": {
+                "commentCount": 29,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4d12000a3ipxslE5DC.jpg",
+                "distanceStr": "距市中心18.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/128931.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "琼穆岗日": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s120009hc7xpl581E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nyemo1446406/54451.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大昭寺广场": {
+                "commentCount": 157,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000861oe842959.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1694588.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪鹰通航直升机观光之旅": {
+                "commentCount": 6,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000f6u1p9sD839.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/4282347.html?scene=online",
+                "isFree": false,
+                "price": 658.0
+            },
+            "西藏百万农奴解放纪念馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000f6rrqe2880C.png",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/136006451.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉鲁湿地国家级自然保护区": {
+                "commentCount": 41,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000f6qlhh690BA.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/128926.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉萨大桥": {
+                "commentCount": 32,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q120008b31mj2EE05.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1696027.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西藏大学(纳金校区)": {
+                "commentCount": 54,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000najq8364A.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487944.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "色拉寺辩经场": {
+                "commentCount": 40,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gues4086B.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/2483013.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪城": {
+                "commentCount": 27,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010641200087eayfvD10B.jpg",
+                "distanceStr": "距市中心199m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1963917.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "思金拉措": {
+                "commentCount": 18,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120009dfft5m6C42.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/maizhokunggar1446407/69537833.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日多温泉": {
+                "commentCount": 13,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w0c00000066vp484D1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/maizhokunggar1446407/54434.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "廓琼岗日冰川": {
+                "commentCount": 84,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp5cn4124.jpg",
+                "distanceStr": "距市中心94.4km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/4376378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "直贡梯寺": {
+                "commentCount": 15,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp9ckEDF0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/maizhokunggar1446407/54460.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "仙足岛": {
+                "commentCount": 33,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5y12000a9qiger5E68.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/147309.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "琼姆岗嘎": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A22120009z465waED2C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/nyemo1446406/135316430.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏天海夜市(西藏天海商城天海路店)": {
+                "commentCount": 9,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000f6q27io9E6C.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5164902.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西藏红山饭店(北京中路店)": {
+                "commentCount": 29,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e120008awur2432C3.jpg",
+                "distanceStr": "距市中心419m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1831005.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉萨之窗": {
+                "commentCount": 21,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y12000f6u9rtrC789.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/4574306.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "第二届西藏文化艺术节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000eqoz1e63843.png",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/148487251.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏雪顿节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f79ifyh1AE5.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/140873209.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "纳金山": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000b6guu6fA729.jpg",
+                "distanceStr": "距市中心15.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/136063467.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "羊八井地热温泉度假村": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000evatq4q25EA.jpg",
+                "distanceStr": "距市中心75.5km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/146106653.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏纳木错自然保护区-扎西岛寺": {
+                "commentCount": 14,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040r000000gy8836F75.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/1487562.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天堂草原": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j120009cniopw5074.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/2512197.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "直贡梯寺天葬台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h120008ch8hwj3DDD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/maizhokunggar1446407/5143258.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏羊八井国家地质公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q12000en6jupa9D94.jpg",
+                "distanceStr": "距市中心77.8km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/145516316.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "布达拉宫-红宫": {
+                "commentCount": 52,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000aqnz6m2E093.jpg",
+                "distanceStr": "距市中心306m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487684.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洛堆峰": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g1200095lc6q75FA9.jpg",
+                "distanceStr": "距市中心80.1km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/5719177.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "驻藏大臣衙门遗址": {
+                "commentCount": 72,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r120008chdz7c5D3F.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/54490.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "格桑花公园": {
+                "commentCount": 29,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d120008ik8t769D26.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/128927.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "帕邦喀": {
+                "commentCount": 18,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1d000001eovls108D.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1962621.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠峰登山博物馆": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h39cu80B0.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487741.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "罗布林卡动物园": {
+                "commentCount": 5,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y12000cjy8w0k8708.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/69128608.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "摩崖石刻": {
+                "commentCount": 32,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y120009e2e0w48EA4.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487607.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白宫": {
+                "commentCount": 62,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j12000ao4ep671811.jpg",
+                "distanceStr": "距市中心337m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1488066.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青藏川藏公路纪念碑": {
+                "commentCount": 32,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b120009cywcddB830.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487669.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "纳木湖乡": {
+                "commentCount": 13,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010591200061ynhzdC4FA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/5068211.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西藏拉萨清真大寺": {
+                "commentCount": 42,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f12000f6scp3p4E38.png",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/5527.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "牦牛博物馆": {
+                "commentCount": 7,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106512000axkep8xC77E.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/2499958.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "岗巴拉山": {
+                "commentCount": 55,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m1200086sm2vj7C9B.jpg",
+                "distanceStr": "距拉萨70.5km",
+                "detailUrl": "https://you.ctrip.com/sight/gongga120408/132895.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "楚布寺": {
+                "commentCount": 17,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqbk4C1C1.jpg",
+                "distanceStr": "距市中心52.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/11797.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "布达拉宫-珍宝馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l120008aywc7g4680.jpg",
+                "distanceStr": "距市中心271m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/3374366.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "羊八井寺": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010091200092lpeap59B6.jpg",
+                "distanceStr": "距市中心77.5km",
+                "detailUrl": "https://you.ctrip.com/sight/damxung2443/1695906.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "功德林寺": {
+                "commentCount": 16,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m1200092ma9dk2EF9.jpg",
+                "distanceStr": "距市中心944m",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487728.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西藏唐卡画院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120008gd8uot456F.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/111989433.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湖心宫": {
+                "commentCount": 18,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01038120008ch7z4e6C5F.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1487698.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏非物质文化遗产博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m120009f0p0m9F3D8.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/64389875.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉萨市拉萨河水利风景区": {
+                "commentCount": 19,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000cl75awbAB0B.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/112651422.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大昭寺弥勒殿": {
+                "commentCount": 46,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpcasF82D.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lhasa36/1752939.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拉萨河沼泽湿地": {
+                "commentCount": 9,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v120009ig089xB2D9.jpg",
+                "distanceStr": "距市中心40.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qushui1446405/4470762.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西藏拉萨净土健康动物保护园": {
+                "commentCount": 5,
+                "commentScore": 3.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c13000000u1dyeA196.jpg",
+                "distanceStr": "距市中心45.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qushui1446405/5253360.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

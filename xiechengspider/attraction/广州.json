@@ -1,0 +1,699 @@
+{
+    "广东": {
+        "广州": {
+            "长隆野生动物世界": {
+                "commentCount": 67121,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsobq9CAE.jpg",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6802.html?scene=online",
+                "isFree": false,
+                "price": 300.0
+            },
+            "广州长隆度假区": {
+                "commentCount": 3227,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f6tvovl4925.jpg",
+                "distanceStr": "距市中心15.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/135794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州塔": {
+                "commentCount": 34809,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100312000f6ppn748823.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/107540.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "广州长隆国际大马戏": {
+                "commentCount": 18292,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2i12000cnuwrcd1785.jpg",
+                "distanceStr": "距市中心14.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/137991.html?scene=online",
+                "isFree": false,
+                "price": 350.0
+            },
+            "珠江夜游": {
+                "commentCount": 8280,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001guf0d1940.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/110464.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "长隆欢乐世界": {
+                "commentCount": 22077,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350d1f000001fwbqe2422.jpg",
+                "distanceStr": "距市中心15.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/48593.html?scene=online",
+                "isFree": false,
+                "price": 250.0
+            },
+            "陈家祠": {
+                "commentCount": 2255,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y1200085zzmnj106D.jpg",
+                "distanceStr": "距市中心8.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6772.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广东科学中心": {
+                "commentCount": 9367,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j1200089fz67o9278.jpg",
+                "distanceStr": "距市中心11.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/64724.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "长隆水上乐园": {
+                "commentCount": 15081,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350b170000013bems4828.jpg",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/48597.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长隆飞鸟乐园": {
+                "commentCount": 3333,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35021f000001g4w32499B.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/51027.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "广东省博物馆": {
+                "commentCount": 1446,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v120009g7nx2cDE51.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6782.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正佳广场商贸旅游区": {
+                "commentCount": 386,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000cz56796B111.jpg",
+                "distanceStr": "距市中心700m",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1412403.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正佳极地海洋世界": {
+                "commentCount": 6236,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1b12000fei6gseDFCC.jpg",
+                "distanceStr": "距市中心665m",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1815375.html?scene=online",
+                "isFree": false,
+                "price": 125.0
+            },
+            "沙面": {
+                "commentCount": 5812,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqvqr379C.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/11346.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广州动物园": {
+                "commentCount": 2627,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6qv7sjB048.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6784.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南越王博物院(王墓展区)": {
+                "commentCount": 874,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070z000000nv020AB0F.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6808.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州塔460米摩天轮": {
+                "commentCount": 1551,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h35yv60BD.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1484195.html?scene=online",
+                "isFree": false,
+                "price": 296.0
+            },
+            "广州中山纪念堂": {
+                "commentCount": 1549,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120008638mpi1886.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6824.html?scene=online",
+                "isFree": false,
+                "price": 8.0
+            },
+            "北京路步行街": {
+                "commentCount": 978,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0u000000iwl7c4E54.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/135763.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大佛古寺": {
+                "commentCount": 484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t1200080zb8z3A40A.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1481692.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海珠有轨电车1号线": {
+                "commentCount": 211,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0e12000b3jc2v985C5.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/136627117.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白云山": {
+                "commentCount": 4591,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p12000h188a0l3069.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6766.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "越秀公园": {
+                "commentCount": 1896,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5z12000h676jui8016.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6821.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国科学院华南国家植物园": {
+                "commentCount": 3060,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040z000000nkh4v83FF.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6794.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "广州热雪奇迹": {
+                "commentCount": 7368,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1n12000h2dvd3b6A7A.jpg",
+                "distanceStr": "距市中心33.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5120365.html?scene=online",
+                "isFree": false,
+                "price": 198.0
+            },
+            "广州融创文旅城": {
+                "commentCount": 447,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b120009clc8q1EFF1.jpg",
+                "distanceStr": "距市中心34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5356386.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "永庆坊": {
+                "commentCount": 323,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grkmkCC1A.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/2046407.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西关永庆坊旅游区": {
+                "commentCount": 47,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q120009xen4m9C4BD.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5136250.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上下九步行街": {
+                "commentCount": 1797,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030h0000008rcke8F01.jpg",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/64963.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠江夜游天字码头": {
+                "commentCount": 3542,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqezl6DF9.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/121689.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "沙湾古镇": {
+                "commentCount": 933,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6pxoa05E6C.jpg",
+                "distanceStr": "距市中心26.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/121749.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "广州 · 2024百威风暴电音节-广州站": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000guylw884BFC.jpg",
+                "distanceStr": "距市中心52.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/149585663.html?scene=online",
+                "isFree": false,
+                "price": 580.0
+            },
+            "广州圣心大教堂": {
+                "commentCount": 1249,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000nmn4z99DF.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6959.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "白水寨风景名胜区": {
+                "commentCount": 5482,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020s000000hqzdm8FA3.jpg",
+                "distanceStr": "距市中心67.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/140555.html?scene=online",
+                "isFree": false,
+                "price": 56.0
+            },
+            "广州融创乐园": {
+                "commentCount": 7273,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1c12000h0mmtpmBC8E.jpg",
+                "distanceStr": "距市中心33.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5118364.html?scene=online",
+                "isFree": false,
+                "price": 159.0
+            },
+            "岭南印象园": {
+                "commentCount": 5099,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q120008ycqhcl85D5.jpg",
+                "distanceStr": "距市中心14.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/110338.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "宝墨园": {
+                "commentCount": 5107,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4312000dcrskqiDB7F.jpg",
+                "distanceStr": "距市中心27.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/51254.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "黄埔军校旧址纪念馆": {
+                "commentCount": 658,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A3o120008oi9ckt57AE.jpg",
+                "distanceStr": "距市中心11.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6797.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南沙天后宫": {
+                "commentCount": 700,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0z000000mipu7A032.jpg",
+                "distanceStr": "距市中心51.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/51301.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "森林海嬉水乐园": {
+                "commentCount": 515,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5p12000bi6bfh51D65.jpg",
+                "distanceStr": "距市中心65.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5707848.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "广州海洋馆": {
+                "commentCount": 913,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2h12000eir5m9t3D47.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/51252.html?scene=online",
+                "isFree": false,
+                "price": 160.0
+            },
+            "珠江夜游广州塔财富码头": {
+                "commentCount": 196,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01049120008dm708o133F.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/4719347.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "珠江夜游大沙头码头": {
+                "commentCount": 2042,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000950hy5hE531.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/143361.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "从化碧水湾温泉": {
+                "commentCount": 3711,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2d12000b0r7vddD1CA.jpg",
+                "distanceStr": "距市中心74.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1402174.html?scene=online",
+                "isFree": false,
+                "price": 179.0
+            },
+            "余荫山房": {
+                "commentCount": 1433,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350c15000000xzulgBBB1.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/52653.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "【广州】琶洲音乐节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f12000gk3bvliBB78.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/149569732.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州兰圃": {
+                "commentCount": 364,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t0b00000057jqbA37E.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6798.html?scene=online",
+                "isFree": false,
+                "price": 8.0
+            },
+            "正佳雨林生态植物园": {
+                "commentCount": 470,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt0lfED87.jpg",
+                "distanceStr": "距市中心628m",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5553375.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "莲花山旅游区": {
+                "commentCount": 1199,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001grzy4551F.jpg",
+                "distanceStr": "距市中心24.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6799.html?scene=online",
+                "isFree": false,
+                "price": 54.0
+            },
+            "海心沙亚运公园": {
+                "commentCount": 575,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A05190000015syqc6ED1.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1462441.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "GAF2025广州插画艺术节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000gd9c3z9BF78.png",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/149396356.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州博物馆": {
+                "commentCount": 397,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106412000f6sddl2C298.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6823.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "千泷沟大瀑布": {
+                "commentCount": 876,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1j12000awh867s459D.jpg",
+                "distanceStr": "距市中心83.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1415288.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "广州都市双层观光巴士(粤陶巴)": {
+                "commentCount": 236,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01045120009vhkej2C54F.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/2046496.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海珠国家湿地公园": {
+                "commentCount": 1816,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k1200084udw0gDFE5.jpg",
+                "distanceStr": "距市中心7.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/147531.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "花城广场": {
+                "commentCount": 790,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200089gx3bgF250.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/110543.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南越王博物院(王宫展区)": {
+                "commentCount": 61,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1g000001h3nbuD7EB.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5613345.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正佳企鹅冰雪世界": {
+                "commentCount": 167,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4512000feqy7hb6896.png",
+                "distanceStr": "距市中心619m",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/135955293.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "【广州】第三届广州花都时尚节-芒果音乐会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000cf2rh5t02F7.png",
+                "distanceStr": "距市中心29.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/149647969.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "正佳自然科学博物馆": {
+                "commentCount": 590,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6312000dxubn0xD84B.jpg",
+                "distanceStr": "距市中心697m",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/4383360.html?scene=online",
+                "isFree": false,
+                "price": 58.8
+            },
+            "【广州】英文原版音乐剧《剧院魅影》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000ep1oq8r1E53.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/148480494.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州塔阿尔法探索乐园": {
+                "commentCount": 238,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6uhjnc0651.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/106711388.html?scene=online",
+                "isFree": false,
+                "price": 388.0
+            },
+            "珠江新城": {
+                "commentCount": 443,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b120008jkdn3w41CF.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1481475.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广州 · 《爱•永恒》理查德·克莱德曼钢琴新年音乐会广州站": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000gcnbo3y902B.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/148903433.html?scene=online",
+                "isFree": false,
+                "price": 380.0
+            },
+            "珠江夜游海心沙西区码头": {
+                "commentCount": 302,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y120008i7nbbo7616.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1841253.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天人山水大地艺术园": {
+                "commentCount": 299,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u120009f3w9xyB518.jpg",
+                "distanceStr": "距市中心42.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/126080512.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "广州十三行博物馆": {
+                "commentCount": 41,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f120009cwqpnl9EAA.jpg",
+                "distanceStr": "距市中心8.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/2046369.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠江夜游广州塔·中大码头": {
+                "commentCount": 2275,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f1200052ybc2m6EBC.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1414556.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东山口": {
+                "commentCount": 92,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0n13000000tzfjt72FF.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5073213.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【广州】曾沛慈《曾经，以后》巡回音乐会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000dg81laeCA58.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/149612882.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州融创水世界": {
+                "commentCount": 1674,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqxi8DB98.jpg",
+                "distanceStr": "距市中心33.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5110391.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【广州】开心麻花沉浸式带餐喜剧《捞金晚宴》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000fhli0c24ACA.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/148903554.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "从化碧泉空中温泉": {
+                "commentCount": 2221,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6sn75z5B12.jpg",
+                "distanceStr": "距市中心65.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1837713.html?scene=online",
+                "isFree": false,
+                "price": 83.0
+            },
+            "广东省凉茶博物馆": {
+                "commentCount": 50,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000a99a7feE05F.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5705121.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "西华路美食街": {
+                "commentCount": 66,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6q8b1e44CD.jpg",
+                "distanceStr": "距市中心7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5544420.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "2025广州国际女子网球公开赛": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000eygdo3r16C7.jpg",
+                "distanceStr": "距市中心44.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/148533660.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "荔枝湾涌": {
+                "commentCount": 273,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0a1c000001cg34a6F43.jpg",
+                "distanceStr": "距市中心9.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1460036.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

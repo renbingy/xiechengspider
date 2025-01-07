@@ -1,0 +1,780 @@
+{
+    "浙江": {
+        "宁波": {
+            "天一阁博物院": {
+                "commentCount": 7415,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01005120005rgt7rs7975.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/9964.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "溪口-滕头旅游景区": {
+                "commentCount": 6118,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r11000000r7ev106F5.jpg",
+                "distanceStr": "距市中心40.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/135869.html?scene=online",
+                "isFree": false,
+                "price": 205.0
+            },
+            "蒋氏故居": {
+                "commentCount": 1996,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0q000000gdbl358B2.jpg",
+                "distanceStr": "距市中心33.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1414584.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "罗蒙环球乐园": {
+                "commentCount": 12818,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g16000000yzjnj28E3.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1752511.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "中国渔村": {
+                "commentCount": 3258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n180000013eef2D634.jpg",
+                "distanceStr": "距市中心80.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65054.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "象山影视城": {
+                "commentCount": 5811,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000h14z2d5013E.jpg",
+                "distanceStr": "距市中心70.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65051.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "老外滩": {
+                "commentCount": 2407,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0z000000nujg1C626.jpg",
+                "distanceStr": "距市中心949m",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48549.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雪窦山": {
+                "commentCount": 3105,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c1200087e4xsg0260.jpg",
+                "distanceStr": "距市中心37.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/107387.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "方特旅游度假区": {
+                "commentCount": 4,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2s12000f50gxrqAA7F.jpg",
+                "distanceStr": "距市中心61.9km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/145457387.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波方特东方神画": {
+                "commentCount": 6996,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g1e000001fpw6qDD37.jpg",
+                "distanceStr": "距市中心61.6km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/1840359.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "宁波野生动物园": {
+                "commentCount": 3767,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp5vxA81E.jpg",
+                "distanceStr": "距市中心13.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48596.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "东钱湖": {
+                "commentCount": 1509,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gssiaE3DD.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/16825.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石浦渔港古城": {
+                "commentCount": 1318,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0l12000b8ciwtg8F8A.jpg",
+                "distanceStr": "距市中心82.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65045.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "慈城古县城": {
+                "commentCount": 961,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0r12000d3kvdwm89E5.jpg",
+                "distanceStr": "距市中心16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/139824.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "三江夜游": {
+                "commentCount": 387,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gugxo4568.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/4686344.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "宁波海洋世界": {
+                "commentCount": 3126,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a120008g5puhlD2AE.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1482527.html?scene=online",
+                "isFree": false,
+                "price": 195.0
+            },
+            "南塘老街": {
+                "commentCount": 568,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000f0skfjxD85D.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/109929.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "人间弥勒(雪窦寺)": {
+                "commentCount": 595,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1003170000011535eE4FF.jpg",
+                "distanceStr": "距市中心38.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/4025.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波博物院": {
+                "commentCount": 478,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020z000000mpdz20259.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/135773.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "前童古镇": {
+                "commentCount": 964,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k12000f6t4287BF6F.jpg",
+                "distanceStr": "距市中心74.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ninghai689/72628.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "月湖公园": {
+                "commentCount": 656,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000fa39fuyB9B2.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/135930.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东海半边山旅游度假区": {
+                "commentCount": 191,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000n4cz9DEF4.jpg",
+                "distanceStr": "距市中心78.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/1478764.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "浙东小九寨": {
+                "commentCount": 2123,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6r12000bajf4z7E502.jpg",
+                "distanceStr": "距市中心25.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yuyao98/1409499.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "宁波鼓楼": {
+                "commentCount": 442,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4f120008ljeejiD000.jpg",
+                "distanceStr": "距市中心920m",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48548.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杭州湾国家湿地公园": {
+                "commentCount": 1973,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106w12000f6pxtul764A.jpg",
+                "distanceStr": "距市中心62.4km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/117314.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "宁波海天一洲景区": {
+                "commentCount": 933,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u12000f6q0v2xCC3F.jpg",
+                "distanceStr": "距市中心77.5km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/135670.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "天一广场": {
+                "commentCount": 1683,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gprtn9122.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/20509.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "王阳明故居": {
+                "commentCount": 121,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t120008s7hti0AF0B.jpg",
+                "distanceStr": "距市中心43.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yuyao98/10111.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宁波方特东方欲晓": {
+                "commentCount": 928,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01072120008scebjmA6D1.jpg",
+                "distanceStr": "距市中心62.3km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/5715372.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "象山看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g12000eqqc9xeDFCC.jpg",
+                "distanceStr": "宁波",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/0.html?poiId=148485605",
+                "isFree": false,
+                "price": ""
+            },
+            "保国寺古建筑博物馆": {
+                "commentCount": 374,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350l0x000000l6vyh048C.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/135640.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "宁海森林温泉": {
+                "commentCount": 694,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t14000000wciiwC1B8.jpg",
+                "distanceStr": "距市中心58.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ninghai689/135820.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "梅山湾沙滩公园": {
+                "commentCount": 190,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350j160000010hdln67C1.jpg",
+                "distanceStr": "距市中心37.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/5114342.html?scene=online",
+                "isFree": false,
+                "price": 19.0
+            },
+            "河姆渡遗址博物馆": {
+                "commentCount": 334,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k12000h11g96q4CBB.jpg",
+                "distanceStr": "距市中心22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yuyao98/10251.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "四明山国家森林公园": {
+                "commentCount": 829,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t1200089yck5z49E1.jpg",
+                "distanceStr": "距市中心46.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yuyao98/65976.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "【宁波】小鹿脱口秀专场《我的中女时代》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000geb6yuxB1FE.png",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/149542146.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波赏枫叶": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x12000fet8s907398.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/0.html?poiId=148892979",
+                "isFree": false,
+                "price": ""
+            },
+            "应梦里": {
+                "commentCount": 355,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01015120009l69nwb7020.jpg",
+                "distanceStr": "距市中心34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/133898814.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "梁祝景区": {
+                "commentCount": 448,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000f6t2qogA128.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/9987.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "渔山列岛": {
+                "commentCount": 60,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080g0000007td6aC735.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65105.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿拉的海水上乐园": {
+                "commentCount": 1105,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p15000000xs1mw1561.jpg",
+                "distanceStr": "距市中心64.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/4686343.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "普陀山风景区": {
+                "commentCount": 27615,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000f6t3x3l9600.jpg",
+                "distanceStr": "距宁波81.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126016.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "韩岭老街": {
+                "commentCount": 70,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh5412000b2o80wu04CC.jpg",
+                "distanceStr": "距市中心18.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1479987.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "徐凫岩(飞拉达攀岩)": {
+                "commentCount": 159,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v120009bw8whj94FB.jpg",
+                "distanceStr": "距市中心41.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/4029.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波府城隍庙": {
+                "commentCount": 244,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m120008cdvsswEDA0.jpg",
+                "distanceStr": "距市中心594m",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/20522.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东钱湖小普陀": {
+                "commentCount": 489,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6rc0m4E880.jpg",
+                "distanceStr": "距市中心15.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/25870.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "达蓬山旅游度假区": {
+                "commentCount": 1319,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104e12000f6sdk3nB904.jpg",
+                "distanceStr": "距市中心24.0km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/20525.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "花岙岛": {
+                "commentCount": 84,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh7112000bgypi5zE73A.jpg",
+                "distanceStr": "距市中心91.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65098.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【宁波】舞蹈诗剧《只此青绿》——舞绘《千里江山图》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000fhliuje8B0D.png",
+                "distanceStr": "距市中心45.5km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/148903633.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【宁波】百老汇英文原版音乐剧《芝加哥》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104112000fcwgqd3F917.png",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/148891047.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "招宝山": {
+                "commentCount": 492,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6t3pi47B52.jpg",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/45093.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "鸣鹤古镇": {
+                "commentCount": 247,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y120008ihff9z1AC7.jpg",
+                "distanceStr": "距市中心34.3km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/135668.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梁皇山景区": {
+                "commentCount": 207,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1g000001hegg59CBA.jpg",
+                "distanceStr": "距市中心72.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ninghai689/72631.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "【宁波】蓝梗喜剧脱口秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000el1f8rrD3E6.png",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/148461830.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波奥体中心体育馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000bi6d2ce2A3D.jpg",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/140549776.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "二灵山温泉": {
+                "commentCount": 452,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000f6q16vjB31D.jpg",
+                "distanceStr": "距市中心18.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1411169.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "民国大杂院": {
+                "commentCount": 45,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a12000000rnstz1280.jpg",
+                "distanceStr": "距市中心33.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/66294.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "宁波松兰山旅游度假区": {
+                "commentCount": 977,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0t12000h5kbwv2CB5A.jpg",
+                "distanceStr": "距市中心63.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65049.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南宋石刻遗址公园": {
+                "commentCount": 93,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0y000000mggm8932C.jpg",
+                "distanceStr": "距市中心18.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48598.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "商量岗景区": {
+                "commentCount": 63,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxdarCB8A.jpg",
+                "distanceStr": "距市中心38.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/135786.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "商量岗滑雪场": {
+                "commentCount": 481,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000f6tvgcz5D6E.jpg",
+                "distanceStr": "距市中心38.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1407675.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海迪士尼度假区": {
+                "commentCount": 245012,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000gqrgv9bE910.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1412255.html?scene=online",
+                "isFree": false,
+                "price": 399.0
+            },
+            "宁波帮博物馆": {
+                "commentCount": 92,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6tuhgg7D01.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/144545.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "朱家尖风景区": {
+                "commentCount": 1267,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120008g4ic24A096.jpg",
+                "distanceStr": "距宁波80.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/139887.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "朱家尖观音法界": {
+                "commentCount": 1763,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m120009b1ztzb8452.jpg",
+                "distanceStr": "距宁波80.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/5714969.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "西湖风景名胜区": {
+                "commentCount": 28484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0h00000091vol6690.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/49894.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东钱湖陶公岛景区": {
+                "commentCount": 62,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A08120008r40b1cB272.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/70305.html?scene=online",
+                "isFree": false,
+                "price": 27.55
+            },
+            "阳明古镇": {
+                "commentCount": 11,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n12000a9ywl8iFCA0.jpg",
+                "distanceStr": "距市中心43.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yuyao98/112366436.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东海灵岩景区": {
+                "commentCount": 108,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6q12000axzcebr1581.jpg",
+                "distanceStr": "距市中心63.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/136601294.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波万象城摩天轮": {
+                "commentCount": 48,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f120009c4pko1C9D0.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/5715673.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "丹山赤水": {
+                "commentCount": 976,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0z000000njzjg0E8E.jpg",
+                "distanceStr": "距市中心39.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yuyao98/23096.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "阿育王寺": {
+                "commentCount": 142,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030z000000nand85A91.jpg",
+                "distanceStr": "距市中心18.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/9953.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上金财神谷": {
+                "commentCount": 338,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h12000ae00cppDCB4.jpg",
+                "distanceStr": "距市中心80.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ninghai689/126934620.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁波五龙潭景区": {
+                "commentCount": 822,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000f6prucx4747.jpg",
+                "distanceStr": "距市中心30.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/20516.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "宁波九峰山景区": {
+                "commentCount": 142,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000f6recsy3916.jpg",
+                "distanceStr": "距市中心27.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1478675.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "花岙石林": {
+                "commentCount": 363,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35070x000000lnwowB103.jpg",
+                "distanceStr": "距市中心93.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/140731.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "外滩": {
+                "commentCount": 152493,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040m000000dht6p0F19.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/736.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海海昌海洋公园": {
+                "commentCount": 41848,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0g12000h5ahifzF2C6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/4651499.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "东钱湖福泉山景区": {
+                "commentCount": 200,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6t35u0FEB4.jpg",
+                "distanceStr": "距市中心20.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48599.html?scene=online",
+                "isFree": false,
+                "price": 46.0
+            },
+            "郑氏十七房": {
+                "commentCount": 440,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000f6tvg4eD808.jpg",
+                "distanceStr": "距市中心17.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/117312.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "宁波植物园": {
+                "commentCount": 568,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5h12000as4wo03B07A.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/2472264.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "《一生爱好是天然》罗工柳、戴泽艺术联展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000exviigj647E.jpg",
+                "distanceStr": "距市中心13.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/148529215.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杭州湾跨海大桥": {
+                "commentCount": 547,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d10000000p9yznF0B4.jpg",
+                "distanceStr": "距市中心69.6km",
+                "detailUrl": "https://you.ctrip.com/sight/cixi543/55774.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梅山湾冰雪大世界": {
+                "commentCount": 373,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t12000f6ughglB37C.jpg",
+                "distanceStr": "距市中心36.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/5655376.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "绍兴古城": {
+                "commentCount": 472,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020m000000dm2jpD5F1.jpg",
+                "distanceStr": "距宁波94.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoxing18/2517770.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鲁迅故里景区": {
+                "commentCount": 5502,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g1200087egcgsEA9E.jpg",
+                "distanceStr": "距宁波94.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoxing18/2193.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

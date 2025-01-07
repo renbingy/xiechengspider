@@ -1,0 +1,807 @@
+{
+    "新疆": {
+        "阿勒泰地区": {
+            "喀纳斯景区": {
+                "commentCount": 8100,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q10000000oaibw3902.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25288.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "禾木风景区": {
+                "commentCount": 3363,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0z000000mrqu161A5.jpg",
+                "distanceStr": "距市中心96.2km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/49777.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "可可托海景区": {
+                "commentCount": 2718,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gooph1154.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/109852.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五彩滩": {
+                "commentCount": 1489,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105412000f6qvbw65FB9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25331.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白哈巴": {
+                "commentCount": 472,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h10000000oau56375A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/25275.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "将军山国际滑雪度假区": {
+                "commentCount": 77,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000aa7ln6zE262.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/5042346.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "喀纳斯湖": {
+                "commentCount": 82,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j1200087dmfwr4A14.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/69130719.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "可可托海国际滑雪度假区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A42120009dje08z1C01.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/133527951.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海上魔鬼城景区": {
+                "commentCount": 41,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q1c000001cam5q442D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/5072964.html?scene=online",
+                "isFree": false,
+                "price": 14.0
+            },
+            "乌伦古湖国家湿地公园": {
+                "commentCount": 65,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c12000f6sdx5k4A28.jpg",
+                "distanceStr": "距市中心89.3km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/18725.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌伦古湖(黄金海岸景区)": {
+                "commentCount": 91,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w120009cehaav1157.jpg",
+                "distanceStr": "距市中心86.4km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/5635402.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白沙湖": {
+                "commentCount": 123,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3y12000dq5wjevDB0B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/25277.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉克普林国际滑雪度假区": {
+                "commentCount": 39,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3w12000b8jqctoDC0C.png",
+                "distanceStr": "距市中心93.2km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/5705517.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "可可托海国家矿山公园": {
+                "commentCount": 66,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e1200087dfh11ED36.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/5629400.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木观景台": {
+                "commentCount": 97,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e1200087allgw2B52.jpg",
+                "distanceStr": "距市中心97.1km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/1831057.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "神仙湾": {
+                "commentCount": 137,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3503160000010czly8FBD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/49784.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月亮湾": {
+                "commentCount": 336,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100212000000rtbgx4E58.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25271.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木桥": {
+                "commentCount": 88,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000ev14mit228F.jpg",
+                "distanceStr": "距市中心96.5km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/49903.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "卧龙湾": {
+                "commentCount": 193,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000euxmur1895A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25347.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "观鱼台": {
+                "commentCount": 147,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350m160000010kn9y1F27.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25272.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《我的阿勒泰》取景地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000fpaerbf3239.jpg",
+                "distanceStr": "阿勒泰地区",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/0.html?poiId=145751161",
+                "isFree": false,
+                "price": ""
+            },
+            "哈巴河白桦林": {
+                "commentCount": 55,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000f9nrxt90174.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/25281.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉木乃草原石城": {
+                "commentCount": 29,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000f6qzytxE2C3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/jeminay1446368/2438166.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "可可苏里湖": {
+                "commentCount": 65,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A13120008peer4pF79A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/134090.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贾登峪国家森林公园": {
+                "commentCount": 92,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g3/M05/B0/DC/CggYG1YvGVqAHp-CADAnTGd8vMs976.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/49791.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉克普林云霄峰": {
+                "commentCount": 10,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000f1maxsu0E41.jpg",
+                "distanceStr": "距市中心97.6km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/148557750.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀纳斯三湾": {
+                "commentCount": 24,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010441200087dc3pk36CE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/1713109.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中俄老码头风情街景区": {
+                "commentCount": 33,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g12000b4htoug211C.jpg",
+                "distanceStr": "距市中心97.2km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/5590392.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "白桦林": {
+                "commentCount": 67,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000f9bapglC443.jpg",
+                "distanceStr": "距市中心95.3km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/1831019.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿勒泰博物馆": {
+                "commentCount": 9,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101612000d9pbv148A56.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/5704298.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三号矿坑": {
+                "commentCount": 96,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwcqp9B08.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/129634.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桦林公园": {
+                "commentCount": 25,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp2fj3F99.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/18247.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额尔齐斯河": {
+                "commentCount": 196,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m1200088ycy979FF6.jpg",
+                "distanceStr": "距市中心94.9km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/18248.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "禾木草原": {
+                "commentCount": 82,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t0z000000mqkri3AAE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/137706.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木村禾木星空营地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000f6qa8fl98CF.jpg",
+                "distanceStr": "距市中心96.1km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/145339939.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀纳斯图瓦村": {
+                "commentCount": 174,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01070120004gj73cxB94A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/49792.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白哈巴森林公园": {
+                "commentCount": 18,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c120008dgmnll65F4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/5143077.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌伦古湖公园": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o12000ay9nz8h5702.jpg",
+                "distanceStr": "距市中心96.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/69343870.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿勒泰赏雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e1200087aiu3y9338.jpg",
+                "distanceStr": "阿勒泰地区",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/0.html?poiId=149581199",
+                "isFree": false,
+                "price": ""
+            },
+            "新文旅喀纳斯湖游艇": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g120009j41a5rF774.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/134051129.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿禾公路": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5y12000b4m79ff674D.jpg",
+                "distanceStr": "距市中心97.1km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/134043449.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新文旅喀纳斯漂流": {
+                "commentCount": 6,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k120009j426ijB2E2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/134055794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新疆阿勒泰可可托海三号坑景点": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A28120009ysqbsp0A3C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/69542732.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿尔泰山温泉国家森林公园": {
+                "commentCount": 9,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000f6r000w3073.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/1829322.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "俄罗斯风情步行街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5012000c4jshi99CA8.jpg",
+                "distanceStr": "距市中心97.6km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/130369373.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀纳斯河": {
+                "commentCount": 85,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000mskyv593D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25328.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额尔齐斯大峡谷": {
+                "commentCount": 12,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100615000000xela4CBCF.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/5542414.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸭泽湖": {
+                "commentCount": 31,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w12000f6se2fa3E6B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25282.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "可可托海白桦林": {
+                "commentCount": 26,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103p1200087dfq6v42C2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/1831872.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "图瓦人村落": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z12000f6psm6oC3F1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/5067582.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青格里狼山滑雪场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c120009wd105r239D.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/qinggil1446372/131172606.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿勒泰神钟山": {
+                "commentCount": 13,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6112000a20rd0g2428.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/133527966.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中哈边界大峡谷": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c120008auvgie63C2.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/5068877.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白沙山沙漠景区": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e0z000000mjgd6A54E.jpg",
+                "distanceStr": "距市中心96.1km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/1713147.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木御园山庄": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f12000etlet0v11A2.jpg",
+                "distanceStr": "距市中心95.9km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/145488641.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "可可托海国际滑雪场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6r12000fq5w28jFA25.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/145526347.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木滑雪场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000evq5dhbA5B8.jpg",
+                "distanceStr": "距市中心92.0km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/145518127.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "草原石人哈萨克民族文化园": {
+                "commentCount": 7,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070z000000nnqkmD357.jpg",
+                "distanceStr": "距市中心92.2km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/2479642.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "友谊峰": {
+                "commentCount": 19,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01068120009dznfux1C91.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/25329.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "可可苏里": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000dmay2wjEBD1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/98279373.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊雷木湖": {
+                "commentCount": 17,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6x0xB798.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/129636.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蝴蝶谷景区": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103e12000f6seuqv8F3A.png",
+                "distanceStr": "距市中心17.1km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/129644.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿贡盖提草原": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000a5fn8jtC396.jpg",
+                "distanceStr": "距市中心92.5km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/5066985.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿尔泰山": {
+                "commentCount": 33,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r0m000000da4z4A6FD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/18246.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木河": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3812000cunby852C35.jpg",
+                "distanceStr": "距市中心96.2km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/144211414.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日落观景台": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000fa8wqja4A44.png",
+                "distanceStr": "距市中心96.4km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/145616179.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贾登峪房车露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0z000000mo9h2E327.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/145566557.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五彩城风景区": {
+                "commentCount": 76,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01073120009dwknmeAA4B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/133982.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那仁牧场": {
+                "commentCount": 11,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000n5bnkC572.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/25335.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉木乃口岸": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000f6r17v6EC14.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/jeminay1446368/4582287.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "布尔津县博物馆": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000cfus9vk7B9C.jpg",
+                "distanceStr": "距市中心96.9km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/2676097.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "将军山森林公园": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c1200089jcjj4C36F.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/1831593.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌伦古湖金沙滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000evequme5BA7.jpg",
+                "distanceStr": "距市中心99.2km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/145228396.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小东沟森林公园": {
+                "commentCount": 9,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000dmqhgscDE31.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/27011.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白哈巴旅游景区观景台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i12000evb1qh55619.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/145409201.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "卡拉先格尔地震断裂带": {
+                "commentCount": 3,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000f6sfquq940F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuyun2509/134428.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "布尔津西大桥": {
+                "commentCount": 66,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000f6u4ll241A3.jpg",
+                "distanceStr": "距市中心98.4km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/5068870.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈巴河白哈巴自驾游营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020z000000nr5eh2FBA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/habahe2480/145112174.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈纳斯村": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000f6pvt3h0105.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/5590419.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新疆喀拉麦里山有蹄类自然保护区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000f6ts13uF749.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/143728700.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古尔班通古特沙漠": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000ebw0xfv8236.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/145533461.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "贾登峪兄弟山庄": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j12000f6rk6gj6B1B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/4578376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三道海子景区": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0f12000dzddxe515C4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/qinggil1446372/145597866.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿勒泰市博物馆": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f12000dmpy1oc13B4.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/105418468.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "新疆热雪节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000gnkj86o195F.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/149578830.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "禾木吉克普林国际滑雪度假区西区大厅": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000exzuu7mCF05.png",
+                "distanceStr": "距市中心94.0km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/145800653.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿尔泰山野卡峡滑雪场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010211200095xsejd6D9E.jpg",
+                "distanceStr": "距市中心38.9km",
+                "detailUrl": "https://you.ctrip.com/sight/altaycity2482/131172596.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北疆海岸风景区": {
+                "commentCount": 9,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01003120009f6gs7w4B9D.jpg",
+                "distanceStr": "距市中心97.4km",
+                "detailUrl": "https://you.ctrip.com/sight/burqin1010/1995099.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天鹅湖水寨": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m12000ahxypkvA517.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fuhai1446398/130886854.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

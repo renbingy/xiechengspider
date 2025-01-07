@@ -1,0 +1,699 @@
+{
+    "港澳台": {
+        "香港": {
+            "香港迪士尼乐园": {
+                "commentCount": 56349,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4412000cdcuzfa8539.jpg",
+                "distanceStr": "距市中心13.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/22943.html?scene=online",
+                "isFree": false,
+                "price": 552.0
+            },
+            "香港海洋公园": {
+                "commentCount": 34042,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3o12000h4a9lrqB853.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3339.html?scene=online",
+                "isFree": false,
+                "price": 362.0
+            },
+            "太平山顶": {
+                "commentCount": 14601,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0z000000ncfisF674.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3307.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "尖沙咀": {
+                "commentCount": 5815,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp5al0782.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/56109.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港故宫文化博物馆": {
+                "commentCount": 2679,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4312000axni7v15717.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/134064807.html?scene=online",
+                "isFree": false,
+                "price": 64.0
+            },
+            "山顶缆车": {
+                "commentCount": 3510,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01074120009v1yq1h3BA9.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/113164.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "昂坪360": {
+                "commentCount": 7528,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101312000f6t3hbr9D02.jpg",
+                "distanceStr": "距市中心28.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/26277.html?scene=online",
+                "isFree": false,
+                "price": 146.0
+            },
+            "大屿山": {
+                "commentCount": 2576,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010681200087c7n6pA2FC.jpg",
+                "distanceStr": "距市中心24.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/64613.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港烟花秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l12000faa80xx09E4.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/0.html?poiId=148885202",
+                "isFree": false,
+                "price": ""
+            },
+            "中环": {
+                "commentCount": 3155,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000f6tuedd1AA2.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/56110.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港摩天轮": {
+                "commentCount": 1980,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6t6qiq17E6.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1673000.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "维多利亚港": {
+                "commentCount": 5442,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020y000000m5j4vCC02.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/55194.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "M+": {
+                "commentCount": 916,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6tl7vp2843.png",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/135990065.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "香港太空馆": {
+                "commentCount": 5248,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp2l14AC0.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3343.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天星小轮": {
+                "commentCount": 1567,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g6/M0B/F1/03/CggYslcfBhWAQ_K4ABJwQC-4_cA735.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/113165.html?scene=online",
+                "isFree": false,
+                "price": 162.0
+            },
+            "兰桂坊": {
+                "commentCount": 2771,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000h4rvuk21B2A.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/48810.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天际100香港观景台": {
+                "commentCount": 2028,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3312000f26nf5aFA0F.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/107617.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "环球贸易广场": {
+                "commentCount": 14,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0z000000napl22524.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/126180893.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "香港杜莎夫人蜡像馆": {
+                "commentCount": 3585,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5312000e3dawyq7B1A.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/43906.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "Big Bus香港观光巴士游": {
+                "commentCount": 304,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3412000gwb4ks4E232.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1711456.html?scene=online",
+                "isFree": false,
+                "price": 212.0
+            },
+            "黄大仙祠": {
+                "commentCount": 2176,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f3yc0cr2EAE.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3319.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九龙": {
+                "commentCount": 77,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0y000000m5sihCFFD.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1676444.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港K11 MUSEA": {
+                "commentCount": 206,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350u1b000001av0kq1C14.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/5701042.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港乐高探索中心": {
+                "commentCount": 478,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01018120009gr6krsA611.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/108733450.html?scene=online",
+                "isFree": false,
+                "price": 202.0
+            },
+            "香港徒步": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010241200085w9kdj325C.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/0.html?poiId=148805027",
+                "isFree": false,
+                "price": ""
+            },
+            "香港电车叮叮车": {
+                "commentCount": 536,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsxii086E.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1413441.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "香港海洋公园 · 水上乐园": {
+                "commentCount": 1248,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000a5ls29q3DF0.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/5717234.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浅水湾": {
+                "commentCount": 1660,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0p000000fop3l7AE9.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3310.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南丫岛": {
+                "commentCount": 1966,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpakxEA07.jpg",
+                "distanceStr": "距市中心13.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/52675.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "星光大道": {
+                "commentCount": 1117,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000f6rbnc48BA2.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/26244.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港港澳码头": {
+                "commentCount": 423,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqdf8F521.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1710869.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凌霄阁": {
+                "commentCount": 570,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0d0000006u2j51952.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/113372.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西九文化区": {
+                "commentCount": 237,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o120005vztmks56F4.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/4614282.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "怪兽大厦": {
+                "commentCount": 103,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0z000000nwefy7D91.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/4333381.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大富翁梦想世界": {
+                "commentCount": 107,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0l12000bfcvifcE283.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/5653342.html?scene=online",
+                "isFree": false,
+                "price": 188.0
+            },
+            "香港挪亚方舟": {
+                "commentCount": 827,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6qxkyiE172.jpg",
+                "distanceStr": "距市中心11.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1412152.html?scene=online",
+                "isFree": false,
+                "price": 111.0
+            },
+            "庙街": {
+                "commentCount": 520,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d120008jbqniyB438.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/56119.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "庙街夜市": {
+                "commentCount": 322,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01071120004wzs79289DC.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1700072.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "坚尼地城": {
+                "commentCount": 41,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000f22kmhuD3DA.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/131211084.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金紫荆广场": {
+                "commentCount": 629,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0s000000hjgt3085E.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/26253.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "张保仔号游船观光": {
+                "commentCount": 156,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0e00000076svi9204.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/51259.html?scene=online",
+                "isFree": false,
+                "price": 249.0
+            },
+            "尖沙咀钟楼": {
+                "commentCount": 315,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0d0000006u2417D0F.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/50650.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大澳": {
+                "commentCount": 495,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m120009ddriyyAEF9.jpg",
+                "distanceStr": "距市中心32.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3312.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中环至半山自动扶梯": {
+                "commentCount": 483,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0g13000000vam38B57F.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/26249.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港科学馆": {
+                "commentCount": 456,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090z000000nky4b0D51.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3342.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "香港艺术馆": {
+                "commentCount": 257,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y120009rkl2cv77A7.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3341.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天星码头": {
+                "commentCount": 392,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010691200082jekgfADCB.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1834121.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港体育馆(红馆)": {
+                "commentCount": 7,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w12000bcxd99639AF.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/136007739.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西九艺术公园": {
+                "commentCount": 29,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100712000b01uee758A7.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/124252124.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洋紫荆维港游": {
+                "commentCount": 58,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000f6q1n7m08AF.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/2132008.html?scene=online",
+                "isFree": false,
+                "price": 239.0
+            },
+            "旺角": {
+                "commentCount": 46,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f6tle9lCE3A.jpg",
+                "distanceStr": "距市中心125m",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/136007533.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东方之珠•维港游": {
+                "commentCount": 47,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000f6uielj3335.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/134011238.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "铜锣湾": {
+                "commentCount": 24,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v12000f29veszC87F.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/136007775.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "ARTE M HONG KONG 沉浸式数码艺术展馆": {
+                "commentCount": 181,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000f6qrnolD883.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/135472565.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "天坛大佛": {
+                "commentCount": 282,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000f6qzz3aD926.jpg",
+                "distanceStr": "距市中心28.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1788436.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "油麻地": {
+                "commentCount": 324,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f1m84f3680A.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/56107.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "重庆大厦": {
+                "commentCount": 328,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k12000f0v8d0iE7A9.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/109700.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "油麻地警署": {
+                "commentCount": 36,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l12000f6tj5a8CC7E.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/69346427.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "香港会议展览中心": {
+                "commentCount": 319,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqycb7939.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3306.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国香港 · ULTRA Hong Kong 电子音乐节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k12000dwccu7u2766.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/145748308.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "亚洲国际博览馆": {
+                "commentCount": 55,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6q62qw684A.jpg",
+                "distanceStr": "距市中心23.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1685405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "迷离庄园": {
+                "commentCount": 197,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103212000f6qmz8l6F0D.jpg",
+                "distanceStr": "距市中心13.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1832530.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长洲岛": {
+                "commentCount": 596,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j1200085r0eia8298.jpg",
+                "distanceStr": "距市中心19.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/26302.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国香港 · LingOrm 2025 粉丝见面会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000gvxveyj4A57.jpg",
+                "distanceStr": "距市中心15.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/149605290.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赤柱": {
+                "commentCount": 450,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g4/M00/09/B5/CggYHVXJYAeAGaYOABMgn_BIkZo907.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3311.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大馆(前中区警署建筑群)": {
+                "commentCount": 186,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000mheq618FC.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1416016.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港游艇观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1c000001dv0ch5CBC.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/0.html?poiId=148914490",
+                "isFree": false,
+                "price": ""
+            },
+            "九龙公园": {
+                "commentCount": 524,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080d0000006u2bpD44B.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/5589.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "「观光城巴」开篷巴士": {
+                "commentCount": 12,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6x12000gry8220FBDA.png",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/142989693.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中环街市": {
+                "commentCount": 55,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000alw220n7357.png",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/133967682.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "荃湾": {
+                "commentCount": 500,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g12000000si644F121.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1408057.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石澳": {
+                "commentCount": 333,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t0m000000ddziu0199.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/48324.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "弥敦道": {
+                "commentCount": 419,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w120009dzoz3zDEF4.jpg",
+                "distanceStr": "距市中心948m",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1711030.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "史诺比开心世界": {
+                "commentCount": 148,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f12000astcyq55A95.jpg",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/144822.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "香港文化博物馆": {
+                "commentCount": 190,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000f6t3bknF5CB.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/50673.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "香港历史博物馆": {
+                "commentCount": 339,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v12000f6trt0iB627.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/3330.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "灰熊山谷": {
+                "commentCount": 206,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u120009z353vvDF3F.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hongkong38/1831431.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

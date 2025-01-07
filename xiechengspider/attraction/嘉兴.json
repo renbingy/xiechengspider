@@ -1,0 +1,807 @@
+{
+    "浙江": {
+        "嘉兴": {
+            "乌镇": {
+                "commentCount": 20903,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000f6t3031506D.jpg",
+                "distanceStr": "距市中心25.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/16170.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "西栅": {
+                "commentCount": 11972,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsxcq27C5.jpg",
+                "distanceStr": "距市中心26.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/139898.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "西塘风景区": {
+                "commentCount": 9188,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0u000000iziz2069B.jpg",
+                "distanceStr": "距市中心25.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jiashan1019/17884.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "濮院时尚古镇": {
+                "commentCount": 1059,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3012000h4xck74B6D8.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/135997135.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "东栅": {
+                "commentCount": 2452,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000nd3oe742C.jpg",
+                "distanceStr": "距市中心24.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/139826.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "西栅夜游": {
+                "commentCount": 1541,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v1200067b2wst9ABC.jpg",
+                "distanceStr": "距市中心25.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/135954.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南湖景区": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000f6rdzcf7725.jpg",
+                "distanceStr": "距市中心677m",
+                "detailUrl": "https://you.ctrip.com/sight/jiaxing272/141755.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "歌斐颂巧克力小镇": {
+                "commentCount": 1560,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0z000000nm86806A6.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jiashan1019/1473306.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "海宁盐官旅游度假区": {
+                "commentCount": 1561,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090r000000hfg5w78E1.jpg",
+                "distanceStr": "距市中心43.2km",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/61335.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观潮胜地公园": {
+                "commentCount": 456,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5o12000fjb2i0qD712.jpg",
+                "distanceStr": "距市中心43.5km",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/61302.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "盐官潮乐之城": {
+                "commentCount": 66,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1j12000f4s5tmeBA4B.jpg",
+                "distanceStr": "距市中心42.7km",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/148850195.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "西湖风景名胜区": {
+                "commentCount": 28484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0h00000091vol6690.jpg",
+                "distanceStr": "距嘉兴84.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/49894.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "外滩": {
+                "commentCount": 152493,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040m000000dht6p0F19.jpg",
+                "distanceStr": "距嘉兴88.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/736.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌村": {
+                "commentCount": 196,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35081f000001ggyb0F5B0.jpg",
+                "distanceStr": "距市中心25.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/1974284.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "拙政园": {
+                "commentCount": 60994,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000f6rc5w8B3FF.jpg",
+                "distanceStr": "距嘉兴65.4km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/47072.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "上海迪士尼度假区": {
+                "commentCount": 245016,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000gqrgv9bE910.jpg",
+                "distanceStr": "距嘉兴97.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1412255.html?scene=online",
+                "isFree": false,
+                "price": 399.0
+            },
+            "木心美术馆": {
+                "commentCount": 206,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s10000000pq3fzC275.jpg",
+                "distanceStr": "距市中心25.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/1788248.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梅花洲": {
+                "commentCount": 1285,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103p12000f6qwv0q34A0.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/jiaxing272/135790.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "桐乡汉服体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0u12000bu1chq51484.jpg",
+                "distanceStr": "嘉兴",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/0.html?poiId=149275329",
+                "isFree": false,
+                "price": ""
+            },
+            "枫桥景区": {
+                "commentCount": 1337,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105712000f9vdqtz31A2.jpg",
+                "distanceStr": "距嘉兴65.2km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/48378.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "寒山寺": {
+                "commentCount": 16607,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6trp9k1F94.jpg",
+                "distanceStr": "距嘉兴65.2km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/3765.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "云澜湾温泉": {
+                "commentCount": 1393,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000f6tvwew9B53.jpg",
+                "distanceStr": "距市中心22.6km",
+                "detailUrl": "https://you.ctrip.com/sight/jiashan1019/1418407.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "桐乡赏银杏": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2u12000d55t2c86F04.jpg",
+                "distanceStr": "嘉兴",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/0.html?poiId=148928513",
+                "isFree": false,
+                "price": ""
+            },
+            "烟雨长廊": {
+                "commentCount": 994,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsoq04CFF.jpg",
+                "distanceStr": "距市中心25.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jiashan1019/2094.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌镇游船": {
+                "commentCount": 38,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A12120008k9pzg748DA.jpg",
+                "distanceStr": "距市中心25.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/104588998.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "欢乐羊村": {
+                "commentCount": 69,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000althloj2768.jpg",
+                "distanceStr": "距市中心19.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jiashan1019/136059562.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "周庄": {
+                "commentCount": 15990,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000f6sf0uf8ABE.jpg",
+                "distanceStr": "距嘉兴41.9km",
+                "detailUrl": "https://you.ctrip.com/sight/kunshan77/109861.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "月河历史街区": {
+                "commentCount": 471,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k120008ihdw0j8F15.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jiaxing272/117749.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "狮子林": {
+                "commentCount": 17435,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6t2q2h452C.jpg",
+                "distanceStr": "距嘉兴65.1km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/1829.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "东方明珠": {
+                "commentCount": 150323,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010691200097uy8rk36FE.jpg",
+                "distanceStr": "距嘉兴89.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/762.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "南浔古镇": {
+                "commentCount": 13410,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01066120008f4zmc64950.jpg",
+                "distanceStr": "距嘉兴34.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/135811.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西湖游船": {
+                "commentCount": 15344,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6tvy9u6D80.jpg",
+                "distanceStr": "距嘉兴80.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/1410601.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "留园": {
+                "commentCount": 11255,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000f6qx4gy6FC5.jpg",
+                "distanceStr": "距嘉兴65.2km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/1830.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "灵隐寺": {
+                "commentCount": 17659,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090n000000e2tjiAAF1.jpg",
+                "distanceStr": "距嘉兴84.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/2040.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "虎丘山风景名胜区": {
+                "commentCount": 23750,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4i12000fq5vvm3885B.jpg",
+                "distanceStr": "距嘉兴67.6km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/3763.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "同里古镇": {
+                "commentCount": 11686,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010281200086x1oqt2AF1.jpg",
+                "distanceStr": "距嘉兴45.8km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/115503.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "水上集市": {
+                "commentCount": 45,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000f6twhc93A85.jpg",
+                "distanceStr": "距市中心25.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/1485745.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "送子来凤桥": {
+                "commentCount": 391,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01001120008ih5m42A952.jpg",
+                "distanceStr": "距市中心25.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jiashan1019/2098.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杭州宋城": {
+                "commentCount": 26963,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091b000001aah4b32B1.jpg",
+                "distanceStr": "距嘉兴89.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/4081.html?scene=online",
+                "isFree": false,
+                "price": 300.0
+            },
+            "苏州博物馆": {
+                "commentCount": 3834,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1d000001es1sz54B7.jpg",
+                "distanceStr": "距嘉兴65.3km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/43956.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国邮政(乌镇邮局)": {
+                "commentCount": 204,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104n12000coq5kgi7434.jpg",
+                "distanceStr": "距市中心26.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/45223.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "豫园": {
+                "commentCount": 47510,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v12000f9ug057967E.jpg",
+                "distanceStr": "距嘉兴88.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/740.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "上海欢乐谷": {
+                "commentCount": 24371,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0412000h5xrmub1135.jpg",
+                "distanceStr": "距嘉兴58.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/65957.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "上海佘山国家旅游度假区": {
+                "commentCount": 11,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010z000000nx0krD720.jpg",
+                "distanceStr": "距嘉兴57.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5140522.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵隐飞来峰景区": {
+                "commentCount": 13583,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010571200099w8qg652D8.jpg",
+                "distanceStr": "距嘉兴84.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/48020.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "2024第十一届乌镇戏剧节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6bxe6h2A72.png",
+                "distanceStr": "距市中心26.3km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/148838546.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海博物馆": {
+                "commentCount": 4484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x1200042pw7745DC1.jpg",
+                "distanceStr": "距嘉兴87.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/3733.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "绮园景区": {
+                "commentCount": 794,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060z000000mjni400D2.jpg",
+                "distanceStr": "距市中心31.4km",
+                "detailUrl": "https://you.ctrip.com/sight/haiyan529/16688.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "西溪国家湿地公园": {
+                "commentCount": 18368,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4112000fwk8cgs653F.jpg",
+                "distanceStr": "距嘉兴84.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/25481.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "茅盾故居": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k120009hzqpsz5E89.jpg",
+                "distanceStr": "距市中心25.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/18054.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昭明书院": {
+                "commentCount": 146,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01035120008gmm5173024.jpg",
+                "distanceStr": "距市中心25.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/18055.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "钱塘江潮汐树景观": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q12000dwaqx9pFD7B.jpg",
+                "distanceStr": "嘉兴",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/0.html?poiId=145742623",
+                "isFree": false,
+                "price": ""
+            },
+            "乌镇大剧院": {
+                "commentCount": 105,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120008ih1r1h86BC.jpg",
+                "distanceStr": "距市中心25.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/143778.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "山塘街": {
+                "commentCount": 3811,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q11000000r35vbA4A6.jpg",
+                "distanceStr": "距嘉兴65.1km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/25486.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "盐官古镇": {
+                "commentCount": 187,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e10000000pe0xsA2E4.jpg",
+                "distanceStr": "距市中心42.7km",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/1834897.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄浦江游览(十六铺码头)": {
+                "commentCount": 11125,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35091e000001ey01xBB09.jpg",
+                "distanceStr": "距嘉兴88.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/137059.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "黄浦江": {
+                "commentCount": 3036,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxcdwB7C4.jpg",
+                "distanceStr": "距嘉兴89.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1815443.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海野生动物园": {
+                "commentCount": 103718,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000h7faola7A0F.jpg",
+                "distanceStr": "距嘉兴98.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/758.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "上海动物园": {
+                "commentCount": 15180,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y120009j4hethC8A2.jpg",
+                "distanceStr": "距嘉兴76.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/25506.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "莫干山风景名胜区": {
+                "commentCount": 20245,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6qavc2185B.jpg",
+                "distanceStr": "距嘉兴86.6km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/135799.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "雷峰塔": {
+                "commentCount": 7292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0x000000lrchnB808.jpg",
+                "distanceStr": "距嘉兴81.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/2033.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海中心大厦": {
+                "commentCount": 5616,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000f6pvv945ED1.jpg",
+                "distanceStr": "距嘉兴89.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1827363.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "上海海洋水族馆": {
+                "commentCount": 43642,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000f6rbqp57258.jpg",
+                "distanceStr": "距嘉兴89.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18722.html?scene=online",
+                "isFree": false,
+                "price": 155.0
+            },
+            "海宁潮": {
+                "commentCount": 412,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0z000000nquowE622.jpg",
+                "distanceStr": "距市中心43.9km",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/4737.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东湖景区": {
+                "commentCount": 231,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000f6qx3iqC9DD.jpg",
+                "distanceStr": "距市中心26.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pinghu533/117845.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海影视乐园": {
+                "commentCount": 7177,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6qv0027201.jpg",
+                "distanceStr": "距嘉兴60.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5622.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "【嘉兴】松果脱口秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105712000et68443BBEC.png",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/jiaxing272/148497854.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "磁浮列车": {
+                "commentCount": 6272,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gstmz0A34.jpg",
+                "distanceStr": "距嘉兴92.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/20786.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "上海之巅观光厅": {
+                "commentCount": 12865,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070d0000006wasz1009.jpg",
+                "distanceStr": "距嘉兴89.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/2005734.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "海宁中国皮革城景区": {
+                "commentCount": 117,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3312000g37rui5942C.png",
+                "distanceStr": "距市中心28.1km",
+                "detailUrl": "https://you.ctrip.com/sight/haining86/134219037.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鼋头渚": {
+                "commentCount": 29963,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d120008b7xcb480D2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuxi10/1775.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "钱塘江夜游": {
+                "commentCount": 1338,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0x000000l26s5256C.jpg",
+                "distanceStr": "距嘉兴79.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/135838.html?scene=online",
+                "isFree": false,
+                "price": 127.0
+            },
+            "上海海昌海洋公园": {
+                "commentCount": 41848,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0g12000h5ahifzF2C6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/4651499.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "南北湖": {
+                "commentCount": 1107,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6pnvy04789.jpg",
+                "distanceStr": "距市中心41.7km",
+                "detailUrl": "https://you.ctrip.com/sight/haiyan529/16166.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "嘉兴开元森泊度假乐园": {
+                "commentCount": 63,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6s12000ev3u3lx3ABA.jpg",
+                "distanceStr": "距市中心41.2km",
+                "detailUrl": "https://you.ctrip.com/sight/haiyan529/145019697.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朱家角古镇景区": {
+                "commentCount": 3112,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a1200086ob7pyFA26.jpg",
+                "distanceStr": "距嘉兴49.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/14903.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "苏州游船观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r120008vraxfn07DB.jpg",
+                "distanceStr": "江苏",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/0.html?poiId=148892914",
+                "isFree": false,
+                "price": ""
+            },
+            "平江路历史街区": {
+                "commentCount": 1968,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0712000000t6pxsA28F.jpg",
+                "distanceStr": "距嘉兴64.2km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/64456.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "苏州赏梅花": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s12000b94z7tp9C5F.jpg",
+                "distanceStr": "江苏",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/0.html?poiId=148483102",
+                "isFree": false,
+                "price": ""
+            },
+            "三寸金莲馆": {
+                "commentCount": 75,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000f6qbclj9C2B.jpg",
+                "distanceStr": "距市中心26.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/50195.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "城隍庙旅游区": {
+                "commentCount": 8529,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqi1p4B80.jpg",
+                "distanceStr": "距嘉兴88.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5691.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海千古情": {
+                "commentCount": 1629,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6qjpj8C6E7.jpg",
+                "distanceStr": "距嘉兴84.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/140068129.html?scene=online",
+                "isFree": false,
+                "price": 239.0
+            },
+            "广富林文化遗址": {
+                "commentCount": 5831,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040t000000inke79FDC.jpg",
+                "distanceStr": "距嘉兴54.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/111500.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "嘉兴清池温泉": {
+                "commentCount": 367,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000f6tv199E0E7.jpg",
+                "distanceStr": "距市中心15.5km",
+                "detailUrl": "https://you.ctrip.com/sight/jiaxing272/1409025.html?scene=online",
+                "isFree": false,
+                "price": 114.0
+            },
+            "嘉兴观潮": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0r000000hd0h96D9D.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/jiaxing272/0.html?poiId=148850567",
+                "isFree": false,
+                "price": ""
+            },
+            "网师园": {
+                "commentCount": 3656,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3y12000ddcm8lv852D.jpg",
+                "distanceStr": "距嘉兴62.5km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/1826.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "乌镇南栅景区": {
+                "commentCount": 89,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4b12000cp857d21046.jpg",
+                "distanceStr": "距市中心25.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/1815345.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鲁迅故里景区": {
+                "commentCount": 5502,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g1200087egcgsEA9E.jpg",
+                "distanceStr": "距嘉兴85.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoxing18/2193.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "绍兴古城": {
+                "commentCount": 472,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020m000000dm2jpD5F1.jpg",
+                "distanceStr": "距嘉兴85.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shaoxing18/2517770.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

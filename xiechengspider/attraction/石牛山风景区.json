@@ -1,0 +1,762 @@
+{
+    "福建": {
+        "石牛山风景区": {
+            "石牛山景区": {
+                "commentCount": 633,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000814i0ah6A7E.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/8936.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "九鲤湖风景区": {
+                "commentCount": 1009,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000f6q4w1g6962.jpg",
+                "distanceStr": "距石牛山风景区46.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/44791.html?scene=online",
+                "isFree": false,
+                "price": 49.98
+            },
+            "清源山": {
+                "commentCount": 2371,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6q4y9c3FC8.jpg",
+                "distanceStr": "距石牛山风景区83.8km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8891.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "九仙山风景区": {
+                "commentCount": 374,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s12000f6q4j2r9680.jpg",
+                "distanceStr": "距石牛山风景区31.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/62031.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青云山": {
+                "commentCount": 189,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6pt5h3EE80.jpg",
+                "distanceStr": "距石牛山风景区54.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/49078.html?scene=online",
+                "isFree": false,
+                "price": 32.0
+            },
+            "泉州开元寺": {
+                "commentCount": 1715,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s120006410cr5ED65.jpg",
+                "distanceStr": "距石牛山风景区86.7km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8874.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "岱仙瀑布": {
+                "commentCount": 96,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w12000f6pxufuAA47.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/61541.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泉州古城": {
+                "commentCount": 108,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120006426ut7DF55.jpg",
+                "distanceStr": "距石牛山风景区87.7km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/1830708.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福州御温泉度假酒店温泉": {
+                "commentCount": 82,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000afcgxsvE038.jpg",
+                "distanceStr": "距石牛山风景区53.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/136014052.html?scene=online",
+                "isFree": false,
+                "price": 218.0
+            },
+            "西街": {
+                "commentCount": 440,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000fh26iifF10F.jpg",
+                "distanceStr": "距石牛山风景区86.8km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/134555.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州少林寺": {
+                "commentCount": 304,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000fhfsp0222CD.jpg",
+                "distanceStr": "距石牛山风景区87.0km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/126434.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "闽越水镇": {
+                "commentCount": 837,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5v12000h5bkd5dE5D5.jpg",
+                "distanceStr": "距石牛山风景区84.9km",
+                "detailUrl": "https://you.ctrip.com/sight/minhou2666/5623362.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "湄洲岛": {
+                "commentCount": 1041,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6seppk8FF8.jpg",
+                "distanceStr": "距石牛山风景区98.0km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/110186.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三坊七巷": {
+                "commentCount": 5089,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000aoh72b2D3E9.jpg",
+                "distanceStr": "距石牛山风景区97.3km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/64505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桂峰古村落景区": {
+                "commentCount": 166,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01040120008txpqd8DBB0.jpg",
+                "distanceStr": "距石牛山风景区69.9km",
+                "detailUrl": "https://you.ctrip.com/sight/youxi2667/1729828.html?scene=online",
+                "isFree": false,
+                "price": 18.8
+            },
+            "闽江夜游": {
+                "commentCount": 2342,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3112000g3vcf7d94A6.jpg",
+                "distanceStr": "距石牛山风景区97.4km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/136821.html?scene=online",
+                "isFree": false,
+                "price": 96.0
+            },
+            "九龙谷景区": {
+                "commentCount": 627,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001gru66DE99.jpg",
+                "distanceStr": "距石牛山风景区48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/126508.html?scene=online",
+                "isFree": false,
+                "price": 60.99
+            },
+            "福州永泰欧乐堡海洋世界": {
+                "commentCount": 507,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t120008b9g17dC575.jpg",
+                "distanceStr": "距石牛山风景区68.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/4974348.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "海外交通史博物馆": {
+                "commentCount": 163,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000fujcxfb897A.jpg",
+                "distanceStr": "距石牛山风景区87.7km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8899.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州博物馆": {
+                "commentCount": 132,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000fhghfow4325.jpg",
+                "distanceStr": "距石牛山风景区84.3km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/134557.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "百漈沟景区": {
+                "commentCount": 124,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqhfb024E.jpg",
+                "distanceStr": "距石牛山风景区26.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/118776.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "南少林寺": {
+                "commentCount": 95,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000ev0jhl84CC8.jpg",
+                "distanceStr": "距石牛山风景区63.0km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44789.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州海丝野生动物世界": {
+                "commentCount": 977,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000f6so68h926B.jpg",
+                "distanceStr": "距石牛山风景区67.4km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/2022010.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "蟳埔村": {
+                "commentCount": 83,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i14000000vw1cd6673.jpg",
+                "distanceStr": "距石牛山风景区93.8km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/1477976.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州欧乐堡海洋王国乐园": {
+                "commentCount": 651,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o120009iinejl2A26.jpg",
+                "distanceStr": "距石牛山风景区97.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/5717590.html?scene=online",
+                "isFree": false,
+                "price": 139.0
+            },
+            "福建博物院": {
+                "commentCount": 345,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqyyx51E4.jpg",
+                "distanceStr": "距石牛山风景区97.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/49084.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "崇武古城风景区": {
+                "commentCount": 1293,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000h17holjDC14.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/8897.html?scene=online",
+                "isFree": false,
+                "price": 33.8
+            },
+            "洛阳桥": {
+                "commentCount": 303,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071c000001e4pmx7952.jpg",
+                "distanceStr": "距石牛山风景区84.6km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/8892.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五店市传统街区": {
+                "commentCount": 610,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7212000eck0ygs9731.jpg",
+                "distanceStr": "距石牛山风景区97.1km",
+                "detailUrl": "https://you.ctrip.com/sight/jinjiang675/1477959.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "崇武古城": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000drech74442A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/145735978.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "菜溪岩": {
+                "commentCount": 156,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f120008bxz8uy8F2B.jpg",
+                "distanceStr": "距石牛山风景区25.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/61736.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "关岳庙": {
+                "commentCount": 232,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqy5l4EFF.jpg",
+                "distanceStr": "距石牛山风景区88.2km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8881.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上下杭": {
+                "commentCount": 214,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000n9b5eDD31.jpg",
+                "distanceStr": "距石牛山风景区96.8km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1986506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门方特旅游度假区": {
+                "commentCount": 252,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200081p2dng64EE.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2483147.html?scene=online",
+                "isFree": false,
+                "price": 299.0
+            },
+            "厦门方特梦幻王国": {
+                "commentCount": 8315,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0212000cdml86u1EE1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/140141.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "泉州之眼摩天轮": {
+                "commentCount": 450,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1c000001dqhx3B2CD.jpg",
+                "distanceStr": "距石牛山风景区92.3km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/2486910.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "鼓浪屿": {
+                "commentCount": 39274,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwb0k4589.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/57405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "嵩口镇": {
+                "commentCount": 55,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105h120009dqa3l4C719.jpg",
+                "distanceStr": "距石牛山风景区20.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/1488215.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门园林植物园": {
+                "commentCount": 12348,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6prceqB206.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8625.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "顺美陶瓷文化世界": {
+                "commentCount": 45,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6twle683CA.jpg",
+                "distanceStr": "距石牛山风景区26.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/1673813.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙水洋": {
+                "commentCount": 47,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120009cyvx3sE2D6.png",
+                "distanceStr": "距石牛山风景区19.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/1729785.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "侠天下景区": {
+                "commentCount": 1030,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q120008d607fy5F52.jpg",
+                "distanceStr": "距石牛山风景区51.9km",
+                "detailUrl": "https://you.ctrip.com/sight/youxi2667/1415157.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "晋江梧林传统村落": {
+                "commentCount": 49,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6rpp409157.webp",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jinjiang675/5714786.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福道": {
+                "commentCount": 68,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000nrnjnB414.jpg",
+                "distanceStr": "距石牛山风景区94.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/5059376.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "兴化府历史文化街区": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2812000bbzxhkzC944.jpg",
+                "distanceStr": "距石牛山风景区64.7km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/136065071.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南山广化寺": {
+                "commentCount": 75,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A021a0000019to2n0704.jpg",
+                "distanceStr": "距石牛山风景区62.7km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/61755.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "德化陶瓷博物馆": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000a1aboxo5D53.jpg",
+                "distanceStr": "距石牛山风景区28.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/1830268.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "清净寺": {
+                "commentCount": 309,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000fhjrrl78CF0.jpg",
+                "distanceStr": "距石牛山风景区88.0km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8875.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "塔兜“御汤宫”温泉": {
+                "commentCount": 16,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000a4nsqk59188.png",
+                "distanceStr": "距石牛山风景区13.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/1750081.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "泉州天后宫": {
+                "commentCount": 256,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f6falb9EF90.jpg",
+                "distanceStr": "距石牛山风景区88.8km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8877.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "钟鼓索道": {
+                "commentCount": 5441,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6tupfy47AF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145125.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "鼓山": {
+                "commentCount": 883,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s12000000skeq72C20.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8721.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭岛": {
+                "commentCount": 1125,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000h867oop13E4.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145142.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州蟳埔村簪花体验": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f6s5aawDCDE.jpg",
+                "distanceStr": "距石牛山风景区93.8km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/136448121.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "厦门科技馆": {
+                "commentCount": 9213,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000f6qan4o2212.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/50128.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "明谷行馆·温泉体验": {
+                "commentCount": 292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090z000000nvj7096AF.jpg",
+                "distanceStr": "距石牛山风景区99.6km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1837518.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "烟台山公园": {
+                "commentCount": 69,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5j120008ts0lq73A2F.jpg",
+                "distanceStr": "距石牛山风景区97.2km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1480702.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洛伽寺": {
+                "commentCount": 30,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4j12000c0blo6x09DA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shishi245/131149176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "飞猪航空飞行基地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000ccyogaj0206.jpg",
+                "distanceStr": "距石牛山风景区32.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/135820994.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湄洲妈祖祖庙": {
+                "commentCount": 142,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001grzp56431.jpg",
+                "distanceStr": "距石牛山风景区97.1km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44788.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "国宝云龙谷": {
+                "commentCount": 49,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grkv530B9.jpg",
+                "distanceStr": "距石牛山风景区27.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/1674737.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "胡里山炮台": {
+                "commentCount": 12234,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000c35o4p52F69.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2342.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "福州西湖公园": {
+                "commentCount": 790,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001goov0898B.jpg",
+                "distanceStr": "距石牛山风景区97.2km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8799.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "林则徐纪念馆": {
+                "commentCount": 283,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000f6tsp36E29F.jpg",
+                "distanceStr": "距石牛山风景区97.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8719.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门老院子景区": {
+                "commentCount": 1572,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3612000fqt5q3kC0C8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1704246.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "集美学村": {
+                "commentCount": 527,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061c000001did2k347B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2343.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "安溪清水岩": {
+                "commentCount": 144,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0516000000zifkbF944.jpg",
+                "distanceStr": "距石牛山风景区69.9km",
+                "detailUrl": "https://you.ctrip.com/sight/anxi2647/8917.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "戴云山": {
+                "commentCount": 19,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c120009d1qkfy0596.jpg",
+                "distanceStr": "距石牛山风景区20.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/8923.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门大学": {
+                "commentCount": 9998,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m120006pd9bte2D5C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/14050.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福州梧桐君澜温泉": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v120008d4qcz3B107.jpg",
+                "distanceStr": "距石牛山风景区38.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/5711412.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "榕水谣": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m12000b8erl0zB4FF.jpg",
+                "distanceStr": "距石牛山风景区34.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/135317439.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "日光岩": {
+                "commentCount": 6904,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000825yd946670.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2345.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "厦门海上游": {
+                "commentCount": 100,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4x12000dg6msprD30D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133820986.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "左海海底世界": {
+                "commentCount": 296,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A071f000001gwiv0CC35.jpg",
+                "distanceStr": "距石牛山风景区97.2km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1477650.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "鹭江夜游": {
+                "commentCount": 2586,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5r12000bkuf5oq4208.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/139403.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "五台山": {
+                "commentCount": 11,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp4tuC011.jpg",
+                "distanceStr": "距石牛山风景区44.5km",
+                "detailUrl": "https://you.ctrip.com/sight/nanan1521/1837715.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "猴研岛": {
+                "commentCount": 1220,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01068120008wchlbvCBA1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1479992.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "石狮十里黄金海岸": {
+                "commentCount": 114,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000f6qd1z0AE3B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shishi245/1833612.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万佳国际温泉度假村": {
+                "commentCount": 13,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101e120008alf4nk2A71.png",
+                "distanceStr": "距石牛山风景区47.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/103854240.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙门场古银杏": {
+                "commentCount": 85,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x1200092lo5sk454A.jpg",
+                "distanceStr": "距石牛山风景区32.7km",
+                "detailUrl": "https://you.ctrip.com/sight/youxi2667/1488690.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五缘湾帆船港": {
+                "commentCount": 1233,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0412000deanrj2D62A.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1476796.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "德化瓷艺城": {
+                "commentCount": 19,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh1v12000bt26lq7DCC0.jpg",
+                "distanceStr": "距石牛山风景区30.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/135610545.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桃源洞": {
+                "commentCount": 682,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1j12000fjpkuez2C25.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yongan288/51077.html?scene=online",
+                "isFree": false,
+                "price": 54.0
+            },
+            "半月山温泉": {
+                "commentCount": 309,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091a0000018qlaqAF80.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zhangzhou334/1410073.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            }
+        }
+    }
+}

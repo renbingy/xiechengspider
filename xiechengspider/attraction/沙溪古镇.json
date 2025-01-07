@@ -1,0 +1,798 @@
+{
+    "云南": {
+        "沙溪古镇": {
+            "沙溪古镇": {
+                "commentCount": 416,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p120005s1ohfa1741.jpg",
+                "distanceStr": "距市中心168m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/128356.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大理地热国": {
+                "commentCount": 787,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a1c000001cmyc4334F.jpg",
+                "distanceStr": "距沙溪古镇23.9km",
+                "detailUrl": "https://you.ctrip.com/sight/eryuan2180/128345.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉津桥": {
+                "commentCount": 39,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000nbemk3A7C.jpg",
+                "distanceStr": "距市中心290m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/1478537.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丽江千古情": {
+                "commentCount": 3991,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120008bg556z287C.jpg",
+                "distanceStr": "距沙溪古镇67.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/1409369.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "石宝山": {
+                "commentCount": 243,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350915000000xurua6B6C.jpg",
+                "distanceStr": "距沙溪古镇7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/4362.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "双廊": {
+                "commentCount": 2419,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0z000000muzdc819C.jpg",
+                "distanceStr": "距沙溪古镇56.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/4365.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蝴蝶泉": {
+                "commentCount": 2647,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000h4qev4g8533.jpg",
+                "distanceStr": "距沙溪古镇51.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/3040.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "南诏风情岛": {
+                "commentCount": 2128,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsxmc0387.jpg",
+                "distanceStr": "距沙溪古镇57.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/12322.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "苍山": {
+                "commentCount": 5603,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000h6tqvygC5A9.jpg",
+                "distanceStr": "距沙溪古镇77.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/3039.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "丽江古城": {
+                "commentCount": 11389,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0m000000dfh4kDA7D.jpg",
+                "distanceStr": "距沙溪古镇72.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/3056.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "崇圣寺三塔文化旅游区": {
+                "commentCount": 10511,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060h0000008q7vmF0AD.jpg",
+                "distanceStr": "距沙溪古镇74.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/3037.html?scene=online",
+                "isFree": false,
+                "price": 73.0
+            },
+            "洱海": {
+                "commentCount": 6972,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6scutxD6C9.jpg",
+                "distanceStr": "距沙溪古镇74.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/3038.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杨丽萍太阳宫艺术空间": {
+                "commentCount": 578,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100211000000qgtwyF6B7.jpg",
+                "distanceStr": "距沙溪古镇56.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/136331244.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉市海": {
+                "commentCount": 4417,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt1yqCA73.jpg",
+                "distanceStr": "距沙溪古镇68.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/19738.html?scene=online",
+                "isFree": false,
+                "price": 29.0
+            },
+            "木府": {
+                "commentCount": 8364,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120008c4m8hw1A0C.jpg",
+                "distanceStr": "距沙溪古镇72.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/12325.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "大理古城": {
+                "commentCount": 8339,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0h0000008rbfs673A.jpg",
+                "distanceStr": "距沙溪古镇75.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/12192.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "喜洲": {
+                "commentCount": 1030,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000n2hij6CCA.jpg",
+                "distanceStr": "距沙溪古镇58.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/12193.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "玉龙雪山": {
+                "commentCount": 14081,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106s120009lagj5n461E.jpg",
+                "distanceStr": "距沙溪古镇97.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/3049.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大理骑行": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0z000000nl9lb1544.jpg",
+                "distanceStr": "大理白族自治州",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/0.html?poiId=148480062",
+                "isFree": false,
+                "price": ""
+            },
+            "剑川古城": {
+                "commentCount": 17,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a120009dflvrl4F42.jpg",
+                "distanceStr": "距沙溪古镇24.2km",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/5601403.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鸡足山": {
+                "commentCount": 1536,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100710000000pscuf16E1.jpg",
+                "distanceStr": "距沙溪古镇66.8km",
+                "detailUrl": "https://you.ctrip.com/sight/binchuan2157/4357.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "大理旅拍": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0z000000ndcrm0D51.jpg",
+                "distanceStr": "大理白族自治州",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/0.html?poiId=148473904",
+                "isFree": false,
+                "price": ""
+            },
+            "沙溪古镇-四方街戏台": {
+                "commentCount": 15,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000f6t9dg08944.jpg",
+                "distanceStr": "距市中心247m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/1833700.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大理看日落": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6q5l03F97A.jpg",
+                "distanceStr": "大理白族自治州",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/0.html?poiId=148885363",
+                "isFree": false,
+                "price": ""
+            },
+            "沙溪兴教寺": {
+                "commentCount": 47,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1c000001d10dsC90C.jpg",
+                "distanceStr": "距市中心223m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/144872.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "丽江篝火体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000eq5ctiv4CF0.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=148480112",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江旅拍": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4d12000aaqi3rw938A.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=148485695",
+                "isFree": false,
+                "price": ""
+            },
+            "洗马潭大索道": {
+                "commentCount": 2206,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v12000f6re6p50A64.jpg",
+                "distanceStr": "距沙溪古镇76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/142155.html?scene=online",
+                "isFree": false,
+                "price": 260.0
+            },
+            "束河古镇": {
+                "commentCount": 2361,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j1200086v5yfb9A9B.jpg",
+                "distanceStr": "距沙溪古镇75.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/17963.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "严家大院博物馆": {
+                "commentCount": 609,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102612000f6rd1pb7121.jpg",
+                "distanceStr": "距沙溪古镇58.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/128317.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "寺登街": {
+                "commentCount": 36,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0q12000000s09bp3D6F.jpg",
+                "distanceStr": "距市中心137m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/1478197.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "虎跳峡(香格里拉段)": {
+                "commentCount": 3826,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a120007u6uxdt7118.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shangrila106/12236.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "大理环洱海旅游观光巴士": {
+                "commentCount": 110,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1p12000d52t5bn9356.jpg",
+                "distanceStr": "距沙溪古镇76.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/134070314.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "大理西湖": {
+                "commentCount": 162,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f7vd1n4124B.jpg",
+                "distanceStr": "距沙溪古镇39.2km",
+                "detailUrl": "https://you.ctrip.com/sight/eryuan2180/107436.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "丽江骑马": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs20p7FEE.jpg",
+                "distanceStr": "云南",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/0.html?poiId=148483146",
+                "isFree": false,
+                "price": ""
+            },
+            "剑湖": {
+                "commentCount": 17,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1c000001d6ubj2E2F.jpg",
+                "distanceStr": "距沙溪古镇21.3km",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/128359.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洱海游船": {
+                "commentCount": 1892,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp5da5B10.jpg",
+                "distanceStr": "距沙溪古镇88.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/2478869.html?scene=online",
+                "isFree": false,
+                "price": 130.0
+            },
+            "拉市海茶马古道": {
+                "commentCount": 836,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs20p7FEE.jpg",
+                "distanceStr": "距沙溪古镇68.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/2499647.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "感通索道": {
+                "commentCount": 595,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l1200099ceg4z2ECD.jpg",
+                "distanceStr": "距沙溪古镇81.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/1827167.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "玉龙雪山索道": {
+                "commentCount": 1173,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107312000f6tv5gzE40B.jpg",
+                "distanceStr": "距沙溪古镇95.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/128254.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "张家花园": {
+                "commentCount": 5168,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5g12000ej4lbpn9567.jpg",
+                "distanceStr": "距沙溪古镇80.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/144864.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "黑龙潭公园": {
+                "commentCount": 521,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080y000000lszn9167B.jpg",
+                "distanceStr": "距沙溪古镇74.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/3057.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海舌生态公园": {
+                "commentCount": 320,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1a0000019svusBAE5.jpg",
+                "distanceStr": "距沙溪古镇58.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/1478256.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "狮子山": {
+                "commentCount": 773,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n11000000q85as760A.jpg",
+                "distanceStr": "距沙溪古镇72.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/128246.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天龙八部影视城": {
+                "commentCount": 1937,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0b180000013sprrAE29.jpg",
+                "distanceStr": "距沙溪古镇76.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/50978.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "拉市海湿地公园": {
+                "commentCount": 253,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3509160000010fan4A837.jpg",
+                "distanceStr": "距沙溪古镇67.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5589377.html?scene=online",
+                "isFree": false,
+                "price": 29.0
+            },
+            "古戏台": {
+                "commentCount": 19,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0q12000000s08z4C694.jpg",
+                "distanceStr": "距市中心242m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/1833283.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "理想邦": {
+                "commentCount": 51,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0p12000d198x1g6791.png",
+                "distanceStr": "距沙溪古镇80.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/5708581.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "满贤林千狮山": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b120008qjfkv0C9BD.jpg",
+                "distanceStr": "距沙溪古镇25.1km",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/71526.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "白沙古镇": {
+                "commentCount": 290,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0g12000000sgbhw98D2.jpg",
+                "distanceStr": "距沙溪古镇79.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/17965.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万古楼": {
+                "commentCount": 804,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o12000f6pqe8dC027.jpg",
+                "distanceStr": "距沙溪古镇72.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/17960.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "听花谷-丽江百花园": {
+                "commentCount": 127,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000h4dyj21DCF6.jpg",
+                "distanceStr": "距沙溪古镇79.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/5713894.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "蓝月谷": {
+                "commentCount": 1230,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0u000000jfyq97C62.jpg",
+                "distanceStr": "距沙溪古镇98.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/109863.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "欧阳大院": {
+                "commentCount": 8,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010541200092luc9d79D0.jpg",
+                "distanceStr": "距市中心187m",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/1712964.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉几岛风景区": {
+                "commentCount": 323,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6xqwFED0.jpg",
+                "distanceStr": "距沙溪古镇56.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/109778.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "小普陀": {
+                "commentCount": 246,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gor8i03BC.jpg",
+                "distanceStr": "距沙溪古镇67.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/4360.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观音峡": {
+                "commentCount": 406,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0612000fouj2fcAD82.jpg",
+                "distanceStr": "距沙溪古镇65.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/110278.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "四方街": {
+                "commentCount": 970,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r1200086v8z40F7E7.jpg",
+                "distanceStr": "距沙溪古镇72.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/60935.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "拉市海湿地.候鸟湾": {
+                "commentCount": 124,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000914dz7x6D5A.jpg",
+                "distanceStr": "距沙溪古镇70.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/112647685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大理路极主题公园": {
+                "commentCount": 113,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0l12000dpelp1vC886.jpg",
+                "distanceStr": "距沙溪古镇91.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/134099231.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "拉市海骑马": {
+                "commentCount": 359,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b12000f6t9y57CC49.jpg",
+                "distanceStr": "距沙溪古镇67.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/2478975.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "周城村": {
+                "commentCount": 92,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100611000000qae846220.jpg",
+                "distanceStr": "距沙溪古镇53.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/17931.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "才村": {
+                "commentCount": 112,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0z000000npt8x799D.jpg",
+                "distanceStr": "距沙溪古镇74.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/1478236.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "文笔村": {
+                "commentCount": 8,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1h12000ane2uhpBF2A.jpg",
+                "distanceStr": "距沙溪古镇74.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/134018558.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杨丽萍大剧院": {
+                "commentCount": 83,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d120009hefn98EEA5.jpg",
+                "distanceStr": "距沙溪古镇74.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/5716364.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三塔倒影公园": {
+                "commentCount": 439,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100410000000paf221525.jpg",
+                "distanceStr": "距沙溪古镇74.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/17912.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大理苍海云上草原": {
+                "commentCount": 26,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5112000d2vy60sC420.jpg",
+                "distanceStr": "距沙溪古镇73.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/144563377.html?scene=online",
+                "isFree": false,
+                "price": 19.9
+            },
+            "大水车": {
+                "commentCount": 496,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v10000000p8w5tEB0A.jpg",
+                "distanceStr": "距沙溪古镇73.1km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/60937.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "荒野之国": {
+                "commentCount": 9,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000az98s7e9F1C.jpg",
+                "distanceStr": "距沙溪古镇76.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/133820887.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "廊桥": {
+                "commentCount": 4,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01035120009e46acl3415.jpg",
+                "distanceStr": "距沙溪古镇62.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/5073270.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "磻溪村": {
+                "commentCount": 66,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a120008dghvmnD831.jpg",
+                "distanceStr": "距沙溪古镇67.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/1712788.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙龛码头-观景台": {
+                "commentCount": 13,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A1512000a79q07o6557.jpg",
+                "distanceStr": "距沙溪古镇77.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/69415787.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "双廊古镇中心": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0v15000000yjc6w404B.jpg",
+                "distanceStr": "距沙溪古镇56.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/145698056.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云杉坪索道": {
+                "commentCount": 132,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000nq2eo9C21.jpg",
+                "distanceStr": "距沙溪古镇98.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/132936.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "理想的花园": {
+                "commentCount": 11,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000dmoa4taB891.jpg",
+                "distanceStr": "距沙溪古镇80.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/145088486.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "洋人街": {
+                "commentCount": 331,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt2ie30CF.jpg",
+                "distanceStr": "距沙溪古镇75.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/12329.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洱海生态廊道": {
+                "commentCount": 17,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106312000f6uhszmC136.jpg",
+                "distanceStr": "距沙溪古镇85.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/125707742.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金梭岛": {
+                "commentCount": 78,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0n000000ee8kg8CC0.jpg",
+                "distanceStr": "距沙溪古镇80.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/1712755.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪嵩村(玉湖村)": {
+                "commentCount": 64,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000mks883FB3.jpg",
+                "distanceStr": "距沙溪古镇85.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/144852.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "冰川公园": {
+                "commentCount": 219,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u10000000p3aii5327.jpg",
+                "distanceStr": "距沙溪古镇95.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/128202.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古城忠义市场": {
+                "commentCount": 150,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000nca7r6639.jpg",
+                "distanceStr": "距沙溪古镇72.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lijiang32/147093.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洱海公园": {
+                "commentCount": 345,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200083649nyE984.jpg",
+                "distanceStr": "距沙溪古镇88.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/1815373.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "四爷马帮": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2t120009vtgkun39C6.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jianchuan2215/5713731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "云杉坪": {
+                "commentCount": 179,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h13000000twch6065A.jpg",
+                "distanceStr": "距沙溪古镇98.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/12467.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大理苍山植物园": {
+                "commentCount": 39,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gperb4DD6.jpg",
+                "distanceStr": "距沙溪古镇81.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/5700975.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "罗荃半岛旅游区": {
+                "commentCount": 95,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0j15000000y7shx4186.jpg",
+                "distanceStr": "距沙溪古镇77.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dali1445616/147802.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "文海": {
+                "commentCount": 50,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0z000000nbted77DE.jpg",
+                "distanceStr": "距沙溪古镇79.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yulong1446279/109779.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "苍山世界地质公园·石门关大峡谷": {
+                "commentCount": 426,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/677/236/910/7d76a165033d4ec99848a40aad5f4849.jpg",
+                "distanceStr": "距沙溪古镇77.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yangbi1446283/128338.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,762 @@
+{
+    "直辖市": {
+        "重庆": {
+            "长江索道": {
+                "commentCount": 12493,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000f6sfcg7BDA8.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/109940.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "武隆天生三桥": {
+                "commentCount": 11719,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q120004gsttsa454D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/45771.html?scene=online",
+                "isFree": false,
+                "price": 125.0
+            },
+            "武隆喀斯特旅游区": {
+                "commentCount": 3605,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0n000000e0e6kAFA0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/112663.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "重庆动物园": {
+                "commentCount": 6501,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350f1800000150xhi18F8.jpg",
+                "distanceStr": "距市中心7.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10377.html?scene=online",
+                "isFree": false,
+                "price": 19.5
+            },
+            "重庆两江游": {
+                "commentCount": 9358,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g1200086ns69oB566.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1410372.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "仙女山国家森林公园": {
+                "commentCount": 4660,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqew39839.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10340.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "洪崖洞民俗风貌区": {
+                "commentCount": 7202,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0o11000000qry18BAF9.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/50223.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "重庆湖广会馆": {
+                "commentCount": 2315,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01046120008fmu5wt86CD.png",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/43819.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "白帝城·瞿塘峡景区": {
+                "commentCount": 2058,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6612000b6ihmsr0BF3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html?scene=online",
+                "isFree": false,
+                "price": 57.0
+            },
+            "大足石刻": {
+                "commentCount": 5379,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01030120008rxqtyiB006.jpg",
+                "distanceStr": "距市中心78.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10330.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "重庆欢乐谷": {
+                "commentCount": 6614,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4i12000eytj1y0EFF7.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/2486251.html?scene=online",
+                "isFree": false,
+                "price": 139.0
+            },
+            "重庆云端之眼观景台": {
+                "commentCount": 1048,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2m120008pj0v097892.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/102734194.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "磁器口古镇": {
+                "commentCount": 11561,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z120008iqyn71AE84.jpg",
+                "distanceStr": "距市中心10.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/43811.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "巫山小三峡": {
+                "commentCount": 1665,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6qjjyc3F2A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/4299.html?scene=online",
+                "isFree": false,
+                "price": 113.0
+            },
+            "解放碑步行街": {
+                "commentCount": 4604,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0a11000000qufky8650.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10386.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙水峡地缝": {
+                "commentCount": 2062,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gstlsF9FD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/112371.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "三峡之巅": {
+                "commentCount": 509,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01058120008elazlt9837.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/5709697.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "两江小渡": {
+                "commentCount": 757,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f120009hef56h8F79.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/118732016.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "重庆交运轮渡": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2212000gmbo7lhA4F4.png",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/145362934.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆大轰炸“六五”隧道惨案史实展馆": {
+                "commentCount": 636,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u120009det9oh643F.png",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/133855594.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "816工程景区": {
+                "commentCount": 972,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010171200097v5h8l5377.png",
+                "distanceStr": "距市中心93.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/76501.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "丰都鬼城名山景区": {
+                "commentCount": 2191,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b120007ursg8937FE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fengducounty2025250/112358.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "渣滓洞": {
+                "commentCount": 904,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u12000h68yu972CA8.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/18685.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南山风景区": {
+                "commentCount": 334,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100112000000sqjqr9449.jpg",
+                "distanceStr": "距市中心6.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10392.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南山一棵树观景台": {
+                "commentCount": 1449,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b120008hxlo5h9EC0.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/45792.html?scene=online",
+                "isFree": false,
+                "price": 14.5
+            },
+            "乌江画廊": {
+                "commentCount": 446,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gznmn1B82.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/pengshuicounty2025231/50096.html?scene=online",
+                "isFree": false,
+                "price": 162.0
+            },
+            "三峡博物馆": {
+                "commentCount": 755,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105h12000h4c65gx5C31.jpg",
+                "distanceStr": "距市中心150m",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/45804.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "朝天门广场": {
+                "commentCount": 1096,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g1200086ns69oB566.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10378.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "探索舱·云端乐园": {
+                "commentCount": 1577,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6tiywn7EA2.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5700482.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "蚩尤九黎城": {
+                "commentCount": 565,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o12000f6u0mvdDD0C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/pengshuicounty2025231/1959602.html?scene=online",
+                "isFree": false,
+                "price": 81.0
+            },
+            "重庆十八梯传统风貌区": {
+                "commentCount": 61,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120008yvl9pdC364.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5717709.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黑山谷风景区": {
+                "commentCount": 3927,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f1200087edgs9C8D0.jpg",
+                "distanceStr": "距市中心86.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10347.html?scene=online",
+                "isFree": false,
+                "price": 54.0
+            },
+            "朝天门号两江夜景游轮": {
+                "commentCount": 198,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01017120008ouxfxv6A2B.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/69571118.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "白鹤梁水下博物馆": {
+                "commentCount": 714,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gopwyBE8F.jpg",
+                "distanceStr": "距市中心83.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/76543.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "重庆WFC会仙楼观景台": {
+                "commentCount": 1540,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000f6qnatlAB5A.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/2473839.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "金佛山": {
+                "commentCount": 2837,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c1200087e4taiC86C.jpg",
+                "distanceStr": "距市中心80.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10348.html?scene=online",
+                "isFree": false,
+                "price": 160.0
+            },
+            "山城步道": {
+                "commentCount": 455,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0f11000000qt4c894F6.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/135585.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "山城巷历史文化风貌区": {
+                "commentCount": 31,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c120008iqx81q797D.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/65963918.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "人民大礼堂": {
+                "commentCount": 517,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060p000000fizwwCE4E.jpg",
+                "distanceStr": "距市中心289m",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10395.html?scene=online",
+                "isFree": false,
+                "price": 8.0
+            },
+            "李子坝轻轨站": {
+                "commentCount": 370,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106112000f6ubo5820E8.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5045354.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "巫峡·神女景区": {
+                "commentCount": 116,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6k12000av54eyp739C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/5718634.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "重庆夜游": {
+                "commentCount": 378,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000f6qr3md744B.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5712790.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红池坝国家森林公园": {
+                "commentCount": 361,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp2nx8575.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wuxicounty2025261/112712.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "欢乐海底世界": {
+                "commentCount": 1367,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4i12000h64y1a821B1.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1708731.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "万州大瀑布": {
+                "commentCount": 2713,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010241200086t1g1v0301.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/110297.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "梦幻奥陶纪景区": {
+                "commentCount": 3177,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0p16000000zz1wj70FF.jpg",
+                "distanceStr": "距市中心89.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1750877.html?scene=online",
+                "isFree": false,
+                "price": 210.0
+            },
+            "白公馆": {
+                "commentCount": 706,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p120009omzw82C627.jpg",
+                "distanceStr": "距市中心11.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/18686.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "酉阳桃花源": {
+                "commentCount": 1635,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104e120008lsgk3wC0AF.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/youyangcounty2025213/10373.html?scene=online",
+                "isFree": false,
+                "price": 62.9
+            },
+            "芙蓉洞": {
+                "commentCount": 991,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000nwoewAF6D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10338.html?scene=online",
+                "isFree": false,
+                "price": 135.0
+            },
+            "重庆游船观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y1200087cuizr215A.jpg",
+                "distanceStr": "重庆",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/0.html?poiId=149543777",
+                "isFree": false,
+                "price": ""
+            },
+            "武陵山大裂谷": {
+                "commentCount": 667,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j1200096pylnyDB5E.png",
+                "distanceStr": "距市中心99.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1697167.html?scene=online",
+                "isFree": false,
+                "price": 105.0
+            },
+            "重庆长江索道南站": {
+                "commentCount": 151,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d120008270g13FC71.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/65183944.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "乐和乐都动物主题乐园": {
+                "commentCount": 7348,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2e12000cyx1kd9F0B3.jpg",
+                "distanceStr": "距市中心69.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1408457.html?scene=online",
+                "isFree": false,
+                "price": 230.0
+            },
+            "重庆园博园": {
+                "commentCount": 4536,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0q000000ga2lk07BA.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1479967.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "重庆三峡游船": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y120009j4cjey725C.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/134055792.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆自然博物馆（新馆）": {
+                "commentCount": 479,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106312000f6u05p3489A.jpg",
+                "distanceStr": "距市中心31.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1790963.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大圆祥博物馆": {
+                "commentCount": 37,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0v000000jpcpo1521.jpg",
+                "distanceStr": "距市中心37.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/4356342.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆建川海疆博物馆（166舰）": {
+                "commentCount": 751,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000f6rq6im0E07.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5716423.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "白象居": {
+                "commentCount": 24,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q12000f0yhu9f6BD7.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/65666249.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆融创渝乐小镇": {
+                "commentCount": 2293,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01026120009mgfc561C16.jpg",
+                "distanceStr": "距市中心19.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5710299.html?scene=online",
+                "isFree": false,
+                "price": 170.0
+            },
+            "重庆融创文旅城": {
+                "commentCount": 106,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s120008eg7e2n0683.jpg",
+                "distanceStr": "距市中心20.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/98373934.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观音桥步行街": {
+                "commentCount": 434,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000f6qx3pqD00A.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/132867.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "融汇温泉城": {
+                "commentCount": 1721,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107312000f6q0n2v54A7.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/143013.html?scene=online",
+                "isFree": false,
+                "price": 159.0
+            },
+            "重庆融创海世界": {
+                "commentCount": 1862,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q120009mgen82143B.jpg",
+                "distanceStr": "距市中心19.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5710327.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "夜游两江": {
+                "commentCount": 80,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a120009hedu5960F5.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/69446838.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "云阳龙缸国家地质公园": {
+                "commentCount": 1469,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0e190000018763g5DA1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yunyangcounty2025226/112672.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "原气喜剧爆笑脱口秀(观音桥茂业天地)": {
+                "commentCount": 27,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4o12000cnq806m101F.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/133552494.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "瞿塘峡": {
+                "commentCount": 154,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200089n7glu3F91.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/4300.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "漫游重庆·都市观光巴士": {
+                "commentCount": 98,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000f6thscu60B6.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/5356367.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "四面山": {
+                "commentCount": 1473,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h120008er00ie7666.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10414.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "嘉陵小渡": {
+                "commentCount": 318,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2912000azzm6qj3C38.jpg",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/136624774.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "罗汉寺": {
+                "commentCount": 439,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k120008inns792FCA.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/10389.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆乌江龚滩旅游度假区": {
+                "commentCount": 545,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010161200086v76v77BB1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/youyangcounty2025213/43803.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "重庆建川博物馆聚落": {
+                "commentCount": 447,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106212000h4g7me23C87.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/4684348.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "龙门浩老街": {
+                "commentCount": 81,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010551200086wik5cED91.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/2030325.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北山石刻": {
+                "commentCount": 241,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102112000f6shm414A6F.jpg",
+                "distanceStr": "距市中心83.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1482062.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "二厂文创公园": {
+                "commentCount": 165,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m120008ir3fgaF495.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/2491576.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "小小三峡": {
+                "commentCount": 76,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000f6t2uj916F4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/4477.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆抗战遗址博物馆": {
+                "commentCount": 205,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01071120009hlolvf2EDE.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/145487.html?scene=online",
+                "isFree": false,
+                "price": 17.0
+            },
+            "李子坝单轨穿楼观景平台": {
+                "commentCount": 11,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0z000000ndy0a55F8.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/90499682.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "濯水古镇": {
+                "commentCount": 119,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4l12000dvdby0b2D97.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/1418195.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "濯水景区": {
+                "commentCount": 20,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0612000dvdc33mCD39.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/111709787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天福官驿": {
+                "commentCount": 193,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000nri6879A9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/132883.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "魁星楼": {
+                "commentCount": 15,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000f6q707454DE.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chongqing158/4658087.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

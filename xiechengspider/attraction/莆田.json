@@ -1,0 +1,753 @@
+{
+    "福建": {
+        "莆田": {
+            "湄洲岛": {
+                "commentCount": 1041,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6seppk8FF8.jpg",
+                "distanceStr": "距市中心45.1km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/110186.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九鲤湖风景区": {
+                "commentCount": 1009,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000f6q4w1g6962.jpg",
+                "distanceStr": "距市中心18.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/44791.html?scene=online",
+                "isFree": false,
+                "price": 49.98
+            },
+            "湄洲妈祖祖庙": {
+                "commentCount": 142,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001grzp56431.jpg",
+                "distanceStr": "距市中心42.8km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44788.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南少林寺": {
+                "commentCount": 95,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000ev0jhl84CC8.jpg",
+                "distanceStr": "距市中心10.1km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44789.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南日岛": {
+                "commentCount": 75,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0j000000ac2m542EC.jpg",
+                "distanceStr": "距市中心56.8km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1512781.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九龙谷景区": {
+                "commentCount": 627,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001gru66DE99.jpg",
+                "distanceStr": "距市中心17.2km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/126508.html?scene=online",
+                "isFree": false,
+                "price": 60.99
+            },
+            "黄金沙滩": {
+                "commentCount": 54,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1c000001de6nfAD11.jpg",
+                "distanceStr": "距市中心46.4km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1702936.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湄屿潮音": {
+                "commentCount": 26,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1c000001d2ea136A8.jpg",
+                "distanceStr": "距市中心42.8km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/63932.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "兴化府历史文化街区": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2812000bbzxhkzC944.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/136065071.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南山广化寺": {
+                "commentCount": 75,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A021a0000019to2n0704.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/61755.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭岛": {
+                "commentCount": 1125,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000h867oop13E4.jpg",
+                "distanceStr": "距莆田80.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145142.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹅尾神石园": {
+                "commentCount": 57,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1e000001fnap8C3EA.jpg",
+                "distanceStr": "距市中心49.0km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/63904.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清源山": {
+                "commentCount": 2371,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6q4y9c3FC8.jpg",
+                "distanceStr": "距莆田69.2km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8891.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "三坊七巷": {
+                "commentCount": 5089,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000aoh72b2D3E9.jpg",
+                "distanceStr": "距莆田75.6km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/64505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州开元寺": {
+                "commentCount": 1715,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s120006410cr5ED65.jpg",
+                "distanceStr": "距莆田73.5km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8874.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州古城": {
+                "commentCount": 108,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120006426ut7DF55.jpg",
+                "distanceStr": "距莆田74.1km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/1830708.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "闽江夜游": {
+                "commentCount": 2342,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3112000g3vcf7d94A6.jpg",
+                "distanceStr": "距莆田73.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/136821.html?scene=online",
+                "isFree": false,
+                "price": 96.0
+            },
+            "猴研岛": {
+                "commentCount": 1220,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01068120008wchlbvCBA1.jpg",
+                "distanceStr": "距莆田85.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1479992.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "崇武古城": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000drech74442A.jpg",
+                "distanceStr": "距莆田64.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/145735978.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "崇武古城风景区": {
+                "commentCount": 1293,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000h17holjDC14.jpg",
+                "distanceStr": "距莆田64.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/8897.html?scene=online",
+                "isFree": false,
+                "price": 33.8
+            },
+            "莆田市博物馆": {
+                "commentCount": 19,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq8guD67C.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1832951.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "木兰陂": {
+                "commentCount": 21,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000f6qbckz8B37.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44922.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西街": {
+                "commentCount": 440,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000fh26iifF10F.jpg",
+                "distanceStr": "距莆田73.6km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/134555.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州少林寺": {
+                "commentCount": 304,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000fhfsp0222CD.jpg",
+                "distanceStr": "距莆田72.3km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/126434.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙人井": {
+                "commentCount": 1261,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000f6tvzx5E3D6.jpg",
+                "distanceStr": "距莆田87.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480091.html?scene=online",
+                "isFree": false,
+                "price": 21.0
+            },
+            "68海里景区": {
+                "commentCount": 843,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120008wch8tt433C.jpg",
+                "distanceStr": "距莆田85.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/129752767.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "泉州欧乐堡度假区": {
+                "commentCount": 19,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0312000eci9yyz875A.jpg",
+                "distanceStr": "距莆田70.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/145778501.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泉州欧乐堡海洋王国乐园": {
+                "commentCount": 651,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o120009iinejl2A26.jpg",
+                "distanceStr": "距莆田70.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/5717590.html?scene=online",
+                "isFree": false,
+                "price": 139.0
+            },
+            "闽越水镇": {
+                "commentCount": 837,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5v12000h5bkd5dE5D5.jpg",
+                "distanceStr": "距莆田76.1km",
+                "detailUrl": "https://you.ctrip.com/sight/minhou2666/5623362.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "谯楼": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs1egC456.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/5143631.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莲池澳沙滩": {
+                "commentCount": 20,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1003060000001lytr70B1.jpg",
+                "distanceStr": "距市中心44.8km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1950998.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海外交通史博物馆": {
+                "commentCount": 163,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000fujcxfb897A.jpg",
+                "distanceStr": "距莆田72.5km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8899.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "妈祖诞生地-天妃故里遗址公园": {
+                "commentCount": 23,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h1bk836D5.jpg",
+                "distanceStr": "距市中心42.7km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1702958.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蟳埔村": {
+                "commentCount": 83,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i14000000vw1cd6673.jpg",
+                "distanceStr": "距莆田75.0km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/1477976.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福建博物院": {
+                "commentCount": 345,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqyyx51E4.jpg",
+                "distanceStr": "距莆田76.5km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/49084.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上下杭": {
+                "commentCount": 214,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000n9b5eDD31.jpg",
+                "distanceStr": "距莆田73.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1986506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五店市传统街区": {
+                "commentCount": 610,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7212000eck0ygs9731.jpg",
+                "distanceStr": "距莆田82.9km",
+                "detailUrl": "https://you.ctrip.com/sight/jinjiang675/1477959.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹅尾海蚀地质公园": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f6r6cti4FD9.jpg",
+                "distanceStr": "距市中心48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/130368716.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湄洲岛妈祖影视城": {
+                "commentCount": 68,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6v12000f3ubmab356D.jpg",
+                "distanceStr": "距市中心47.3km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1702948.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "泉州博物馆": {
+                "commentCount": 132,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000fhghfow4325.jpg",
+                "distanceStr": "距莆田71.6km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/134557.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000f558dpmA99B.jpg",
+                "distanceStr": "福州",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/0.html?poiId=148849143",
+                "isFree": false,
+                "price": ""
+            },
+            "金海岸沙滩游乐中心": {
+                "commentCount": 6,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091c000001dtck7775E.jpg",
+                "distanceStr": "距市中心44.9km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/4015197.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鼓浪屿": {
+                "commentCount": 39274,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwb0k4589.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/57405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洛阳桥": {
+                "commentCount": 303,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071c000001e4pmx7952.jpg",
+                "distanceStr": "距莆田64.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/8892.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "菜溪岩": {
+                "commentCount": 156,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f120008bxz8uy8F2B.jpg",
+                "distanceStr": "距市中心37.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/61736.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "青云山": {
+                "commentCount": 189,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6pt5h3EE80.jpg",
+                "distanceStr": "距莆田35.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/49078.html?scene=online",
+                "isFree": false,
+                "price": 32.0
+            },
+            "永泰中国云顶": {
+                "commentCount": 2046,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k120008ycbgqxC783.jpg",
+                "distanceStr": "距莆田34.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/118796.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "鼓山": {
+                "commentCount": 883,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s12000000skeq72C20.jpg",
+                "distanceStr": "距莆田80.4km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8721.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "红树林生态公园": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1c000001d2meoCC7C.jpg",
+                "distanceStr": "距市中心45.9km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/4587676.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门园林植物园": {
+                "commentCount": 12348,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6prceqB206.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8625.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "洛伽寺": {
+                "commentCount": 30,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4j12000c0blo6x09DA.jpg",
+                "distanceStr": "距莆田91.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shishi245/131149176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "莆田工艺美术城": {
+                "commentCount": 88,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1b000001a90tu3AFD.jpg",
+                "distanceStr": "距市中心10.8km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1412363.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凤凰山公园": {
+                "commentCount": 33,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000awgqkurBE62.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1714357.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石牛山景区": {
+                "commentCount": 633,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000814i0ah6A7E.jpg",
+                "distanceStr": "距莆田63.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dehua2659/8936.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "福州永泰欧乐堡海洋世界": {
+                "commentCount": 507,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t120008b9g17dC575.jpg",
+                "distanceStr": "距莆田47.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/4974348.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "晋江梧林传统村落": {
+                "commentCount": 49,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6rpp409157.webp",
+                "distanceStr": "距莆田88.2km",
+                "detailUrl": "https://you.ctrip.com/sight/jinjiang675/5714786.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "关岳庙": {
+                "commentCount": 232,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqy5l4EFF.jpg",
+                "distanceStr": "距莆田74.3km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8881.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "惠女风情园": {
+                "commentCount": 67,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000f6snleeC7D3.jpg",
+                "distanceStr": "距莆田64.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/1838961.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "泉州之眼摩天轮": {
+                "commentCount": 450,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1c000001dqhx3B2CD.jpg",
+                "distanceStr": "距莆田74.7km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/2486910.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "妈祖文化园": {
+                "commentCount": 58,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp7ww3496.jpg",
+                "distanceStr": "距市中心42.9km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1702939.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "钟鼓索道": {
+                "commentCount": 5441,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6tupfy47AF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145125.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "湄洲岛《首见妈祖》大型沉浸式数字光影秀": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0312000g2kgm4zB616.jpg",
+                "distanceStr": "距市中心43.2km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/145751024.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "万佳国际温泉度假村": {
+                "commentCount": 13,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101e120008alf4nk2A71.png",
+                "distanceStr": "距市中心30.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/103854240.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东山湄洲妈祖行宫": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k12000a4m84ks04E2.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/4593029.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "绶溪公园": {
+                "commentCount": 37,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsvc9B1A2.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1714358.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海坛古城": {
+                "commentCount": 527,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1d000001e8qss0183.jpg",
+                "distanceStr": "距莆田78.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1685324.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门方特旅游度假区": {
+                "commentCount": 252,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200081p2dng64EE.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2483147.html?scene=online",
+                "isFree": false,
+                "price": 299.0
+            },
+            "福道": {
+                "commentCount": 68,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000nrnjnB414.jpg",
+                "distanceStr": "距莆田74.5km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/5059376.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门方特梦幻王国": {
+                "commentCount": 8315,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0212000cdml86u1EE1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/140141.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "福州御温泉度假酒店温泉": {
+                "commentCount": 82,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000afcgxsvE038.jpg",
+                "distanceStr": "距莆田38.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/136014052.html?scene=online",
+                "isFree": false,
+                "price": 218.0
+            },
+            "莆田瑞士文化小镇": {
+                "commentCount": 8,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsn3tF52C.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/2484658.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莆田普陀山": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c12000b24tp6y30B4.jpg",
+                "distanceStr": "距市中心38.3km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/133978595.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门科技馆": {
+                "commentCount": 9213,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000f6qan4o2212.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/50128.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "烟台山公园": {
+                "commentCount": 69,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5j120008ts0lq73A2F.jpg",
+                "distanceStr": "距莆田72.6km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1480702.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州海丝野生动物世界": {
+                "commentCount": 977,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000f6so68h926B.jpg",
+                "distanceStr": "距莆田56.1km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/2022010.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "明谷行馆·温泉体验": {
+                "commentCount": 292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090z000000nvj7096AF.jpg",
+                "distanceStr": "距莆田78.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1837518.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "易斯顿御庄园温泉": {
+                "commentCount": 160,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0z000000ng2hh7C66.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/143303.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "将军山": {
+                "commentCount": 107,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1w12000cjt1xcyC08C.jpg",
+                "distanceStr": "距莆田76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480077.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "坛南湾": {
+                "commentCount": 145,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104n12000f6rf2mh3CC6.jpg",
+                "distanceStr": "距莆田75.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480001.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "石狮十里黄金海岸": {
+                "commentCount": 114,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000f6qd1z0AE3B.jpg",
+                "distanceStr": "距莆田91.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shishi245/1833612.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州蟳埔村簪花体验": {
+                "commentCount": 3,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f6s5aawDCDE.jpg",
+                "distanceStr": "距莆田74.9km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/136448121.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "东山报恩寺": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1b12000ddflp9f138C.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/144155829.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清净寺": {
+                "commentCount": 309,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000fhjrrl78CF0.jpg",
+                "distanceStr": "距莆田74.3km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8875.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,753 @@
+{
+    "直辖市": {
+        "天津": {
+            "泰达航母主题公园": {
+                "commentCount": 8664,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0w000000kpaqe01A1.jpg",
+                "distanceStr": "距市中心52.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/74004.html?scene=online",
+                "isFree": false,
+                "price": 220.0
+            },
+            "国家海洋博物馆": {
+                "commentCount": 2315,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000aamnttfC673.jpg",
+                "distanceStr": "距市中心50.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5382354.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天津之眼摩天轮": {
+                "commentCount": 10466,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b10000000omp6q72E0.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/56364.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瓷房子": {
+                "commentCount": 4449,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120008bhx6mnD653.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/64504.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "海河游船": {
+                "commentCount": 3702,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01065120008hhm0cq7386.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112796.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海河": {
+                "commentCount": 840,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1d000001emkdgC4A1.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1830963.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天津方特欢乐世界": {
+                "commentCount": 25224,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3612000b6xzara8F32.jpg",
+                "distanceStr": "距市中心45.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1411705.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "静园": {
+                "commentCount": 3266,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102t12000f6q0f647F26.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10672.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "张学良故居": {
+                "commentCount": 2455,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107012000f6qv90p8129.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10657.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "天津极地海洋公园": {
+                "commentCount": 13428,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2s12000dmf5wiy8FBD.png",
+                "distanceStr": "距市中心40.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112794.html?scene=online",
+                "isFree": false,
+                "price": 290.0
+            },
+            "五大道": {
+                "commentCount": 3478,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100711000000rdolz3AEB.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/56365.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天津欢乐谷": {
+                "commentCount": 6999,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0b0000005j5dy10DF.jpg",
+                "distanceStr": "距市中心23.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112858.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古文化街": {
+                "commentCount": 4569,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000h0yshad3F39.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10729.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五号院相声茶馆（古文化街通庆里店）": {
+                "commentCount": 809,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120008l5w12f6FA2.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5711538.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "盘山": {
+                "commentCount": 3772,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d1200087crt4a5E5E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10451.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "张园": {
+                "commentCount": 374,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6r07n553B3.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/2028108.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "意大利风情区": {
+                "commentCount": 4224,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6wrp6201.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/110319.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "杨柳青古镇": {
+                "commentCount": 414,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m1200086v5b09B2EB.jpg",
+                "distanceStr": "距市中心17.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/145540.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "双层敞篷观光巴士": {
+                "commentCount": 135,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106112000f6rrag8BD3B.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/134048092.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄崖关长城": {
+                "commentCount": 1232,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000a2m9er29754.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10718.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石家大院": {
+                "commentCount": 1005,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y120009a71xc6AFC4.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10616.html?scene=online",
+                "isFree": false,
+                "price": 23.0
+            },
+            "庆王府": {
+                "commentCount": 1225,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6t120008pcl8v1DA02.jpg",
+                "distanceStr": "距市中心717m",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10653.html?scene=online",
+                "isFree": false,
+                "price": 24.0
+            },
+            "五号院相声茶馆(意大利风情街店)": {
+                "commentCount": 212,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4612000b6g8tfw0B6C.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/136459480.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "独乐寺": {
+                "commentCount": 1093,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2212000chbgrw60014.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10452.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天津博物馆": {
+                "commentCount": 380,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103r12000f6t4uugD3C3.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/136271.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西开教堂": {
+                "commentCount": 640,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0c1f000001g63sm0302.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10630.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓟洲国际滑雪场": {
+                "commentCount": 598,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4312000gnk0twlA5DC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/113008.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "滨海科技馆": {
+                "commentCount": 197,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01007120008wc8sccEE97.jpg",
+                "distanceStr": "距市中心42.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5717214.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "北京环球度假区": {
+                "commentCount": 31464,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5h12000gurmj7bFE38.jpg",
+                "distanceStr": "距天津93.9km",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/2045497.html?scene=online",
+                "isFree": false,
+                "price": 405.0
+            },
+            "津湾广场": {
+                "commentCount": 274,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1d000001entpkF937.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/145547.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天津广播电视塔（天塔）": {
+                "commentCount": 800,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1h000001humi30BA9.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/18015.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "天塔湖风景区": {
+                "commentCount": 281,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102812000f6t503cF6E8.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112815.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "天津 · 开心麻花喜剪吹沉浸式剧场《疯狂理发店》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000cjckido057B.png",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/143169600.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "五大道历史博物馆": {
+                "commentCount": 73,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0u1d000001eflpk0CD1.jpg",
+                "distanceStr": "距市中心923m",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/2045253.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "德云社": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103912000f6tjcldD641.png",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5717057.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鼓楼": {
+                "commentCount": 262,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000833psjbAB23.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10675.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东疆湾沙滩景区": {
+                "commentCount": 620,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c1200092lw078239D.jpg",
+                "distanceStr": "距市中心54.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112797.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "天津文化中心海底世界": {
+                "commentCount": 163,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01056120008wvhqoe83A3.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5717301.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "北塘古镇": {
+                "commentCount": 95,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h120009dh9wpy8068.jpg",
+                "distanceStr": "距市中心43.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/141520.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓟州溶洞": {
+                "commentCount": 631,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01003120009en60wx4D76.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1407336.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "中华石园": {
+                "commentCount": 139,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000f6re2e37C36.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112830.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "故宫博物院": {
+                "commentCount": 160912,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j1200046x94ebB936.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/229.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【天津】舞蹈诗剧《只此青绿》——舞绘《千里江山图》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000fd6hnaqB612.png",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/148893871.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天津西岸相声茶馆(总店)": {
+                "commentCount": 53,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350h15000000ypasj214A.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/3871139.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "津游一号仿古铛铛车": {
+                "commentCount": 39,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t12000000s02bj148E.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5100539.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "【天津】童漠男脱口秀专场《寻找王医生》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000gwns9a48BE0.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/149609133.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【天津】【大笑喜剧】滨江道步行街脱口秀｜周一至周日｜综艺卡司｜吐槽爆笑大会｜开心互动｜即兴之夜精品秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000fhli5ruAF95.png",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/148903575.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天津玛雅海滩水公园": {
+                "commentCount": 1307,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0t000000il7qyC206.jpg",
+                "distanceStr": "距市中心23.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/4714345.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梨木台风景区": {
+                "commentCount": 1132,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3d12000dmfb7xzE23B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/112799.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "滨海新区图书馆": {
+                "commentCount": 195,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z120008nonlny0CF7.jpg",
+                "distanceStr": "距市中心42.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/4241450.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天津方特水上乐园": {
+                "commentCount": 1087,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01057120008ol4ww7FE23.jpg",
+                "distanceStr": "距市中心45.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/5715826.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大沽口炮台遗址": {
+                "commentCount": 439,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000f6q0os255E5.jpg",
+                "distanceStr": "距市中心45.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/18008.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "东疆亲海公园": {
+                "commentCount": 31,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a12000f6ui87t267F.jpg",
+                "distanceStr": "距市中心52.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/131897157.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【天津】开心麻花经典爆笑大戏《乌龙山伯爵》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000et5kvwbAC03.png",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/148497743.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宝和轩相声茶楼(古文化街店)": {
+                "commentCount": 32,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101412000dcltxbvBD06.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/134447812.html?scene=online",
+                "isFree": false,
+                "price": 33.9
+            },
+            "天津观湖城堡温泉": {
+                "commentCount": 667,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3712000g3vpi39F898.jpg",
+                "distanceStr": "距市中心24.3km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1976318.html?scene=online",
+                "isFree": false,
+                "price": 135.0
+            },
+            "天津动物园": {
+                "commentCount": 651,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000nsdon61F3.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10697.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "袁氏宅邸": {
+                "commentCount": 112,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000b8vnhh33154.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1513601.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "【天津】《奇遇三星堆》VR沉浸探索展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000fhbotjnA0A3.png",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/148902586.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "北京野生动物园": {
+                "commentCount": 25903,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030c00000063u6rBDAE.jpg",
+                "distanceStr": "距天津86.6km",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/107469.html?scene=online",
+                "isFree": false,
+                "price": 145.0
+            },
+            "盘山滑雪场": {
+                "commentCount": 281,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gspxoDFB6.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/134284.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "【天津】Standby小鹿脱口秀专场《我的中女时代》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000gsa5vzs0E20.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/149588982.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国国家博物馆": {
+                "commentCount": 1388,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w1200099jor2e723F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/62722.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天津水上公园": {
+                "commentCount": 695,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gryfpDDD7.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10694.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大悲禅院": {
+                "commentCount": 268,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000f6qa5frF707.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/10627.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天坛公园": {
+                "commentCount": 15911,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040h0000008s9n50143.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/233.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "天津野生动物园": {
+                "commentCount": 25,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ3w12000fwnadceC7FC.jpg",
+                "distanceStr": "距市中心45.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/145738412.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "利顺德博物馆": {
+                "commentCount": 180,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35071c000001e1xzm3781.jpg",
+                "distanceStr": "距市中心434m",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1646801.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "天津自然博物馆": {
+                "commentCount": 300,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x1200082yfju8FFF5.png",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/18011.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【天津】开心麻花五星爆笑大戏《瞎画艺术家》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000gv2g3jw4DEB.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/149593180.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南市食品街": {
+                "commentCount": 459,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nu9jlFBD1.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/56359.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "世纪钟广场": {
+                "commentCount": 637,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqges27CE.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/110221.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "解放桥": {
+                "commentCount": 302,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p1200083kc35jA343.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1556051.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "恭王府": {
+                "commentCount": 22362,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010261200087dxb2445A6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/5174.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "天津奥林匹克中心": {
+                "commentCount": 47,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a120009e2kdpmE1F0.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/1834048.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天津看海鸥": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103312000gif7wlm633A.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/0.html?poiId=149546536",
+                "isFree": false,
+                "price": ""
+            },
+            "龙达温泉生态城": {
+                "commentCount": 1883,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/605/021/802/e6605e44be164dc98043e5d2d2d8a13c.jpg",
+                "distanceStr": "距市中心35.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/143243.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天实景相声茶馆(天河城店)": {
+                "commentCount": 39,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5812000btoosgc1ECD.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/140851643.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "滨江道商业街": {
+                "commentCount": 275,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107012000f4fq30u33A3.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/110334.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【天津】理查德·克莱德曼2025《爱·永恒》新年钢琴音乐会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h12000et4yt3cBB29.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/148496853.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "只有红楼梦戏剧幻城": {
+                "commentCount": 833,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y12000f6qh9oy1FAB.jpg",
+                "distanceStr": "距天津65.3km",
+                "detailUrl": "https://you.ctrip.com/sight/langfang582/136634432.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "颐和园": {
+                "commentCount": 42895,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010p000000ftdk87BDF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/231.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "玉龙滑雪场": {
+                "commentCount": 84,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp3r8F8EE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/tianjin154/134293.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            }
+        }
+    }
+}

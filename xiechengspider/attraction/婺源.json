@@ -1,0 +1,780 @@
+{
+    "江西": {
+        "婺源": {
+            "婺源篁岭": {
+                "commentCount": 12819,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000h5l4k8cFEAD.jpg",
+                "distanceStr": "距市中心26.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/141512.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "婺女洲度假区": {
+                "commentCount": 1814,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4212000c99m2ka4DC9.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/133831507.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "婺源风景区": {
+                "commentCount": 4325,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120006c3pnxoA785.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/137726.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "婺源晒秋": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000nkvd4435D.jpg",
+                "distanceStr": "上饶",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/0.html?poiId=148485638",
+                "isFree": false,
+                "price": ""
+            },
+            "李坑景区": {
+                "commentCount": 1935,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f82zgfb9061.jpg",
+                "distanceStr": "距市中心10.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17010.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "江湾景区": {
+                "commentCount": 565,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h19wv6229.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/45228.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "婺源灯光秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2612000bf7b9t5E675.jpg",
+                "distanceStr": "上饶",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/0.html?poiId=148892987",
+                "isFree": false,
+                "price": ""
+            },
+            "江岭景区": {
+                "commentCount": 1141,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f75nsr9AB18.jpg",
+                "distanceStr": "距市中心28.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/25721.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "大鄣山卧龙谷": {
+                "commentCount": 238,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104e120008cfnpwq51CA.jpg",
+                "distanceStr": "距市中心32.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/127446.html?scene=online",
+                "isFree": false,
+                "price": 52.0
+            },
+            "婺源赏红叶": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p1200092mcx0419C3.jpg",
+                "distanceStr": "上饶",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/0.html?poiId=148892980",
+                "isFree": false,
+                "price": ""
+            },
+            "婺源赏油菜花": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070d0000006w9704BD5.jpg",
+                "distanceStr": "上饶",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/0.html?poiId=148891899",
+                "isFree": false,
+                "price": ""
+            },
+            "思溪延村": {
+                "commentCount": 342,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5i12000941bpanE04D.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/127484.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "花溪水街": {
+                "commentCount": 46,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t1f000001gi5cy9463.jpg",
+                "distanceStr": "距市中心26.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5631352.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "彩虹桥": {
+                "commentCount": 578,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gpuekE1A4.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/16728.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "望仙谷": {
+                "commentCount": 11707,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v1200092m69afAFE6.jpg",
+                "distanceStr": "距婺源63.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/104144785.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "五龙源漂流": {
+                "commentCount": 566,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs0cjC3AF.jpg",
+                "distanceStr": "距市中心30.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/142032.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石城": {
+                "commentCount": 147,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6prlajA9EB.jpg",
+                "distanceStr": "距市中心35.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/83876.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "婺源熹园": {
+                "commentCount": 384,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f12000f6tvfz1D9F5.jpg",
+                "distanceStr": "距市中心979m",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1408603.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "汪口": {
+                "commentCount": 310,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01053120008g6ers88791.jpg",
+                "distanceStr": "距市中心17.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17843.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "月亮湾": {
+                "commentCount": 195,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h11000000reu7g4F27.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/25736.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天街": {
+                "commentCount": 7,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104x12000h09s2ax5F9F.jpg",
+                "distanceStr": "距市中心26.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/112653224.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "水墨上河": {
+                "commentCount": 84,
+                "commentScore": 3.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100414000000wvq58C755.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5536346.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "三清山风景区": {
+                "commentCount": 11674,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nsk5eBAA6.jpg",
+                "distanceStr": "距婺源44.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yushan1013/127445.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "婺源灵岩洞景区": {
+                "commentCount": 58,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i12000f8339ha4711.jpg",
+                "distanceStr": "距市中心34.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17842.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "上坦": {
+                "commentCount": 32,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsodq882B.jpg",
+                "distanceStr": "距市中心25.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/127449.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "婺源严田": {
+                "commentCount": 52,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000f6rdoo55980.jpg",
+                "distanceStr": "距市中心24.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/140592.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "婺女洲四季恒温水世界": {
+                "commentCount": 29,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1s12000b8af6pwE621.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/136632703.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄山风景区": {
+                "commentCount": 44611,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000nm6w7F15F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/64844.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "宏村景区": {
+                "commentCount": 34057,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1k12000fjertwr7F8D.jpg",
+                "distanceStr": "距婺源84.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/140895.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "菊径村": {
+                "commentCount": 60,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o12000000rh4p87CA0.jpg",
+                "distanceStr": "距市中心31.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1486899.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "陶阳里历史文化旅游区": {
+                "commentCount": 2014,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7112000fam2hm3D366.jpg",
+                "distanceStr": "距婺源63.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/127483.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "景德镇古窑民俗博览区": {
+                "commentCount": 6612,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3312000bp27qi811B7.jpg",
+                "distanceStr": "距婺源65.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/61145.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "婺源篁岭景区-晒工坊": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120008bwe8mv3C5D.png",
+                "distanceStr": "距市中心26.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/98279660.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "文公山": {
+                "commentCount": 33,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gqa9jAF70.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17425.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "梯田花海": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35011e000001fts7jE554.jpg",
+                "distanceStr": "距市中心26.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/98279650.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "景德镇中国陶瓷博物馆": {
+                "commentCount": 569,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t120008132di5BA4D.jpg",
+                "distanceStr": "距婺源66.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/61150.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西递": {
+                "commentCount": 7952,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3g12000fjeu4k8A56D.jpg",
+                "distanceStr": "距婺源74.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/18052.html?scene=online",
+                "isFree": false,
+                "price": 94.0
+            },
+            "婺源看梯田": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010661200092mh9cp6E7E.jpg",
+                "distanceStr": "上饶",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/0.html?poiId=148897047",
+                "isFree": false,
+                "price": ""
+            },
+            "上下晓起": {
+                "commentCount": 152,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4g12000gnsn44yAD12.jpg",
+                "distanceStr": "距市中心22.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17011.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "篁岭石门峡": {
+                "commentCount": 70,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a170000012pluzB13B.jpg",
+                "distanceStr": "距市中心28.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1739911.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "齐云山景区": {
+                "commentCount": 3226,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2h12000dbbi1sj73C0.jpg",
+                "distanceStr": "距婺源64.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiuning2625/52735.html?scene=online",
+                "isFree": false,
+                "price": 57.0
+            },
+            "晒秋人家观景台": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0z000000nku752A11.jpg",
+                "distanceStr": "距市中心26.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/98279651.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "婺源景区每周四免票活动": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0v14000000wg8ol9C55.jpg",
+                "distanceStr": "上饶",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/0.html?poiId=149570008",
+                "isFree": false,
+                "price": ""
+            },
+            "怪屋": {
+                "commentCount": 6,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r12000f6uesi56A55.jpg",
+                "distanceStr": "距市中心26.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5253391.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "陶溪川文创街区": {
+                "commentCount": 382,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104t120009bar3pn2CDB.jpg",
+                "distanceStr": "距婺源61.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/5072913.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漳村": {
+                "commentCount": 19,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q120008g2m4ikA5B5.jpg",
+                "distanceStr": "距市中心13.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/133122.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "呈坎": {
+                "commentCount": 2760,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b120009vmiao3E112.jpg",
+                "distanceStr": "距婺源85.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/20485.html?scene=online",
+                "isFree": false,
+                "price": 103.0
+            },
+            "千岛湖景区": {
+                "commentCount": 7919,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6ymy0856.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chunan2249/135831.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "瑶里景区": {
+                "commentCount": 1649,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0q000000gc2q799A1.jpg",
+                "distanceStr": "距婺源43.8km",
+                "detailUrl": "https://you.ctrip.com/sight/fuliang2420/137732.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "三眼桥风景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01027120009l23lrn143B.jpg",
+                "distanceStr": "距市中心33.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5718543.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上饶晒秋": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000nkvd4435D.jpg",
+                "distanceStr": "江西",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/0.html?poiId=149275355",
+                "isFree": false,
+                "price": ""
+            },
+            "卧云悬索桥": {
+                "commentCount": 20,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000f6pti1tB062.jpg",
+                "distanceStr": "距市中心26.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5073099.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古徽州文化旅游区": {
+                "commentCount": 125,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l1200089rytxs3414.jpg",
+                "distanceStr": "距婺源88.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty527/1751362.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "徽州古城": {
+                "commentCount": 2002,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x120008263zhi4855.jpg",
+                "distanceStr": "距婺源88.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty527/126201.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "根宫佛国文化旅游区": {
+                "commentCount": 757,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y1200087dprbh6C73.jpg",
+                "distanceStr": "距婺源53.1km",
+                "detailUrl": "https://you.ctrip.com/sight/kaihua1001/143278.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "瑶里古镇风景区": {
+                "commentCount": 139,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000evbg20y1252.jpg",
+                "distanceStr": "距婺源43.8km",
+                "detailUrl": "https://you.ctrip.com/sight/fuliang2420/61146.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朱子步行街": {
+                "commentCount": 42,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0e15000000yb51qDB7D.jpg",
+                "distanceStr": "距市中心646m",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1486812.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "景德镇御窑博物馆": {
+                "commentCount": 84,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6nylyd62A2.jpg",
+                "distanceStr": "距婺源63.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/5703493.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浮梁古县衙景区": {
+                "commentCount": 1274,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6t3wzcD73A.jpg",
+                "distanceStr": "距婺源60.9km",
+                "detailUrl": "https://you.ctrip.com/sight/fuliang2420/61180.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "月亮湾竹筏漂流": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103212000f6uphwf9F2F.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/145709455.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵山风景名胜区": {
+                "commentCount": 808,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z12000f6t3mr28971.jpg",
+                "distanceStr": "距婺源78.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/70711.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "察关": {
+                "commentCount": 12,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103112000f6t604r2D81.jpg",
+                "distanceStr": "距市中心29.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1486818.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "婺源博物馆": {
+                "commentCount": 58,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103212000a884i046F22.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17432.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洪岩仙境": {
+                "commentCount": 281,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01046120009v3bhfv3962.jpg",
+                "distanceStr": "距婺源44.9km",
+                "detailUrl": "https://you.ctrip.com/sight/leping2417/61151.html?scene=online",
+                "isFree": false,
+                "price": 96.0
+            },
+            "石台牯牛降": {
+                "commentCount": 1687,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3d12000d2hzkrp3C0E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shitai2624/1408445.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "庆源": {
+                "commentCount": 71,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6se3qhD399.jpg",
+                "distanceStr": "距市中心27.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/45230.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙尾村": {
+                "commentCount": 7,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e120009e1d3dc65E2.jpg",
+                "distanceStr": "距市中心27.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1486883.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "婺源篁岭景区-景区入口广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0p14000000wiwqp3782.jpg",
+                "distanceStr": "距市中心26.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/145232822.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清华镇": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6rpmb5B153.jpg",
+                "distanceStr": "距市中心20.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/90499127.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "江郎山风景名胜区": {
+                "commentCount": 1929,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100210000000pi6bi02C1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/16223.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "木坑竹海": {
+                "commentCount": 1215,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1f000001gou7g21EF.jpg",
+                "distanceStr": "距婺源84.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yicounty528/18452.html?scene=online",
+                "isFree": false,
+                "price": 33.0
+            },
+            "九华山": {
+                "commentCount": 13565,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f1200087dvhgu60B0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/qingyang2613/126392.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "民俗风情街": {
+                "commentCount": 21,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000c47ptl03C4C.jpg",
+                "distanceStr": "距市中心696m",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/1486824.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "晓鳙村": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000f6ucbib8133.jpg",
+                "distanceStr": "距市中心26.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5066933.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "垒心栈桥": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f12000f6tj8yjC29D.jpg",
+                "distanceStr": "距市中心26.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/98279641.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "虹关": {
+                "commentCount": 27,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gs0mwBD99.jpg",
+                "distanceStr": "距市中心30.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17451.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "江西直升机科技馆": {
+                "commentCount": 421,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c120008ti9j9b67AC.png",
+                "distanceStr": "距婺源71.8km",
+                "detailUrl": "https://you.ctrip.com/sight/jingdezhen405/2514684.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "悬浮土屋": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000b0z4jq41B33.jpg",
+                "distanceStr": "距市中心26.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/5631355.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新安江山水画廊": {
+                "commentCount": 1461,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6tv7lu20AD.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shecounty527/55544.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "屯溪老街": {
+                "commentCount": 1158,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h1200082kr8qd5929.jpg",
+                "distanceStr": "距婺源67.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huangshan120061/16998.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上饶灯光秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2912000cix2qek8A9D.jpg",
+                "distanceStr": "江西",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/0.html?poiId=148849130",
+                "isFree": false,
+                "price": ""
+            },
+            "理坑": {
+                "commentCount": 108,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000as5qeq8ED8C.jpg",
+                "distanceStr": "距市中心30.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/17426.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长溪村": {
+                "commentCount": 42,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0n000000e1sdfB003.jpg",
+                "distanceStr": "距市中心34.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/72527.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "婺女洲飞鸟亲子乐园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6y12000ck9mxuc9E89.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/148457727.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "江岭赏油菜花海": {
+                "commentCount": 32,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqb04E1E8.jpg",
+                "distanceStr": "距市中心28.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/2488047.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "严田古樟民俗园": {
+                "commentCount": 30,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000as0qw81C3D5.jpg",
+                "distanceStr": "距市中心24.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/127458.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

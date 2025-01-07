@@ -1,0 +1,816 @@
+{
+    "河北": {
+        "秦皇岛": {
+            "山海关": {
+                "commentCount": 4051,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gonz01F00.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5040.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "鸽子窝公园": {
+                "commentCount": 10245,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j120008jafpjj8C65.jpg",
+                "distanceStr": "距市中心12.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5045.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "老龙头": {
+                "commentCount": 6945,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqhpwF43B.jpg",
+                "distanceStr": "距市中心17.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5035.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "碧螺塔海上酒吧公园": {
+                "commentCount": 2874,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1i12000b09pfpi46D1.jpg",
+                "distanceStr": "距市中心14.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5046.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "北戴河": {
+                "commentCount": 2341,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v120009hor1tm73F6.jpg",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/16035.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北戴河欢乐湾": {
+                "commentCount": 1149,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0k12000bn9g0cx7948.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/141386.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛野生动物园": {
+                "commentCount": 8317,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u120006wi0env4882.jpg",
+                "distanceStr": "距市中心9.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/13486.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "阿那亚": {
+                "commentCount": 378,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000h0gphqx90BB.jpg",
+                "distanceStr": "距市中心40.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/1984893.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "祖山风景区": {
+                "commentCount": 1201,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000ckruyhh4C49.jpg",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/67457.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "南戴河仙螺岛": {
+                "commentCount": 1835,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqh5v6024.jpg",
+                "distanceStr": "距市中心21.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/13493.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南戴河": {
+                "commentCount": 343,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q120004gikhjsBCEF.jpg",
+                "distanceStr": "距市中心22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/17889.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "渔岛海洋度假区": {
+                "commentCount": 2544,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4212000ebq87kz19E2.jpg",
+                "distanceStr": "距市中心45.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/123678.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天下第一关": {
+                "commentCount": 3129,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103912000f3v69815B61.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/123669.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "秦皇岛看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a14000000wy4xm86D8.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=145632312",
+                "isFree": false,
+                "price": ""
+            },
+            "渔田七里海度假区": {
+                "commentCount": 512,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3z12000dxgcizu1FBA.jpg",
+                "distanceStr": "距市中心52.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/134077258.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乐岛海洋王国": {
+                "commentCount": 2293,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0b12000c2gwxa0DADF.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/66698.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新澳海底世界": {
+                "commentCount": 2328,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6212000cs3kzjk9E6F.png",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/13485.html?scene=online",
+                "isFree": false,
+                "price": 52.0
+            },
+            "寻仙2号游船": {
+                "commentCount": 218,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7412000dfyj2zr5EB8.png",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/144970053.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西港花园": {
+                "commentCount": 21,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh5y12000boc9rm16CE6.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5253390.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "寻仙1号游船": {
+                "commentCount": 246,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000dghf4mw0ADC.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/144974497.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "角山长城": {
+                "commentCount": 631,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0u000000jiim66BDE.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5036.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "秦皇岛篝火体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1b12000e2t24pwF51B.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=148488539",
+                "isFree": false,
+                "price": ""
+            },
+            "北戴河集发梦想王国": {
+                "commentCount": 916,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3312000eprbxqp1F3B.jpg",
+                "distanceStr": "距市中心20.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/65426.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "浪淘沙号游船": {
+                "commentCount": 207,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2w12000dn1n40nD4F9.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/144970045.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "山海关古城景区": {
+                "commentCount": 231,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050u000000j9yvk90AE.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1833320.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南戴河国际娱乐中心": {
+                "commentCount": 614,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2l12000b3co9og605E.jpg",
+                "distanceStr": "距市中心30.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/13482.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇求仙入海处": {
+                "commentCount": 1412,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000h0icp75B5A0.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5009.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿那亚礼堂": {
+                "commentCount": 107,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2e120008m9ubif997E.jpg",
+                "distanceStr": "距市中心39.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/4379387.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "联峰山": {
+                "commentCount": 727,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0x000000kru5i1271.jpg",
+                "distanceStr": "距市中心17.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5043.html?scene=online",
+                "isFree": false,
+                "price": 23.0
+            },
+            "圣蓝海洋公园": {
+                "commentCount": 1112,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1a12000azggu5fB6C1.jpg",
+                "distanceStr": "距市中心37.8km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/1696904.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "求仙6号游船": {
+                "commentCount": 243,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3j12000dfyj4mc4796.png",
+                "distanceStr": "距市中心17.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/144970046.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "碧螺塔": {
+                "commentCount": 243,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000h4fswklFC11.jpg",
+                "distanceStr": "距市中心13.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1829735.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "山海关王家大院": {
+                "commentCount": 177,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g12000f6tuzw6FC78.jpg",
+                "distanceStr": "距市中心15.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/123761.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄金海岸风景区": {
+                "commentCount": 309,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c120008ov1gyy91C0.jpg",
+                "distanceStr": "距市中心33.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/12531.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "冰塘峪": {
+                "commentCount": 658,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101x12000amqed38F002.jpg",
+                "distanceStr": "距市中心27.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1730089.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "贝壳王国": {
+                "commentCount": 207,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000819bvfnF62B.jpg",
+                "distanceStr": "距市中心22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5552355.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿那亚北戴河黄金海岸": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000f6q2tja232B.jpg",
+                "distanceStr": "距市中心39.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/79649173.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天女小镇": {
+                "commentCount": 223,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0x12000dpalefe0B0A.png",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/145098388.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "远洋蔚蓝海岸": {
+                "commentCount": 78,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350615000000xzu6d8271.png",
+                "distanceStr": "距市中心24.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5550350.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "秦皇岛赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000f6qvimuEFA9.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=148483147",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛冲沙越野": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000g2fanpv23E9.png",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=149275352",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛帆船运动": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i120009kjrik9197E.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=149275363",
+                "isFree": false,
+                "price": ""
+            },
+            "公主号游船": {
+                "commentCount": 148,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ4512000f7l7pxz1371.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1410332.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "孟姜女庙": {
+                "commentCount": 260,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6t26xlC9FC.jpg",
+                "distanceStr": "距市中心22.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5037.html?scene=online",
+                "isFree": false,
+                "price": 24.0
+            },
+            "老虎石海上公园": {
+                "commentCount": 1280,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n12000eyg4rxw1BEE.jpg",
+                "distanceStr": "距市中心16.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/78427.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "全景秦皇岛海上游船": {
+                "commentCount": 31,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1h000001hupgvC716.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/4745348.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "圣托里尼·蓝顶海景温泉": {
+                "commentCount": 22,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a120009xhemth062D.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/135120921.html?scene=online",
+                "isFree": false,
+                "price": 39.9
+            },
+            "秦皇岛滑草": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1u12000b3clx61DC97.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=149275359",
+                "isFree": false,
+                "price": ""
+            },
+            "山海间温泉艺术中心": {
+                "commentCount": 17,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000979ti292B8D.jpg",
+                "distanceStr": "距市中心72.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qinglong2540/5715393.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "燕塞湖鸟语林": {
+                "commentCount": 457,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000f6qan0lF232.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5039.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怪楼奇园": {
+                "commentCount": 701,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120009qwyhztAB03.png",
+                "distanceStr": "距市中心14.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/123767.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "紫云山滑雪场": {
+                "commentCount": 53,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u1200098dj8d4BED5.png",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/123713.html?scene=online",
+                "isFree": false,
+                "price": 105.0
+            },
+            "老龙头码头游船": {
+                "commentCount": 23,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4p12000bn9g8c56B33.jpg",
+                "distanceStr": "距市中心17.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5713451.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "跨海索道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031800000158m3v14BC.jpg",
+                "distanceStr": "距市中心21.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/98277382.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "渔岛菲奢尔海景温泉": {
+                "commentCount": 376,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2r12000ebt6n1t8101.jpg",
+                "distanceStr": "距市中心46.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/2474982.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "金梦海湾浴场": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000au5bnr0A6BD.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/133548466.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇小巷美食文化旅游街区": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v12000f6s20v7E2B4.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/130369260.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "孤独图书馆": {
+                "commentCount": 107,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u1200064h6hx6F8F8.jpg",
+                "distanceStr": "距市中心39.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/5002342.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "碣石山景区": {
+                "commentCount": 86,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gpspv8EE7.jpg",
+                "distanceStr": "距市中心44.2km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/13484.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北戴河夏日避暑胜地": {
+                "commentCount": 18,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l12000f6rlz1e5CCD.jpg",
+                "distanceStr": "距市中心17.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5131980.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛观鸟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010191200064hky8k6F23.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=148485575",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛浅水湾浴场": {
+                "commentCount": 43,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gpta78789.jpg",
+                "distanceStr": "距市中心11.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/2494041.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿尔卡迪亚海滩": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01025120008ho3kxo898C.jpg",
+                "distanceStr": "距市中心42.0km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/145534284.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昌黎国际滑沙中心": {
+                "commentCount": 244,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t1200085rvq3v3D76.jpg",
+                "distanceStr": "距市中心41.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/140358.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "猫的天空之城概念书店(北戴河蔚蓝海岸店)": {
+                "commentCount": 35,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000f6q7j9235F1.jpg",
+                "distanceStr": "距市中心24.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/4225975.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "刘庄夜市": {
+                "commentCount": 7,
+                "commentScore": 3.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106312000f6s5bg4C151.jpg",
+                "distanceStr": "距市中心14.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/136451127.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "闯关东主题文化体验馆": {
+                "commentCount": 10,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i190000017w6qp8705.jpg",
+                "distanceStr": "距市中心15.7km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5590353.html?scene=online",
+                "isFree": false,
+                "price": 9.9
+            },
+            "北戴河浅水湾帆船基地": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i120009kjrik9197E.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5716263.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛游船观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1612000bn9g9zoC550.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=148928569",
+                "isFree": false,
+                "price": ""
+            },
+            "长寿山": {
+                "commentCount": 48,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6rbmgnE21F.jpg",
+                "distanceStr": "距市中心18.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5038.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北戴河秦行宫遗址": {
+                "commentCount": 32,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000ary7b082390.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5183.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乱刀峪": {
+                "commentCount": 24,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6purot2D9C.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/13492.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛滑沙": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2n12000a5hi3n29F18.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/0.html?poiId=148860180",
+                "isFree": false,
+                "price": ""
+            },
+            "UCCA沙丘美术馆": {
+                "commentCount": 9,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m12000f6ugok67AAD.jpg",
+                "distanceStr": "距市中心40.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/90498919.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老虎石海上公园-中海滩": {
+                "commentCount": 73,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v12000f6pth5hDFF3.png",
+                "distanceStr": "距市中心16.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/5042.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "秦皇岛市玻璃博物馆": {
+                "commentCount": 84,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000f6siopfABD6.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1675510.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北戴河湿地公园": {
+                "commentCount": 58,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010191200064hky8k6F23.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1829597.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "山海关钟鼓楼": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000f6qrjuwA792.jpg",
+                "distanceStr": "距市中心15.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/112649602.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "如是海度假村": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6e12000g6iu1nwFECE.jpg",
+                "distanceStr": "距市中心42.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changli1835/145807473.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老君顶景区": {
+                "commentCount": 34,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gqbbh49F0.jpg",
+                "distanceStr": "距市中心24.4km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1938685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "秦皇岛海港区": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000f6tl7ckC2AF.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/135937269.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金梦海湾帆船": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000dwx7xrwABE5.webp",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/145752169.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "俄罗斯风情街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01066120009pm27vaEA53.png",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/90498913.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北戴河东海水浴场": {
+                "commentCount": 28,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000f6ri5de118C.jpg",
+                "distanceStr": "距市中心19.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/2736094.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "澄海楼": {
+                "commentCount": 97,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01022120009kfjn3j3984.jpg",
+                "distanceStr": "距市中心17.5km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/134799.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "秦皇岛博物馆": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3712000clzr14f2E72.png",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/143188015.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "山海关长城博物馆": {
+                "commentCount": 58,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0916000000zbhkdB2C2.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1675539.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天马浴场": {
+                "commentCount": 70,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w12000f6q6l9uCA71.jpg",
+                "distanceStr": "距市中心21.6km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1714470.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东山浴场": {
+                "commentCount": 16,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104x120008h3r0gkCDF5.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/1730079.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哒哒岛旅游度假区": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4t12000etsp5534722.jpg",
+                "distanceStr": "距市中心23.8km",
+                "detailUrl": "https://you.ctrip.com/sight/qinhuangdao132/140618486.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,798 @@
+{
+    "福建": {
+        "武夷山": {
+            "武夷山国家公园": {
+                "commentCount": 9904,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k1200087dn6ma7C46.jpg",
+                "distanceStr": "距市中心14.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/126481.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "中华武夷茶博园": {
+                "commentCount": 169,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k1f000001gb8p5DBC4.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/126485.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九曲溪竹筏漂流": {
+                "commentCount": 671,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p1700000137xwg843A.jpg",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1407533.html?scene=online",
+                "isFree": false,
+                "price": 225.0
+            },
+            "下梅古民居": {
+                "commentCount": 446,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m12000fh1ulah7A8E.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/49016.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "武夷山九曲溪": {
+                "commentCount": 2055,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000013jv3dF28B.jpg",
+                "distanceStr": "距市中心16.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/2413.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青龙大瀑布": {
+                "commentCount": 225,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p120008ez5c6o1144.jpg",
+                "distanceStr": "距市中心27.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/25139.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天游峰": {
+                "commentCount": 781,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000013jv3dF28B.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4383.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷山品茶": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d12000eq5dpgr0489.jpg",
+                "distanceStr": "南平",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/0.html?poiId=148483142",
+                "isFree": false,
+                "price": ""
+            },
+            "大红袍景区": {
+                "commentCount": 403,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpezf8577.jpg",
+                "distanceStr": "距市中心12.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4375.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三姑度假区": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3z12000buo79zc9304.jpg",
+                "distanceStr": "距市中心13.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/69415777.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山漂流": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000013jv3dF28B.jpg",
+                "distanceStr": "南平",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/0.html?poiId=148480103",
+                "isFree": false,
+                "price": ""
+            },
+            "宋街": {
+                "commentCount": 91,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s120008s7kct02E6D.jpg",
+                "distanceStr": "距市中心14.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4147.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山华东第一漂": {
+                "commentCount": 122,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120009hefgir2B82.jpg",
+                "distanceStr": "距市中心27.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1410436.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "望仙谷": {
+                "commentCount": 11707,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v1200092m69afAFE6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/104144785.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "葛仙村度假区": {
+                "commentCount": 1830,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3p12000fijo8m12CB3.jpg",
+                "distanceStr": "距武夷山50.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yanshan2389/70702.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "武夷山岩骨花香慢游道": {
+                "commentCount": 20,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000f6qzk68E72B.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1834906.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "一线天景区": {
+                "commentCount": 204,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103612000f6pngebF17B.jpg",
+                "distanceStr": "距市中心17.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙川大峡谷": {
+                "commentCount": 117,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g0u000000jcbsq335E.jpg",
+                "distanceStr": "距市中心25.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/18086.html?scene=online",
+                "isFree": false,
+                "price": 59.98
+            },
+            "武夷宫": {
+                "commentCount": 136,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx7mj3831.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/2416.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大安源": {
+                "commentCount": 84,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsmwq290D.jpg",
+                "distanceStr": "距市中心21.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1409101.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "印象大红袍剧场": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2v12000c1pj2ui4936.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/140842310.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "虎啸岩": {
+                "commentCount": 289,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106112000f6razxf3A86.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4151.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷传奇梦幻海乐园": {
+                "commentCount": 378,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6c12000dmfaqyqBD2A.jpg",
+                "distanceStr": "距市中心11.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1939908.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "玉女峰景区": {
+                "commentCount": 100,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i1200087d8ste6D1F.jpg",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4377.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "水帘洞景区": {
+                "commentCount": 81,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v170000013jv3dF28B.jpg",
+                "distanceStr": "距市中心10.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4152.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "廿八都古镇": {
+                "commentCount": 1193,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0612000dt4czng779F.jpg",
+                "distanceStr": "距武夷山74.0km",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/16771.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "武夷山悬棺": {
+                "commentCount": 30,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000f6qzudqDD24.jpg",
+                "distanceStr": "距市中心15.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1834414.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山风景名胜区-白云禅寺": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j120008bwch2302BE.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/69542025.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷山国家森林公园": {
+                "commentCount": 19,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp3q8D3C4.jpg",
+                "distanceStr": "距市中心25.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/140526.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三清山风景区": {
+                "commentCount": 11674,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nsk5eBAA6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yushan1013/127445.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "武夷蛇博园": {
+                "commentCount": 114,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6qxe2zE18B.jpg",
+                "distanceStr": "距市中心12.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1410383.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "大王峰": {
+                "commentCount": 109,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0u000000j3w541D24.jpg",
+                "distanceStr": "距市中心14.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4146.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "止止庵": {
+                "commentCount": 28,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A1a1200087m50dz2518.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1834481.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山度假区": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f6ptyq6F00A.jpg",
+                "distanceStr": "距市中心273m",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/136006221.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙虎山风景区": {
+                "commentCount": 4979,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3504160000010eiys2862.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/137685.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "武夷精舍": {
+                "commentCount": 28,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v180000013wiiaA3DB.jpg",
+                "distanceStr": "距市中心15.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1479375.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朱子故居": {
+                "commentCount": 32,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080z000000nfu3305CE.jpg",
+                "distanceStr": "距市中心24.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/18084.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "万春园": {
+                "commentCount": 21,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000au18pwb897A.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/49015.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龟峰风景名胜区": {
+                "commentCount": 837,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j0z000000ne3p72579.jpg",
+                "distanceStr": "距武夷山86.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yiyang2406/127481.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "江郎山风景名胜区": {
+                "commentCount": 1929,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100210000000pi6bi02C1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/16223.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "云窝": {
+                "commentCount": 38,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107012000f6t2mk58AF6.jpg",
+                "distanceStr": "距市中心14.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/5566.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷山风景名胜区-隐屏峰": {
+                "commentCount": 23,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000f6q4e11ADE4.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4394.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "印象建州": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000f5yh6h03BF3.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/148776667.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桐木关自然保护区": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0u12000aqlbk8d9E9E.png",
+                "distanceStr": "距市中心32.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/135961027.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵山风景名胜区": {
+                "commentCount": 808,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z12000f6t3mr28971.jpg",
+                "distanceStr": "距武夷山90.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/70711.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "武夷山市步行街": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000f6ud6gy0FB6.jpg",
+                "distanceStr": "距市中心269m",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/5170536.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "崇溪漫步道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104812000apl0bs4FC01.jpg",
+                "distanceStr": "距市中心11.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/134718236.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山博物馆": {
+                "commentCount": 62,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt2osC17E.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4148.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "闽越王城博物馆": {
+                "commentCount": 11,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000f6qymnzB727.jpg",
+                "distanceStr": "距市中心24.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1714360.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷源漂流": {
+                "commentCount": 1,
+                "commentScore": 2.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5s12000ep47zsqC28C.jpg",
+                "distanceStr": "距市中心172m",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/148481379.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "印象·泰自然茶汤温泉": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106912000gk6gir055BF.png",
+                "distanceStr": "距市中心11.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/5716754.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九曲溪竹筏漂流-入口": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y12000f6uphwh6612.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/145926071.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "卧龙潭": {
+                "commentCount": 14,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000f6po1kk7AE8.jpg",
+                "distanceStr": "距市中心14.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1479693.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山自游小镇": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01072120009jydxbyCFE4.jpg",
+                "distanceStr": "距市中心13.9km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/131149177.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "茶洞": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6scifu40A6.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/5571.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄岗山大峡谷": {
+                "commentCount": 41,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001guexy3865.jpg",
+                "distanceStr": "距市中心21.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/48997.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "天心永乐禅寺": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o120008qj9mic40FE.jpg",
+                "distanceStr": "距市中心11.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1479841.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙霞关": {
+                "commentCount": 128,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000f6sgb4i097A.jpg",
+                "distanceStr": "距武夷山82.4km",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/140196.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "武夷香江茗苑": {
+                "commentCount": 7,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030k000000c8a8w8B91.jpg",
+                "distanceStr": "距市中心19.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/2501337.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "玉龙谷": {
+                "commentCount": 31,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx720EA78.jpg",
+                "distanceStr": "距市中心26.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/140532.html?scene=online",
+                "isFree": false,
+                "price": 30.9
+            },
+            "大觉山": {
+                "commentCount": 704,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b12000f6psygw1C8B.jpg",
+                "distanceStr": "距武夷山88.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zixi2433/141218.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "武夷山国家公园1号风景道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4s12000g71phht3A4D.jpg",
+                "distanceStr": "距市中心23.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/145699011.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "云和梯田景区": {
+                "commentCount": 4861,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01040120009dlwxvo5FE7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yunhe2251/135977.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "铜钹山景区": {
+                "commentCount": 51,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n12000000t6wkf26F3.jpg",
+                "distanceStr": "距武夷山60.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/127478.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "浮盖山": {
+                "commentCount": 188,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqwxk3EE9.jpg",
+                "distanceStr": "距武夷山69.7km",
+                "detailUrl": "https://you.ctrip.com/sight/jiangshan1000/139839.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "上饶集中营名胜区": {
+                "commentCount": 134,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104b12000f6rd9719863.jpg",
+                "distanceStr": "距武夷山73.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/127480.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "婺源篁岭": {
+                "commentCount": 12818,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000h5l4k8cFEAD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/141512.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "南源岭村": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01045120008dgis7gFE9B.jpg",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/5713923.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "月亮湾": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000e3i36fs874F.jpg",
+                "distanceStr": "距市中心23.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/147150521.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山风景名胜区-灵岩": {
+                "commentCount": 21,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4712000e6lyf27FCDF.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/50305.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹰潭方特东方神画": {
+                "commentCount": 1327,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3i12000bpo47zd66B0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/140787599.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "燕子窠生态茶园示范基地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1c12000apvmr2626E0.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/135963013.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山仿宋古街": {
+                "commentCount": 6,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1003180000013n74j0379.jpg",
+                "distanceStr": "距市中心14.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/5067557.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙井山": {
+                "commentCount": 29,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35090w000000knr2q95ED.jpg",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/140522.html?scene=online",
+                "isFree": false,
+                "price": 19.9
+            },
+            "上饶灯光秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2912000cix2qek8A9D.jpg",
+                "distanceStr": "江西",
+                "detailUrl": "https://you.ctrip.com/sight/shangrao547/0.html?poiId=148849130",
+                "isFree": false,
+                "price": ""
+            },
+            "朱熹纪念馆": {
+                "commentCount": 33,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx7mj3831.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/49013.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "云河漂流": {
+                "commentCount": 46,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0d12000bl93cij3C3B.jpg",
+                "distanceStr": "距市中心13.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1409851.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "婺女洲度假区": {
+                "commentCount": 1814,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4212000c99m2ka4DC9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wuyuan446/133831507.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "遇林亭窑址": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p120008s76e1b65CC.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/4149.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【武夷山】武夷水秀": {
+                "commentCount": 129,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h1bpdAFA9.jpg",
+                "distanceStr": "距市中心11.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1683416.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白水洋风景区": {
+                "commentCount": 1685,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q1200088teoui48C3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/pingnan2649/62028.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "金湖": {
+                "commentCount": 1862,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4k12000dgs6ykz6842.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/taining2678/51061.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武夷山太伟风景高尔夫俱乐部": {
+                "commentCount": 5,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100313000000tumzc9DD1.jpg",
+                "distanceStr": "距市中心11.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/1408278.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泰宁风景旅游区": {
+                "commentCount": 38,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt14j9846.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/taining2678/69542506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "武夷山泰平洋水上广场": {
+                "commentCount": 18,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6rdlaxA07B.jpg",
+                "distanceStr": "距市中心20.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/136997.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "龙泉山旅游区": {
+                "commentCount": 231,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gui7424D3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longquan2033/45654.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "天师府": {
+                "commentCount": 227,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0z000000mqqbyB80A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guixi1189/14381.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "飞云楼": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4t12000fpra82257E8.jpg",
+                "distanceStr": "距市中心14.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuyishan22/145698751.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

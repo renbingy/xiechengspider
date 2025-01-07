@@ -1,0 +1,717 @@
+{
+    "广东": {
+        "中山": {
+            "中山詹园": {
+                "commentCount": 2639,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105812000f6sdfw7FF19.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/23047.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "长隆野生动物世界": {
+                "commentCount": 67122,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsobq9CAE.jpg",
+                "distanceStr": "距中山54.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6802.html?scene=online",
+                "isFree": false,
+                "price": 300.0
+            },
+            "广州长隆度假区": {
+                "commentCount": 3227,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102212000f6tvovl4925.jpg",
+                "distanceStr": "距中山54.2km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/135794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中山影视城": {
+                "commentCount": 1037,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l120009ebfbx889DE.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/136203.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "孙中山故里旅游区": {
+                "commentCount": 20,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w120006d7hvw63CF5.jpg",
+                "distanceStr": "距市中心16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/69561671.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠海长隆海洋王国": {
+                "commentCount": 44504,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t120005or7v5sB9D4.jpg",
+                "distanceStr": "距中山48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/1408240.html?scene=online",
+                "isFree": false,
+                "price": 239.0
+            },
+            "孙中山故居纪念馆": {
+                "commentCount": 1016,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h1200082jxu8mEF4A.jpg",
+                "distanceStr": "距市中心16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/23034.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中山泉眼温泉": {
+                "commentCount": 1921,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q0y000000m7o7gF549.jpg",
+                "distanceStr": "距市中心19.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/110199.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "世界之窗": {
+                "commentCount": 28388,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5q12000h1v6ucd46C2.jpg",
+                "distanceStr": "距中山59.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/2778.html?scene=online",
+                "isFree": false,
+                "price": 115.0
+            },
+            "广州塔": {
+                "commentCount": 34809,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100312000f6ppn748823.jpg",
+                "distanceStr": "距中山65.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/107540.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "广州长隆国际大马戏": {
+                "commentCount": 18292,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2i12000cnuwrcd1785.jpg",
+                "distanceStr": "距中山54.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/137991.html?scene=online",
+                "isFree": false,
+                "price": 350.0
+            },
+            "长隆欢乐世界": {
+                "commentCount": 22077,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350d1f000001fwbqe2422.jpg",
+                "distanceStr": "距中山53.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/48593.html?scene=online",
+                "isFree": false,
+                "price": 250.0
+            },
+            "珠江夜游": {
+                "commentCount": 8280,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001guf0d1940.jpg",
+                "distanceStr": "距中山66.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/110464.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "中山温泉": {
+                "commentCount": 1490,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o120008aajoy753F1.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/23035.html?scene=online",
+                "isFree": false,
+                "price": 133.0
+            },
+            "珠海长隆度假区": {
+                "commentCount": 3889,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000a5ftul8A082.jpg",
+                "distanceStr": "距中山48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/1408228.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长隆飞船乐园": {
+                "commentCount": 2213,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6512000e954fl2CD0D.jpg",
+                "distanceStr": "距中山49.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/140773107.html?scene=online",
+                "isFree": false,
+                "price": 325.0
+            },
+            "锦绣中华民俗村": {
+                "commentCount": 17620,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5j12000h2ny4cpF0C0.jpg",
+                "distanceStr": "距中山61.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/2776.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "澳门环岛游": {
+                "commentCount": 3740,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0q12000c166dw915E4.jpg",
+                "distanceStr": "距中山39.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/11542.html?scene=online",
+                "isFree": false,
+                "price": 132.0
+            },
+            "港珠澳大桥游": {
+                "commentCount": 1242,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6t572n8E29.jpg",
+                "distanceStr": "距中山39.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/122396.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "深圳平安金融中心云际观光层": {
+                "commentCount": 18744,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010581200087ce9u8C01A.jpg",
+                "distanceStr": "距中山68.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/4336342.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "广东科学中心": {
+                "commentCount": 9367,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j1200089fz67o9278.jpg",
+                "distanceStr": "距中山58.1km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/64724.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "长隆水上乐园": {
+                "commentCount": 15081,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350b170000013bems4828.jpg",
+                "distanceStr": "距中山54.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/48597.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长隆飞鸟乐园": {
+                "commentCount": 3333,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35021f000001g4w32499B.jpg",
+                "distanceStr": "距中山57.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/51027.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "珠海横琴《长隆秀》": {
+                "commentCount": 432,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5e12000ccjhukw478A.jpg",
+                "distanceStr": "距中山48.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/142240232.html?scene=online",
+                "isFree": false,
+                "price": 300.0
+            },
+            "深圳欢乐谷": {
+                "commentCount": 29564,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4o12000cq6u9jrBBAC.jpg",
+                "distanceStr": "距中山60.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/13720.html?scene=online",
+                "isFree": false,
+                "price": 207.0
+            },
+            "陈家祠": {
+                "commentCount": 2255,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y1200085zzmnj106D.jpg",
+                "distanceStr": "距中山69.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6772.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中山泡温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q0y000000m7o7gF549.jpg",
+                "distanceStr": "广东",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/0.html?poiId=148848994",
+                "isFree": false,
+                "price": ""
+            },
+            "佛山祖庙": {
+                "commentCount": 2919,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090u000000j9vuu2F7E.jpg",
+                "distanceStr": "距中山63.8km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/23213.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "深圳野生动物园": {
+                "commentCount": 11503,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040z000000natl42559.jpg",
+                "distanceStr": "距中山60.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/6037.html?scene=online",
+                "isFree": false,
+                "price": 189.0
+            },
+            "第十五届中国航展": {
+                "commentCount": 887,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x120008pihqcxD506.jpg",
+                "distanceStr": "距中山55.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/1418512.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广东省博物馆": {
+                "commentCount": 1446,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v120009g7nx2cDE51.jpg",
+                "distanceStr": "距中山66.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6782.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东澳岛": {
+                "commentCount": 688,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0l12000000rj052F0D6.jpg",
+                "distanceStr": "距中山64.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/2838.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "海上看港珠澳大桥": {
+                "commentCount": 853,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp4yv64FB.jpg",
+                "distanceStr": "距中山37.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/4379372.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "欢乐港湾": {
+                "commentCount": 454,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000f6rq6ubC0F6.jpg",
+                "distanceStr": "距中山50.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/5711027.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湾区之光摩天轮": {
+                "commentCount": 922,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q1200097s9gusAB59.png",
+                "distanceStr": "距中山50.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/112647075.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "沙面": {
+                "commentCount": 5812,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqvqr379C.jpg",
+                "distanceStr": "距中山67.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/11346.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正佳广场商贸旅游区": {
+                "commentCount": 386,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000cz56796B111.jpg",
+                "distanceStr": "距中山68.7km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1412403.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "正佳极地海洋世界": {
+                "commentCount": 6236,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1b12000fei6gseDFCC.jpg",
+                "distanceStr": "距中山68.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1815375.html?scene=online",
+                "isFree": false,
+                "price": 125.0
+            },
+            "景山公园": {
+                "commentCount": 612,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0ww6012000cj1knt587BB.jpg",
+                "distanceStr": "距中山34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/122382.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广州动物园": {
+                "commentCount": 2627,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6qv7sjB048.jpg",
+                "distanceStr": "距中山70.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6784.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州塔460米摩天轮": {
+                "commentCount": 1551,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h35yv60BD.jpg",
+                "distanceStr": "距中山65.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1484195.html?scene=online",
+                "isFree": false,
+                "price": 296.0
+            },
+            "南越王博物院(王墓展区)": {
+                "commentCount": 874,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070z000000nv020AB0F.jpg",
+                "distanceStr": "距中山70.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6808.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "招商蛇口邮轮母港游览": {
+                "commentCount": 258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b120008a2582z9713.jpg",
+                "distanceStr": "距中山53.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/103857634.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州中山纪念堂": {
+                "commentCount": 1549,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120008638mpi1886.jpg",
+                "distanceStr": "距中山69.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6824.html?scene=online",
+                "isFree": false,
+                "price": 8.0
+            },
+            "西樵山风景名胜区": {
+                "commentCount": 3576,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2p12000crsdzox953F.jpg",
+                "distanceStr": "距中山62.1km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/23210.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "孙文西路": {
+                "commentCount": 118,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u120009cwlwyqC99B.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/131207.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "清晖园博物馆": {
+                "commentCount": 1112,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000f6rbjch15FA.jpg",
+                "distanceStr": "距中山38.1km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/49952.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北京路步行街": {
+                "commentCount": 978,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0u000000iwl7c4E54.jpg",
+                "distanceStr": "距中山68.4km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/135763.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大佛古寺": {
+                "commentCount": 484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t1200080zb8z3A40A.jpg",
+                "distanceStr": "距中山68.5km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/1481692.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长鹿旅游休博园": {
+                "commentCount": 10961,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350l16000000ytw6pD6EA.jpg",
+                "distanceStr": "距中山41.5km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/76192.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "海珠有轨电车1号线": {
+                "commentCount": 211,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0e12000b3jc2v985C5.jpg",
+                "distanceStr": "距中山65.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/136627117.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中山公园": {
+                "commentCount": 38,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3v12000b2joytx8890.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/1970111.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "佛山 · DNA音乐节": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000go2z9ls7D94.jpg",
+                "distanceStr": "距中山69.2km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/149579796.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "外伶仃岛": {
+                "commentCount": 1247,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350a170000010srdkEAA3.jpg",
+                "distanceStr": "距中山81.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/2836.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "珠海景山观光索道": {
+                "commentCount": 579,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000a042j6y1A70.jpg",
+                "distanceStr": "距中山34.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/140624.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广东千古情": {
+                "commentCount": 886,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2r12000d4eu0l17185.jpg",
+                "distanceStr": "距中山65.2km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/143363956.html?scene=online",
+                "isFree": false,
+                "price": 218.0
+            },
+            "沙湾古镇": {
+                "commentCount": 933,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6pxoa05E6C.jpg",
+                "distanceStr": "距中山43.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/121749.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "珠海御温泉": {
+                "commentCount": 2979,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w120008a7wgwo8490.jpg",
+                "distanceStr": "距中山36.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/5732.html?scene=online",
+                "isFree": false,
+                "price": 198.0
+            },
+            "越秀公园": {
+                "commentCount": 1896,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5z12000h676jui8016.jpg",
+                "distanceStr": "距中山70.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6821.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠海横琴国家地理探险家中心": {
+                "commentCount": 4185,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7212000d2jjc739651.jpg",
+                "distanceStr": "距中山45.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/5603407.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "大湾区一号(港珠澳大桥航线)": {
+                "commentCount": 253,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n120005oshyht5AEB.jpg",
+                "distanceStr": "距中山53.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/111985046.html?scene=online",
+                "isFree": false,
+                "price": 218.0
+            },
+            "南风古灶": {
+                "commentCount": 1437,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0r000000hffp55E15.jpg",
+                "distanceStr": "距中山63.1km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/49949.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "白云山": {
+                "commentCount": 4591,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p12000h188a0l3069.jpg",
+                "distanceStr": "距中山74.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6766.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "顺德欢乐海岸PLUS": {
+                "commentCount": 1930,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000f6tilv964E1.jpg",
+                "distanceStr": "距中山34.8km",
+                "detailUrl": "https://you.ctrip.com/sight/foshan207/5638370.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "广州 · 2024百威风暴电音节-广州站": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000guylw884BFC.jpg",
+                "distanceStr": "距中山33.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/149585663.html?scene=online",
+                "isFree": false,
+                "price": 580.0
+            },
+            "永庆坊": {
+                "commentCount": 323,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grkmkCC1A.jpg",
+                "distanceStr": "距中山68.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/2046407.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西关永庆坊旅游区": {
+                "commentCount": 47,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q120009xen4m9C4BD.jpg",
+                "distanceStr": "距中山68.3km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/5136250.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长江水世界": {
+                "commentCount": 818,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0303k1200080zvdk08BE2.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/135768.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上下九步行街": {
+                "commentCount": 1797,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030h0000008rcke8F01.jpg",
+                "distanceStr": "距中山68.0km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/64963.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠江夜游天字码头": {
+                "commentCount": 3542,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqezl6DF9.jpg",
+                "distanceStr": "距中山67.6km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/121689.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "中国科学院华南国家植物园": {
+                "commentCount": 3061,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040z000000nkh4v83FF.jpg",
+                "distanceStr": "距中山73.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/6794.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "圆明新园": {
+                "commentCount": 1314,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080r000000hd8nj7D35.jpg",
+                "distanceStr": "距中山34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/5728.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中山市博物馆": {
+                "commentCount": 56,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0n000000e5koqADE4.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/1835507.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "珠海太空中心": {
+                "commentCount": 432,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101912000f6rr1aj020B.jpg",
+                "distanceStr": "距中山55.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/136042219.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "深圳湾公园": {
+                "commentCount": 447,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r120009zdenhd2C63.jpg",
+                "distanceStr": "距中山58.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/1508177.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "地王观光·深港之窗": {
+                "commentCount": 1562,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gsu9xBA0E.jpg",
+                "distanceStr": "距中山73.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shenzhen26/11546.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "崖口村": {
+                "commentCount": 31,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120008s78j3iB0E5.jpg",
+                "distanceStr": "距市中心17.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhongshan233/1730867.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长隆横琴湾水世界": {
+                "commentCount": 581,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq8ik50E2.jpg",
+                "distanceStr": "距中山49.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuhai27/2508917.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "岭南印象园": {
+                "commentCount": 5099,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q120008ycqhcl85D5.jpg",
+                "distanceStr": "距中山57.8km",
+                "detailUrl": "https://you.ctrip.com/sight/guangzhou152/110338.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            }
+        }
+    }
+}

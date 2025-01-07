@@ -1,0 +1,771 @@
+{
+    "福建": {
+        "鼓浪屿": {
+            "鼓浪屿": {
+                "commentCount": 39273,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w1f000001gwb0k4589.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/57405.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日光岩": {
+                "commentCount": 6904,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000825yd946670.jpg",
+                "distanceStr": "距市中心292m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2345.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "菽庄花园": {
+                "commentCount": 2112,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0u13000000u2b7x74C3.jpg",
+                "distanceStr": "距市中心690m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2346.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "皓月园": {
+                "commentCount": 886,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t13000000tv1v8B91E.jpg",
+                "distanceStr": "距市中心974m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8614.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "钟鼓索道": {
+                "commentCount": 5441,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000f6tupfy47AF.jpg",
+                "distanceStr": "距鼓浪屿2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145125.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "八卦楼": {
+                "commentCount": 448,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000f6q5oe8E531.jpg",
+                "distanceStr": "距市中心336m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133087.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门园林植物园": {
+                "commentCount": 12347,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6prceqB206.jpg",
+                "distanceStr": "距鼓浪屿4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8625.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "胡里山炮台": {
+                "commentCount": 12234,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000c35o4p52F69.png",
+                "distanceStr": "距鼓浪屿4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2342.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "厦门大学": {
+                "commentCount": 9998,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m120006pd9bte2D5C.jpg",
+                "distanceStr": "距鼓浪屿3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/14050.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门海上游": {
+                "commentCount": 100,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4x12000dg6msprD30D.jpg",
+                "distanceStr": "距鼓浪屿1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133820986.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鹭江夜游": {
+                "commentCount": 2586,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5r12000bkuf5oq4208.jpg",
+                "distanceStr": "距鼓浪屿1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/139403.html?scene=online",
+                "isFree": false,
+                "price": 119.0
+            },
+            "厦门科技馆": {
+                "commentCount": 9213,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0a12000e4fqpcx4566.jpg",
+                "distanceStr": "距鼓浪屿6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/50128.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南普陀寺": {
+                "commentCount": 3616,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gpadeEECB.jpg",
+                "distanceStr": "距鼓浪屿3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "环岛路": {
+                "commentCount": 4574,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0m12000000srfpzAF92.jpg",
+                "distanceStr": "距鼓浪屿4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8669.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门海底世界": {
+                "commentCount": 3291,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1j12000deaaclmCAA1.jpg",
+                "distanceStr": "距市中心467m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8619.html?scene=online",
+                "isFree": false,
+                "price": 107.0
+            },
+            "厦门双子塔": {
+                "commentCount": 563,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1i12000detsyywB90E.jpg",
+                "distanceStr": "距鼓浪屿2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2504037.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沙坡尾避风坞": {
+                "commentCount": 169,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1a0000019yl2jEB62.jpg",
+                "distanceStr": "距鼓浪屿2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1464492.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "曾厝垵": {
+                "commentCount": 4024,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103p12000h4ckwpx36BB.jpg",
+                "distanceStr": "距鼓浪屿6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/109999.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海上看金门": {
+                "commentCount": 1511,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000f6t52mp18F5.jpg",
+                "distanceStr": "距鼓浪屿1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/118936.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "中山路步行街": {
+                "commentCount": 1832,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r120006unrnrfAE3B.jpg",
+                "distanceStr": "距鼓浪屿1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/137032.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云上厦门观光厅": {
+                "commentCount": 1746,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1n12000deb58n731E5.jpg",
+                "distanceStr": "距鼓浪屿2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1977871.html?scene=online",
+                "isFree": false,
+                "price": 115.0
+            },
+            "潮汐之眼摩天轮": {
+                "commentCount": 315,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000a9tm8z83A86.jpg",
+                "distanceStr": "距鼓浪屿5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/135450276.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "中鱼视界·城市欢乐场": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6f12000buvdz8u786C.jpg",
+                "distanceStr": "距鼓浪屿5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/136601314.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "集美学村": {
+                "commentCount": 527,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061c000001did2k347B.jpg",
+                "distanceStr": "距鼓浪屿13.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2343.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "白城沙滩": {
+                "commentCount": 539,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101412000h45qsnh9E63.jpg",
+                "distanceStr": "距鼓浪屿3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145124.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "五缘湾帆船港": {
+                "commentCount": 1233,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0412000deanrj2D62A.png",
+                "distanceStr": "距鼓浪屿15.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1476796.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "五缘湾游海帆船出海": {
+                "commentCount": 526,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102112000h4xwy298F64.jpg",
+                "distanceStr": "距鼓浪屿15.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1930742.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "厦门方特旅游度假区": {
+                "commentCount": 252,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200081p2dng64EE.png",
+                "distanceStr": "距鼓浪屿28.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2483147.html?scene=online",
+                "isFree": false,
+                "price": 299.0
+            },
+            "厦门方特梦幻王国": {
+                "commentCount": 8315,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0212000cdml86u1EE1.jpg",
+                "distanceStr": "距鼓浪屿28.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/140141.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "灵玲马戏城": {
+                "commentCount": 5597,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6c12000deucqqd6990.jpg",
+                "distanceStr": "距鼓浪屿16.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1409728.html?scene=online",
+                "isFree": false,
+                "price": 260.0
+            },
+            "厦门老院子景区": {
+                "commentCount": 1572,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3612000fqt5q3kC0C8.jpg",
+                "distanceStr": "距鼓浪屿19.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1704246.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "万国建筑博览": {
+                "commentCount": 199,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000h4anzo4A7B7.jpg",
+                "distanceStr": "距市中心293m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8620.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海天堂构": {
+                "commentCount": 657,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f120009kjrbx6010B.jpg",
+                "distanceStr": "距市中心607m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/67695.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "最美转角": {
+                "commentCount": 26,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104x12000ezb1pfl1B10.jpg",
+                "distanceStr": "距市中心535m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5073059.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "日月谷温泉": {
+                "commentCount": 1887,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3012000bdpydx82829.jpg",
+                "distanceStr": "距鼓浪屿18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48767.html?scene=online",
+                "isFree": false,
+                "price": 157.2
+            },
+            "黄厝海滩": {
+                "commentCount": 214,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041c000001dqrtf900A.jpg",
+                "distanceStr": "距鼓浪屿9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/3656824.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹭岛观光旅游巴士": {
+                "commentCount": 61,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i12000f6uhkyd10C0.jpg",
+                "distanceStr": "距鼓浪屿4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/112646924.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门市博物馆": {
+                "commentCount": 221,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000f6qv6n0B191.jpg",
+                "distanceStr": "距鼓浪屿6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8622.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "钢琴博物馆": {
+                "commentCount": 570,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grsgn0623.jpg",
+                "distanceStr": "距市中心767m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48712.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "厦门山海健康步道": {
+                "commentCount": 45,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l120008jynu7bD92C.jpg",
+                "distanceStr": "距鼓浪屿4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5705910.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门灵玲动物王国": {
+                "commentCount": 453,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y120008hcpvcbE1F9.jpg",
+                "distanceStr": "距鼓浪屿16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/3439547.html?scene=online",
+                "isFree": false,
+                "price": 130.0
+            },
+            "国际刻字艺术馆": {
+                "commentCount": 149,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f6pukt43C0D.jpg",
+                "distanceStr": "距市中心410m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48709.html?scene=online",
+                "isFree": false,
+                "price": 5.0
+            },
+            "鼓浪屿名人蜡像馆": {
+                "commentCount": 602,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u1200088t8yhv1815.jpg",
+                "distanceStr": "距市中心822m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48713.html?scene=online",
+                "isFree": false,
+                "price": 71.0
+            },
+            "诚毅科技探索中心": {
+                "commentCount": 1447,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpbisCD85.jpg",
+                "distanceStr": "距鼓浪屿16.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1732731.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "番婆楼": {
+                "commentCount": 53,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r12000f6tuln5EBB0.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/134024.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "贝壳梦幻世界": {
+                "commentCount": 1025,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0r000000hdzve5344.jpg",
+                "distanceStr": "距市中心502m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1416078.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "火山岛旅游休闲度假区": {
+                "commentCount": 1382,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350l1900000181tjhD7FB.jpg",
+                "distanceStr": "距鼓浪屿26.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangpu2670/140512.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "一国两制沙滩": {
+                "commentCount": 21,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000f6t9k1a2929.jpg",
+                "distanceStr": "距鼓浪屿10.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2026465.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "十里长堤": {
+                "commentCount": 25,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000f6qk24pDB4C.jpg",
+                "distanceStr": "距鼓浪屿13.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48742.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "椰风寨": {
+                "commentCount": 170,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gswui7F1E.jpg",
+                "distanceStr": "距鼓浪屿10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/132444.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "故宫鼓浪屿外国文物馆": {
+                "commentCount": 64,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a10000000pjzj74CF9.jpg",
+                "distanceStr": "距市中心745m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2490465.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "十二洞天": {
+                "commentCount": 48,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1a0000018v50a2F14.jpg",
+                "distanceStr": "距市中心598m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1464501.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海上自行车道": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f6uik1f2A6E.jpg",
+                "distanceStr": "距鼓浪屿15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/133953906.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "港仔后海滨浴场": {
+                "commentCount": 42,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh0812000c0m15vz913C.jpg",
+                "distanceStr": "距市中心657m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1469869.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "郑成功纪念馆": {
+                "commentCount": 244,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6qv4alE2DD.jpg",
+                "distanceStr": "距市中心220m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/48714.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "漳州古城": {
+                "commentCount": 182,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000f6sog4dA495.jpg",
+                "distanceStr": "距鼓浪屿42.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangzhou334/2474670.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鼓浪屿管风琴艺术中心": {
+                "commentCount": 27,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k170000012xqut2679.jpg",
+                "distanceStr": "距市中心461m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5550397.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大德记浴场": {
+                "commentCount": 15,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1004190000016px8483EB.jpg",
+                "distanceStr": "距市中心955m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1476808.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "毓园": {
+                "commentCount": 109,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m12000f6qalnzB66D.jpg",
+                "distanceStr": "距市中心755m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8617.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福建天柱山欢乐大世界": {
+                "commentCount": 846,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100814000000vx2tpB915.jpg",
+                "distanceStr": "距鼓浪屿28.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangzhou334/4603465.html?scene=online",
+                "isFree": false,
+                "price": 170.0
+            },
+            "百年鼓浪屿博物馆": {
+                "commentCount": 122,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1a0000018uzc36273.jpg",
+                "distanceStr": "距市中心471m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1409304.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "半月山温泉": {
+                "commentCount": 309,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091a0000018qlaqAF80.jpg",
+                "distanceStr": "距鼓浪屿40.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangzhou334/1410073.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "鼓浪屿月光岩": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4h1200081biqiaA9F4.jpg",
+                "distanceStr": "距市中心362m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/2708535.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "同安影视城": {
+                "commentCount": 459,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350i16000000ysd484059.jpg",
+                "distanceStr": "距鼓浪屿34.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8666.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国唱片博物馆": {
+                "commentCount": 59,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6qw4diBBA0.jpg",
+                "distanceStr": "距市中心642m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/118921.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "美华沙滩": {
+                "commentCount": 50,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1900000178g5qDA34.jpg",
+                "distanceStr": "距市中心548m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1832506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "帷幕开啦红地毯蜡像艺术馆": {
+                "commentCount": 193,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051h000001hofku9450.jpg",
+                "distanceStr": "距市中心594m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/142068.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "原英国领事馆": {
+                "commentCount": 24,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050c00000066hqkBAE0.jpg",
+                "distanceStr": "距市中心827m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1461310.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "美季温泉": {
+                "commentCount": 34,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061g000001gzyrlD5AB.png",
+                "distanceStr": "距鼓浪屿14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5554362.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "泉州古城": {
+                "commentCount": 108,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120006426ut7DF55.jpg",
+                "distanceStr": "距鼓浪屿73.5km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/1830708.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "琴园": {
+                "commentCount": 147,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105i12000f6t2hkn724B.jpg",
+                "distanceStr": "距市中心503m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/8618.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "清源山": {
+                "commentCount": 2371,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6q4y9c3FC8.jpg",
+                "distanceStr": "距鼓浪屿78.2km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8891.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "泉州开元寺": {
+                "commentCount": 1715,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s120006410cr5ED65.jpg",
+                "distanceStr": "距鼓浪屿74.0km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8874.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "四十四桥": {
+                "commentCount": 40,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gor6aCFF9.jpg",
+                "distanceStr": "距市中心693m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1461143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "2025建发厦门马拉松": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101612000geml12yC4C5.jpg",
+                "distanceStr": "距鼓浪屿12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/145103052.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鼓浪屿·百年美园故事馆": {
+                "commentCount": 9,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104312000c48xzjy575F.png",
+                "distanceStr": "距市中心653m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/141034230.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "鼓浪屿龙头路": {
+                "commentCount": 15,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000f6s1k201C14.jpg",
+                "distanceStr": "距市中心398m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5709743.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西街": {
+                "commentCount": 440,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000fh26iifF10F.jpg",
+                "distanceStr": "距鼓浪屿73.9km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/134555.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "厦门市鼓浪屿风景名胜区-日光岩寺": {
+                "commentCount": 135,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041a0000018tt0s6960.jpg",
+                "distanceStr": "距市中心290m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/118932.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "晓学堂": {
+                "commentCount": 17,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t1e000001fst9a2BE7.jpg",
+                "distanceStr": "距市中心648m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/5072704.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "日本领事馆旧址": {
+                "commentCount": 10,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l120009vavud57906.jpg",
+                "distanceStr": "距市中心594m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1464161.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泉州少林寺": {
+                "commentCount": 304,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000fhfsp0222CD.jpg",
+                "distanceStr": "距鼓浪屿75.4km",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/126434.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鼓浪屿协和礼拜堂": {
+                "commentCount": 17,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5x120008rwhwr9E37D.jpg",
+                "distanceStr": "距市中心558m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1477397.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "钢琴码头": {
+                "commentCount": 63,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000f6tvp150935.jpg",
+                "distanceStr": "距市中心679m",
+                "detailUrl": "https://you.ctrip.com/sight/xiamen21/1470156.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "洛伽寺": {
+                "commentCount": 30,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4j12000c0blo6x09DA.jpg",
+                "distanceStr": "距鼓浪屿70.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shishi245/131149176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

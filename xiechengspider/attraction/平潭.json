@@ -1,0 +1,789 @@
+{
+    "福建": {
+        "平潭": {
+            "平潭岛": {
+                "commentCount": 1125,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000h867oop13E4.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145142.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "猴研岛": {
+                "commentCount": 1220,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01068120008wchlbvCBA1.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1479992.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "仙人井": {
+                "commentCount": 1261,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000f6tvzx5E3D6.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480091.html?scene=online",
+                "isFree": false,
+                "price": 21.0
+            },
+            "68海里景区": {
+                "commentCount": 843,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120008wch8tt433C.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/129752767.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "平潭看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000f558dpmA99B.jpg",
+                "distanceStr": "福州",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/0.html?poiId=148849143",
+                "isFree": false,
+                "price": ""
+            },
+            "海坛古城": {
+                "commentCount": 527,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1d000001e8qss0183.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1685324.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "将军山": {
+                "commentCount": 107,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1w12000cjt1xcyC08C.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480077.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "坛南湾": {
+                "commentCount": 145,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104n12000f6rf2mh3CC6.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480001.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓝眼泪景区": {
+                "commentCount": 17,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1812000butr9852E87.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/140773154.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "龙凤头海滨浴场": {
+                "commentCount": 251,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j12000f6t65139821.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1479846.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北港村": {
+                "commentCount": 138,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000h18sk8qAC80.jpg",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/4946359.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙王头沙滩": {
+                "commentCount": 11,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4p12000bfto2vk2B57.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/131149043.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭海上观光游": {
+                "commentCount": 33,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j120009hzt2tkA1B6.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/5710371.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北部生态长廊": {
+                "commentCount": 12,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6p120008pnza7d60DA.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/112647445.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "长江澳海滩": {
+                "commentCount": 50,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m120008o07x14A889.jpg",
+                "distanceStr": "距市中心12.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/4946361.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭将军山·岚起山海图": {
+                "commentCount": 62,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1w12000cjt1xcyC08C.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/141024194.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月海湾蓝眼泪沙滩": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh2812000bceqs66A83B.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/135610547.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东海仙境": {
+                "commentCount": 61,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a1200099kc16763D1.jpg",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480022.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海坛镇总兵署": {
+                "commentCount": 31,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gssu6E014.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/4745353.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "平潭岛蓝眼泪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102612000dwar12r2B06.jpg",
+                "distanceStr": "福州",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/0.html?poiId=145742617",
+                "isFree": false,
+                "price": ""
+            },
+            "象鼻湾": {
+                "commentCount": 34,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01057120008bgbj342297.jpg",
+                "distanceStr": "距市中心12.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/5105341.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "猫头墘": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01073120009fmiueu94ED.jpg",
+                "distanceStr": "距市中心16.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/112647501.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三坊七巷": {
+                "commentCount": 5089,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000aoh72b2D3E9.jpg",
+                "distanceStr": "距平潭81.6km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/64505.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北部玻璃栈道": {
+                "commentCount": 9,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000atu6cqlB9C8.jpg",
+                "distanceStr": "距市中心17.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/134070323.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湄洲岛": {
+                "commentCount": 1041,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6seppk8FF8.jpg",
+                "distanceStr": "距平潭82.3km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/110186.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "闽江夜游": {
+                "commentCount": 2342,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3112000g3vcf7d94A6.jpg",
+                "distanceStr": "距平潭77.7km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/136821.html?scene=online",
+                "isFree": false,
+                "price": 96.0
+            },
+            "平潭海钓": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0t12000cf9t2t8B0D1.jpg",
+                "distanceStr": "福州",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/0.html?poiId=148485416",
+                "isFree": false,
+                "price": ""
+            },
+            "北港村石头厝": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000f6rqzbc51A2.jpg",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/128621393.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "澳前台湾小镇": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6s12000ar9jc938A0D.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/124252329.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭大福湾": {
+                "commentCount": 51,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w0z000000nm6tmF831.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480685.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭东美嘉佑游艇海钓基地(仙人井店)": {
+                "commentCount": 10,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z120008w6pc9i9A29.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/130255384.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "坛南湾田美澳沙滩": {
+                "commentCount": 6,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5612000bboftqa5F56.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/112647412.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平潭岛海岛赶海基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e12000eti4w4m8B85.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/148457854.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平潭国际旅游岛-长江澳风力田景观区": {
+                "commentCount": 6,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6812000bbwy22v66FF.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/2388407.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭海岛国家森林公园": {
+                "commentCount": 58,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gspapAF58.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1480486.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东庠岛": {
+                "commentCount": 6,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e1200092lid0vD2D5.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/4942358.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福建博物院": {
+                "commentCount": 345,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqyyx51E4.jpg",
+                "distanceStr": "距平潭83.2km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/49084.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鼓山": {
+                "commentCount": 883,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s12000000skeq72C20.jpg",
+                "distanceStr": "距平潭74.9km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8721.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上下杭": {
+                "commentCount": 214,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000n9b5eDD31.jpg",
+                "distanceStr": "距平潭78.3km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1986506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭岛海滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000f6ras6f3935.jpg",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145124723.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平潭北部生态廊道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2m424x8up31tckC32F.jpg",
+                "distanceStr": "距市中心17.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145616264.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "闽越水镇": {
+                "commentCount": 837,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5v12000h5bkd5dE5D5.jpg",
+                "distanceStr": "距平潭97.3km",
+                "detailUrl": "https://you.ctrip.com/sight/minhou2666/5623362.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "坛南湾七号沙滩": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000f6rqsud1E14.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/112647348.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平潭环岛汽车租赁": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ6p12000g76f45tFCD3.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145181696.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平潭岛麒麟冲浪俱乐部": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000eif5djnE185.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/5716168.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "崇武古城": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000drech74442A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/145735978.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "崇武古城风景区": {
+                "commentCount": 1293,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000h17holjDC14.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/8897.html?scene=online",
+                "isFree": false,
+                "price": 33.8
+            },
+            "大练岛": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000f6uipch6F35.jpg",
+                "distanceStr": "距市中心18.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/134049873.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "平潭国际旅游岛石牌洋景区": {
+                "commentCount": 102,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h12000f6tsjnw5F16.jpg",
+                "distanceStr": "距市中心13.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/8751.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "清源山": {
+                "commentCount": 2371,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6q4y9c3FC8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8891.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "永泰中国云顶": {
+                "commentCount": 2046,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k120008ycbgqxC783.jpg",
+                "distanceStr": "距平潭83.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/118796.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "福道": {
+                "commentCount": 68,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000nrnjnB414.jpg",
+                "distanceStr": "距平潭84.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/5059376.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "沙地底": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v12000awrx65l3991.png",
+                "distanceStr": "距市中心12.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/134775038.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "烟台山公园": {
+                "commentCount": 69,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A5j120008ts0lq73A2F.jpg",
+                "distanceStr": "距平潭77.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1480702.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青云山": {
+                "commentCount": 189,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6pt5h3EE80.jpg",
+                "distanceStr": "距平潭87.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/49078.html?scene=online",
+                "isFree": false,
+                "price": 32.0
+            },
+            "平潭岛快艇海钓基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000eqj8fxm8BDD.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/146124895.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "球幕影院": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f10000000pnwu540E4.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/5103369.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "明谷行馆·温泉体验": {
+                "commentCount": 292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090z000000nvj7096AF.jpg",
+                "distanceStr": "距平潭82.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1837518.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "福州永泰欧乐堡海洋世界": {
+                "commentCount": 507,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t120008b9g17dC575.jpg",
+                "distanceStr": "距平潭81.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/4974348.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "泉州开元寺": {
+                "commentCount": 1715,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s120006410cr5ED65.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/8874.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州古城": {
+                "commentCount": 108,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120006426ut7DF55.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/1830708.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九鲤湖风景区": {
+                "commentCount": 1009,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v12000f6q4w1g6962.jpg",
+                "distanceStr": "距平潭97.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xianyou2654/44791.html?scene=online",
+                "isFree": false,
+                "price": 49.98
+            },
+            "蓝眼泪观景点": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6pqbtp526F.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/145340045.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "坛南湾崎沙海滨浴场": {
+                "commentCount": 23,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m12000f6qzi606BF8.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/1833909.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州欧乐堡度假区": {
+                "commentCount": 19,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0312000eci9yyz875A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/145778501.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泉州欧乐堡海洋王国乐园": {
+                "commentCount": 651,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o120009iinejl2A26.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huian2680/5717590.html?scene=online",
+                "isFree": false,
+                "price": 139.0
+            },
+            "蓝海湾": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ0112000g6oh9wvFE60.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/112653772.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "世茂海峡岛旅游度假区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5s12000dow43rg5F54.jpg",
+                "distanceStr": "距市中心20.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/135452371.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湄洲妈祖祖庙": {
+                "commentCount": 142,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001grzp56431.jpg",
+                "distanceStr": "距平潭79.1km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44788.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国船政文化景区": {
+                "commentCount": 42,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0v000000jw9dy5E7F.jpg",
+                "distanceStr": "距平潭63.7km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1412396.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "《最忆船政》": {
+                "commentCount": 29,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6712000g3pnlqhAF4F.jpg",
+                "distanceStr": "距平潭63.7km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/143361558.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南日岛": {
+                "commentCount": 75,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0j000000ac2m542EC.jpg",
+                "distanceStr": "距平潭44.1km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/1512781.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国船政文化博物馆": {
+                "commentCount": 81,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100r120008s7gt443499.jpg",
+                "distanceStr": "距平潭64.5km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/1479968.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "林则徐纪念馆": {
+                "commentCount": 283,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000f6tsp36E29F.jpg",
+                "distanceStr": "距平潭81.2km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8719.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "泉州少林寺": {
+                "commentCount": 304,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000fhfsp0222CD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/126434.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西街": {
+                "commentCount": 440,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000fh26iifF10F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/quanzhou243/134555.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "福州西湖公园": {
+                "commentCount": 790,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001goov0898B.jpg",
+                "distanceStr": "距平潭83.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/8799.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海坛岛风景区": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t120006k1jhsb4DBE.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/69235527.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "风车森林公路": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105012000f6s4inn3F87.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/136460105.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金沙湾沙滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103112000bmp7gkf7A4F.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/90499280.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "永鸿野生动物世界": {
+                "commentCount": 374,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000f6tc0juF75A.jpg",
+                "distanceStr": "距平潭42.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fuqing1152/4745342.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "福州御温泉度假酒店温泉": {
+                "commentCount": 82,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000afcgxsvE038.jpg",
+                "distanceStr": "距平潭90.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yongtai2665/136014052.html?scene=online",
+                "isFree": false,
+                "price": 218.0
+            },
+            "南少林寺": {
+                "commentCount": 95,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000ev0jhl84CC8.jpg",
+                "distanceStr": "距平潭75.3km",
+                "detailUrl": "https://you.ctrip.com/sight/putian317/44789.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "奇达村": {
+                "commentCount": 52,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v1200092lhr20FF45.jpg",
+                "distanceStr": "距平潭97.4km",
+                "detailUrl": "https://you.ctrip.com/sight/lianjiang2657/1480292.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "平潭国际旅游岛南寨山景区": {
+                "commentCount": 12,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000bwya6844200.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/pingtan2652/141195.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南后街": {
+                "commentCount": 451,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqdqh9B9D.jpg",
+                "distanceStr": "距平潭81.9km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/64506.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【福州】Standby小鹿脱口秀专场《我的中女时代》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000gk3bqv7F12B.jpg",
+                "distanceStr": "距平潭66.7km",
+                "detailUrl": "https://you.ctrip.com/sight/fuzhou164/149569703.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,816 @@
+{
+    "广东": {
+        "湛江": {
+            "湖光岩": {
+                "commentCount": 1197,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105s120008anwbcyF637.jpg",
+                "distanceStr": "距市中心16.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/22826.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "湛江红嘴鸥游船": {
+                "commentCount": 962,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o12000f6t57r6F04D.png",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/140939.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "湛江军事文化博览园": {
+                "commentCount": 270,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ3o12000cf1s3arFF8A.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/134718276.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "中国大陆南极村": {
+                "commentCount": 54,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A69120008o3hohj2893.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/5069376.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鼎龙湾国际海洋度假区": {
+                "commentCount": 147,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o120009elzu5r54DF.jpg",
+                "distanceStr": "距市中心57.7km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchuan1898/5073330.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "特呈岛": {
+                "commentCount": 759,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3503180000013zsk4725E.jpg",
+                "distanceStr": "距市中心14.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/51596.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赤坎老街": {
+                "commentCount": 336,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A6w120008n9w7uzA694.jpg",
+                "distanceStr": "距市中心548m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1452180.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "硇洲岛": {
+                "commentCount": 103,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000h0jidr2DBA2.jpg",
+                "distanceStr": "距市中心47.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/145406.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蓝月湾温泉": {
+                "commentCount": 288,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350r0s000000hxdz0B304.jpg",
+                "distanceStr": "距市中心8.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/51590.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "鼎龙湾德萨斯水世界": {
+                "commentCount": 532,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y120009exrzrgD639.jpg",
+                "distanceStr": "距市中心58.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchuan1898/3980171.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "菠萝的海": {
+                "commentCount": 46,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4c120008sn8qg409D3.jpg",
+                "distanceStr": "距市中心87.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/2499871.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湛江博物馆": {
+                "commentCount": 151,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q120009hzq8pvC574.jpg",
+                "distanceStr": "距市中心538m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1835253.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东海岛": {
+                "commentCount": 334,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c120005rfzk5zE4D2.jpg",
+                "distanceStr": "距市中心32.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/51540.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金沙湾": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r120008qixk86653E.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/5140570.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金沙湾观海长廊": {
+                "commentCount": 23,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101912000f6ppifw884F.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/69550546.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观海长廊": {
+                "commentCount": 512,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y120009d9v3b6116F.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/136008.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "灯楼角": {
+                "commentCount": 32,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01055120008qixoxl8D7C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/1714912.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "樟树湾大酒店温泉": {
+                "commentCount": 58,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g120009qyo0ab8DEB.jpg",
+                "distanceStr": "距市中心48.6km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/2006035.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "雷州茂德公鼓城度假区": {
+                "commentCount": 6,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c120009qyohm38E5F.jpg",
+                "distanceStr": "距市中心48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/134449052.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "茂德公鼓城": {
+                "commentCount": 26,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000967o60w98DB.png",
+                "distanceStr": "距市中心48.9km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/69341719.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "遂溪孔子文化城": {
+                "commentCount": 26,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzmpkA274.jpg",
+                "distanceStr": "距市中心16.3km",
+                "detailUrl": "https://you.ctrip.com/sight/suixi2950/5073049.html?scene=online",
+                "isFree": false,
+                "price": 26.9
+            },
+            "徐闻古港": {
+                "commentCount": 75,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6112000aopamdxCE57.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/22834.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大汉三墩旅游区": {
+                "commentCount": 29,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m120008s787p5F186.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/69747.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中澳友谊花园": {
+                "commentCount": 79,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103112000f6sf3vh606B.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131337.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "螺岗小镇": {
+                "commentCount": 71,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w12000f6ppwjy8F74.jpg",
+                "distanceStr": "距市中心25.3km",
+                "detailUrl": "https://you.ctrip.com/sight/suixi2950/5540343.html?scene=online",
+                "isFree": false,
+                "price": 19.9
+            },
+            "法式风情街": {
+                "commentCount": 8,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01045120009dep6ncDA61.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/90498301.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赤坎民国风情街": {
+                "commentCount": 5,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000f6q30r29D4E.jpg",
+                "distanceStr": "距市中心835m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131896667.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "寸金动物园": {
+                "commentCount": 166,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f12000f6qky2g2A64.jpg",
+                "distanceStr": "距市中心320m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131345.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "寸金桥公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101312000egs0p82225B.jpg",
+                "distanceStr": "距市中心705m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/144211262.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金沙湾海滨浴场": {
+                "commentCount": 157,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u120008qixqlo8F94.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1831654.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海安新港(轮渡站)": {
+                "commentCount": 12,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a12000auqx0868BAE.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/69267187.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海东度假村": {
+                "commentCount": 65,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000f6pp3a58B8E.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/2473768.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "海滨公园": {
+                "commentCount": 180,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120009hee9m44C8E.jpg",
+                "distanceStr": "距市中心9.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131340.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "涠洲岛": {
+                "commentCount": 15702,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120004gdmn9m7016.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9311.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "【湛江】《国际安徒生奖50周年》世界插画大展": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh1t12000f5zegwr7216.jpg",
+                "distanceStr": "距市中心7.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/140067348.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "角头沙滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t12000f6uj7jtFADF.jpg",
+                "distanceStr": "距市中心61.4km",
+                "detailUrl": "https://you.ctrip.com/sight/suixi2950/135317438.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雷州古城": {
+                "commentCount": 62,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100712000f6rbydb0565.jpg",
+                "distanceStr": "距市中心49.0km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/51591.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湛江海湾大桥": {
+                "commentCount": 59,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1c000001e0cs40073.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1835249.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湛江东海岛旅游度假区": {
+                "commentCount": 42,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4q12000bpj29e2ABA1.jpg",
+                "distanceStr": "距市中心34.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/5136193.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南三岛": {
+                "commentCount": 41,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5512000ajh79sw8AAC.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/51592.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "特呈岛温泉度假村": {
+                "commentCount": 14,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r0z000000n510wF648.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/2730664.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "谢鞋山": {
+                "commentCount": 42,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000f6soufnB728.jpg",
+                "distanceStr": "距市中心36.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lianjiang2939/2489607.html?scene=online",
+                "isFree": false,
+                "price": 24.8
+            },
+            "吉兆湾": {
+                "commentCount": 129,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0j12000g7ftmd0AF33.jpg",
+                "distanceStr": "距市中心53.8km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchuan1898/22828.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白沙湾": {
+                "commentCount": 31,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n120008s78hkb005F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/1829480.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湛江泡温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01001120009qyoaqj9BC5.jpg",
+                "distanceStr": "广东",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/0.html?poiId=148887475",
+                "isFree": false,
+                "price": ""
+            },
+            "徐闻珊瑚礁自然保护区": {
+                "commentCount": 4,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j120008s7kwjm7075.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/1714918.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙海天沙滩": {
+                "commentCount": 47,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e12000f6tsv9a083A.jpg",
+                "distanceStr": "距市中心34.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/22830.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "渔港公园": {
+                "commentCount": 41,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n120009dlovw5AE42.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1973175.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "湖光岩玛珥湖": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l12000f6qqxou3956.jpg",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/5714539.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海海底世界": {
+                "commentCount": 7308,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350u1700000129sie4579.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9312.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "北海银滩旅游度假区": {
+                "commentCount": 3378,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1h12000bz0uyd3BA36.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/9308.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "雷祖祠": {
+                "commentCount": 54,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t1200092lqorvADD7.jpg",
+                "distanceStr": "距市中心51.7km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/22829.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌石镇": {
+                "commentCount": 27,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i12000f6qmwcp3B58.jpg",
+                "distanceStr": "距市中心95.1km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/1714857.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广州湾法国公使署旧址": {
+                "commentCount": 75,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000f6sdliu625B.jpg",
+                "distanceStr": "距市中心10.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/51534.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北海金海湾红树林生态旅游区": {
+                "commentCount": 5601,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t170000011tbdy1029.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/131777.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "硇洲灯塔": {
+                "commentCount": 15,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o120009zdd98mF9E8.jpg",
+                "distanceStr": "距市中心49.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/22832.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "霞山天主教堂(天主教湛江教区)": {
+                "commentCount": 84,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gq9baA4ED.jpg",
+                "distanceStr": "距市中心10.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/51589.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南国热带花园": {
+                "commentCount": 77,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101312000a69lfjd823D.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131342.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "茂名森林公园": {
+                "commentCount": 994,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000a0ay0xt4F8C.png",
+                "distanceStr": "距湛江62.2km",
+                "detailUrl": "https://you.ctrip.com/sight/maoming615/66477.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "大通街": {
+                "commentCount": 62,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m12000f6u4w2k33A5.jpg",
+                "distanceStr": "距市中心542m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/5067303.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广东湛江红树林国家级自然保护区": {
+                "commentCount": 18,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100712000f6qcwy0F42B.jpg",
+                "distanceStr": "距市中心18.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1974219.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "红树林天天赶海": {
+                "commentCount": 886,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106012000f6u0n7x2C20.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/2017408.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "廉江市塘山岭风景区": {
+                "commentCount": 32,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d120008qjc0tm788E.jpg",
+                "distanceStr": "距市中心41.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lianjiang2939/2003281.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雷琼海口火山群世界地质公园": {
+                "commentCount": 7748,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grja42820.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/haikou37/3175.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "北海看日落": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k120005um26cnF1CC.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148886366",
+                "isFree": false,
+                "price": ""
+            },
+            "海南省博物馆": {
+                "commentCount": 638,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000h15tmx10A81.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/haikou37/66489.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "田园寨": {
+                "commentCount": 59,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w12000f6r5sz120F6.jpg",
+                "distanceStr": "距市中心43.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lianjiang2939/5566349.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "海丝首港景区": {
+                "commentCount": 415,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5w12000dbt1ig28425.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hepu965/5717907.html?scene=online",
+                "isFree": false,
+                "price": 76.0
+            },
+            "海龟城": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000b7gk756D577.jpg",
+                "distanceStr": "距市中心50.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131149128.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国第一滩旅游度假区": {
+                "commentCount": 309,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000f6sevyi155D.jpg",
+                "distanceStr": "距湛江74.6km",
+                "detailUrl": "https://you.ctrip.com/sight/maoming615/66474.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北海涠洲岛游船": {
+                "commentCount": 111,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z1200093jdjfdE7BE.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/5718143.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i12000f6pr6tb08E0.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148473888",
+                "isFree": false,
+                "price": ""
+            },
+            "雷州西湖公园": {
+                "commentCount": 56,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105c1200092lofjuAED5.jpg",
+                "distanceStr": "距市中心48.7km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/51539.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "樱花公园": {
+                "commentCount": 6,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01068120009d0pakc3690.jpg",
+                "distanceStr": "距市中心40.9km",
+                "detailUrl": "https://you.ctrip.com/sight/lianjiang2939/90499203.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "茂德公大观园": {
+                "commentCount": 9,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h38a01830.jpg",
+                "distanceStr": "距市中心83.3km",
+                "detailUrl": "https://you.ctrip.com/sight/leizhou2936/5365386.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "海石滩泳场": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000f6t8d7t968C.jpg",
+                "distanceStr": "距市中心50.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1730945.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鼎龙湾海田温泉": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6tjlrdA632.jpg",
+                "distanceStr": "距市中心58.5km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchuan1898/130369102.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "寸金桥": {
+                "commentCount": 158,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000a69mlvqD2BD.jpg",
+                "distanceStr": "距市中心651m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/22825.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北海潜水": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0j0000009th9eB632.jpg",
+                "distanceStr": "广西",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/0.html?poiId=148480135",
+                "isFree": false,
+                "price": ""
+            },
+            "三岭山国家森林公园": {
+                "commentCount": 16,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000asocq202EE5.jpg",
+                "distanceStr": "距市中心11.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/1835306.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "徐闻博物馆": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000augf75c0762.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/5703866.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观澜湖华谊冯小刚电影公社(百年记忆公社)": {
+                "commentCount": 4482,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000aqf5zh0A17C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/haikou37/1830755.html?scene=online",
+                "isFree": false,
+                "price": 126.0
+            },
+            "鼎龙湾欢乐大马戏": {
+                "commentCount": 115,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000878eum53071.jpg",
+                "distanceStr": "距市中心58.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuchuan1898/99207842.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广州湾商会会址": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106s12000dt2lot34C7E.jpg",
+                "distanceStr": "距市中心703m",
+                "detailUrl": "https://you.ctrip.com/sight/zhanjiang202/131184022.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海老城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000f2ajet38594.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/144177596.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "骑楼老街": {
+                "commentCount": 3390,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n120005yuuyex5D81.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/haikou37/52006.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "浪漫海岸国际旅游度假区": {
+                "commentCount": 1340,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5u12000c2km6f30636.jpg",
+                "distanceStr": "距湛江83.9km",
+                "detailUrl": "https://you.ctrip.com/sight/maoming615/141347.html?scene=online",
+                "isFree": false,
+                "price": 72.0
+            },
+            "登云塔": {
+                "commentCount": 38,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x120009dlqlye3F28.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xuwen2923/1834794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北海老街": {
+                "commentCount": 3220,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7012000eef2txn7F75.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beihai140/62160.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蛤岭村": {
+                "commentCount": 67,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y120008qjc65rA30C.jpg",
+                "distanceStr": "距市中心44.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lianjiang2939/1714986.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

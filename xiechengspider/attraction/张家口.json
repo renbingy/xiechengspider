@@ -1,0 +1,798 @@
+{
+    "河北": {
+        "张家口": {
+            "万龙滑雪场": {
+                "commentCount": 685,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5n12000crdi03o1E79.jpg",
+                "distanceStr": "距市中心48.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/134232.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "万龙度假天堂": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e12000f6tktsx95B8.jpg",
+                "distanceStr": "距市中心48.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/136015601.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "太舞滑雪小镇": {
+                "commentCount": 1516,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j1200095xthnn8193.jpg",
+                "distanceStr": "距市中心50.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/1790961.html?scene=online",
+                "isFree": false,
+                "price": 224.0
+            },
+            "云顶滑雪公园(密苑云顶乐园)": {
+                "commentCount": 356,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5o12000g22qj4s43B6.jpg",
+                "distanceStr": "距市中心49.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/134236.html?scene=online",
+                "isFree": false,
+                "price": 267.0
+            },
+            "富龙滑雪场": {
+                "commentCount": 293,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p1a0000018drtw803D.jpg",
+                "distanceStr": "距市中心42.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/1993129.html?scene=online",
+                "isFree": false,
+                "price": 341.0
+            },
+            "富龙四季小镇": {
+                "commentCount": 44,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3z12000etys8a0FAF9.jpg",
+                "distanceStr": "距市中心42.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/78626788.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大境门景区": {
+                "commentCount": 142,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000b8ddaur6DC4.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/5068004.html?scene=online",
+                "isFree": false,
+                "price": 13.0
+            },
+            "张北坝上草原": {
+                "commentCount": 587,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzojc0664.jpg",
+                "distanceStr": "距市中心58.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/17404.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "张家口滑雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106j1200095xucle327B.jpg",
+                "distanceStr": "河北",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/0.html?poiId=148480069",
+                "isFree": false,
+                "price": ""
+            },
+            "翠云山银河滑雪场": {
+                "commentCount": 167,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01020120009z35mi9D2AE.jpg",
+                "distanceStr": "距市中心44.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/4314344.html?scene=online",
+                "isFree": false,
+                "price": 109.0
+            },
+            "翠云山国际旅游度假区": {
+                "commentCount": 207,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0e12000dt8ajixF589.jpg",
+                "distanceStr": "距市中心43.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/4690351.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸡鸣驿古城": {
+                "commentCount": 899,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000f6rcv041335.jpg",
+                "distanceStr": "距市中心50.5km",
+                "detailUrl": "https://you.ctrip.com/sight/huailai2527/124172.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "闪电湖京北湿地草原": {
+                "commentCount": 362,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350f160000010oqwp6031.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/guyuancounty2591/124371.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "闪电河国家湿地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1f12000dexp8do35B5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/guyuancounty2591/143727883.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "暖泉古镇": {
+                "commentCount": 691,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0z000000o01nqC943.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/135073.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "草原天路": {
+                "commentCount": 1341,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000fakfo8s6DB6.jpg",
+                "distanceStr": "距市中心27.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/1415275.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "八达岭长城": {
+                "commentCount": 43555,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b0z000000net9hFE05.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/230.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "野狐岭要塞旅游区": {
+                "commentCount": 528,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01005120008inhjbb141E.jpg",
+                "distanceStr": "距市中心40.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/124341.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿那亚崇礼拾雪川滑雪场": {
+                "commentCount": 11,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w12000aixmeku36C0.jpg",
+                "distanceStr": "距市中心44.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/135457158.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "库伦淖尔旅游度假区": {
+                "commentCount": 256,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3f12000ekrifob72D9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/guyuancounty2591/1416614.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "多乐美地滑雪场": {
+                "commentCount": 293,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060y000000m54s995D0.jpg",
+                "distanceStr": "距市中心42.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/135075.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "大好河山": {
+                "commentCount": 337,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000f6sd89c7AF3.jpg",
+                "distanceStr": "距市中心8.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/17374.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "滦河神韵": {
+                "commentCount": 176,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001gru8eB0FD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/guyuancounty2591/1411946.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉皇阁": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104e12000920f3t14658.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/112651860.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蔚州古城景区": {
+                "commentCount": 168,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g12000cva67unF822.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/135072.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "张北中都草原": {
+                "commentCount": 281,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/529/392/078/8f6490f6130f4cbbb27c16265b5934b0.jpg",
+                "distanceStr": "距市中心61.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/135048.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桑干河大峡谷旅游区": {
+                "commentCount": 195,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350v1700000112mktC955.jpg",
+                "distanceStr": "距市中心55.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/1410966.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小五台金河景区": {
+                "commentCount": 187,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqx5qB509.jpg",
+                "distanceStr": "距市中心91.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/124289.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "张家口崇礼奥林匹克公园": {
+                "commentCount": 29,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000clkn5mjD928.jpg",
+                "distanceStr": "距市中心51.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/134105390.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宣化古城": {
+                "commentCount": 20,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102h12000f6q8gpq59D5.jpg",
+                "distanceStr": "距市中心21.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/69557700.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸡鸣山旅游风景区": {
+                "commentCount": 215,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l120006cqxizl801A.jpg",
+                "distanceStr": "距市中心48.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huailai2527/124363.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "张家口堡景区": {
+                "commentCount": 137,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0wfk133xyo9ihww2A4A.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/124362.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "故宫博物院": {
+                "commentCount": 160914,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j1200046x94ebB936.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/229.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "草原天路野狐岭生态旅游区": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3k12000bqalf3p58AD.jpg",
+                "distanceStr": "距市中心34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/140612429.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大青山国际旅游度假区": {
+                "commentCount": 54,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h1crj0F84.jpg",
+                "distanceStr": "距市中心77.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shangyi1446069/5536378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海坨山谷国际旅游度假区": {
+                "commentCount": 41,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2s12000crn3iyy7E72.jpg",
+                "distanceStr": "距市中心76.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chicheng2544/4748343.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "元中都遗址": {
+                "commentCount": 24,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100312000f6qnfwv8E06.jpg",
+                "distanceStr": "距市中心62.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/1835100.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沽源坝上草原": {
+                "commentCount": 57,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzpev69CC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/guyuancounty2591/110066.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "颐和园": {
+                "commentCount": 42897,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010p000000ftdk87BDF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/231.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "太舞之夜": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2h12000ei39vu2BECE.jpg",
+                "distanceStr": "距市中心49.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/148444227.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "中华三祖圣地黄帝城遗址文化旅游区": {
+                "commentCount": 112,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000f6sdqpfBD6F.jpg",
+                "distanceStr": "距市中心75.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuolu2585/17398.html?scene=online",
+                "isFree": false,
+                "price": 57.0
+            },
+            "崇礼富龙四季小镇度假区": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100c12000aqu9deo4C3E.jpg",
+                "distanceStr": "距市中心42.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/69550334.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "麻田岭": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4112000c4icoy7A8F0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/131905665.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桦皮岭": {
+                "commentCount": 106,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100712000f6qvwojCFA6.jpg",
+                "distanceStr": "距市中心70.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/124381.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海坨山": {
+                "commentCount": 64,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b1200085z3djaADF1.jpg",
+                "distanceStr": "距市中心82.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chicheng2544/107810.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怀来帝曼温泉度假村": {
+                "commentCount": 24,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35060x000000l2vqq2463.jpg",
+                "distanceStr": "距市中心73.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huailai2527/4612450.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "明十三陵": {
+                "commentCount": 4769,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gznjj0C53.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/234.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "观澜小洱海": {
+                "commentCount": 8,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l12000f6rq1764C63.jpg",
+                "distanceStr": "距市中心82.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huailai2527/5718469.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "慕田峪长城": {
+                "commentCount": 20951,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350f180000014m9jh56C9.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/243.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "恭王府": {
+                "commentCount": 22363,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010261200087dxb2445A6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/5174.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "居庸关长城": {
+                "commentCount": 2849,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a120004fhqcagB7E5.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/5316.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "中国国家博物馆": {
+                "commentCount": 1388,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w1200099jor2e723F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/62722.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "圆明园": {
+                "commentCount": 19727,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010131200046ybzogE113.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/5208.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "檀邑溪谷景区": {
+                "commentCount": 19,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6g12000azif3hi356E.jpg",
+                "distanceStr": "距市中心12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/4601151.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太舞度假小镇壹池温泉": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e1200096ebib4BE6F.jpg",
+                "distanceStr": "距市中心49.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/5719312.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天鹅湖": {
+                "commentCount": 17,
+                "commentScore": 3.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp3nsF4BB.jpg",
+                "distanceStr": "距市中心66.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/4715342.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "飞狐峪·空中草原": {
+                "commentCount": 255,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp7whD36C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/135056.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "张家口地质博物馆": {
+                "commentCount": 34,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j12000b8ct8kk2C10.jpg",
+                "distanceStr": "距市中心519m",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/5708336.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天坛公园": {
+                "commentCount": 15911,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040h0000008s9n50143.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/233.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "天保那苏图草原旅游度假区": {
+                "commentCount": 39,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5812000br2196y6ED1.jpg",
+                "distanceStr": "距市中心48.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/64668335.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "张家口市博物馆": {
+                "commentCount": 47,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000atgp93fDD63.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/135081.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "北京动物园": {
+                "commentCount": 7450,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0a180000015a3d9EE3E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/5173.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "北京环球度假区": {
+                "commentCount": 31471,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5h12000gurmj7bFE38.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/2045497.html?scene=online",
+                "isFree": false,
+                "price": 405.0
+            },
+            "南安寺塔": {
+                "commentCount": 23,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k120009ebthuaC3FB.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/1714468.html?scene=online",
+                "isFree": false,
+                "price": 5.0
+            },
+            "国家跳台滑雪中心": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000a2p906v5753.jpg",
+                "distanceStr": "距市中心51.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/133527715.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "八达岭野生动物世界": {
+                "commentCount": 4903,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106o12000f6sf3lt5AE2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/107837.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "云冈石窟": {
+                "commentCount": 18124,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0z000000nofl48344.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/11311.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "北京赏杏花": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f12000eqwx120141C.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/0.html?poiId=148487239",
+                "isFree": false,
+                "price": ""
+            },
+            "中国科学技术馆": {
+                "commentCount": 5697,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103712000f6segxv6838.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/107625.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老火车步行街": {
+                "commentCount": 13,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000f6s2qu794C4.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/130369360.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿那亚·崇礼": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000eybsvruE9B1.jpg",
+                "distanceStr": "距市中心43.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/146016291.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "奥林匹克公园": {
+                "commentCount": 1288,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsmfgB4A5.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/140224.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "莫干山": {
+                "commentCount": 13,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心30.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/145474544.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雪如意滑雪场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2e12000guzl9qm9C0C.png",
+                "distanceStr": "距市中心52.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/149593113.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小五台山自然保护区": {
+                "commentCount": 59,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t120006ng6be68ED5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/124356.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "国家高山滑雪中心": {
+                "commentCount": 83,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0312000gzmgo3q114B.jpg",
+                "distanceStr": "距张家口81.0km",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/135952296.html?scene=online",
+                "isFree": false,
+                "price": 328.0
+            },
+            "悬空寺": {
+                "commentCount": 6036,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021a00000197yi05F62.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/hunyuan3026/17724.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太子城国际文旅小镇": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l120008os6nwc4833.jpg",
+                "distanceStr": "距市中心50.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/5715915.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蔚县暖泉古镇室外打树花": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m12000eogiss6C28E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/144546498.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "万全右卫城": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u12000aqtr4bg02CA.jpg",
+                "distanceStr": "距市中心15.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangjiakou497/4475948.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "草原天路(桦皮岭)": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000eyaf222894F.jpg",
+                "distanceStr": "距市中心68.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/143740090.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "茶山": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105k120008bth0zp7B1A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yucounty2565/5072591.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雍和宫": {
+                "commentCount": 2239,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0b0000005z27w2021.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/5153.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "官厅水库国家湿地公园": {
+                "commentCount": 23,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000f6ufwv75BF0.jpg",
+                "distanceStr": "距市中心75.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huailai2527/5588378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大同古城": {
+                "commentCount": 43,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5412000ekcxkxf9E24.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/136052074.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸟巢(国家体育场)": {
+                "commentCount": 3173,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M06/88/23/Cghzf1WwtEiAJ2cqAAocVn4isuk274.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/beijing1/52626.html?scene=online",
+                "isFree": false,
+                "price": 96.0
+            },
+            "华严寺": {
+                "commentCount": 4400,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10060t000000ibeyfE231.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/datong275/11302.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "元中都博物馆": {
+                "commentCount": 68,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r12000f6sneyqD8C6.jpg",
+                "distanceStr": "距市中心42.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhangbei2575/1835124.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

@@ -1,0 +1,807 @@
+{
+    "江西": {
+        "赣州": {
+            "江南宋城历史文化旅游区": {
+                "commentCount": 457,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c1200093ln916B003.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5718511.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "赣州方特东方欲晓": {
+                "commentCount": 3312,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01065120008ovcgjeA3F5.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/112655285.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "通天岩": {
+                "commentCount": 990,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01026120009hl1t2lFA88.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/17568.html?scene=online",
+                "isFree": false,
+                "price": 27.5
+            },
+            "七鲤古镇度假区": {
+                "commentCount": 423,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1812000c6lztmx705D.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/140808930.html?scene=online",
+                "isFree": false,
+                "price": 34.9
+            },
+            "三百山景区": {
+                "commentCount": 819,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q12000f6qb3md1755.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/anyuan2381/17574.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "瑞金共和国摇篮旅游区": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106512000f6t2qqi411D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/17571.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "共和国摇篮旅游区-红井景区": {
+                "commentCount": 554,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0q000000gkjr702EA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/138134.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "三百山温泉": {
+                "commentCount": 572,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3612000gbvs06m5FB8.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/anyuan2381/69980.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "赣州极地海洋世界": {
+                "commentCount": 767,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000d2n3aq4B8BA.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/4711345.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "关西围景区": {
+                "commentCount": 233,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6zp41000.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/4383341.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "南武当山景区": {
+                "commentCount": 657,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k1e000001f22x26E49.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/4380343.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "上堡梯田": {
+                "commentCount": 110,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35041f000001g1mgv13D5.jpg",
+                "distanceStr": "距市中心90.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chongyi2391/5068512.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "共和国摇篮旅游区-叶坪景区": {
+                "commentCount": 175,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grl4gD473.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/51191.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "古浮桥": {
+                "commentCount": 218,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h12000etjt1w777E3.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/17565.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣州森林动物园": {
+                "commentCount": 149,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6tyi211A94.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/1753706.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "五龙客家风情园": {
+                "commentCount": 115,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r120008v1x1uhF8F0.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51189.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "丫山风景区": {
+                "commentCount": 348,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0q000000g6crh030D.jpg",
+                "distanceStr": "距市中心67.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dayu2395/1407329.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "石城通天寨": {
+                "commentCount": 203,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6pp23g3E28.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shicheng2415/109915.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "石城森林温泉": {
+                "commentCount": 87,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g12000f6uggrj34E7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shicheng2415/5711069.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "罗汉岩风景区": {
+                "commentCount": 123,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070q000000gruih44E0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/127387.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "郁孤台公园": {
+                "commentCount": 127,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10011f000001h36uyDF48.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/17564.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣州阳明湖景区": {
+                "commentCount": 215,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grv5x1114.jpg",
+                "distanceStr": "距市中心52.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shangyou2411/51190.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "中央红军长征出发地纪念园": {
+                "commentCount": 14,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k1200095y1eud2A1B.jpg",
+                "distanceStr": "距市中心51.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yudu2419/4627433.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "古城墙": {
+                "commentCount": 174,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1f000001gpdppF9E1.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51199.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汉仙温泉": {
+                "commentCount": 87,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3r12000g9rs52tEE41.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huichang143830/4332360.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "灶儿巷": {
+                "commentCount": 78,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A03120008sih8zq8D35.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51188.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南康家居小镇": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101912000973jku3A616.jpg",
+                "distanceStr": "距市中心23.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5718168.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "汉仙岩风景名胜区": {
+                "commentCount": 120,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t1b000001ai2hyF15A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huichang143830/51214.html?scene=online",
+                "isFree": false,
+                "price": 39.9
+            },
+            "阳明山国家森林公园": {
+                "commentCount": 233,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100412000f6sdey0EE66.jpg",
+                "distanceStr": "距市中心66.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chongyi2391/51182.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "八境台": {
+                "commentCount": 60,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01006120009dd96dvDBB4.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/17563.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天龙山景区": {
+                "commentCount": 300,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350i1f000001g83s3B87A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/quannan2393/5708112.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九寨温泉度假区": {
+                "commentCount": 86,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35080v000000k3ujl87B1.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shicheng2415/140565.html?scene=online",
+                "isFree": false,
+                "price": 98.6
+            },
+            "大金山漂流": {
+                "commentCount": 66,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000f6sgczb952F.jpg",
+                "distanceStr": "距市中心51.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shangyou2411/70109.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "赣州天沐·阳明温泉": {
+                "commentCount": 25,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u1200099pbo9xBFEC.jpg",
+                "distanceStr": "距市中心46.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shangyou2411/5720270.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "二苏大景区": {
+                "commentCount": 52,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0q000000gc3i69FBA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/1484400.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东生围": {
+                "commentCount": 61,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqi3xC158.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/anyuan2381/5101466.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "赣州市博物馆": {
+                "commentCount": 26,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101p12000f6tat6c020D.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/3138510.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "筑峰顶": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000f6q956o22DF.jpg",
+                "distanceStr": "距市中心64.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shangyou2411/134094824.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳明心谷景区": {
+                "commentCount": 10,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2d12000bvx0i72E36B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/140898148.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "屏山旅游区": {
+                "commentCount": 99,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqdqnBB5F.jpg",
+                "distanceStr": "距市中心52.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yudu2419/1908084.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "虔心小镇": {
+                "commentCount": 150,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0512000gdxdy13CB74.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/4733368.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "章贡区魏家大院": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6s5i9mE8B8.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/136653474.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "齐云山": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010201200092m0wax4E65.jpg",
+                "distanceStr": "距市中心92.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chongyi2391/5068513.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙南客家围屋": {
+                "commentCount": 21,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d12000f6rhup5DAD0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/1832260.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天沐温泉国际旅游度假区": {
+                "commentCount": 20,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q120008t3rw6f2CD0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shicheng2415/5716780.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杨村燕翼围": {
+                "commentCount": 26,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01022120008s7ala42E71.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/51209.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "八镜台": {
+                "commentCount": 9,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y120008k3dcceE15D.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/69276319.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沙洲坝革命旧址": {
+                "commentCount": 3,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103112000ax7tmncE06C.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/69343897.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "客家文化城": {
+                "commentCount": 74,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100lhk114xdmemubmDEA1.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51200.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青龙岩风景区": {
+                "commentCount": 40,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101i12000f6sn7us91FA.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xunwu143831/1836896.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "中央革命根据地历史博物馆": {
+                "commentCount": 6,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o12000f6splps7DBC.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/3137028.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "福寿沟": {
+                "commentCount": 32,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o12000f6qbc0j8001.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51215.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汉仙湖十里画廊景区": {
+                "commentCount": 17,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040q000000g6wom2EA3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/huichang143830/4020941.html?scene=online",
+                "isFree": false,
+                "price": 34.9
+            },
+            "赣州文庙": {
+                "commentCount": 64,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0x000000kyyik86A7.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/17567.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蒋经国先生旧居": {
+                "commentCount": 8,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000f6sq4mi1794.jpg",
+                "distanceStr": "距市中心4.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/3217520.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "会昌紫云山景区": {
+                "commentCount": 13,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200082xt6ia3CB9.jpg",
+                "distanceStr": "距市中心95.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huichang143830/5705942.html?scene=online",
+                "isFree": false,
+                "price": 44.9
+            },
+            "灵石温泉": {
+                "commentCount": 10,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g1b000001ahxdqDD04.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/xunwu143831/5658351.html?scene=online",
+                "isFree": false,
+                "price": 69.9
+            },
+            "长征第一渡口": {
+                "commentCount": 23,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6txkto1114.jpg",
+                "distanceStr": "距市中心51.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yudu2419/1730721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "郁孤台历史文化街区": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z1200092lwx59C33B.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5706652.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "桃源梯田": {
+                "commentCount": 137,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010621200085l4wma9AD2.jpg",
+                "distanceStr": "距赣州71.9km",
+                "detailUrl": "https://you.ctrip.com/sight/suichuan2418/100016735.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "山野泉": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5r12000cw6tekuB6C4.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shicheng2415/143215920.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "泰迪寰球冰雪世界": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5312000d38cfd1B8E1.jpg",
+                "distanceStr": "距市中心5.4km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/144548856.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "福寿沟博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000eye6lpwCFE2.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/145376758.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宋城公园": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000f6q0mi3820C.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/127422.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红兴谷研学营地": {
+                "commentCount": 13,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01029120009t6bh93BB84.jpg",
+                "distanceStr": "距市中心71.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xingguo2387/134446953.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梅关古驿道": {
+                "commentCount": 37,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101z12000f6q0om66C4A.jpg",
+                "distanceStr": "距市中心80.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dayu2395/17570.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中华苏维埃共和国历史纪念园": {
+                "commentCount": 2,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000f6qe1apF838.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/2579029.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "峰山": {
+                "commentCount": 8,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000atdr3695B1D.jpg",
+                "distanceStr": "距市中心12.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51204.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "将军园": {
+                "commentCount": 28,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j120008s7b4ej6F25.jpg",
+                "distanceStr": "距市中心66.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xingguo2387/1730562.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "寿量古寺": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0x000000l17s783E6.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/51180.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "建春门": {
+                "commentCount": 10,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102112000f6r2ezt1ED0.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5066762.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "忘忧谷风景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m12000f6tlfea9833.jpg",
+                "distanceStr": "距市中心61.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dayu2395/136589428.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "八卦脑景区": {
+                "commentCount": 38,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020r000000hk3u3706D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shicheng2415/4310345.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "翠微峰国家森林公园": {
+                "commentCount": 100,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200082jmdnvE5A5.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ningdu2379/138121.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国·南康百家姓和谐城": {
+                "commentCount": 27,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A2712000a0jxiuk5F36.jpg",
+                "distanceStr": "距市中心28.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/1791308.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "会昌戏剧小镇": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2j12000cny25rl8AAC.jpg",
+                "distanceStr": "距市中心89.1km",
+                "detailUrl": "https://you.ctrip.com/sight/huichang143830/143174263.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣州马祖岩景区": {
+                "commentCount": 21,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105e120008nvgxtn36B6.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5028365.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "井冈山": {
+                "commentCount": 2211,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350l15000000y6zrc8128.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jinggangshan171/137657.html?scene=online",
+                "isFree": false,
+                "price": 145.0
+            },
+            "梅岭": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4p120009cw0jfk0F6A.jpg",
+                "distanceStr": "距市中心60.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xingguo2387/1832486.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "客家博物馆": {
+                "commentCount": 23,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050z000000njbk1C9A3.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/1831901.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太平桥": {
+                "commentCount": 16,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o120008qj23k6C511.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/longnan2424/51207.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣坊1969文化创意产业园": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000atikzbj0A54.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/5712099.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣州大唐不夜城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000g3mzzts8238.png",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/148913443.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雅溪古村景区": {
+                "commentCount": 44,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0a180000014d32vD32F.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/quannan2393/5635417.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "信丰阁": {
+                "commentCount": 11,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d12000f6qrgulB509.jpg",
+                "distanceStr": "距市中心51.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xinfeng2380/5706497.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中革军委旧址群": {
+                "commentCount": 26,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d12000964zwjrB1C0.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/ruijin1159/127386.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "中共红军长征出发地纪念馆": {
+                "commentCount": 9,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103312000aw4yvqq1E22.jpg",
+                "distanceStr": "距市中心51.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yudu2419/2580809.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "赣州小漓江": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101z120009spiwqgF621.png",
+                "distanceStr": "距市中心71.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chongyi2391/134723882.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "标准钟楼": {
+                "commentCount": 19,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051c000001d2qkyDDB6.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ganzhou473/127416.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

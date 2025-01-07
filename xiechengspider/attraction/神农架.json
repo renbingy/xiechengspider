@@ -1,0 +1,807 @@
+{
+    "湖北": {
+        "神农架": {
+            "神农架风景区": {
+                "commentCount": 3099,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p120008a1wpdc9622.jpg",
+                "distanceStr": "距市中心47.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/136351.html?scene=online",
+                "isFree": false,
+                "price": 219.0
+            },
+            "神农架国际滑雪场": {
+                "commentCount": 442,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a1200086o1flf269D.jpg",
+                "distanceStr": "距市中心35.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/142062.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "神农顶风景区": {
+                "commentCount": 3129,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q120008oec4wg4DCF.jpg",
+                "distanceStr": "距市中心50.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9288.html?scene=online",
+                "isFree": false,
+                "price": 130.0
+            },
+            "大九湖国家湿地公园": {
+                "commentCount": 1026,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e120008oeau3t4B0C.jpg",
+                "distanceStr": "距市中心70.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/136247.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "官门山": {
+                "commentCount": 311,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i120008oebxs928B9.jpg",
+                "distanceStr": "距市中心44.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/136260.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "神农坛风景区": {
+                "commentCount": 292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q120008oegnri9B0E.jpg",
+                "distanceStr": "距市中心41.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9213.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "天生桥": {
+                "commentCount": 264,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01024120008oegz41CA1F.jpg",
+                "distanceStr": "距市中心38.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/139232.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老君山": {
+                "commentCount": 43,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01010120008hhtf8d5C93.jpg",
+                "distanceStr": "距市中心30.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9298.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "神农架中和国际滑雪场": {
+                "commentCount": 130,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n12000f6t9fww2385.jpg",
+                "distanceStr": "距市中心41.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/1997561.html?scene=online",
+                "isFree": false,
+                "price": 139.0
+            },
+            "天燕旅游区": {
+                "commentCount": 300,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106c12000f6tuhdj98CC.jpg",
+                "distanceStr": "距市中心21.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/136366.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "香溪源": {
+                "commentCount": 516,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3y12000b27p4jf24FC.jpg",
+                "distanceStr": "距市中心41.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9297.html?scene=online",
+                "isFree": false,
+                "price": 26.9
+            },
+            "木鱼镇": {
+                "commentCount": 18,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f120004giaomr4199.jpg",
+                "distanceStr": "距市中心42.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/64671804.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "神农天池景区": {
+                "commentCount": 107,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v120008dgm4om989E.jpg",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/1415084.html?scene=online",
+                "isFree": false,
+                "price": 9.9
+            },
+            "神农谷": {
+                "commentCount": 67,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p120008a1wpdc9622.jpg",
+                "distanceStr": "距市中心50.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9282.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武当山风景区": {
+                "commentCount": 9169,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000a6z45fs7CB1.jpg",
+                "distanceStr": "距神农架87.6km",
+                "detailUrl": "https://you.ctrip.com/sight/danjiangkou1018/136382.html?scene=online",
+                "isFree": false,
+                "price": 259.0
+            },
+            "神农架民俗风情篝火晚会": {
+                "commentCount": 117,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1612000elhdha3D36B.jpg",
+                "distanceStr": "距市中心41.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/5717721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鹿苑": {
+                "commentCount": 7,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000bea6x4yF87D.jpg",
+                "distanceStr": "距市中心70.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/5546685.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "坪阡古镇": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105212000f6qf5s639C1.jpg",
+                "distanceStr": "距市中心61.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/5069561.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三峡大坝旅游区": {
+                "commentCount": 5061,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120009ddituh80D5.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/140201.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金猴岭": {
+                "commentCount": 45,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000f6qjy15E2C4.jpg",
+                "distanceStr": "距市中心45.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9286.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巫山小三峡": {
+                "commentCount": 1665,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000f6qjjyc3F2A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/4299.html?scene=online",
+                "isFree": false,
+                "price": 113.0
+            },
+            "瞭望塔": {
+                "commentCount": 26,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103r12000f6qvslrD7EB.jpg",
+                "distanceStr": "距市中心50.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9306.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三峡人家": {
+                "commentCount": 9231,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000mkd0lEF68.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/107350.html?scene=online",
+                "isFree": false,
+                "price": 200.0
+            },
+            "红坪画廊谷": {
+                "commentCount": 15,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h12000f6s3gnlBAD6.jpg",
+                "distanceStr": "距市中心24.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/133987576.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "板壁岩": {
+                "commentCount": 159,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f1200085djjsq633B.jpg",
+                "distanceStr": "距市中心53.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9210.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙降坪国际滑雪场": {
+                "commentCount": 103,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103r120008du5fos4606.png",
+                "distanceStr": "距市中心38.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/2000346.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朝天吼漂流": {
+                "commentCount": 1508,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4812000ey1bika08DA.jpg",
+                "distanceStr": "距神农架65.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xingshan2692/136218.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三峡大瀑布": {
+                "commentCount": 4014,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s120009ci5bio9DBD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/63608.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白帝城·瞿塘峡景区": {
+                "commentCount": 2058,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6612000b6ihmsr0BF3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/4298.html?scene=online",
+                "isFree": false,
+                "price": 57.0
+            },
+            "三峡晓峰旅游区": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o120009dygltpF035.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/51682.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宜昌三峡旅游度假区": {
+                "commentCount": 227,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0v12000d0ixwkl094F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/144556470.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昭君村": {
+                "commentCount": 460,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010211200086mxw059716.jpg",
+                "distanceStr": "距神农架54.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xingshan2692/16599.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "交运两坝一峡游船": {
+                "commentCount": 4317,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u120009gg6n09F68F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/139179.html?scene=online",
+                "isFree": false,
+                "price": 238.0
+            },
+            "大九湖": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a12000fd1tbq23CA5.jpg",
+                "distanceStr": "距市中心72.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/148734295.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三峡之巅": {
+                "commentCount": 509,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01058120008elazlt9837.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/5709697.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小龙潭野考站": {
+                "commentCount": 17,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000mv6w02037.jpg",
+                "distanceStr": "距市中心45.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9292.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三峡垂直升船机": {
+                "commentCount": 253,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0y12000dev81fuF8D1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/2017412.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "恩施地心谷景区": {
+                "commentCount": 2252,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106s12000f6q12phF61C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jianshi2696/1647005.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "神农架天燕滑雪场": {
+                "commentCount": 68,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k1200096jqog2B823.jpg",
+                "distanceStr": "距市中心19.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/142045.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "屈原故里文化旅游区": {
+                "commentCount": 1801,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4f120008wluoh49A3B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zigui2726/16598.html?scene=online",
+                "isFree": false,
+                "price": 67.0
+            },
+            "巫峡·神女景区": {
+                "commentCount": 116,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6k12000av54eyp739C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/5718634.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "野人谷": {
+                "commentCount": 118,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g5/M02/BB/45/CggYr1cN6VqAKcQDAAFYperNijw313.jpg",
+                "distanceStr": "距神农架16.6km",
+                "detailUrl": "https://you.ctrip.com/sight/fangcounty2710/141339.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "长江三峡": {
+                "commentCount": 196,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsqkqEDF0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/1835294.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "古隆中": {
+                "commentCount": 3031,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z120008api97b99C9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiangyang414/48889.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "神农架林区·起点休闲": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心40.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/145186966.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "重庆游船观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y1200087cuizr215A.jpg",
+                "distanceStr": "重庆",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/0.html?poiId=149543777",
+                "isFree": false,
+                "price": ""
+            },
+            "巫峡口景区": {
+                "commentCount": 78,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3412000axxmj6j3653.jpg",
+                "distanceStr": "距神农架87.4km",
+                "detailUrl": "https://you.ctrip.com/sight/badong2688/115415330.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "神农架悦榕山庄": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心40.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/145137100.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武当山太和索道": {
+                "commentCount": 33,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101712000f6r6s5eD84F.jpg",
+                "distanceStr": "距神农架79.2km",
+                "detailUrl": "https://you.ctrip.com/sight/danjiangkou1018/5719932.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国唐城": {
+                "commentCount": 4626,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103912000as6208dCF42.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiangyang414/1699843.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "恩施绿葱坡滑雪场": {
+                "commentCount": 91,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h120008cijbek5FC0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/badong2688/5678374.html?scene=online",
+                "isFree": false,
+                "price": 95.9
+            },
+            "清江画廊": {
+                "commentCount": 5273,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000f6tswsd1F8F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/changyang2690/51544.html?scene=online",
+                "isFree": false,
+                "price": 95.0
+            },
+            "西陵峡风景区": {
+                "commentCount": 808,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1h12000fmecqw1DB70.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/4304.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "丹江口大坝景区": {
+                "commentCount": 345,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101p120009spiwvbAE30.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/danjiangkou1018/1714418.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "九路寨生态旅游区": {
+                "commentCount": 236,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101j12000f6rce070BB7.jpg",
+                "distanceStr": "距神农架50.5km",
+                "detailUrl": "https://you.ctrip.com/sight/baokang143871/51920.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "神农架大熊猫馆": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000f5jfbmpF4AD.jpg",
+                "distanceStr": "距市中心45.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/145470473.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小小三峡": {
+                "commentCount": 76,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000f6t2uj916F4.jpg",
+                "distanceStr": "距神农架94.0km",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/4477.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "恩施州神农溪纤夫文化旅游区": {
+                "commentCount": 25,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106s120008t4etum1AA6.jpg",
+                "distanceStr": "距神农架85.2km",
+                "detailUrl": "https://you.ctrip.com/sight/badong2688/5716773.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "神农架林区神农架大九湖国家湿地公园-观景台": {
+                "commentCount": 9,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j120009f6kwsn7384.jpg",
+                "distanceStr": "距市中心69.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/83484865.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "燕子洞": {
+                "commentCount": 18,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqh9tB1A9.jpg",
+                "distanceStr": "距市中心20.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9211.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "交运长江夜游游船": {
+                "commentCount": 823,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j120009gg6ratA16F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/1913656.html?scene=online",
+                "isFree": false,
+                "price": 136.0
+            },
+            "襄阳古城": {
+                "commentCount": 944,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a12000fi4r7zpFAD3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiangyang414/48937.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "神农架猕猴乐园": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104v120008vmi8pv6F7F.jpg",
+                "distanceStr": "距市中心58.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/5100376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "尧治河旅游度假区": {
+                "commentCount": 54,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01071120008i2dolx3598.jpg",
+                "distanceStr": "距神农架15.5km",
+                "detailUrl": "https://you.ctrip.com/sight/baokang143871/1924201.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三游洞": {
+                "commentCount": 1007,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0p12000fmed8lw57AF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/51725.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "神农架自然博物馆": {
+                "commentCount": 10,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1005090000003q0dfD74E.jpg",
+                "distanceStr": "距市中心981m",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/17911.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "船进三峡人家": {
+                "commentCount": 119,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000aq74h35853F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/134718326.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "太子垭": {
+                "commentCount": 21,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1512000bhd4p2j4DEC.jpg",
+                "distanceStr": "距市中心56.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/1414586.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "野人洞": {
+                "commentCount": 37,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2h12000bfgst6j507F.jpg",
+                "distanceStr": "距神农架20.0km",
+                "detailUrl": "https://you.ctrip.com/sight/fangcounty2710/1479731.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "神农架自然展览馆群-民俗馆": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images//0103c1200088f3kg68226.jpg",
+                "distanceStr": "距市中心45.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/67708292.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "恩施梭布垭石林景区": {
+                "commentCount": 2102,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q11000000rilao1843.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/enshicity1446196/51364.html?scene=online",
+                "isFree": false,
+                "price": 103.0
+            },
+            "巫峡": {
+                "commentCount": 103,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0l13000000vmybcB1B7.jpg",
+                "distanceStr": "距神农架95.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wushancounty2025187/4303.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "燕子垭": {
+                "commentCount": 24,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t0y000000lw7zb68F3.jpg",
+                "distanceStr": "距市中心20.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9273.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天燕原始生态旅游区-天门垭景区": {
+                "commentCount": 10,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp1jfC3E6.jpg",
+                "distanceStr": "距市中心22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/9274.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武当太极湖": {
+                "commentCount": 113,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35080v000000jn7686C98.jpg",
+                "distanceStr": "距神农架96.3km",
+                "detailUrl": "https://you.ctrip.com/sight/danjiangkou1018/136422.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "车溪民俗旅游区": {
+                "commentCount": 371,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01053120008v2by02F0AA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/46340.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "葛洲坝": {
+                "commentCount": 236,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b120006298ccwC558.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/4306.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "葛洲坝公园": {
+                "commentCount": 34,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grnid7E33.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/1975039.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "神农顶景区星空帐篷营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000f557qfu90CD.png",
+                "distanceStr": "距市中心49.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/145363525.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "襄阳华侨城奇幻谷": {
+                "commentCount": 25794,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01053120009exs41h9C72.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiangyang414/133897816.html?scene=online",
+                "isFree": false,
+                "price": 268.0
+            },
+            "九畹溪漂流": {
+                "commentCount": 564,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g0v000000jlrecE569.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zigui2726/51535.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "襄阳华侨城奇幻度假区": {
+                "commentCount": 4735,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01035120008kdomgt8B13.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/xiangyang414/102141027.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "大龙潭": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x120008ovhbb2573A.png",
+                "distanceStr": "距市中心44.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/5067620.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三峡移民博物馆": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh0j12000ge36zoiE10E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zigui2726/145324036.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "快乐谷三峡蹦极": {
+                "commentCount": 148,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gso2aDAFB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/20283.html?scene=online",
+                "isFree": false,
+                "price": 230.0
+            },
+            "西陵峡快乐谷": {
+                "commentCount": 74,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000aqbpa07CC3D.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yichang313/50855.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "瞿塘峡": {
+                "commentCount": 154,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200089n7glu3F91.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/fengjiecounty2025223/4300.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三峡竹海": {
+                "commentCount": 401,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o12000000rmnza1803.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zigui2726/136326.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "潮水河漂流": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1h000001hkhk70CB6.jpg",
+                "distanceStr": "距市中心46.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shennongjia147/1410752.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

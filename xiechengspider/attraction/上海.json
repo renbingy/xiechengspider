@@ -1,0 +1,735 @@
+{
+    "直辖市": {
+        "上海": {
+            "外滩": {
+                "commentCount": 152493,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040m000000dht6p0F19.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/736.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海迪士尼度假区": {
+                "commentCount": 245010,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000gqrgv9bE910.jpg",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1412255.html?scene=online",
+                "isFree": false,
+                "price": 399.0
+            },
+            "东方明珠": {
+                "commentCount": 150323,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010691200097uy8rk36FE.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/762.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "上海海昌海洋公园": {
+                "commentCount": 41848,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0g12000h5ahifzF2C6.jpg",
+                "distanceStr": "距市中心54.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/4651499.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "豫园": {
+                "commentCount": 47510,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v12000f9ug057967E.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/740.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "上海野生动物园": {
+                "commentCount": 103718,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000h7faola7A0F.jpg",
+                "distanceStr": "距市中心30.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/758.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "上海博物馆": {
+                "commentCount": 4484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x1200042pw7745DC1.jpg",
+                "distanceStr": "距市中心296m",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/3733.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海天文馆": {
+                "commentCount": 4932,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01069120009ze52fdA92D.jpg",
+                "distanceStr": "距市中心55.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/69572753.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黄浦江游览(十六铺码头)": {
+                "commentCount": 11125,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35091e000001ey01xBB09.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/137059.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "黄浦江": {
+                "commentCount": 3036,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxcdwB7C4.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1815443.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海中心大厦": {
+                "commentCount": 5616,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000f6pvv945ED1.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1827363.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "磁浮列车": {
+                "commentCount": 6272,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gstmz0A34.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/20786.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "上海海洋水族馆": {
+                "commentCount": 43642,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100i12000f6rbqp57258.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18722.html?scene=online",
+                "isFree": false,
+                "price": 155.0
+            },
+            "上海之巅观光厅": {
+                "commentCount": 12865,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10070d0000006wasz1009.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/2005734.html?scene=online",
+                "isFree": false,
+                "price": 178.0
+            },
+            "城隍庙旅游区": {
+                "commentCount": 8529,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqi1p4B80.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5691.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海动物园": {
+                "commentCount": 15180,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y120009j4hethC8A2.jpg",
+                "distanceStr": "距市中心11.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/25506.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "迪士尼小镇": {
+                "commentCount": 24533,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0z000000nmk4q9783.jpg",
+                "distanceStr": "距市中心20.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1936675.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海千古情": {
+                "commentCount": 1629,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6qjpj8C6E7.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/140068129.html?scene=online",
+                "isFree": false,
+                "price": 239.0
+            },
+            "上海欢乐谷": {
+                "commentCount": 24371,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0412000h5xrmub1135.jpg",
+                "distanceStr": "距市中心28.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/65957.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "上海佘山国家旅游度假区": {
+                "commentCount": 11,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010z000000nx0krD720.jpg",
+                "distanceStr": "距市中心30.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5140522.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南京路步行街": {
+                "commentCount": 43680,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u120008c3zeiy8417.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/3739.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海杜莎夫人蜡像馆": {
+                "commentCount": 13120,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5k12000ev1412z69D9.jpg",
+                "distanceStr": "距市中心458m",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18316.html?scene=online",
+                "isFree": false,
+                "price": 170.0
+            },
+            "陆家嘴": {
+                "commentCount": 3526,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m12000f6t9mkeFB60.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1815444.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海自然博物馆": {
+                "commentCount": 8745,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i11000000qe9tl9638.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5646.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金茂大厦": {
+                "commentCount": 6845,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010691200083ix667DB18.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/739.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金茂大厦88层观光厅": {
+                "commentCount": 3207,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d12000f6t99k72672.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1816019.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "【上海】何以敦煌上海艺术展": {
+                "commentCount": 192,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5712000f0f7chhA1F7.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/148466687.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "上海影视乐园": {
+                "commentCount": 7177,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6qv0027201.jpg",
+                "distanceStr": "距市中心28.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5622.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "都市观光巴士": {
+                "commentCount": 1476,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3912000c6ayfll8FEC.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1488031.html?scene=online",
+                "isFree": false,
+                "price": 53.0
+            },
+            "外滩观光隧道": {
+                "commentCount": 3032,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w0m000000dlzn45F4B.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18300.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "朱家角古镇景区": {
+                "commentCount": 3112,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a1200086ob7pyFA26.jpg",
+                "distanceStr": "距市中心42.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/14903.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "浦东美术馆": {
+                "commentCount": 1145,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0n12000g19zba5FDF5.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/124908212.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "广富林文化遗址": {
+                "commentCount": 5831,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040t000000inke79FDC.jpg",
+                "distanceStr": "距市中心32.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/111500.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海乐高探索中心": {
+                "commentCount": 2840,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6012000gwctz0pE19F.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1838224.html?scene=online",
+                "isFree": false,
+                "price": 215.0
+            },
+            "【上海】2024《反恐精英》世界锦标赛决胜赛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a12000ga9g0bnF89A.jpg",
+                "distanceStr": "距市中心8.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/149292088.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海科技馆": {
+                "commentCount": 33154,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105g1200087d6lidB450.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18308.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浦江游览": {
+                "commentCount": 627,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01062120008gr2i6h24AF.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/11160.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "静安寺": {
+                "commentCount": 1214,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1f000001gsojgF8E4.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/744.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海汽车博物馆": {
+                "commentCount": 4988,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090r000000hffju9A06.jpg",
+                "distanceStr": "距市中心29.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/110254.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "黄浦江游览（东方明珠码头）": {
+                "commentCount": 510,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5v12000cwpgg9s7A43.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/2044897.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国航海博物馆": {
+                "commentCount": 4781,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0q000000gaboj9A75.jpg",
+                "distanceStr": "距市中心56.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/107382.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "武康路": {
+                "commentCount": 631,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q12000f6redle640E.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/132538.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "田子坊": {
+                "commentCount": 2339,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt1ey32DA.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/64755.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "疯狂动物城": {
+                "commentCount": 31,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6312000dmg35udA7C8.png",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/143192731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海大自然野生昆虫馆": {
+                "commentCount": 2966,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000f6t2uzm6EB0.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/19664.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "上海薰衣草公园": {
+                "commentCount": 18972,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6712000azkkjdcD5AE.jpg",
+                "distanceStr": "距市中心21.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1964249.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "BUS TOUR 上海观光游": {
+                "commentCount": 646,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000f6t5ynlE722.jpg",
+                "distanceStr": "距市中心520m",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/136731.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "上海 · 《重聚·贰》音乐剧明星音乐会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000goadftr2A00.jpg",
+                "distanceStr": "距市中心209m",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/149291009.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "【上海】世界经典原版音乐剧《猫》CATS-上海站": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000fmhzc0f2A31.jpg",
+                "distanceStr": "距市中心8.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/148914559.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "人民广场": {
+                "commentCount": 10102,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001gruggD1C5.jpg",
+                "distanceStr": "距市中心174m",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/107864.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "威尼斯小镇": {
+                "commentCount": 12737,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000ns8d36D9B.jpg",
+                "distanceStr": "距市中心9.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/4149747.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海电影博物馆": {
+                "commentCount": 2492,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n120009gifbh2A59F.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/110776.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "蓝精灵乐园-上海世茂精灵之城主题乐园": {
+                "commentCount": 2672,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp24t45D7.jpg",
+                "distanceStr": "距市中心35.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5707683.html?scene=online",
+                "isFree": false,
+                "price": 159.0
+            },
+            "上海游船观光": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000f6cn3ceD44E.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/0.html?poiId=148852246",
+                "isFree": false,
+                "price": ""
+            },
+            "上海博物馆(东馆)": {
+                "commentCount": 63,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000f6uhhln9D12.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5717748.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【上海】音乐话剧《受到召唤·敦煌》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l12000gwns7dw3AA5.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/149609146.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新天地": {
+                "commentCount": 1583,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j11000000qb56w9951.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18739.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海老街(人民路)": {
+                "commentCount": 1245,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k120008c4lc665714.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18318.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中华艺术宫": {
+                "commentCount": 851,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M08/C8/F7/CghzflWww1GATHPPABnveZ3DOw0100.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/18317.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海玛雅海滩水公园": {
+                "commentCount": 12508,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01027120008ntdg0wEA56.jpg",
+                "distanceStr": "距市中心29.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/141307.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "世博会博物馆": {
+                "commentCount": 597,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1b000001aafcbAFBF.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/110783.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海城隍庙道观": {
+                "commentCount": 1888,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x12000fe389h1BD51.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1407313.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "震旦博物馆": {
+                "commentCount": 641,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x12000b95brei35D9.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/110603.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "上海环球金融中心": {
+                "commentCount": 18083,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j120008tw8io4017B.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/57043.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海马戏城": {
+                "commentCount": 660,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120009yqfloqC381.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/49031.html?scene=online",
+                "isFree": false,
+                "price": 361.0
+            },
+            "【上海】《金字塔之巅：古埃及文明大展》展览": {
+                "commentCount": 361,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000eismru9FCA5.png",
+                "distanceStr": "距市中心296m",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/148448410.html?scene=online",
+                "isFree": false,
+                "price": 148.0
+            },
+            "思南公馆": {
+                "commentCount": 551,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f10000000osmdxA2DA.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/147878.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄浦江游览（金陵东路码头）": {
+                "commentCount": 351,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s12000f6q7xqzE259.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5252407.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "上海长风海洋世界": {
+                "commentCount": 7592,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3s12000gwctkaw38F1.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/15297.html?scene=online",
+                "isFree": false,
+                "price": 149.0
+            },
+            "上海四行仓库抗战纪念馆": {
+                "commentCount": 361,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01073120008ibw1u3405F.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1726870.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "交通银行耀雪冰雪世界": {
+                "commentCount": 203,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0b12000ey2b4ze19E1.jpg",
+                "distanceStr": "距市中心53.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/140950753.html?scene=online",
+                "isFree": false,
+                "price": 210.0
+            },
+            "上海玻璃博物馆": {
+                "commentCount": 1483,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000f6sefsmC1C9.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/90024.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "上海城市历史发展陈列馆": {
+                "commentCount": 408,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103712000f6qlq2f6556.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1416847.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "武康大楼": {
+                "commentCount": 474,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqflzF98B.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/132515.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海旗袍体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000ge4giqk1DB3.jpg",
+                "distanceStr": "中国",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/0.html?poiId=149543803",
+                "isFree": false,
+                "price": ""
+            },
+            "外白渡桥": {
+                "commentCount": 1721,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gqbop5073.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/49765.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "锦江乐园": {
+                "commentCount": 5554,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6wlz30A3.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/748.html?scene=online",
+                "isFree": false,
+                "price": 123.0
+            },
+            "“快乐船长”黄浦江游船": {
+                "commentCount": 1342,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0o12000c7koao94188.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/136723.html?scene=online",
+                "isFree": false,
+                "price": 238.0
+            },
+            "《不眠之夜》": {
+                "commentCount": 156,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l10000000oseml5D7C.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/4976341.html?scene=online",
+                "isFree": false,
+                "price": 625.0
+            },
+            "申城观光双层巴士": {
+                "commentCount": 188,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f120004ifyfgq809B.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/5372341.html?scene=online",
+                "isFree": false,
+                "price": 44.5
+            },
+            "上海观复博物馆": {
+                "commentCount": 1342,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d12000f6ta0n86C6F.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1840738.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            }
+        }
+    }
+}

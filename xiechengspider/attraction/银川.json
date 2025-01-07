@@ -1,0 +1,798 @@
+{
+    "宁夏": {
+        "银川": {
+            "镇北堡西部影城": {
+                "commentCount": 15364,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010z000000ny7agFB63.jpg",
+                "distanceStr": "距市中心19.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8834.html?scene=online",
+                "isFree": false,
+                "price": 76.0
+            },
+            "西夏陵": {
+                "commentCount": 5080,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350u1900000177n71B401.jpg",
+                "distanceStr": "距市中心19.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8831.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "贺兰山岩画": {
+                "commentCount": 3292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3012000c6ccxfhD575.png",
+                "distanceStr": "距市中心33.4km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/8821.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "宁夏水洞沟旅游区": {
+                "commentCount": 5449,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0k12000cod1h733D56.png",
+                "distanceStr": "距市中心32.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/50459.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁夏贺兰山国家森林公园": {
+                "commentCount": 1241,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2f12000h2nj8z5E87F.jpg",
+                "distanceStr": "距市中心39.3km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/18250.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁夏博物馆": {
+                "commentCount": 523,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j180000013yclo509C.jpg",
+                "distanceStr": "距市中心451m",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/147000.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄沙古渡原生态旅游区": {
+                "commentCount": 1039,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01031120008hk0f91051C.jpg",
+                "distanceStr": "距市中心29.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8829.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁夏地质博物馆": {
+                "commentCount": 404,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o1a000001960lv8629.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5681469.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "西夏陵博物馆": {
+                "commentCount": 75,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqbln451A.jpg",
+                "distanceStr": "距市中心19.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5073308.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川鸣翠湖国家湿地公园": {
+                "commentCount": 384,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1c000001cv58eEBB8.jpg",
+                "distanceStr": "距市中心16.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/140407.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西夏风情园": {
+                "commentCount": 532,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350k1d000001esjvcADD6.jpg",
+                "distanceStr": "距市中心17.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1414394.html?scene=online",
+                "isFree": false,
+                "price": 32.0
+            },
+            "龙谕酒庄": {
+                "commentCount": 532,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp7ce6377.jpg",
+                "distanceStr": "距市中心11.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1414597.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "览山公园": {
+                "commentCount": 47,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000f6te36qE95A.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5066697.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄河军事文化博览园": {
+                "commentCount": 317,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35020v000000jq74k01BD.jpg",
+                "distanceStr": "距市中心25.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/69614.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "漫葡天沐温泉": {
+                "commentCount": 303,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010011200082vx1hk9641.jpg",
+                "distanceStr": "距市中心20.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1739817.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怀远观光夜市": {
+                "commentCount": 14,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100l12000f22e0dh5C6D.jpg",
+                "distanceStr": "距市中心8.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/131149045.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阅海公园": {
+                "commentCount": 43,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100n12000f6t3rgz6C5E.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/50458.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阅海滑雪场": {
+                "commentCount": 38,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2912000h6se60u8BDF.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1508216.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月亮门": {
+                "commentCount": 132,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000axbwgk10D8E.jpg",
+                "distanceStr": "距市中心19.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1715043.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鼓楼": {
+                "commentCount": 315,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a0z000000nju708682.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8942.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "源石酒庄": {
+                "commentCount": 37,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0v12000dxyb8jz145A.jpg",
+                "distanceStr": "距市中心19.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1840516.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "鸣翠湖滑雪场": {
+                "commentCount": 29,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/256/146/483/9f0cf33a72d748f39f478eccfa4b0dab.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1494031.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "老银川一条街": {
+                "commentCount": 31,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000f6ubse72AE1.jpg",
+                "distanceStr": "距市中心19.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5069504.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "华夏河图.银川艺术小镇": {
+                "commentCount": 13,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0q000000gi9da2D4F.jpg",
+                "distanceStr": "距市中心18.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yongning2324/1709241.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川当代美术馆": {
+                "commentCount": 144,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000914rom45A18.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yongning2324/1740866.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "宁夏枸杞博物馆": {
+                "commentCount": 174,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t170000011g1yu6CA0.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/1478788.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "藏兵洞": {
+                "commentCount": 43,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsuzo6E5C.jpg",
+                "distanceStr": "距市中心34.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/4623434.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁夏幻太奇海洋公园": {
+                "commentCount": 198,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w12000f6uc1yf79E5.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5099382.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "百瑞源殷红子熟枸杞庄园": {
+                "commentCount": 93,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3312000ey3eek70057.jpg",
+                "distanceStr": "距市中心22.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/139491922.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "滚钟口风景区": {
+                "commentCount": 141,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01048120009cywv30368E.jpg",
+                "distanceStr": "距市中心28.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8830.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "银川酒文化体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4o12000dxyaoakBD98.jpg",
+                "distanceStr": "宁夏",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/0.html?poiId=149275310",
+                "isFree": false,
+                "price": ""
+            },
+            "鼓楼尚街小吃一条街": {
+                "commentCount": 20,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000f6tiwzhD046.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5630382.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三关口明长城": {
+                "commentCount": 16,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f120008qjelqdFF66.jpg",
+                "distanceStr": "距市中心37.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/50510.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西夏陵遗址区": {
+                "commentCount": 39,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c12000f6s1mjw98B4.jpg",
+                "distanceStr": "距市中心19.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5623415.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沙温泉度假区": {
+                "commentCount": 155,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01066120008htzxe9B207.jpg",
+                "distanceStr": "距市中心17.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5597341.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川韩美林艺术馆": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e120008dgiad1A253.jpg",
+                "distanceStr": "距市中心33.4km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/2688804.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中阿之轴": {
+                "commentCount": 111,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f1f000001gqaa0CF3D.jpg",
+                "distanceStr": "距市中心4.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1714928.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "承天寺塔": {
+                "commentCount": 190,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000nhacs6825.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8818.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清城大门": {
+                "commentCount": 60,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpdopDCC6.jpg",
+                "distanceStr": "距市中心19.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1715061.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沙湖生态旅游区": {
+                "commentCount": 4732,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsy3h002E.jpg",
+                "distanceStr": "距银川36.8km",
+                "detailUrl": "https://you.ctrip.com/sight/pingluo2102/140406.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉皇阁": {
+                "commentCount": 179,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030z000000nkb6j3436.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8832.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "银川世界岩画馆": {
+                "commentCount": 20,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01040120008dgi5ny7C59.jpg",
+                "distanceStr": "距市中心33.2km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/4611840.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海宝塔寺": {
+                "commentCount": 109,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e0z000000nl738DAE0.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8820.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南门楼": {
+                "commentCount": 208,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqgoh2415.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8945.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宁夏科技馆": {
+                "commentCount": 73,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106812000atjgiwp4692.jpg",
+                "distanceStr": "距市中心392m",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1413798.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青铜峡黄河大峡谷": {
+                "commentCount": 3339,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0713000000w3gbu9EFF.jpg",
+                "distanceStr": "距银川69.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qingtongxia2330/70400.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "水洞沟村": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3505170000011juje1A71.jpg",
+                "distanceStr": "距市中心32.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/5619347.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西夏古城": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103w12000f6s1f2e275E.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/69538771.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "水洞沟遗址博物馆": {
+                "commentCount": 16,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h12000f6rqf714FAD.jpg",
+                "distanceStr": "距市中心32.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/5704303.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川南关清真寺": {
+                "commentCount": 126,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104612000f6scncr25BD.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8823.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "腾格里沙漠": {
+                "commentCount": 176,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0z000000nanoy299F.jpg",
+                "distanceStr": "距银川74.7km",
+                "detailUrl": "https://you.ctrip.com/sight/alxaleftbanner143886/145058.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "银川动物园": {
+                "commentCount": 35,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001grwpg19E7.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/3141628.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川文化园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e12000dg6xvjlE388.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/144552560.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川文化艺术博览中心": {
+                "commentCount": 51,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105012000aj7m9nvA8C6.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/104502470.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "银川花博会": {
+                "commentCount": 80,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020q000000giibrDE5B.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/2495749.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宁夏农旅产业园": {
+                "commentCount": 79,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000f6tv16t807D.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/129297.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天山海世界黄河明珠": {
+                "commentCount": 143,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b1200085c4uoqA534.jpg",
+                "distanceStr": "距市中心25.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5713260.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "宁园": {
+                "commentCount": 65,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000f6rcf843D0B.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/50507.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "银川文化城·凤凰幻城": {
+                "commentCount": 13,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000azwmgf8436E.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/112647674.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄河外滩国家湿地公园": {
+                "commentCount": 7,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000f6uhpva7B1C.jpg",
+                "distanceStr": "距市中心23.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/120422008.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "拜寺口双塔": {
+                "commentCount": 43,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p120005ulj8ccC4E8.jpg",
+                "distanceStr": "距市中心31.6km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/8815.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "银川森林公园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000f6rov22A5A7.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5545344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【银川】陕西人艺“茅奖三部曲”之《白鹿原》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103312000fc3qo58FCA8.webp",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/148889146.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银川黄河古渡": {
+                "commentCount": 3,
+                "commentScore": 2.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000b0z4codF30B.jpg",
+                "distanceStr": "距市中心29.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5142857.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "盛世汤泉": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0x000000lbkdz561D.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5010393.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "灵武恐龙化石遗址": {
+                "commentCount": 6,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000f6s11yh1596.jpg",
+                "distanceStr": "距市中心62.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/69327043.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "明城": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m12000f6tjsplB645.jpg",
+                "distanceStr": "距市中心19.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/98276893.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阅海欢乐岛游乐场": {
+                "commentCount": 32,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqeou67DF.jpg",
+                "distanceStr": "距市中心5.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/3139928.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国·银川花博园": {
+                "commentCount": 17,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3s12000c8npemq3D9B.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/67829000.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宁夏牛街": {
+                "commentCount": 11,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a18000001401wr364B.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5168458.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "乌兰湖": {
+                "commentCount": 18,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101q120009jfx10f4175.jpg",
+                "distanceStr": "距银川89.8km",
+                "detailUrl": "https://you.ctrip.com/sight/alxaleftbanner143886/134024856.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "银川美术馆": {
+                "commentCount": 36,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l180000014mvyw7664.jpg",
+                "distanceStr": "距市中心501m",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/2649342.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中山公园": {
+                "commentCount": 96,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000f6pwr1o99A6.jpg",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/8943.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "沙坡头": {
+                "commentCount": 19696,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0q000000ga82rCD2E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/zhongwei1184/50442.html?scene=online",
+                "isFree": false,
+                "price": 44.0
+            },
+            "西夏陵国家考古遗址公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100r12000f3k26vc53FB.jpg",
+                "distanceStr": "距市中心22.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/148545709.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红玛瑙枸杞观光园": {
+                "commentCount": 26,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a12000f6shhap5F94.jpg",
+                "distanceStr": "距市中心14.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1418343.html?scene=online",
+                "isFree": false,
+                "price": 16.0
+            },
+            "阅海湾水上公园": {
+                "commentCount": 6,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d12000f6rkf8e6F22.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/4623547.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阅海滑草场": {
+                "commentCount": 20,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000f6uh68n04E7.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/5713042.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "纳家户大寺": {
+                "commentCount": 20,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01023120009qhl39j8166.jpg",
+                "distanceStr": "距市中心22.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yongning2324/9209.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雁门关": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0l16000000z41b51E49.jpg",
+                "distanceStr": "距市中心20.0km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/145307743.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "岩画古村餐饮": {
+                "commentCount": 18,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101x1200092lohjo846A.jpg",
+                "distanceStr": "距市中心33.0km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/1949489.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "贺兰山广宗寺（南寺）生态旅游区": {
+                "commentCount": 190,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106t120008k785e21196.jpg",
+                "distanceStr": "距银川43.1km",
+                "detailUrl": "https://you.ctrip.com/sight/alxaleftbanner143886/51632.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西夏风情园滑雪场": {
+                "commentCount": 30,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104j120008by4i992B26.jpg",
+                "distanceStr": "距市中心16.9km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/1487568.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "贺兰山东麓旅游度假区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3112000f182ttv979C.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/yinchuan239/148778131.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红山湖": {
+                "commentCount": 20,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f120008alurk74D22.jpg",
+                "distanceStr": "距市中心32.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/5072634.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "甘露寺": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000b83tea4749B.jpg",
+                "distanceStr": "距市中心27.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/69566825.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵武高庙": {
+                "commentCount": 6,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c120009dlnivjA85C.jpg",
+                "distanceStr": "距市中心44.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lingwu2323/2024793.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "稻渔空间": {
+                "commentCount": 39,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0d12000bnbtfpi119B.jpg",
+                "distanceStr": "距市中心19.4km",
+                "detailUrl": "https://you.ctrip.com/sight/helan2119/5708206.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

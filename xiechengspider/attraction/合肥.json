@@ -1,0 +1,771 @@
+{
+    "安徽": {
+        "合肥": {
+            "三河古镇": {
+                "commentCount": 3932,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s120005wqe27b5DA9.jpg",
+                "distanceStr": "距市中心39.5km",
+                "detailUrl": "https://you.ctrip.com/sight/feixi2619/20464.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "包公园": {
+                "commentCount": 2853,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01058120005wqx3of7F29.jpg",
+                "distanceStr": "距市中心819m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66484.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "安徽博物院(新馆)": {
+                "commentCount": 690,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6rfcnt23D3.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1682342.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "姥山岛": {
+                "commentCount": 956,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5012000bthxbm1D16A.jpg",
+                "distanceStr": "距市中心36.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/17484.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "合肥融创乐园": {
+                "commentCount": 1599,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2s12000h5c8zhp9DE2.jpg",
+                "distanceStr": "距市中心18.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1941985.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "合肥融创文化旅游城": {
+                "commentCount": 44,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000b0f5ql039EA.jpg",
+                "distanceStr": "距市中心18.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/4330351.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "合肥海洋世界": {
+                "commentCount": 3433,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l120008gcgso9B569.jpg",
+                "distanceStr": "距市中心11.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/64786.html?scene=online",
+                "isFree": false,
+                "price": 155.0
+            },
+            "李鸿章故居": {
+                "commentCount": 4457,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/tg/917/303/677/c50ef065676b443fa70542ed8338a4fc.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/20461.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "包公祠": {
+                "commentCount": 440,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01053120005wr7vq7A738.jpg",
+                "distanceStr": "距市中心896m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10954.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "清风阁": {
+                "commentCount": 213,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000f6ts5ooDDA4.jpg",
+                "distanceStr": "距市中心932m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10540.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "大蜀山国家森林公园": {
+                "commentCount": 232,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000evf5j2r1D1C.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66457.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "合肥野生动物园": {
+                "commentCount": 450,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104l1200087v7d5j3919.jpg",
+                "distanceStr": "距市中心12.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66990.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "深业半汤御泉庄温泉": {
+                "commentCount": 1226,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqxbv3F09.jpg",
+                "distanceStr": "距市中心63.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/136324.html?scene=online",
+                "isFree": false,
+                "price": 143.0
+            },
+            "合柴1972": {
+                "commentCount": 60,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c12000f6s1qq9639A.jpg",
+                "distanceStr": "距市中心8.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/5662360.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "少荃体育中心": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l12000d0gcz4xE377.png",
+                "distanceStr": "距市中心11.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/144552490.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥融创水世界": {
+                "commentCount": 13706,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0x000000la43h9C8C.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1942065.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "罍街夜市广场": {
+                "commentCount": 25,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y1200092jwnnk994D.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/69412777.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浮庄": {
+                "commentCount": 160,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101w12000f6sih1xE2AF.jpg",
+                "distanceStr": "距市中心832m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1682641.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "祥源花世界": {
+                "commentCount": 651,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f12000f6uf8q7CFA4.png",
+                "distanceStr": "距市中心24.1km",
+                "detailUrl": "https://you.ctrip.com/sight/feixi2619/5382356.html?scene=online",
+                "isFree": false,
+                "price": 16.0
+            },
+            "【合肥】徐海乔2024《时间秘境》个人见面会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000cf1q7sd65C9.png",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/149599355.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "骆岗中央公园": {
+                "commentCount": 25,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5912000cwtmioi5102.jpg",
+                "distanceStr": "距市中心9.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/142223909.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "逍遥津公园": {
+                "commentCount": 1050,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000f6qvg9qBB58.jpg",
+                "distanceStr": "距市中心621m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10536.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "合肥露营": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4912000cfc07ui6A1A.jpg",
+                "distanceStr": "安徽",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/0.html?poiId=148914464",
+                "isFree": false,
+                "price": ""
+            },
+            "包公墓": {
+                "commentCount": 179,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000f6tsf98F7F6.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10973.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三国合肥历史文化馆": {
+                "commentCount": 15,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01047120009t5tken5A7A.jpg",
+                "distanceStr": "距市中心791m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/133979376.html?scene=online",
+                "isFree": false,
+                "price": 9.9
+            },
+            "金孔雀温泉旅游度假村": {
+                "commentCount": 396,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0q000000gol32DF30.jpg",
+                "distanceStr": "距市中心63.3km",
+                "detailUrl": "https://you.ctrip.com/sight/lujiang2602/136557.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥汤池温泉旅游度假区": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2y12000eivor1e9BC6.jpg",
+                "distanceStr": "距市中心61.8km",
+                "detailUrl": "https://you.ctrip.com/sight/lujiang2602/144143237.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥梵高星空艺术馆": {
+                "commentCount": 194,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp4al380B.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/5379351.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "明教寺": {
+                "commentCount": 177,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090p000000fial91875.jpg",
+                "distanceStr": "距市中心420m",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10541.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫微洞": {
+                "commentCount": 591,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt1jf098B.jpg",
+                "distanceStr": "距市中心59.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/17487.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "刘园·古徽州文化园": {
+                "commentCount": 61,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080s000000i6f126AA4.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1840234.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "安徽省博物馆老馆": {
+                "commentCount": 428,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g12000f6sd2hqA17D.jpg",
+                "distanceStr": "距市中心1.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10964.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "一号泉漂浮温泉": {
+                "commentCount": 70,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w120008b237kbAD45.jpg",
+                "distanceStr": "距市中心62.6km",
+                "detailUrl": "https://you.ctrip.com/sight/lujiang2602/105934815.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "【合肥】哈啦子喜剧｜爆笑脱口秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105f12000et50llo1896.png",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148497347.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安徽省地质博物馆": {
+                "commentCount": 124,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000bm8kiqv9226.jpg",
+                "distanceStr": "距市中心9.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1682361.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "徽园": {
+                "commentCount": 1155,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106v12000f6psyzj040D.jpg",
+                "distanceStr": "距市中心11.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/64781.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "贡街": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d12000as5m0yk71D8.jpg",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/131149178.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】哈啦子喜剧｜之心城｜爆笑脱口秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r12000fcwgzxm5E21.png",
+                "distanceStr": "距市中心3.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148891075.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国非物质文化遗产园": {
+                "commentCount": 633,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102m12000f6pnqjl43D5.jpg",
+                "distanceStr": "距市中心22.7km",
+                "detailUrl": "https://you.ctrip.com/sight/changfeng2599/138865.html?scene=online",
+                "isFree": false,
+                "price": 56.0
+            },
+            "银屏山": {
+                "commentCount": 203,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000f6sd97xD4A5.jpg",
+                "distanceStr": "距市中心63.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/17486.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "滨湖国家森林公园": {
+                "commentCount": 153,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105h12000f6siwxgCA48.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1682611.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】开心麻花《开心聊斋·三生沉浸版》惊悚爆笑戏剧": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000glikxh1B62D.png",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/149572169.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三国遗址公园": {
+                "commentCount": 323,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6se2rk6477.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66510.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "【合肥】哈啦子喜剧｜金大地｜爆笑脱口秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000fhljpozABAE.png",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148903639.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥体育中心体育场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102n12000f6okdhi7F6E.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/140549817.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥植物园": {
+                "commentCount": 631,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqv3p1372.jpg",
+                "distanceStr": "距市中心8.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1415486.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "中国科学技术大学(东校区)": {
+                "commentCount": 247,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w120008bbx0l8C799.jpg",
+                "distanceStr": "距市中心3.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66465.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "庐州府城隍庙": {
+                "commentCount": 128,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d12000000rtocwAC39.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/66511.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "翡翠湖风景区": {
+                "commentCount": 71,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000f6ql20y3AA9.jpg",
+                "distanceStr": "距市中心14.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/118495.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "欧洲风情街": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101l12000f6tetxl7B21.jpg",
+                "distanceStr": "距市中心11.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/5170679.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【合肥】2024年亚洲羽毛球精英巡回赛总决赛": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100612000h33ojspF2EB.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/149649157.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥科技馆": {
+                "commentCount": 115,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102e12000ap5uzhqD3F5.jpg",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/10539.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "渡江战役纪念馆": {
+                "commentCount": 81,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102x1200086693lb5473.jpg",
+                "distanceStr": "距市中心17.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1683401.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】理查德·克莱德曼2025《爱·永恒》新春钢琴音乐会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000ewu07t34C94.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148523397.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥园博园": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2j12000cf3x56h7FAB.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/136462531.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "冶父山国家森林公园": {
+                "commentCount": 134,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101o120009hzqql7FD44.jpg",
+                "distanceStr": "距市中心63.0km",
+                "detailUrl": "https://you.ctrip.com/sight/lujiang2602/66342.html?scene=online",
+                "isFree": false,
+                "price": 14.0
+            },
+            "《奇遇三星堆》VR沉浸探索展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105212000epoes6l2810.jpg",
+                "distanceStr": "距市中心8.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148482181.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巢湖国家重点风景名胜区": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106212000as26342047B.jpg",
+                "distanceStr": "距市中心35.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/131896847.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥岸上草原": {
+                "commentCount": 40,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6ri4c94D5F.jpg",
+                "distanceStr": "距市中心19.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/2018537.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】无穹-中国·航天科技展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2v12000eklzsg0148E.jpg",
+                "distanceStr": "距市中心11.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148453069.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "牛首山文化旅游区": {
+                "commentCount": 19525,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091f000001gsqkfCFBE.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanjing9/18093.html?scene=online",
+                "isFree": false,
+                "price": 145.0
+            },
+            "天鹅湖体育公园": {
+                "commentCount": 201,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1c000001d6hviAE75.jpg",
+                "distanceStr": "距市中心8.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/118467.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】肆笑喜剧 | 周末爆笑推荐 | 金大地1912西街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000fmrz70jBE2A.webp",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/148915341.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安徽省美术馆": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000f6uijoxA960.jpg",
+                "distanceStr": "距市中心17.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/134040685.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "安徽名人馆": {
+                "commentCount": 38,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100212000f6q6s7rBEE3.jpg",
+                "distanceStr": "距市中心17.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/2524230.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】曹禺经典话剧《雷雨》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102712000gmp6zoi197D.webp",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/149576689.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巢湖湿地": {
+                "commentCount": 27,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq77r2917.jpg",
+                "distanceStr": "距市中心52.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chaohu187/1829859.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "周瑜墓园": {
+                "commentCount": 17,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000ap5vbpz783E.jpg",
+                "distanceStr": "距市中心68.7km",
+                "detailUrl": "https://you.ctrip.com/sight/lujiang2602/1714233.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "合肥开福禅寺": {
+                "commentCount": 70,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g120009d0m73125F3.jpg",
+                "distanceStr": "距市中心10.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/118472.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老街": {
+                "commentCount": 56,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000nks50C65B.jpg",
+                "distanceStr": "距市中心25.2km",
+                "detailUrl": "https://you.ctrip.com/sight/feidong2615/1683392.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "紫蓬山国家森林公园": {
+                "commentCount": 166,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6rc3ym79B3.jpg",
+                "distanceStr": "距市中心29.9km",
+                "detailUrl": "https://you.ctrip.com/sight/feixi2619/64275.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "1912街区": {
+                "commentCount": 52,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n12000f6q1png4EDB.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/5072916.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "国轩.温泉宫": {
+                "commentCount": 189,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000atldv2vD220.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/lujiang2602/1488047.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥市科技馆(蜀西湖馆区)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2w12000e9mrwg6FE34.jpg",
+                "distanceStr": "距市中心15.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/141047238.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "滨湖国际会展中心": {
+                "commentCount": 19,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k120009418wjw3CE3.jpg",
+                "distanceStr": "距市中心12.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/3143804.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥正大广场摩天轮乐园": {
+                "commentCount": 8,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000aubr6m2D56B.jpg",
+                "distanceStr": "距市中心11.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/93757369.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "岱山湖": {
+                "commentCount": 169,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000f6rcuj76D0F.jpg",
+                "distanceStr": "距市中心62.3km",
+                "detailUrl": "https://you.ctrip.com/sight/feidong2615/66452.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "半边街": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h1200092lkd5p9863.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/90497501.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "滨湖国际会展中心综合馆二号馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000h2cuuswF991.jpg",
+                "distanceStr": "距市中心12.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/145630287.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "国粹楼土菜馆(三河店)": {
+                "commentCount": 49,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gqakzD3A3.jpg",
+                "distanceStr": "距市中心39.6km",
+                "detailUrl": "https://you.ctrip.com/sight/feixi2619/1682704.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "合肥体育中心": {
+                "commentCount": 47,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102t120008e2b64qB955.jpg",
+                "distanceStr": "距市中心9.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/1983541.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "琅琊山景区": {
+                "commentCount": 2727,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020z000000nqow9CD6F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/chuzhou228/55559.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "【合肥】《审判者》大型实景搜证沉浸式微醺喜剧": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104812000cua0504D73E.png",
+                "distanceStr": "距市中心12.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/143689857.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "杨振宁旧居": {
+                "commentCount": 136,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6t2ls67A03.jpg",
+                "distanceStr": "距市中心39.8km",
+                "detailUrl": "https://you.ctrip.com/sight/feixi2619/10537.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黉街": {
+                "commentCount": 9,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103i12000f6r5kz8C145.jpg",
+                "distanceStr": "距市中心12.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hefei196/4258746.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}

@@ -1,0 +1,807 @@
+{
+    "广西": {
+        "巴马": {
+            "百魔洞": {
+                "commentCount": 1179,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000f6tueerC4F8.jpg",
+                "distanceStr": "距市中心23.3km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/131883.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "盘阳河景区": {
+                "commentCount": 49,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106n1200089fjh5nA0E5.jpg",
+                "distanceStr": "距市中心11.9km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135110.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "巴马百鸟岩": {
+                "commentCount": 721,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4u12000c2ufv90F2C3.jpg",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135106.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "巴马水晶宫": {
+                "commentCount": 547,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4m12000c2ugtcb5940.jpg",
+                "distanceStr": "距市中心30.9km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/131884.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "仁寿源": {
+                "commentCount": 77,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0h12000f6skrsi4F7C.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/141706.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "长寿村": {
+                "commentCount": 213,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000ez4a756E274.jpg",
+                "distanceStr": "距市中心20.6km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135109.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "巴马长寿岛": {
+                "commentCount": 52,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10031f000001gry127062.jpg",
+                "distanceStr": "距市中心7.8km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/1830051.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "坡月村": {
+                "commentCount": 10,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104812000f6te3rl41C2.jpg",
+                "distanceStr": "距市中心23.5km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/5069340.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三门海": {
+                "commentCount": 410,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4412000h4bh79mA0CC.jpg",
+                "distanceStr": "距巴马37.3km",
+                "detailUrl": "https://you.ctrip.com/sight/fengshan2022/131888.html?scene=online",
+                "isFree": false,
+                "price": 97.0
+            },
+            "巴马洞天福地景区": {
+                "commentCount": 21,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gonyaB061.jpg",
+                "distanceStr": "距市中心25.2km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/5015378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴马活泉景区": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i120009ylv708C59E.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135313139.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "荔波小七孔景区": {
+                "commentCount": 19051,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6q0hfcF7E9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/107386.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "浩坤湖": {
+                "commentCount": 121,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0z000000mw83r8818.jpg",
+                "distanceStr": "距巴马59.5km",
+                "detailUrl": "https://you.ctrip.com/sight/lingyun1446254/5069278.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "赐福湖": {
+                "commentCount": 37,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grn6t20AD.jpg",
+                "distanceStr": "距市中心7.8km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135107.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "长寿博物馆": {
+                "commentCount": 10,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l12000f6sfnqe0591.jpg",
+                "distanceStr": "距市中心439m",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135108.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德天跨国瀑布景区": {
+                "commentCount": 15474,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0y000000m137u1E1F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/daxin963/8842.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "百色起义纪念园": {
+                "commentCount": 180,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000f6poz662396.jpg",
+                "distanceStr": "距巴马68.3km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/104588950.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "罗妹莲花洞": {
+                "commentCount": 41,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z1200093yidj3E397.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/leye968/54563.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "巴盘屯": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w12000bsxvalk73C9.jpg",
+                "distanceStr": "距市中心20.5km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/133527849.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "右江民族博物馆": {
+                "commentCount": 47857,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107312000f6ri7wgEB65.jpg",
+                "distanceStr": "距巴马68.8km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/1835039.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "通灵大峡谷": {
+                "commentCount": 2944,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100j12000fi3xey77EE3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/51441.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "大石围天坑群": {
+                "commentCount": 465,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p12000f6pwxd7732C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/leye968/17720.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "通天地下河景区": {
+                "commentCount": 43,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n170000011zdh72BE3.jpg",
+                "distanceStr": "距巴马46.5km",
+                "detailUrl": "https://you.ctrip.com/sight/pingguo3062/132821.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "河池小三峡": {
+                "commentCount": 111,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000f6pv9qvA81E.jpg",
+                "distanceStr": "距巴马94.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hechi838/137971.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "百色起义纪念馆": {
+                "commentCount": 194,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0m1c000001dfcc17EDC.jpg",
+                "distanceStr": "距巴马68.2km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/51452.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费预约"
+            },
+            "荔波樟江风景名胜区": {
+                "commentCount": 456,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v120008akajp52D4F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/21672.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "古龙山大峡谷": {
+                "commentCount": 600,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5u12000h4vg4h00239.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/51456.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "星河湾汤泉": {
+                "commentCount": 28,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350s1b000001bgb6w691A.jpg",
+                "distanceStr": "距巴马66.6km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/5701319.html?scene=online",
+                "isFree": false,
+                "price": 74.7
+            },
+            "田州古城": {
+                "commentCount": 79,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01061120008dgie0u849C.jpg",
+                "distanceStr": "距巴马56.4km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/1834104.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鹅泉": {
+                "commentCount": 1208,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0j12000000t82t5E38E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/51464.html?scene=online",
+                "isFree": false,
+                "price": 43.0
+            },
+            "荔波大七孔景区": {
+                "commentCount": 1363,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000h0hu5eoCEBF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/128771.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "百色大王岭漂流景区": {
+                "commentCount": 75,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120008ksgzo02527.jpg",
+                "distanceStr": "距巴马97.6km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/69450645.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大王岭原始森林": {
+                "commentCount": 122,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104812000f6pplc26DD4.jpg",
+                "distanceStr": "距巴马97.6km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/51446.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "明仕田园": {
+                "commentCount": 1526,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0z000000msx0oCFC1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/daxin963/54425.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "瑶望天下": {
+                "commentCount": 35,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4u12000bnhvjul731A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nandan3059/140615165.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "洞天酒海景区": {
+                "commentCount": 152,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020z000000njfv6F57E.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nandan3059/1837549.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "峒那屿湾景区": {
+                "commentCount": 309,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4n12000cwqluy2F54B.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/daxin963/4743378.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昆明腾冲景点": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心535m",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/145675056.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瑶山古寨": {
+                "commentCount": 146,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100u120008qlvr6i368C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/141396.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "南宁大明山": {
+                "commentCount": 737,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105l120005wow1xiD880.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanning166/8841.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙洪自然风景区": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102n12000axcxhpi7B7B.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/135113.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九顿溢流天窗群": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0y12000cath2k0D054.jpg",
+                "distanceStr": "距巴马74.1km",
+                "detailUrl": "https://you.ctrip.com/sight/duan3063/141040083.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "七百弄国家地质公园": {
+                "commentCount": 61,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6pq05q4381.jpg",
+                "distanceStr": "距巴马40.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dahua1446251/1409352.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "渠洋湖": {
+                "commentCount": 111,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g5/M01/61/B8/CggYsFcwCb2AAUFFAANRr_2G2Yg135.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/1729239.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青秀山": {
+                "commentCount": 10671,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001guig348B5.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanning166/8810.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "中国天眼景区": {
+                "commentCount": 4543,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104412000f6r0exg6E3F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/pingtang2335/2017942.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "母鸡山公园": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o12000az7hcdpD0F4.jpg",
+                "distanceStr": "距市中心647m",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/4553696.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "荔波茂兰自然保护区": {
+                "commentCount": 691,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1a0000018vvvn393A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/21674.html?scene=online",
+                "isFree": false,
+                "price": 49.0
+            },
+            "龙宫仙境": {
+                "commentCount": 238,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35010u000000jgl520E05.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/daxin963/140742.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "歌娅思谷": {
+                "commentCount": 25,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5w12000c9qdt7m9372.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nandan3059/1984903.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "解放街": {
+                "commentCount": 34,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0r1c000001czb8p8BC2.jpg",
+                "distanceStr": "距巴马69.6km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/2020987.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "广西龙虎山风景区": {
+                "commentCount": 339,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o060000001nl1h79F2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/longan3042/8846.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南丹温泉": {
+                "commentCount": 7,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105q12000a2158wy4AF6.jpg",
+                "distanceStr": "距巴马92.6km",
+                "detailUrl": "https://you.ctrip.com/sight/nandan3059/135463153.html?scene=online",
+                "isFree": false,
+                "price": 133.0
+            },
+            "布柳河仙人桥景区": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0j000000a018w01E5.jpg",
+                "distanceStr": "距巴马76.2km",
+                "detailUrl": "https://you.ctrip.com/sight/leye968/4505509.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "吞榜天窗": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3g12000c6ypvriE28D.jpg",
+                "distanceStr": "距巴马76.8km",
+                "detailUrl": "https://you.ctrip.com/sight/duan3063/140615160.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "剑龙山": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ1t12000g2ufymg0DD7.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/tiandeng3055/142244540.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "万寿谷": {
+                "commentCount": 22,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p12000f6rdrja4943.jpg",
+                "distanceStr": "距巴马35.9km",
+                "detailUrl": "https://you.ctrip.com/sight/fengshan2022/1408913.html?scene=online",
+                "isFree": false,
+                "price": 98.0
+            },
+            "丹炉山景区": {
+                "commentCount": 46,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100b12000f6q7acs8CEB.jpg",
+                "distanceStr": "距巴马78.0km",
+                "detailUrl": "https://you.ctrip.com/sight/nandan3059/4359342.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "百鸟岩景区-游船出入洞口": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/145645799.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南宁动物园": {
+                "commentCount": 1357,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y12000f6rdnzr9384.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanning166/8812.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "卧龙潭": {
+                "commentCount": 156,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzogyC4F2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/1834250.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南宁方特东盟神画": {
+                "commentCount": 14111,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6a12000h34xgfu4F45.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanning166/4728365.html?scene=online",
+                "isFree": false,
+                "price": 129.0
+            },
+            "红水河第一湾": {
+                "commentCount": 11,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01074120009hef5yi5E2E.jpg",
+                "distanceStr": "距巴马32.0km",
+                "detailUrl": "https://you.ctrip.com/sight/donglan120136/4338346.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "旧州景区": {
+                "commentCount": 48,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6f12000ajbg2ff84C1.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/69551024.html?scene=online",
+                "isFree": false,
+                "price": 43.0
+            },
+            "中国巴马生态养生展示馆": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104312000bzyavj5F122.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/4553699.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "邕江夜游": {
+                "commentCount": 458,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c120009pmw1jx225E.png",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanning166/5028385.html?scene=online",
+                "isFree": false,
+                "price": 59.0
+            },
+            "德保矮马王国": {
+                "commentCount": 69,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1g000001h5bor3388.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/debao3061/5545398.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "天龙大峡谷": {
+                "commentCount": 34,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101x12000f6pspmw87C9.jpg",
+                "distanceStr": "距巴马93.7km",
+                "detailUrl": "https://you.ctrip.com/sight/tiane3051/1470072.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "百魔洞-溶洞大厅": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000gpewkfu4339.png",
+                "distanceStr": "距市中心23.6km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/145449596.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红叶森林公园": {
+                "commentCount": 93,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350t0z000000nmm5dED01.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/debao3061/142564.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "小七孔景区-翠谷瀑布": {
+                "commentCount": 64,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y120008ilkwzdEC70.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/5067740.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴马长寿养生国际旅游区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/145410081.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南宁极地海洋世界": {
+                "commentCount": 1156,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y120009oeg4y576B8.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/nanning166/4746397.html?scene=online",
+                "isFree": false,
+                "price": 118.0
+            },
+            "命河观景台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心29.2km",
+                "detailUrl": "https://you.ctrip.com/sight/bama3041/145162026.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "六十八级跌水瀑布": {
+                "commentCount": 121,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqxwa84F3.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/1713479.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小七孔桥": {
+                "commentCount": 97,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b120008dgnhrz1A4B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/5254384.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "吉星岩": {
+                "commentCount": 63,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35010z000000nzi2jD3A0.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/debao3061/54577.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "龙养天坑群": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6e12000b1w6amsB2DD.jpg",
+                "distanceStr": "距巴马88.7km",
+                "detailUrl": "https://you.ctrip.com/sight/pingguo3062/136057607.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸳鸯洞": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105512000cpzj8dwD112.jpg",
+                "distanceStr": "距巴马48.3km",
+                "detailUrl": "https://you.ctrip.com/sight/fengshan2022/131892.html?scene=online",
+                "isFree": false,
+                "price": 78.0
+            },
+            "陇卡赖": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4a12000ef2xhi94BCD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/debao3061/148420486.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鸳鸯湖": {
+                "commentCount": 257,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp4i66065.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/1713511.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三叠岭瀑布": {
+                "commentCount": 13,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t120008i36utc9DD6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/5069355.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "旧州老街": {
+                "commentCount": 190,
+                "commentScore": 3.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g5/M01/80/07/CggYsVcq72qAOsvyAAc8dnjjiMc317.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/jingxi967/54569.html?scene=online",
+                "isFree": false,
+                "price": 43.0
+            },
+            "拉雅瀑布": {
+                "commentCount": 98,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s1f000001gx4wp3EBB.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/1713383.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凤山三门海天窗群景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6g12000e7hpadm6E08.jpg",
+                "distanceStr": "距巴马37.1km",
+                "detailUrl": "https://you.ctrip.com/sight/fengshan2022/144217108.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "澄碧湖": {
+                "commentCount": 40,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gptmpB7FE.jpg",
+                "distanceStr": "距巴马66.8km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/17721.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "粤东会馆": {
+                "commentCount": 63,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0j1c000001czdw1DBE1.jpg",
+                "distanceStr": "距巴马69.6km",
+                "detailUrl": "https://you.ctrip.com/sight/baise524/17717.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "1466CAMPING": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A0i120009yt8edh4AAC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/leye968/135315376.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "荔波水春河漂流": {
+                "commentCount": 414,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104a120008qlwbxy359A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/libo659/128794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,780 @@
+{
+    "甘肃": {
+        "敦煌": {
+            "鸣沙山月牙泉": {
+                "commentCount": 19860,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/7A/41/CghzfVWwsgmAFGgJACGo8s1Vwiw360.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1563.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "莫高窟": {
+                "commentCount": 8303,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0n000000e206y6564.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1566.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳关遗址": {
+                "commentCount": 2129,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M00/88/7A/CghzgVWwvCmANTPGABXKUaMR5Nk607.jpg",
+                "distanceStr": "距市中心56.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1562.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "玉门关": {
+                "commentCount": 1703,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i12000f6t1wvoB6AD.jpg",
+                "distanceStr": "距市中心71.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1564.html?scene=online",
+                "isFree": false,
+                "price": 0.0
+            },
+            "敦煌博物馆": {
+                "commentCount": 838,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzoow0B89.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4948.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雅丹地质公园": {
+                "commentCount": 2216,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0z000000ngrd9DEB8.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4945.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌骑骆驼": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0l1f000001g3pqs0BC6.jpg",
+                "distanceStr": "酒泉",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/0.html?poiId=148485252",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山沙漠露营野奢基地": {
+                "commentCount": 605,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000f6qrli0A32D.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5715120.html?scene=online",
+                "isFree": false,
+                "price": 1534.0
+            },
+            "《乐动敦煌》沉浸体验剧": {
+                "commentCount": 244,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1s12000bg6tntx7950.jpg",
+                "distanceStr": "距市中心8.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/136636408.html?scene=online",
+                "isFree": false,
+                "price": 298.0
+            },
+            "敦煌古城": {
+                "commentCount": 931,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq89m7B20.jpg",
+                "distanceStr": "距市中心15.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1561.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "敦煌丝路遗产城": {
+                "commentCount": 24,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2912000akb49wb1812.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/112653034.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌露营": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000atjygeeE0E0.jpg",
+                "distanceStr": "酒泉",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/0.html?poiId=148488447",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山沙漠露营越野基地(鸣漠野奢)": {
+                "commentCount": 872,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f120006w07py5F0D7.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5710711.html?scene=online",
+                "isFree": false,
+                "price": 228.0
+            },
+            "鸣沙山": {
+                "commentCount": 165,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010471200087ee172E6A5.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5610369.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "月牙泉小镇": {
+                "commentCount": 990,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0k16000000zzqpd725A.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1978475.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鸣沙山国际野奢营": {
+                "commentCount": 595,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000e4m2d7u17A8.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133901884.html?scene=online",
+                "isFree": false,
+                "price": 112.0
+            },
+            "鸣沙山玩友房车野奢露营地": {
+                "commentCount": 646,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w120009nt44xzE668.jpg",
+                "distanceStr": "距市中心608m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133899965.html?scene=online",
+                "isFree": false,
+                "price": 300.0
+            },
+            "敦煌旅拍": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0m14000000wgjrw4A3C.jpg",
+                "distanceStr": "酒泉",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/0.html?poiId=148928485",
+                "isFree": false,
+                "price": ""
+            },
+            "沙洲夜市": {
+                "commentCount": 266,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0m12000000tjj5dC805.jpg",
+                "distanceStr": "距市中心609m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/69415694.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西千佛洞": {
+                "commentCount": 168,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0z000000nl304DBE5.jpg",
+                "distanceStr": "距市中心31.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4942.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌光电博览园(超级镜子发电站)": {
+                "commentCount": 65,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000h49y34x3AF6.jpg",
+                "distanceStr": "距市中心15.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/135627589.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌冲沙越野": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n120009mac7n04691.jpg",
+                "distanceStr": "酒泉",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/0.html?poiId=148928472",
+                "isFree": false,
+                "price": ""
+            },
+            "千手千眼": {
+                "commentCount": 30,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3412000ej4xm0l81DD.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/139491844.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌莫高窟数字展示中心": {
+                "commentCount": 58,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106212000fhmyau2D86D.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5072559.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山沙漠观星露营野奢基地": {
+                "commentCount": 47,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i12000f6raw5r54AC.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145744817.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌画院": {
+                "commentCount": 22,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01012120009i6313b347A.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/69400023.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "玉门关遗址": {
+                "commentCount": 12,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105o12000gvdbiqbE7B0.jpg",
+                "distanceStr": "距市中心71.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/130887001.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阳关文物旅游景区": {
+                "commentCount": 8,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000976xnve877E.jpg",
+                "distanceStr": "距市中心56.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/70367854.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "鸣沙山金驼户外沙漠露营基地": {
+                "commentCount": 67,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000f6uiifa4194.jpg",
+                "distanceStr": "距市中心9.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133901936.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌书局": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ5z12000g6eo5078A05.jpg",
+                "distanceStr": "距市中心484m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/140039556.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "九层楼": {
+                "commentCount": 159,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp9q0536A.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1675871.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "敦煌莫高窟复制窟中心": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5e12000e2vpban47EA.jpg",
+                "distanceStr": "距市中心839m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/146190518.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌胡杨林": {
+                "commentCount": 19,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103g12000c7r0rc38850.jpg",
+                "distanceStr": "距市中心15.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1751526.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌莫高窟-千佛洞": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4m12000e26dyao7E87.jpg",
+                "distanceStr": "距市中心16.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145339024.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌民俗博物馆": {
+                "commentCount": 100,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l1200082m1rknA459.jpg",
+                "distanceStr": "距市中心5.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1565.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雷音寺": {
+                "commentCount": 129,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq84u4B9D.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4949.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "反弹琵琶雕像": {
+                "commentCount": 191,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k15000000xet3558DF.jpg",
+                "distanceStr": "距市中心261m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/51658.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西晋墓": {
+                "commentCount": 22,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01027120009eizenf9DF9.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/2480937.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "藏经洞": {
+                "commentCount": 169,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01019120008glovho82C7.jpg",
+                "distanceStr": "距市中心16.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1675857.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "汉长城遗址": {
+                "commentCount": 180,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000f6ts6j13AB4.jpg",
+                "distanceStr": "距市中心75.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4941.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "鸣沙山沙洲野奢营": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4s12000dqljzkd5B62.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145099769.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "酒泉海市蜃楼": {
+                "commentCount": 18,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100r12000bbdr9slA336.jpg",
+                "distanceStr": "距市中心27.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1831739.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "莫高窟148窟": {
+                "commentCount": 66,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzmciD294.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1675858.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌石窟文物保护研究陈列中心": {
+                "commentCount": 110,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102012000f6scq9rE673.jpg",
+                "distanceStr": "距市中心16.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4940.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌风情城": {
+                "commentCount": 30,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t1200081521gg1F58.jpg",
+                "distanceStr": "距市中心707m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/136280.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阳关烽燧": {
+                "commentCount": 52,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0t180000013v95d50C1.jpg",
+                "distanceStr": "距市中心56.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1675851.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "河仓城(大方盘城)": {
+                "commentCount": 35,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10081f000001gqico55C3.jpg",
+                "distanceStr": "距市中心65.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4943.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "敦煌大漠夜星国际沙漠露营乐园": {
+                "commentCount": 311,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120009dozkb13380.jpg",
+                "distanceStr": "距市中心683m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133892729.html?scene=online",
+                "isFree": false,
+                "price": 9.0
+            },
+            "莫高里工匠村": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101612000f6qgcfwD52C.jpg",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5714645.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "阿克塞博罗转井影视基地": {
+                "commentCount": 301,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n12000f6ubz2u9D14.jpg",
+                "distanceStr": "距敦煌88.4km",
+                "detailUrl": "https://you.ctrip.com/sight/aksay2783/5072904.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "兰亭画院": {
+                "commentCount": 11,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3612000douvnnh600A.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/144899798.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌世界地质公园博物馆": {
+                "commentCount": 14,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000834it13E5FD.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5704232.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白马塔": {
+                "commentCount": 31,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s120008icc98lE6D5.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4944.html?scene=online",
+                "isFree": false,
+                "price": 15.0
+            },
+            "敦煌小镇": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105x12000f6tjjbaF73D.jpg",
+                "distanceStr": "距市中心906m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/112647583.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "党河风情线国家水利风景区": {
+                "commentCount": 31,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u15000000xalixBBD4.jpg",
+                "distanceStr": "距市中心491m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5069526.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "悬泉置遗址": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y12000f6trufrFCC8.jpg",
+                "distanceStr": "距市中心58.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4947.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "敦煌星空沙漠露营": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000f6uihvmC4B3.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133892603.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌3个景区实行免票": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d1200081523z0B2AB.jpg",
+                "distanceStr": "酒泉",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/0.html?poiId=149593149",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山大漠传奇露营越野基地": {
+                "commentCount": 3,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g12000evh75mhD31A.jpg",
+                "distanceStr": "距市中心8.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145388277.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三危圣境": {
+                "commentCount": 14,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100315000000xccoh7C81.jpg",
+                "distanceStr": "距市中心20.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/4952.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌大剧院": {
+                "commentCount": 40,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01006120009e4sgxfC83C.jpg",
+                "distanceStr": "距市中心4.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/136275.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大漠传奇户外露营地": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102012000f6q3cux025E.jpg",
+                "distanceStr": "距市中心8.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133899955.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌月牙湾国际沙漠露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ5r12000g8zawscEC3F.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145338997.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山国际沙漠露营地": {
+                "commentCount": 9,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k12000f6rpki201C1.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/79890839.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌书画院": {
+                "commentCount": 22,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000boln637D2C7.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1675882.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "骆驼骑乘点": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ0u12000g8uwwb3EBA6.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145369768.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "榆林窟": {
+                "commentCount": 217,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p12000f6tsdx02F62.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guazhou2807/4956.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸣沙山月牙泉门": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000eydaptwEF3C.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/144202936.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌沙韵沙漠露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104612000exnmf8fF4A1.jpg",
+                "distanceStr": "距市中心8.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145378491.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《万象敦煌：秘宝与黄沙》大型沉浸式VR探索体验": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6r12000fq8axdp3B15.jpg",
+                "distanceStr": "距市中心287m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/148914410.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌大漠繁星旅拍星空沙漠露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r120009dp08j87BAB.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/133892809.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大地之子": {
+                "commentCount": 32,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104u12000f6tiv5u2DA9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/guazhou2807/5701575.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "太阳温泉": {
+                "commentCount": 12,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y12000f6rdtpz8BD2.jpg",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/70404.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌妙街": {
+                "commentCount": 10,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v12000b1r5ug5DA24.jpg",
+                "distanceStr": "距市中心450m",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1830280.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌市阳关博物馆": {
+                "commentCount": 9,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01035120008dgihrxFC57.jpg",
+                "distanceStr": "距市中心56.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145299364.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌研究院院史陈列馆": {
+                "commentCount": 26,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a12000b0fnsnt8563.jpg",
+                "distanceStr": "距市中心16.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/2608783.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "沙州故城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000bbdvxkpF2D7.jpg",
+                "distanceStr": "距市中心1.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/112649480.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三危山景区": {
+                "commentCount": 9,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0f14000000w02oyFB42.jpg",
+                "distanceStr": "距市中心21.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5067474.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸣沙山乐游自驾游沙漠露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106z120009macwekF637.jpg",
+                "distanceStr": "距市中心7.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/134085555.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌市图书馆": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106o12000azif1ceA36A.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/2600699.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山月牙湾沙漠星空露营野奢基地(漠洛哥)": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6m12000e44r93v948D.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/147689151.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌市鸣沙山启明星野奢户外摩洛哥露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105h12000ez8s9dzEEB6.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145645640.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山野奢沙漠星空露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/145640399.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月泉阁": {
+                "commentCount": 13,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z120008g2ny3o7626.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/5610366.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "药王洞遗址": {
+                "commentCount": 21,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v1f000001h19pw69AA.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/1834908.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦煌鸣沙山直升机飞行基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103c12000eyp2nx39C42.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dunhuang8/148457630.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,789 @@
+{
+    "浙江": {
+        "舟山": {
+            "普陀山风景区": {
+                "commentCount": 27615,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000f6t3x3l9600.jpg",
+                "distanceStr": "距市中心17.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126016.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "朱家尖风景区": {
+                "commentCount": 1267,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120008g4ic24A096.jpg",
+                "distanceStr": "距市中心19.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/139887.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "朱家尖观音法界": {
+                "commentCount": 1763,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m120009b1ztzb8452.jpg",
+                "distanceStr": "距市中心19.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/5714969.html?scene=online",
+                "isFree": false,
+                "price": 90.0
+            },
+            "朱家尖南沙景区": {
+                "commentCount": 2679,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m12000h0zxson293D.jpg",
+                "distanceStr": "距市中心22.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/10297.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "东极岛风景区": {
+                "commentCount": 451,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g4/M03/C7/78/CggYHFZ5BTSADWUSAA6j7H1S148265.jpg",
+                "distanceStr": "距市中心51.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/57298.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "朱家尖大青山景区": {
+                "commentCount": 2588,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104k12000f6ts49v0B85.jpg",
+                "distanceStr": "距市中心22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/10316.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "舟山保利开元森泊度假乐园": {
+                "commentCount": 990,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3f12000g4sdqd394F6.png",
+                "distanceStr": "距市中心21.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/143168416.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "普陀山佛顶山索道": {
+                "commentCount": 177,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010491200087cub29AE73.jpg",
+                "distanceStr": "距市中心18.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2122210.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东沙": {
+                "commentCount": 837,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01047120008h3t6wx8E57.jpg",
+                "distanceStr": "距市中心23.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126053.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            },
+            "舟山长乔海洋公园": {
+                "commentCount": 501,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4h12000d0j61af92DF.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/140932220.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "舟山长乔海洋国际旅游度假区": {
+                "commentCount": 15,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3p12000e3dv8uj2E56.jpg",
+                "distanceStr": "距市中心14.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/146186325.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洛迦山": {
+                "commentCount": 146,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01045120009hee7eu6F04.jpg",
+                "distanceStr": "距市中心23.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/16856.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "乌石塘": {
+                "commentCount": 518,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120008g4ic24A096.jpg",
+                "distanceStr": "距市中心20.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/135865.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "桃花岛风景区": {
+                "commentCount": 419,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z12000h4vckn2446B.jpg",
+                "distanceStr": "距市中心20.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/57286.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "舟山佛教文化体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q120009h0h82k7848.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/0.html?poiId=148485413",
+                "isFree": false,
+                "price": ""
+            },
+            "基湖沙滩": {
+                "commentCount": 699,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f120008qf1118381C.jpg",
+                "distanceStr": "距市中心85.0km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/4037.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "嵊泗列岛风景名胜区": {
+                "commentCount": 63,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p120009dn3c2yA8C7.jpg",
+                "distanceStr": "距市中心84.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/69579264.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "舟山海钓": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n0z000000nreai2B7E.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/0.html?poiId=148485604",
+                "isFree": false,
+                "price": ""
+            },
+            "花鸟岛": {
+                "commentCount": 140,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030z000000ndgsz9C4D.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/21752.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "岱山岛": {
+                "commentCount": 155,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100fhk114x9lmib74C32E.jpg",
+                "distanceStr": "距市中心33.7km",
+                "detailUrl": "https://you.ctrip.com/sight/daishan999/5068407.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "普济禅寺": {
+                "commentCount": 542,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M06/2D/96/CghzgVW2JT6AK3wOAAdWHGOMB-Q641.jpg",
+                "distanceStr": "距市中心17.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2124.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "33米高南海观音": {
+                "commentCount": 256,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq9oy554A.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/16855.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "法雨寺": {
+                "commentCount": 938,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106912000f6qapz393AF.jpg",
+                "distanceStr": "距市中心18.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2131.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朱家尖白山景区": {
+                "commentCount": 260,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104912000b95k4zwC5A8.jpg",
+                "distanceStr": "距市中心18.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/21742.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "舟山长乔雨林动物公园": {
+                "commentCount": 337,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0912000e3dpbpnECB7.jpg",
+                "distanceStr": "距市中心14.6km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/145738083.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "枸杞岛": {
+                "commentCount": 672,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101912000f6rc3x1D858.jpg",
+                "distanceStr": "距市中心97.9km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/56063.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东崖绝壁": {
+                "commentCount": 183,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101p12000f6tsnat64F6.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/18239.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "鹿栏晴沙景区": {
+                "commentCount": 198,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1002hk1439jp39mtc7699.jpg",
+                "distanceStr": "距市中心36.4km",
+                "detailUrl": "https://you.ctrip.com/sight/daishan999/57306.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "慧济寺": {
+                "commentCount": 418,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100y12000f6ts6i5B40F.jpg",
+                "distanceStr": "距市中心17.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2132.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天一阁博物院": {
+                "commentCount": 7415,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01005120005rgt7rs7975.jpg",
+                "distanceStr": "距舟山65.6km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/9964.html?scene=online",
+                "isFree": false,
+                "price": 27.0
+            },
+            "六合朝阳景区": {
+                "commentCount": 833,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030z000000nhqj0B564.jpg",
+                "distanceStr": "距市中心87.3km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/21750.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "舟山赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01034120008g4ic24A096.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/0.html?poiId=148485603",
+                "isFree": false,
+                "price": ""
+            },
+            "佛顶山": {
+                "commentCount": 168,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000f6sesol9CDC.jpg",
+                "distanceStr": "距市中心17.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/110364.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "善财洞": {
+                "commentCount": 28,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6sep5136D4.jpg",
+                "distanceStr": "距市中心19.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/110365.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海天台温汤庭院": {
+                "commentCount": 15,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1012000grcqudi2497.jpg",
+                "distanceStr": "距市中心23.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/5717947.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "庙子湖岛": {
+                "commentCount": 75,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021e000001fbfl2CBAF.jpg",
+                "distanceStr": "距市中心51.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/132078.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "上海迪士尼度假区": {
+                "commentCount": 245015,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000gqrgv9bE910.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/1412255.html?scene=online",
+                "isFree": false,
+                "price": 399.0
+            },
+            "西天景区": {
+                "commentCount": 80,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000f6rdhjg70EA.jpg",
+                "distanceStr": "距市中心17.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126037.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海海昌海洋公园": {
+                "commentCount": 41848,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0g12000h5ahifzF2C6.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/4651499.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "东福山": {
+                "commentCount": 168,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l1f000001gqgst3232.jpg",
+                "distanceStr": "距市中心56.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126049.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "舟山长乔海豚湾水公园": {
+                "commentCount": 20,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106i12000e3drb4nDFCD.jpg",
+                "distanceStr": "距市中心14.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/145452097.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "射雕英雄传旅游城": {
+                "commentCount": 188,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000a6pj4v7189F.jpg",
+                "distanceStr": "距市中心16.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126150.html?scene=online",
+                "isFree": false,
+                "price": 47.0
+            },
+            "嵊山岛": {
+                "commentCount": 88,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000833s6zc2F06.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/56062.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东沙古镇": {
+                "commentCount": 149,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100chk114x9lgoh6o9120.jpg",
+                "distanceStr": "距市中心36.9km",
+                "detailUrl": "https://you.ctrip.com/sight/daishan999/126126.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东沙湾海滨浴场": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ3c12000g8roe569230.jpg",
+                "distanceStr": "距市中心23.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/145711830.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海天文馆": {
+                "commentCount": 4932,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01069120009ze52fdA92D.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/69572753.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "和尚套景区": {
+                "commentCount": 242,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A031900000186lwr4A1E.jpg",
+                "distanceStr": "距市中心85.8km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/1713894.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "普陀山观音法界-观音圣坛": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101c12000f6pu8dy57AB.jpg",
+                "distanceStr": "距市中心18.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/136629768.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "紫竹林": {
+                "commentCount": 252,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M02/2E/5F/CghzgFW2JaeAJXhfAARXghMA_T8404.jpg",
+                "distanceStr": "距市中心17.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2129.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "罗蒙环球乐园": {
+                "commentCount": 12818,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g16000000yzjnj28E3.jpg",
+                "distanceStr": "距舟山67.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1752511.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "不肯去观音院": {
+                "commentCount": 193,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M02/20/68/CghzfFW2JTaAaRjsAAWX2Axrh40859.jpg",
+                "distanceStr": "距市中心18.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/18229.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海天佛国": {
+                "commentCount": 59,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsxkwD162.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126077.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青浜岛": {
+                "commentCount": 23,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101512000f6pqetb52EC.jpg",
+                "distanceStr": "距市中心53.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126048.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "外滩": {
+                "commentCount": 152493,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040m000000dht6p0F19.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/736.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "舟山跨海大桥": {
+                "commentCount": 209,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gonvx353A.jpg",
+                "distanceStr": "距市中心29.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/1680987.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "定海古城": {
+                "commentCount": 120,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000f6tsqsf2552.jpg",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/16171.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "樟州湾景区": {
+                "commentCount": 9,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107212000f6q51klE1DC.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/10294.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海上布达拉宫": {
+                "commentCount": 10,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1e000001f6qq590DC.jpg",
+                "distanceStr": "距市中心53.4km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/1413920.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "千步大沙": {
+                "commentCount": 187,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp63sDF13.jpg",
+                "distanceStr": "距市中心18.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2134.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "磨心山景区": {
+                "commentCount": 78,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100jhk114x9les3rk7641.jpg",
+                "distanceStr": "距市中心30.6km",
+                "detailUrl": "https://you.ctrip.com/sight/daishan999/57301.html?scene=online",
+                "isFree": false,
+                "price": 36.0
+            },
+            "十里金沙景区": {
+                "commentCount": 17,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grkfmD386.jpg",
+                "distanceStr": "距市中心22.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/57500.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南长涂沙滩": {
+                "commentCount": 210,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0v12000euxn7at8E14.jpg",
+                "distanceStr": "距市中心83.5km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/4019.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "嵊山枸杞景区": {
+                "commentCount": 42,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j1f000001gpthcC378.jpg",
+                "distanceStr": "距市中心97.6km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/56060.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "印象普陀大剧场": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102d12000f6uh6bu93F9.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/121822635.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "舟山市朱家尖南沙景区沙滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103912000f6scsgy4460.jpg",
+                "distanceStr": "距市中心22.7km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/145119980.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "桃花寨": {
+                "commentCount": 53,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000f6rdig05DAC.jpg",
+                "distanceStr": "距市中心22.1km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/126161.html?scene=online",
+                "isFree": false,
+                "price": 42.0
+            },
+            "观音古洞": {
+                "commentCount": 36,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000f6ts7qm20A5.jpg",
+                "distanceStr": "距市中心16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2136.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "老外滩": {
+                "commentCount": 2407,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100f0z000000nujg1C626.jpg",
+                "distanceStr": "距舟山63.5km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48549.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梵音古洞": {
+                "commentCount": 58,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105j12000f6qa9nmA9A9.jpg",
+                "distanceStr": "距市中心20.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2135.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上海野生动物园": {
+                "commentCount": 103718,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000h7faola7A0F.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/shanghai2/758.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "后头湾村": {
+                "commentCount": 42,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0w1g000001h3imj6F3B.jpg",
+                "distanceStr": "距市中心98.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/1828179.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "衢山岛": {
+                "commentCount": 12,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106e12000bbduwmoA8B5.jpg",
+                "distanceStr": "距市中心53.0km",
+                "detailUrl": "https://you.ctrip.com/sight/daishan999/5067338.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宁波野生动物园": {
+                "commentCount": 3767,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp5vxA81E.jpg",
+                "distanceStr": "距舟山55.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/48596.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "舟山朱家尖国际沙雕艺术广场": {
+                "commentCount": 85,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpgbuE254.jpg",
+                "distanceStr": "距市中心22.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/10298.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蓝白小镇": {
+                "commentCount": 8,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k12000ax6zv9bC89C.jpg",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/daishan999/134080149.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "溪口-滕头旅游景区": {
+                "commentCount": 6118,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r11000000r7ev106F5.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/135869.html?scene=online",
+                "isFree": false,
+                "price": 205.0
+            },
+            "沈家门渔港": {
+                "commentCount": 175,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101312000f6ppoc2CEE5.jpg",
+                "distanceStr": "距市中心10.9km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/16172.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "白沙岛景区": {
+                "commentCount": 12,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000f6u4qxq9F71.jpg",
+                "distanceStr": "距市中心24.5km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/5067225.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国渔村": {
+                "commentCount": 3258,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n180000013eef2D634.jpg",
+                "distanceStr": "距舟山86.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65054.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "东钱湖": {
+                "commentCount": 1509,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10051f000001gssiaE3DD.jpg",
+                "distanceStr": "距舟山58.0km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/16825.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蒋氏故居": {
+                "commentCount": 1996,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0q000000gdbl358B2.jpg",
+                "distanceStr": "距舟山95.3km",
+                "detailUrl": "https://you.ctrip.com/sight/ningbo83/1414584.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "塔湾金沙景区": {
+                "commentCount": 88,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350110000000pdzu1655F.jpg",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/16179.html?scene=online",
+                "isFree": false,
+                "price": 28.0
+            },
+            "象山影视城": {
+                "commentCount": 5811,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000h14z2d5013E.jpg",
+                "distanceStr": "距舟山85.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xiangshan723/65051.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "普陀山山门": {
+                "commentCount": 24,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101012000f6tuninE7DC.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/144505.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "左岸公路": {
+                "commentCount": 6,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120009f0xctz771B.jpg",
+                "distanceStr": "距市中心86.1km",
+                "detailUrl": "https://you.ctrip.com/sight/shengsi82/5706987.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "舟山博物馆": {
+                "commentCount": 88,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s13000000tqm7hC5DF.jpg",
+                "distanceStr": "距市中心405m",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/144344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "磐陀石": {
+                "commentCount": 51,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6ts0f84125.jpg",
+                "distanceStr": "距市中心16.3km",
+                "detailUrl": "https://you.ctrip.com/sight/zhoushan479/2137.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

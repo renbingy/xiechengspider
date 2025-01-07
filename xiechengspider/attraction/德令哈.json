@@ -1,0 +1,816 @@
+{
+    "青海": {
+        "德令哈": {
+            "可鲁克湖景区": {
+                "commentCount": 223,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090q000000gdt1n615E.jpg",
+                "distanceStr": "距市中心41.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49847.html?scene=online",
+                "isFree": false,
+                "price": 5.0
+            },
+            "德令哈市外星人遗址景区": {
+                "commentCount": 129,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0y000000mcs1j7989.jpg",
+                "distanceStr": "距市中心39.9km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49927.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "海子诗歌陈列馆": {
+                "commentCount": 20,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q1f000001grir3D1F6.jpg",
+                "distanceStr": "距市中心531m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/2609033.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "托素湖": {
+                "commentCount": 115,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103j12000ev12ey2D810.jpg",
+                "distanceStr": "距市中心45.6km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49848.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青海可鲁克湖托素湖自然保护区": {
+                "commentCount": 1,
+                "commentScore": 2.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103z120008dgm2rb13A0.jpg",
+                "distanceStr": "距市中心41.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/5136115.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈市步行街": {
+                "commentCount": 5,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000cd7w17q42CF.png",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/5168908.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴音河": {
+                "commentCount": 59,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp3eyD9AA.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49851.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "尕海湖": {
+                "commentCount": 59,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105r120008bwcttr7620.jpg",
+                "distanceStr": "距市中心31.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49935.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈拉湖": {
+                "commentCount": 11,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l12000f6t7f538C14.jpg",
+                "distanceStr": "距市中心95.8km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/1713871.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天文科普馆": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000f6pvkt535E9.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4047220.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柏树山": {
+                "commentCount": 21,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v12000bbdetyaB6D9.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49842.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黑石山水库": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3b12000cbn8f5g5C7A.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49934.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈市中心广场": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103b12000f6uhgevC999.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/124908141.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西州民族博物馆": {
+                "commentCount": 6,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103u12000f6s1y8e19BA.jpg",
+                "distanceStr": "距市中心401m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/5704279.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "塔琏湖": {
+                "commentCount": 7,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102q12000bi801xyD0E0.jpg",
+                "distanceStr": "距市中心734m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/1713876.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈尕海国家湿地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0z000000nxuae2EA3.jpg",
+                "distanceStr": "距市中心32.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4582118.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "茶卡盐湖": {
+                "commentCount": 13915,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01043120008vus52xA40A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ulan1446307/11762.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "紫金山天文台青海站": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104512000f6t3lp385DC.png",
+                "distanceStr": "距市中心17.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49932.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柏树山星空露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102w12000ey9vbm0EBB9.jpg",
+                "distanceStr": "距市中心13.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145151335.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西海公园": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000bg5shm4A937.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4581833.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西蒙古族藏族自治州图书馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100a120009vmew9o2068.png",
+                "distanceStr": "距市中心390m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/2609012.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈市清真大寺": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h12000dcg3dllCF11.jpg",
+                "distanceStr": "距市中心568m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4581674.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈植物园": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b12000cs9jkt158E3.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4575652.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈古柏林": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100s12000f4pnaqa6B24.jpg",
+                "distanceStr": "距市中心13.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143740421.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那达慕民族运动场": {
+                "commentCount": 3,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0y000000miytl9AF4.jpg",
+                "distanceStr": "距市中心5.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/3817973.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "茶卡盐湖-茶卡天空壹号景区": {
+                "commentCount": 1114,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gr0tl3BE9.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ulan1446307/5003351.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "限时免费"
+            },
+            "德令哈随风露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/148668411.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柴达木公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145716660.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白公山": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01046120009ferjsdE764.jpg",
+                "distanceStr": "距市中心48.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/49930.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "察尔汗盐湖": {
+                "commentCount": 1455,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105212000f6rbjc98687.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/golmud332/49134.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈农垦文化博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000gylv0ex5BC5.jpg",
+                "distanceStr": "距市中心15.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145664812.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑石山": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心12.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145290271.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柏树山德都蒙古文化原生态旅游区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145664751.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大柴旦翡翠湖旅游景区": {
+                "commentCount": 352,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grm9175BF.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/haixiprefecture120012/4331367.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青年林公园": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y12000drbah239BA8.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4575638.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怀头他拉岩画": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心67.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144206136.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴音郭勒河": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5512000fbtapftFE45.jpg",
+                "distanceStr": "距市中心15.6km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143259586.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天峻石林": {
+                "commentCount": 5,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106l120008bwc8raED08.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/tianjun1446306/49986.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌苏特": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心41.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145221321.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柯柯盐湖": {
+                "commentCount": 5,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01059120009e2jr0h62AE.jpg",
+                "distanceStr": "距德令哈77.9km",
+                "detailUrl": "https://you.ctrip.com/sight/ulan1446307/49940.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈德都蒙古文化体验园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心43.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145329980.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金子海": {
+                "commentCount": 9,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10021f000001gxcytF1FF.jpg",
+                "distanceStr": "距德令哈85.1km",
+                "detailUrl": "https://you.ctrip.com/sight/ulan1446307/49936.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "庆华广场": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103d12000dcg25nm05BD.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/4581969.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德力哈达": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145439506.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沙漠谷儿童乐园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/148742087.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西州博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/149274108.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈游泳馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144239232.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "畅园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144206099.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦德哈尔郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心95.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144206002.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "柴达木民俗文化私人博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心766m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145635489.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怪兽电竞网咖": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心829m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145359412.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈体育场(北大门店)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205756.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "奥维斯club(巴音巷店)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/146138261.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈固始汗雕像": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心822m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143746749.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辉腾郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144206469.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西州文化馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心349m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/145900004.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西体育中心": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143288385.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "布罕芒安": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M0B/C4/B0/CghzgVW7H_uAYZlqAAAxbqRlqeE036.jpg",
+                "distanceStr": "距市中心35.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/83399238.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "星牌台球(柴达木东路店)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0f0000007gvtn9A8E.jpg",
+                "distanceStr": "距市中心827m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/123864850.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西民族文化活动中心-电影院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心386m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143701276.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "艾力斯坦滚艾尔盖": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心69.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143714466.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "夏吾图乃仁达吾": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143720769.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈万亩枸杞林": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心16.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/143744110.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沃木荡昂格尔郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心69.8km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205320.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿力牙马图郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205325.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里乌日哈牙马图郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心99.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205331.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "辉特滚额日格": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心55.1km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205339.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "公社支渠": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心54.2km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205341.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "夏尔诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心56.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205344.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "扎布斯尔诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心61.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205349.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西渠": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心16.8km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205369.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白兔滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205375.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "额勒森包力": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心18.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205558.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴音泽尔肯高勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205591.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海西州民族文化活动中心": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心368m",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205650.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德令哈市群众艺术馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205659.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "塔日牙郎": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心51.5km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205665.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "达布散诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心85.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205750.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昌吉诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心83.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205768.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴嘎呼敦木": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心58.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205780.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈尔郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心73.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205793.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "沃门图昂格尔郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心39.6km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205800.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌兰乌苏": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心47.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205802.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "敦德昂格尔郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心42.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205815.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "扎布斯勒沙勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205819.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "托素诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心40.7km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205863.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "瑙滚诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205956.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "那木其诺尔": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心93.4km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205960.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大哈勒腾河": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205974.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊克达坂郭勒": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心81.3km",
+                "detailUrl": "https://you.ctrip.com/sight/delingha891/144205992.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

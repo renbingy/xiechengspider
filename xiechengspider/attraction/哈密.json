@@ -1,0 +1,807 @@
+{
+    "新疆": {
+        "哈密": {
+            "大海道": {
+                "commentCount": 586,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k1f000001guhzg4930.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/4361354.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "伊吾胡杨景区": {
+                "commentCount": 62,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g10000000o2etz0273.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/47911.html?scene=online",
+                "isFree": false,
+                "price": 35.0
+            },
+            "回王府": {
+                "commentCount": 89,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s12000f6qjtr835B0.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/47909.html?scene=online",
+                "isFree": false,
+                "price": 29.9
+            },
+            "巴里坤草原": {
+                "commentCount": 52,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n10000000o3ryhAC90.jpg",
+                "distanceStr": "距市中心97.3km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/18855.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈密博物馆": {
+                "commentCount": 80,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101r120009cumg1l65E1.jpg",
+                "distanceStr": "距市中心2.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/47905.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈密回王墓": {
+                "commentCount": 131,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01044120009cycw2c41A7.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/18857.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "鸣沙山": {
+                "commentCount": 76,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3l12000fhnzqp96AA2.jpg",
+                "distanceStr": "距市中心67.1km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/47890.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿勒屯古街": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me1h12000bc70z5yA0B3.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/131917336.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "东疆夏宫·庙尔沟景区": {
+                "commentCount": 25,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101112000f6sdnvv97CD.jpg",
+                "distanceStr": "距市中心32.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/18856.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天山风景名胜区": {
+                "commentCount": 22,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gopdq2F85.jpg",
+                "distanceStr": "距市中心56.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/47917.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "巴里坤湖风景区": {
+                "commentCount": 33,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p10000000o0xkzCDE7.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/18854.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天山庙": {
+                "commentCount": 9,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103012000f6q0heo2B6A.jpg",
+                "distanceStr": "距市中心55.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/47892.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东天山景区": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u10000000o1olpF001.jpg",
+                "distanceStr": "距市中心58.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/5601368.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊吾幻彩湖": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d1200092m3igo8103.jpg",
+                "distanceStr": "距市中心85.7km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/47915.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "巴里坤古城": {
+                "commentCount": 15,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106x120009ddg66a19DA.jpg",
+                "distanceStr": "距市中心94.7km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/1512201.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "哈密赏石文化博物馆": {
+                "commentCount": 17,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106312000f6ri53wF146.jpg",
+                "distanceStr": "距市中心2.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/2018342.html?scene=online",
+                "isFree": false,
+                "price": 23.5
+            },
+            "星星峡镇": {
+                "commentCount": 20,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100512000f6sne44AFE5.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/1834723.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "塔库坎儿井景区": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102r12000f6ptvb63E47.jpg",
+                "distanceStr": "距市中心35.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/5069521.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大十字旅游购物一条街": {
+                "commentCount": 2,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000c3siti7E6F0.jpg",
+                "distanceStr": "距市中心1.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/5169294.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "喀尔里克冰川": {
+                "commentCount": 7,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h1f000001g796oA7D0.jpg",
+                "distanceStr": "距市中心80.2km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/47901.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "榆树巷": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100w12000f6t7o140A8C.png",
+                "distanceStr": "距市中心839m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/1713074.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "高家湖湿地景区": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me4n12000bs729o59253.jpg",
+                "distanceStr": "距市中心93.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/130368995.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "雅丹魔鬼城自然及历史陈列馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g12000ewombwz209B.jpg",
+                "distanceStr": "距市中心60.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145213774.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "清代古粮仓": {
+                "commentCount": 6,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p0e000000760sfD1E4.jpg",
+                "distanceStr": "距市中心95.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/1713202.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "十二木卡姆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0HJ1x12000g2utxvpB6E7.jpg",
+                "distanceStr": "距市中心565m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/144198890.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "翼龙化石馆": {
+                "commentCount": 4,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o0e0000007609l84BE.jpg",
+                "distanceStr": "距市中心962m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/2018322.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三道岭煤矿": {
+                "commentCount": 10,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s120009dn3e2o6A26.jpg",
+                "distanceStr": "距市中心77.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/1713206.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "松峰书院": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10030e000000760q847FF.jpg",
+                "distanceStr": "距市中心95.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/2018336.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "戈壁滩": {
+                "commentCount": 6,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106912000f6uinj1FBC0.jpg",
+                "distanceStr": "距市中心86.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/134086725.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "松树塘滑雪场": {
+                "commentCount": 2,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105b12000d3rwjn8F59D.jpg",
+                "distanceStr": "距市中心60.9km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/69342030.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "怪石山": {
+                "commentCount": 4,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f12000b7nybzuF00E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/47895.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "红星二场军垦地窝子遗址风貌区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m12000ewyylq68525.jpg",
+                "distanceStr": "距市中心24.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145259611.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白石头": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061900000184o3u52A2.jpg",
+                "distanceStr": "距市中心59.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/18853.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密瓜园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000exx4t7t27A2.jpg",
+                "distanceStr": "距市中心18.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145613621.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蓝海水世界": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10020u000000ja5ub8889.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/4733362.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里坤哈萨克自治县古民宅": {
+                "commentCount": 6,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e0e000000760tfC5F6.jpg",
+                "distanceStr": "距市中心94.9km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/47907.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密庙尔沟景区金帐营地": {
+                "commentCount": 9,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6q3rffE70A.png",
+                "distanceStr": "距市中心32.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/133975954.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南湖沙漠": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j10000000ou8jm9669.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/5077350.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密雅丹地貌生态公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me0t12000bttjtpwCC05.jpg",
+                "distanceStr": "距市中心60.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/131896459.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大河唐城": {
+                "commentCount": 4,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102312000axkmyfe5AB8.jpg",
+                "distanceStr": "距市中心97.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/47902.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "原始胡杨林": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000exp05d3A6B4.jpg",
+                "distanceStr": "距市中心39.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/144198230.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊水园": {
+                "commentCount": 2,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102a12000awy593dBA0B.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/134966.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "地藏寺": {
+                "commentCount": 11,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105a120008ouyhk1F1E4.jpg",
+                "distanceStr": "距市中心94.6km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/1829531.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蝴蝶谷": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01027120009qrzk9a33F0.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/134991.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "艾斯开霞尔城堡": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080k000000b4qux1355.jpg",
+                "distanceStr": "距市中心76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/47919.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "盖斯墓": {
+                "commentCount": 7,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102f1200048kbmgh7153.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/47894.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里坤湖露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/145585485.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密大峡谷": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102c12000f7v1tk81C3B.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145312556.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巧玲民宿农家院": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心93.1km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/146067524.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密天山国家森林公园-寒气沟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100t12000f7j9nhdBB49.jpg",
+                "distanceStr": "距市中心56.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/143289433.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密市中心广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145947689.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密民航历史博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000csfa6hi3541.jpg",
+                "distanceStr": "距市中心10.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/2696794.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊吾县烈士陵园": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010621200099x0spa3ABF.png",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/47908.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "人民公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me2m12000es6ug6h8D15.jpg",
+                "distanceStr": "距市中心411m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/144198342.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里坤美食街(汉城东街店)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M07/FC/25/CghzflW7IASANUuCAAAtJkkq6KA204.jpg",
+                "distanceStr": "距市中心95.4km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/130886986.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密河国家湿地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心18.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145613605.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "昆莫牧居": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心58.3km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/146047364.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "遇见露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145328613.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "伊吾县博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/2607580.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "民俗博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c12000csf9vj077A0.jpg",
+                "distanceStr": "距市中心95.3km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/5704309.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西黑沟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120009qqwymy87D2.png",
+                "distanceStr": "距市中心89.4km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/47918.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天辅星空露营基地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心52.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/146127209.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "下马崖坎儿井景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/145290068.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新疆哈密市巴里县房车营地(趣汇友自驾游营地)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/145614886.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里坤步行街(汉城东街店)": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M04/C5/08/Cghzf1W7IAuAf_KnAAA64Rrw844266.jpg",
+                "distanceStr": "距市中心95.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/4817514.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密龙马欢乐世界游乐场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145288165.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "盐池古城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心84.8km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/145447317.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "石油基地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145497280.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里坤湖-观景台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/145436532.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白杨沟佛寺遗址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心48.5km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145536283.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大河古城遗址": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心97.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/144400961.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "领先女人街": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g2/M04/C5/08/Cghzf1W7IAuAf_KnAAA64Rrw844266.jpg",
+                "distanceStr": "距市中心638m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/5169296.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "木卡姆文化广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145491601.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈铁公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5112000esp6kw60CC8.jpg",
+                "distanceStr": "距市中心1.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/143725813.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "全民健身文化公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100q12000criouzhFA8C.webp",
+                "distanceStr": "距市中心619m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/131917344.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "淖毛湖镇读友公共图书馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/yiwu2505/143813630.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "时代广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心398m",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/144198332.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "得胜门": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心95.5km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/144198326.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "巴里坤兰州湾子玫瑰庄园景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心94.0km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/125707652.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湿地公园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145160245.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "墩墩湾": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M02/AE/86/CghzfVW7H_2AfYXiAAA0yMVsNrk713.jpg",
+                "distanceStr": "距市中心10.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/5143079.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白杨河汉唐古城": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心51.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145180165.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "新疆中游房车哈密农科园营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心10.4km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145377074.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "庙尔沟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心33.9km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/145447357.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈萨克风情园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/145289161.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "尖山子玻璃栈道风景区": {
+                "commentCount": 1,
+                "commentScore": 1.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/145193660.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "热合曼民俗旅游风情园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/144198931.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "索尔巴斯陶": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/barkol2494/145169485.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "哈密市图书馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m12000deulp9vCEE2.jpg",
+                "distanceStr": "距市中心1.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hami567/143305422.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

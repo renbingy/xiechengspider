@@ -1,0 +1,807 @@
+{
+    "辽宁": {
+        "大连": {
+            "老虎滩海洋公园": {
+                "commentCount": 23065,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o12000f6s0xl5CA0D.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1097.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大连森林动物园": {
+                "commentCount": 11059,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0x000000l905o0AFF.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1100.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "棒棰岛": {
+                "commentCount": 1572,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d0m000000dwl30B5A8.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1095.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "大连圣亚海洋世界": {
+                "commentCount": 15903,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104n120009e4p7yj393F.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/14893.html?scene=online",
+                "isFree": false,
+                "price": 199.0
+            },
+            "大连海昌发现王国主题公园": {
+                "commentCount": 16528,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2512000bn8ngpw4CCC.jpg",
+                "distanceStr": "距市中心38.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64154.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "金石滩度假区": {
+                "commentCount": 2638,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t0z000000nwrv520F1.jpg",
+                "distanceStr": "距市中心38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64076.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连海昌东方水城": {
+                "commentCount": 1614,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100s0x000000la4dhA43E.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1837119.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "军港游园": {
+                "commentCount": 621,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh2112000beqmy3pFE20.jpg",
+                "distanceStr": "距市中心33.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64326.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "大连贝壳博物馆": {
+                "commentCount": 2219,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A3t120009lxabnbE68F.jpg",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/56102.html?scene=online",
+                "isFree": false,
+                "price": 66.0
+            },
+            "星海广场": {
+                "commentCount": 5681,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i0z000000n83lo84BD.jpg",
+                "distanceStr": "距市中心4.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/6686.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连森林动物园海达索道": {
+                "commentCount": 291,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000h0h8kjx4F55.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5712172.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大连滨海国家地质公园": {
+                "commentCount": 536,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100q0z000000ny1gv08E8.jpg",
+                "distanceStr": "距市中心41.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64156.html?scene=online",
+                "isFree": false,
+                "price": 39.0
+            },
+            "莲花山观景台": {
+                "commentCount": 162,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10041f000001gp9ffD96E.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1837125.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "白玉山景区": {
+                "commentCount": 432,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100h0g0000007teyy1C43.jpg",
+                "distanceStr": "距市中心33.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/114169.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "拾贝湾温泉水乐园": {
+                "commentCount": 273,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101212000aghxu4a6B26.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/136014886.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "渔人码头": {
+                "commentCount": 322,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01031120007ye68po2EF4.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/147043.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大黑山风景区": {
+                "commentCount": 256,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106k12000f6q4y9812DA.jpg",
+                "distanceStr": "距市中心26.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/6877.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "老铁山黄渤海分界线": {
+                "commentCount": 140,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102312000fhl2prb26CA.jpg",
+                "distanceStr": "距市中心46.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/114166.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大连俄罗斯风情街": {
+                "commentCount": 660,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000f6t2s3d993E.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64390.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "老虎滩极地海洋动物馆": {
+                "commentCount": 406,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106j120009ejrbzhE01E.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1831974.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "林海滑雪场": {
+                "commentCount": 194,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1y12000cnjfhbmF59C.jpg",
+                "distanceStr": "距市中心16.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1509551.html?scene=online",
+                "isFree": false,
+                "price": 138.0
+            },
+            "海之韵公园": {
+                "commentCount": 128,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105v12000f6qagyt28C3.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/6687.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "三寰牧场": {
+                "commentCount": 378,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpez64B44.jpg",
+                "distanceStr": "距市中心22.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5254351.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "星海湾跨海大桥": {
+                "commentCount": 220,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0g0000007tel78839.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1828176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "旅顺潜艇博物馆": {
+                "commentCount": 280,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106j120000wn8prkF709.jpg",
+                "distanceStr": "距市中心32.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1605711.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大连老码头景区": {
+                "commentCount": 56,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01055120008skzwyaADF1.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5657371.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "东港游艇码头": {
+                "commentCount": 46,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101a120007yndf4r3593.jpg",
+                "distanceStr": "距市中心6.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5069510.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蓝色港湾滨海乐园": {
+                "commentCount": 19,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100914000000w4tkj3AA7.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5367571.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "星海公园": {
+                "commentCount": 536,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v12000h49tf8gF6C6.jpg",
+                "distanceStr": "距市中心5.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1105.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连观光夜市": {
+                "commentCount": 378,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104y12000f6r023836C0.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/2045457.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中山广场": {
+                "commentCount": 330,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100p1f000001gpfdx33DB.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/6684.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "滨海路": {
+                "commentCount": 1159,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1a00000188nnh0F7C.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64377.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "十里黄金海岸": {
+                "commentCount": 232,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01073120009ebkzs671E8.jpg",
+                "distanceStr": "距市中心38.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/6694.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "旅顺博物馆": {
+                "commentCount": 184,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y12000f6t3jlh738F.jpg",
+                "distanceStr": "距市中心35.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64352.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "太阳沟": {
+                "commentCount": 57,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6y3m7EBB.jpg",
+                "distanceStr": "距市中心35.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1785996.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连自然博物馆": {
+                "commentCount": 210,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102b12000b8cg77m45B7.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64253.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连喂海豹": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106y120008wq0rbeD748.jpg",
+                "distanceStr": "辽宁",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/0.html?poiId=148892929",
+                "isFree": false,
+                "price": ""
+            },
+            "有轨电车": {
+                "commentCount": 338,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d12000ev1ttil3898.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1714646.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "欢乐雪世界": {
+                "commentCount": 35,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10061f000001gqw7z36FD.jpg",
+                "distanceStr": "距市中心8.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1408125.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "闯关东影视基地": {
+                "commentCount": 203,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091g000001he5hd18C2.jpg",
+                "distanceStr": "距市中心34.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/136140.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "大连海钓": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5e12000ey3y84xE38C.jpg",
+                "distanceStr": "辽宁",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/0.html?poiId=148892928",
+                "isFree": false,
+                "price": ""
+            },
+            "大连博物馆": {
+                "commentCount": 108,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103212000ay17g9d763D.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/103760048.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连赶海": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103s12000faqmhboD45E.jpg",
+                "distanceStr": "辽宁",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/0.html?poiId=148885355",
+                "isFree": false,
+                "price": ""
+            },
+            "大连森林动物园摩天轮": {
+                "commentCount": 72,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350g190000015zde68EDD.jpg",
+                "distanceStr": "距市中心4.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5655366.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "东鸡冠山": {
+                "commentCount": 101,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100m120008wckuvpDC11.jpg",
+                "distanceStr": "距市中心30.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64353.html?scene=online",
+                "isFree": false,
+                "price": 25.0
+            },
+            "【大连首展】中国国家地理·探索-极致发现科学艺术影像展": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5h12000e4m89497B61.png",
+                "distanceStr": "距市中心905m",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/148460627.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "冰峪沟": {
+                "commentCount": 329,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0w000000kgh1p99A9.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuanghe2148/1098.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大连鲁能海洋温泉": {
+                "commentCount": 78,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c0z000000mku6b3519.jpg",
+                "distanceStr": "距市中心37.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/2023822.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "世纪留声·世界音乐文化博物馆": {
+                "commentCount": 242,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1c12000b2huaj4F086.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/4746367.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "劳动公园": {
+                "commentCount": 338,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101812000bnjkuaq339B.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1102.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "银沙滩浴场": {
+                "commentCount": 9,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103812000f6qonyj8C41.jpg",
+                "distanceStr": "距市中心5.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5067843.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金石滩生命奥秘博物馆": {
+                "commentCount": 75,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102s12000aziz9jk2203.jpg",
+                "distanceStr": "距市中心39.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1407214.html?scene=online",
+                "isFree": false,
+                "price": 75.0
+            },
+            "贡多拉乘船": {
+                "commentCount": 18,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104212000eovkkw5DA1B.jpg",
+                "distanceStr": "距市中心6.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/145428255.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【大连】Standby小鹿脱口秀专场《我的中女时代》": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s12000goqvcj2D79D.jpg",
+                "distanceStr": "距市中心5.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/149580888.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "广鹿岛": {
+                "commentCount": 50,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100d1200094119s1B695.jpg",
+                "distanceStr": "距市中心70.7km",
+                "detailUrl": "https://you.ctrip.com/sight/changhai516/64217.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黑石礁公园": {
+                "commentCount": 23,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101m120008joksdt8455.jpg",
+                "distanceStr": "距市中心6.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5588369.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "老码头帆船基地": {
+                "commentCount": 15,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1002180000015gv0f857A.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5125358.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "日俄监狱旧址博物馆": {
+                "commentCount": "",
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0516000000z0k6u3583.jpg",
+                "distanceStr": "距市中心31.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金沙滩浴场": {
+                "commentCount": 41,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100h120009dzc77b842F.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1831692.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连狮虎园": {
+                "commentCount": 224,
+                "commentScore": 3.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100v12000f6rdfzdFDD0.jpg",
+                "distanceStr": "距市中心26.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/114332.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "熊洞街": {
+                "commentCount": 14,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0h12000b2kc49f4713.png",
+                "distanceStr": "距市中心3.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/133978522.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大连铭湖国际温泉滑雪度假区": {
+                "commentCount": 194,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzm7282EB.jpg",
+                "distanceStr": "距市中心67.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/141491.html?scene=online",
+                "isFree": false,
+                "price": 109.0
+            },
+            "东港音乐喷泉广场": {
+                "commentCount": 215,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000f6qcyur71B0.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1749525.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大连安波滑雪场": {
+                "commentCount": 65,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350r1a0000019ap560E5E.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1510569.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "英歌石植物园": {
+                "commentCount": 447,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1g000001har2b3BED.jpg",
+                "distanceStr": "距市中心22.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1410578.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天祥号观光游轮": {
+                "commentCount": 112,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u1f000001gq7pa4CAD.jpg",
+                "distanceStr": "距市中心4.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/2039496.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "菱角湾": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01019120009hirbb59F72.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5068086.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "201百年专列有轨电车": {
+                "commentCount": 4,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6w12000ds4gojt8AAC.png",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/145705179.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "富斯特索滑道": {
+                "commentCount": 34,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101k12000f6qc7nr5F57.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1411962.html?scene=online",
+                "isFree": false,
+                "price": 59.9
+            },
+            "大连金石滩快乐海岸旅游区": {
+                "commentCount": 31,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0m12000eluwr1a187D.jpg",
+                "distanceStr": "距市中心38.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/134080179.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "汤景泽日式温泉": {
+                "commentCount": 61,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10080x000000l39yf4234.png",
+                "distanceStr": "距市中心34.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/2481250.html?scene=online",
+                "isFree": false,
+                "price": 137.9
+            },
+            "旅顺樱花园": {
+                "commentCount": 51,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0o1d000001ejfy9AB73.jpg",
+                "distanceStr": "距市中心37.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1714647.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金石蜡像馆": {
+                "commentCount": 134,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103r12000aaobyou55A9.jpg",
+                "distanceStr": "距市中心39.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1407143.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "旅顺站": {
+                "commentCount": 136,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000f6set28CD93.jpg",
+                "distanceStr": "距市中心33.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/64388.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "獐子岛": {
+                "commentCount": 31,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101f12000f6tsv7xCDBB.jpg",
+                "distanceStr": "距市中心97.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changhai516/17637.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "小水口森林公园": {
+                "commentCount": 51,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0m12000bsmdagn247A.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/changhai516/1667511.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "金石滩喂海鸥海上垂钓": {
+                "commentCount": 15,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000833nr3hC9F0.jpg",
+                "distanceStr": "距市中心42.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1409210.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "北大桥": {
+                "commentCount": 140,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p12000f6qa22g1595.jpg",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/1096.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "旅顺港": {
+                "commentCount": 11,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o1200092m4yv1C0D4.jpg",
+                "distanceStr": "距市中心39.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5142401.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "跨海空中索道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105312000a4otgacC83C.png",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/69169518.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海上游大连(东港码头店)": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6o12000e2surrkBF18.png",
+                "distanceStr": "距市中心4.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/146190650.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【大连】《爱·永恒》理查德·克莱德曼钢琴音乐会": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100812000fhlieuo0C2E.jpg",
+                "distanceStr": "距市中心3.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/148903601.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "EX未来科技馆": {
+                "commentCount": 30,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101b120008vl7fx49277.jpg",
+                "distanceStr": "距市中心39.4km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/129907258.html?scene=online",
+                "isFree": false,
+                "price": 59.8
+            },
+            "盛唐岚山步行街": {
+                "commentCount": 3,
+                "commentScore": 3.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104e12000b6hlwkb8049.jpg",
+                "distanceStr": "距市中心42.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/135448883.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大长山岛": {
+                "commentCount": 73,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a12000f6rc40jD83F.jpg",
+                "distanceStr": "距市中心92.9km",
+                "detailUrl": "https://you.ctrip.com/sight/changhai516/17633.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "金石滩沙滩浴场": {
+                "commentCount": 16,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f12000f6u5h4vA2E1.jpg",
+                "distanceStr": "距市中心38.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/5066530.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "港东五街": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6n12000dspvxxrB271.jpg",
+                "distanceStr": "距市中心6.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/145055395.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蛤蜊岛": {
+                "commentCount": 70,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1712000dl7y49e94C0.jpg",
+                "distanceStr": "距市中心>100km",
+                "detailUrl": "https://you.ctrip.com/sight/zhuanghe2148/1646315.html?scene=online",
+                "isFree": false,
+                "price": 38.8
+            },
+            "金石缘公园": {
+                "commentCount": 37,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101412000f6t2kta01AB.jpg",
+                "distanceStr": "距市中心40.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dalian4/6869.html?scene=online",
+                "isFree": false,
+                "price": 9.0
+            }
+        }
+    }
+}

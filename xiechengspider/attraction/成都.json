@@ -1,0 +1,690 @@
+{
+    "四川": {
+        "成都": {
+            "成都大熊猫繁育研究基地": {
+                "commentCount": 78865,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105p12000f6scno87BC5.jpg",
+                "distanceStr": "距市中心11.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4229.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "都江堰景区": {
+                "commentCount": 37954,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g0z000000nd29yD334.jpg",
+                "distanceStr": "距市中心58.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/4597.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "杜甫草堂": {
+                "commentCount": 24194,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104712000f6pqdbe0C80.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4226.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "武侯祠": {
+                "commentCount": 18233,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n12000f6trha712AE.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4227.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "青城山": {
+                "commentCount": 17734,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t1200087ctezh5DC1.jpg",
+                "distanceStr": "距市中心55.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/62960.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "金沙遗址博物馆": {
+                "commentCount": 14712,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A0k120008r12vfk104F.jpg",
+                "distanceStr": "距市中心5.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/48863.html?scene=online",
+                "isFree": false,
+                "price": 66.0
+            },
+            "成都博物馆": {
+                "commentCount": 4672,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350j1c000001cpign4A54.jpg",
+                "distanceStr": "距市中心210m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/2006697.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "蜀风雅韵川剧院": {
+                "commentCount": 6897,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350p1c000001cicdd66CC.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/138459.html?scene=online",
+                "isFree": false,
+                "price": 120.0
+            },
+            "文殊坊": {
+                "commentCount": 230,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3s12000cndjrd45EF0.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1469084.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "都江堰中华大熊猫苑(原熊猫乐园)": {
+                "commentCount": 2621,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100k12000a9up2285274.jpg",
+                "distanceStr": "距市中心51.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/1683224.html?scene=online",
+                "isFree": false,
+                "price": 53.0
+            },
+            "熊猫谷": {
+                "commentCount": 539,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106h120008ib6iopCE1C.jpg",
+                "distanceStr": "距市中心56.7km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/1700731.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "成都自然博物馆": {
+                "commentCount": 3076,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v12000f6u1hlu172B.png",
+                "distanceStr": "距市中心7.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/2571169.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "《芙蓉国粹》变脸秀": {
+                "commentCount": 4906,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100f1200091xx8bc2BB7.jpg",
+                "distanceStr": "距市中心699m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/138441.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "四川省川剧院": {
+                "commentCount": 408,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1m12000bd3ufp2FBBA.jpg",
+                "distanceStr": "距市中心716m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/147145.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "成都赏银杏": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106m1200094jgivyAB2F.jpg",
+                "distanceStr": "四川",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/0.html?poiId=148849146",
+                "isFree": false,
+                "price": ""
+            },
+            "文殊院": {
+                "commentCount": 1389,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z12000f7vv5c470B1.jpg",
+                "distanceStr": "距市中心2.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4341.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "成都动物园": {
+                "commentCount": 10673,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6ysl2959.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/119895.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "漫花庄园": {
+                "commentCount": 1866,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4r12000gb5jd755066.jpg",
+                "distanceStr": "距市中心13.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1673197.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "成都欢乐谷": {
+                "commentCount": 15359,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104p120008a7h2z19506.jpg",
+                "distanceStr": "距市中心7.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/65834.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "成都极地海洋公园": {
+                "commentCount": 35838,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101v120008gnlyyr45D6.jpg",
+                "distanceStr": "距市中心18.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/85930.html?scene=online",
+                "isFree": false,
+                "price": 218.0
+            },
+            "四川博物院": {
+                "commentCount": 963,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101s1200093pxu5nE11C.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/85913.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "宽窄巷子": {
+                "commentCount": 11018,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r1f000001gon9mBC5D.jpg",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/63456.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "成都夜游锦江": {
+                "commentCount": 260,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102v12000a3r39y6CA5C.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/5701315.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西岭雪山": {
+                "commentCount": 9714,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101d12000amqme7qEA62.jpg",
+                "distanceStr": "距市中心84.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dayi3130/4349.html?scene=online",
+                "isFree": false,
+                "price": 240.0
+            },
+            "锦里古街": {
+                "commentCount": 12366,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y1200086whywyF282.jpg",
+                "distanceStr": "距市中心2.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/48862.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "春熙路": {
+                "commentCount": 4375,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100410000000owden3387.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/138472.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "天府广场": {
+                "commentCount": 644,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k120008c4od1w0659.jpg",
+                "distanceStr": "距市中心<100m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/50285.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "青城后山": {
+                "commentCount": 1566,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105912000h4fwkk619A8.jpg",
+                "distanceStr": "距市中心63.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/62961.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "梅花剧社·非遗川剧变脸": {
+                "commentCount": 374,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6312000cl4x43eB875.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/5713306.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "成都天台山旅游景区": {
+                "commentCount": 1894,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104r12000f6qumrl084A.jpg",
+                "distanceStr": "距市中心94.2km",
+                "detailUrl": "https://you.ctrip.com/sight/qionglai1403/4603.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "东郊记忆": {
+                "commentCount": 385,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0f11000000qrbzv937C.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1475942.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "川西竹海景区": {
+                "commentCount": 1375,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350n180000013liok6FB3.jpg",
+                "distanceStr": "距市中心79.9km",
+                "detailUrl": "https://you.ctrip.com/sight/qionglai1403/134466.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "环球中心海洋乐园": {
+                "commentCount": 3080,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6q12000b6yb9u048B1.jpg",
+                "distanceStr": "距市中心9.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1407638.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "成都环球中心": {
+                "commentCount": 526,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01007120008c4rn6t934D.jpg",
+                "distanceStr": "距市中心9.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1483118.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "南桥": {
+                "commentCount": 699,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n12000eyfpk3tE9C8.jpg",
+                "distanceStr": "距市中心57.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/76261.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "四川科技馆": {
+                "commentCount": 337,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103q12000apua0i84C7B.jpg",
+                "distanceStr": "距市中心267m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1475857.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "成都融创乐园": {
+                "commentCount": 2785,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102p120009cuv4m99190.png",
+                "distanceStr": "距市中心53.8km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/5711074.html?scene=online",
+                "isFree": false,
+                "price": 59.0
+            },
+            "成都融创文旅城": {
+                "commentCount": 117,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105u120008eqkwbu29BA.jpg",
+                "distanceStr": "距市中心54.5km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/103300331.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "洛带古镇": {
+                "commentCount": 507,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100612000000sefrhD823.jpg",
+                "distanceStr": "距市中心25.0km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/49942.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "锦江剧场·《川剧秀·传奇变脸》": {
+                "commentCount": 71,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1012000dpe3egrA522.png",
+                "distanceStr": "距市中心1.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/145098392.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "2024年成都世界园艺博览会": {
+                "commentCount": 425,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5712000dt2rcgm1170.png",
+                "distanceStr": "距市中心45.5km",
+                "detailUrl": "https://you.ctrip.com/sight/jianyang3122/145057458.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "成都热雪奇迹": {
+                "commentCount": 2743,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120008ehbd1m5C38.jpg",
+                "distanceStr": "距市中心53.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/5709305.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "黄龙溪": {
+                "commentCount": 966,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105012000h4y4z5i1E03.jpg",
+                "distanceStr": "距市中心38.7km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/22176.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "四川建川博物馆聚落": {
+                "commentCount": 2349,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350h1700000123cdc28E9.jpg",
+                "distanceStr": "距市中心46.2km",
+                "detailUrl": "https://you.ctrip.com/sight/dayi3130/71986.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "安仁古镇": {
+                "commentCount": 540,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100o12000abrihox7DCB.jpg",
+                "distanceStr": "距市中心45.9km",
+                "detailUrl": "https://you.ctrip.com/sight/dayi3130/79456.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "成都市人民公园": {
+                "commentCount": 837,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101e120009zdcz18778A.jpg",
+                "distanceStr": "距市中心823m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/11693.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "都江堰青城道温泉": {
+                "commentCount": 729,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01051120008sbxqdhF3E7.jpg",
+                "distanceStr": "距市中心52.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/140401.html?scene=online",
+                "isFree": false,
+                "price": 168.0
+            },
+            "刘氏庄园博物馆": {
+                "commentCount": 2421,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10040z000000nkfhvD07B.jpg",
+                "distanceStr": "距市中心45.3km",
+                "detailUrl": "https://you.ctrip.com/sight/dayi3130/48849.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "青羊宫": {
+                "commentCount": 607,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101g12000f6sdjlk579E.jpg",
+                "distanceStr": "距市中心2.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/11700.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "联华梨园社·春熙剧场川剧变脸秀": {
+                "commentCount": 299,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3212000badg8ndDAF6.jpg",
+                "distanceStr": "距市中心1.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4380352.html?scene=online",
+                "isFree": false,
+                "price": 108.0
+            },
+            "蜀兿剧院·变脸川剧·盖碗茶": {
+                "commentCount": 83,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000f6trvn62E93.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/144315194.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "海滨城浩海立方海洋公园": {
+                "commentCount": 2646,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103a1200097mt1a735EB.jpg",
+                "distanceStr": "距市中心16.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1696842.html?scene=online",
+                "isFree": false,
+                "price": 188.0
+            },
+            "蛟龙港·海滨城": {
+                "commentCount": 91,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01042120008s7f57iA17B.jpg",
+                "distanceStr": "距市中心16.1km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4575309.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "九眼桥": {
+                "commentCount": 378,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10050m000000dhia8BD75.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1713566.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄龙溪欢乐田园": {
+                "commentCount": 6548,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1i12000e1lmmf95D01.jpg",
+                "distanceStr": "距市中心37.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/5100501.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "成都戏服体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q1a0000019rbo08508.jpg",
+                "distanceStr": "四川",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/0.html?poiId=148485469",
+                "isFree": false,
+                "price": ""
+            },
+            "成都永陵博物馆": {
+                "commentCount": 269,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100912000f6qafsa3219.jpg",
+                "distanceStr": "距市中心2.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4602.html?scene=online",
+                "isFree": false,
+                "price": 20.0
+            },
+            "都江堰道教文化体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103t12000gdvy40j3962.jpg",
+                "distanceStr": "成都",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/0.html?poiId=149543812",
+                "isFree": false,
+                "price": ""
+            },
+            "蜀宴赋": {
+                "commentCount": 42,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0u12000fugyz9n0C84.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/143151913.html?scene=online",
+                "isFree": false,
+                "price": 498.0
+            },
+            "大慈寺": {
+                "commentCount": 408,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100w15000000y77irE456.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4344.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "成都酒文化体验": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2r12000crwiabkECC6.png",
+                "distanceStr": "四川",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/0.html?poiId=148928487",
+                "isFree": false,
+                "price": ""
+            },
+            "灌县古城": {
+                "commentCount": 158,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g120008jbn6bwB0E5.jpg",
+                "distanceStr": "距市中心56.6km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/1700523.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "ARTE全沉浸式美术馆·成都": {
+                "commentCount": 106,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1i12000auo0sszC804.jpg",
+                "distanceStr": "距市中心5.5km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/136468031.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "【成都】 伍佰 and China Blue《成功之路》摇滚歌剧": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103512000gtd3a5vB751.jpg",
+                "distanceStr": "距市中心9.2km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/149590340.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【成都】中国国家地理·探索《极致发现》科学艺术影像展": {
+                "commentCount": 14,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ5d12000h37hzwwC5AB.jpg",
+                "distanceStr": "距市中心630m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/148839477.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "《花重锦官城》城市钜秀": {
+                "commentCount": 136,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103f12000as709yyD7BA.jpg",
+                "distanceStr": "距市中心1.8km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/134048537.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三星堆考古遗址公园": {
+                "commentCount": 87,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n12000f6tzy2bD700.jpg",
+                "distanceStr": "距成都40.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guanghan1349/1927206.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "立巢航空博物馆": {
+                "commentCount": 263,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01045120008ijbajg6C8E.jpg",
+                "distanceStr": "距市中心9.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/5546729.html?scene=online",
+                "isFree": false,
+                "price": 158.0
+            },
+            "成都融创水世界": {
+                "commentCount": 1437,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010071200003lsq052AA7.jpg",
+                "distanceStr": "距市中心54.0km",
+                "detailUrl": "https://you.ctrip.com/sight/dujiangyan911/5709320.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "国色天乡陆地乐园": {
+                "commentCount": 4160,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105z12000aq4xngj8119.png",
+                "distanceStr": "距市中心24.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/1410828.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "国色天乡": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100l0q000000gblmt908F.jpg",
+                "distanceStr": "距市中心23.9km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/144100086.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "【成都】【大笑喜剧】太古里脱口秀｜天天精品｜综艺卡司｜吐槽爆笑大会｜开心互动｜即兴喜剧爆笑之夜精品秀": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g12000et4z9c82858.png",
+                "distanceStr": "距市中心681m",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/148496907.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "三星堆博物馆": {
+                "commentCount": 11322,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000h0jx9pr937E.jpg",
+                "distanceStr": "距成都40.9km",
+                "detailUrl": "https://you.ctrip.com/sight/guanghan1349/48854.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "朝阳湖风景名胜区": {
+                "commentCount": 11,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104c12000h0m4ji7CE42.jpg",
+                "distanceStr": "距市中心84.4km",
+                "detailUrl": "https://you.ctrip.com/sight/pujiang3136/4607.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云顶水乡旅游度假区": {
+                "commentCount": 419,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103012000f6tklmj023C.jpg",
+                "distanceStr": "距市中心82.0km",
+                "detailUrl": "https://you.ctrip.com/sight/pujiang3136/134043587.html?scene=online",
+                "isFree": false,
+                "price": 19.9
+            },
+            "成都植物园": {
+                "commentCount": 798,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M00/26/C5/CghzfFU2AjGAM-E0AAEsc4k6Uqs437.jpg",
+                "distanceStr": "距市中心13.4km",
+                "detailUrl": "https://you.ctrip.com/sight/chengdu104/4340.html?scene=online",
+                "isFree": false,
+                "price": 10.0
+            }
+        }
+    }
+}

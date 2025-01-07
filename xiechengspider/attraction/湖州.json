@@ -1,0 +1,807 @@
+{
+    "浙江": {
+        "湖州": {
+            "南浔古镇": {
+                "commentCount": 13410,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01066120008f4zmc64950.jpg",
+                "distanceStr": "距市中心32.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/135811.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "莫干山风景名胜区": {
+                "commentCount": 20245,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6qavc2185B.jpg",
+                "distanceStr": "距市中心38.4km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/135799.html?scene=online",
+                "isFree": false,
+                "price": 40.0
+            },
+            "杭州Hello Kitty乐园": {
+                "commentCount": 10186,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100b1g000001h608nDDEF.jpg",
+                "distanceStr": "距市中心45.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/1487514.html?scene=online",
+                "isFree": false,
+                "price": 210.0
+            },
+            "云上草原": {
+                "commentCount": 12962,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5c12000h4ymyoy61C0.jpg",
+                "distanceStr": "距市中心60.6km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/5553391.html?scene=online",
+                "isFree": false,
+                "price": 180.0
+            },
+            "云上草原国际山地旅游度假区": {
+                "commentCount": 367,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1x12000h4v5wxo524F.jpg",
+                "distanceStr": "距市中心60.6km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/144892126.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莫干山开元森泊度假乐园": {
+                "commentCount": 4440,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104i120008beesa94501.jpg",
+                "distanceStr": "距市中心44.7km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/67608770.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "太湖龙之梦乐园": {
+                "commentCount": 1757,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103o12000f6ptytc3D23.png",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/5034353.html?scene=online",
+                "isFree": false,
+                "price": 190.0
+            },
+            "中南百草原": {
+                "commentCount": 6161,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1k12000gb0bgad9851.jpg",
+                "distanceStr": "距市中心48.2km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/125988.html?scene=online",
+                "isFree": false,
+                "price": 200.0
+            },
+            "龙之梦国际大马戏": {
+                "commentCount": 2247,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104g120009swvuv189E2.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/134447793.html?scene=online",
+                "isFree": false,
+                "price": 280.0
+            },
+            "安吉竹博园": {
+                "commentCount": 2344,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105y120008sdeppd22D2.jpg",
+                "distanceStr": "距市中心52.9km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/55782.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "熊猫部落探险乐园": {
+                "commentCount": 617,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6r12000cwuupvqB1A4.jpg",
+                "distanceStr": "距市中心62.2km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/143239711.html?scene=online",
+                "isFree": false,
+                "price": 128.0
+            },
+            "太湖古镇": {
+                "commentCount": 721,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A38120008nt7gy77D78.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/5711115.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "龙之梦动物世界": {
+                "commentCount": 2027,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r1200080wutlsC7FE.jpg",
+                "distanceStr": "距市中心7.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/5708181.html?scene=online",
+                "isFree": false,
+                "price": 190.0
+            },
+            "中国大竹海": {
+                "commentCount": 3201,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2012000b6h7a2m524E.jpg",
+                "distanceStr": "距市中心61.1km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135810.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "小莲庄": {
+                "commentCount": 567,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0c17000001364362464.jpg",
+                "distanceStr": "距市中心32.8km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/3980.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湖州长颈鹿庄园": {
+                "commentCount": 837,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100n1g000001h10u04F33.jpg",
+                "distanceStr": "距市中心17.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/5708706.html?scene=online",
+                "isFree": false,
+                "price": 89.0
+            },
+            "田园嘉乐比乐园": {
+                "commentCount": 1843,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4a12000gnnzo9431AC.jpg",
+                "distanceStr": "距市中心55.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/1751756.html?scene=online",
+                "isFree": false,
+                "price": 165.0
+            },
+            "安吉滑雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/35051c000001c8aqo0599.jpg",
+                "distanceStr": "湖州",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/0.html?poiId=148473892",
+                "isFree": false,
+                "price": ""
+            },
+            "西湖风景名胜区": {
+                "commentCount": 28484,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0h00000091vol6690.jpg",
+                "distanceStr": "距湖州74.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/49894.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "云上草原滑雪场": {
+                "commentCount": 1485,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6e12000gsjb2qc8879.png",
+                "distanceStr": "距市中心60.6km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/5700747.html?scene=online",
+                "isFree": false,
+                "price": 239.0
+            },
+            "莫干山天际森谷山野乐园": {
+                "commentCount": 2546,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo3712000dg3y9h54A81.jpg",
+                "distanceStr": "距市中心50.1km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/5716847.html?scene=online",
+                "isFree": false,
+                "price": 99.9
+            },
+            "太湖龙之梦冰雪世界": {
+                "commentCount": 466,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2k12000c7nys9p080E.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/142201811.html?scene=online",
+                "isFree": false,
+                "price": 160.0
+            },
+            "安吉滑草": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101u12000dgep187B87F.jpg",
+                "distanceStr": "湖州",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/0.html?poiId=148914418",
+                "isFree": false,
+                "price": ""
+            },
+            "德清下渚湖湿地公园": {
+                "commentCount": 2861,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n1200085jkkvgBA29.jpg",
+                "distanceStr": "距市中心41.7km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/57105.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "莫干山森泊水乐园": {
+                "commentCount": 2209,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01015120008w7abrn7B3C.jpg",
+                "distanceStr": "距市中心44.4km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/5701291.html?scene=online",
+                "isFree": false,
+                "price": 208.0
+            },
+            "莫干山江南瑶坞旅游度假区": {
+                "commentCount": 447,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo1r12000disxsca67F9.jpg",
+                "distanceStr": "距市中心41.5km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/141024170.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "浙北大峡谷": {
+                "commentCount": 1660,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01056120008r37yfu2EEE.jpg",
+                "distanceStr": "距市中心74.4km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135807.html?scene=online",
+                "isFree": false,
+                "price": 88.0
+            },
+            "藏龙百瀑": {
+                "commentCount": 4386,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100k0z000000nyw0zC1B2.jpg",
+                "distanceStr": "距市中心68.1km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/55781.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "江南天池": {
+                "commentCount": 635,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grmbd39CE.jpg",
+                "distanceStr": "距市中心66.6km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/55799.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "天荒坪风景区": {
+                "commentCount": 108,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gr0yv1EEE.jpg",
+                "distanceStr": "距市中心67.4km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/1833985.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "安吉天目山漂流": {
+                "commentCount": 1118,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4q12000dq46cgh054B.jpg",
+                "distanceStr": "距市中心69.3km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135934.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浙北峡谷漂流": {
+                "commentCount": 738,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4012000b9pm4pgE388.jpg",
+                "distanceStr": "距市中心72.4km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135808.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莫干山森泊幻想岛儿童乐园": {
+                "commentCount": 2997,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o1b000001b1sn1F3AB.jpg",
+                "distanceStr": "距市中心44.6km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/5701276.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "湖州影视城": {
+                "commentCount": 906,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqx0oDE2D.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/4692342.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "浮云谷": {
+                "commentCount": 47,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0y12000eywwi3v746E.jpg",
+                "distanceStr": "距市中心53.8km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/146927092.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "南浔古镇游船": {
+                "commentCount": 76,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103v1200086v8u5x2AC7.jpg",
+                "distanceStr": "距市中心32.9km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/2483048.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安吉深溪峡谷漂流": {
+                "commentCount": 662,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01058120008nwh5s71D54.png",
+                "distanceStr": "距市中心74.2km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "乌镇": {
+                "commentCount": 20903,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000f6t3031506D.jpg",
+                "distanceStr": "距湖州41.9km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/16170.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "安吉漂流": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104o12000dwapxrkA9B0.jpg",
+                "distanceStr": "湖州",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/0.html?poiId=145736076",
+                "isFree": false,
+                "price": ""
+            },
+            "湖州滑雪": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo7212000cnqcrvsD3B5.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/0.html?poiId=148897031",
+                "isFree": false,
+                "price": ""
+            },
+            "拙政园": {
+                "commentCount": 60994,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102o12000f6rc5w8B3FF.jpg",
+                "distanceStr": "距湖州70.4km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/47072.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "龙之梦嬉水世界": {
+                "commentCount": 1468,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101y120008xpe7el44B0.jpg",
+                "distanceStr": "距市中心6.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/5710032.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "上渚山奇幻谷": {
+                "commentCount": 723,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105412000f6pqy6hD139.jpg",
+                "distanceStr": "距市中心42.5km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/5705127.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "太湖旅游度假区": {
+                "commentCount": 347,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100x12000846hhc92A61.jpg",
+                "distanceStr": "距市中心7.3km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/4017.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "百间楼": {
+                "commentCount": 211,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m0z000000nqwg25B7F.jpg",
+                "distanceStr": "距市中心32.8km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/18173.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "枫桥景区": {
+                "commentCount": 1337,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105712000f9vdqtz31A2.jpg",
+                "distanceStr": "距湖州65.0km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/48378.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "寒山寺": {
+                "commentCount": 16607,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6trp9k1F94.jpg",
+                "distanceStr": "距湖州65.1km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/3765.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "灵隐寺": {
+                "commentCount": 17659,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10090n000000e2tjiAAF1.jpg",
+                "distanceStr": "距湖州72.7km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/2040.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湖州漂流": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4812000b63ohfv0758.jpg",
+                "distanceStr": "浙江",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/0.html?poiId=148485528",
+                "isFree": false,
+                "price": ""
+            },
+            "西湖游船": {
+                "commentCount": 15343,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6tvy9u6D80.jpg",
+                "distanceStr": "距湖州72.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/1410601.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "太湖月亮湾": {
+                "commentCount": 92,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102l120006akex2r16FB.jpg",
+                "distanceStr": "距市中心7.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/69575520.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "和乐·精灵之丘水豚主题乐园": {
+                "commentCount": 211,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo0y12000c9tj8wr8968.jpg",
+                "distanceStr": "距市中心54.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/140616615.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "浙江自然博物院(安吉馆)": {
+                "commentCount": 42,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105n12000autrkefFE23.jpg",
+                "distanceStr": "距市中心49.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/5678341.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西栅": {
+                "commentCount": 11972,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gsxcq27C5.jpg",
+                "distanceStr": "距湖州41.1km",
+                "detailUrl": "https://you.ctrip.com/sight/tongxiang220/139898.html?scene=online",
+                "isFree": false,
+                "price": 150.0
+            },
+            "杭州宋城": {
+                "commentCount": 26963,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10091b000001aah4b32B1.jpg",
+                "distanceStr": "距湖州80.6km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/4081.html?scene=online",
+                "isFree": false,
+                "price": 300.0
+            },
+            "长兴八都岕景区": {
+                "commentCount": 699,
+                "commentScore": 3.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104w12000f6qklsoB0C4.jpg",
+                "distanceStr": "距市中心31.5km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/56970.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "莫干山星空乐园": {
+                "commentCount": 498,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o1a000001961t6708D.jpg",
+                "distanceStr": "距市中心37.4km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/5678533.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安吉欢乐风暴水上乐园": {
+                "commentCount": 1747,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350q160000010h5hh54C5.jpg",
+                "distanceStr": "距市中心56.7km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/1708709.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "江南天池滑雪场": {
+                "commentCount": 972,
+                "commentScore": 4.2,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6512000cut68vgEC15.jpg",
+                "distanceStr": "距市中心66.5km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135729.html?scene=online",
+                "isFree": false,
+                "price": 188.0
+            },
+            "西溪国家湿地公园": {
+                "commentCount": 18368,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4112000fwk8cgs653F.jpg",
+                "distanceStr": "距湖州69.8km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/25481.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "鼋头渚": {
+                "commentCount": 29963,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d120008b7xcb480D2.jpg",
+                "distanceStr": "距湖州71.3km",
+                "detailUrl": "https://you.ctrip.com/sight/wuxi10/1775.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "狮子林": {
+                "commentCount": 17435,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104h12000f6t2q2h452C.jpg",
+                "distanceStr": "距湖州70.1km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/1829.html?scene=online",
+                "isFree": false,
+                "price": 30.0
+            },
+            "龙王山峡谷漂流": {
+                "commentCount": 2562,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105112000f6q5iq29DE6.jpg",
+                "distanceStr": "距市中心84.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/140872.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵隐飞来峰景区": {
+                "commentCount": 13583,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010571200099w8qg652D8.jpg",
+                "distanceStr": "距湖州73.1km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/48020.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "虎丘山风景名胜区": {
+                "commentCount": 23750,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4i12000fq5vvm3885B.jpg",
+                "distanceStr": "距湖州68.0km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/3763.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "湖州(莫干山)龙出没森林探险漂流": {
+                "commentCount": 658,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo4812000b63ohfv0758.jpg",
+                "distanceStr": "距市中心16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/5715297.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "湖州(莫干山)龙出没探险乐园": {
+                "commentCount": 61,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101n12000a7pwk1u3118.jpg",
+                "distanceStr": "距市中心16.2km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/135450386.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "留园": {
+                "commentCount": 11255,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000f6qx4gy6FC5.jpg",
+                "distanceStr": "距湖州67.2km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/1830.html?scene=online",
+                "isFree": false,
+                "price": 45.0
+            },
+            "将军关探险漂流": {
+                "commentCount": 1172,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106q1200080wl7guDF3F.jpg",
+                "distanceStr": "距市中心87.8km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/70250.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "刘氏梯号": {
+                "commentCount": 136,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105712000f6rc0t98D6D.jpg",
+                "distanceStr": "距市中心33.0km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/21108.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中南欧洲牧场": {
+                "commentCount": 64,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100r120008m445wr5B74.jpg",
+                "distanceStr": "距市中心48.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/5715553.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "周庄": {
+                "commentCount": 15990,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103412000f6sf0uf8ABE.jpg",
+                "distanceStr": "距湖州76.9km",
+                "detailUrl": "https://you.ctrip.com/sight/kunshan77/109861.html?scene=online",
+                "isFree": false,
+                "price": 100.0
+            },
+            "大唐贡茶院": {
+                "commentCount": 672,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000f6qkrb1709E.jpg",
+                "distanceStr": "距市中心37.4km",
+                "detailUrl": "https://you.ctrip.com/sight/changxing1832/56978.html?scene=online",
+                "isFree": false,
+                "price": 60.0
+            },
+            "新市古镇": {
+                "commentCount": 279,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A06180000014vrj4527E.jpg",
+                "distanceStr": "距市中心36.4km",
+                "detailUrl": "https://you.ctrip.com/sight/deqing1011/57110.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "张静江故居": {
+                "commentCount": 83,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104012000aa0ubn24451.jpg",
+                "distanceStr": "距市中心33.3km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/3982.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "灵山大佛": {
+                "commentCount": 28752,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2312000e01f4v6ECAB.jpg",
+                "distanceStr": "距湖州59.6km",
+                "detailUrl": "https://you.ctrip.com/sight/wuxi10/1770.html?scene=online",
+                "isFree": false,
+                "price": 195.0
+            },
+            "灵山胜境": {
+                "commentCount": 3722,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2n12000e01ep1aFFC1.jpg",
+                "distanceStr": "距湖州59.2km",
+                "detailUrl": "https://you.ctrip.com/sight/wuxi10/134087.html?scene=online",
+                "isFree": false,
+                "price": 195.0
+            },
+            "同里古镇": {
+                "commentCount": 11686,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010281200086x1oqt2AF1.jpg",
+                "distanceStr": "距湖州67.1km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/115503.html?scene=online",
+                "isFree": false,
+                "price": 80.0
+            },
+            "拈花湾": {
+                "commentCount": 24963,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0i190000017rmn113F6.jpg",
+                "distanceStr": "距湖州58.4km",
+                "detailUrl": "https://you.ctrip.com/sight/wuxi10/1787327.html?scene=online",
+                "isFree": false,
+                "price": 99.0
+            },
+            "苏州博物馆": {
+                "commentCount": 3834,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1d000001es1sz54B7.jpg",
+                "distanceStr": "距湖州70.2km",
+                "detailUrl": "https://you.ctrip.com/sight/suzhou11/43956.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "荣耀天空之城": {
+                "commentCount": 543,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102y120008m09fi4C031.jpg",
+                "distanceStr": "距市中心56.2km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/5710359.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "长谷洞天": {
+                "commentCount": 267,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6tulo33020.jpg",
+                "distanceStr": "距市中心65.1km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/135653.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "仙龙峡运动营地": {
+                "commentCount": 22,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/3502180000015bzei98D8.jpg",
+                "distanceStr": "距市中心62.3km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/70143.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "仙龙峡漂流": {
+                "commentCount": 782,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6x12000dpoqq80C966.jpg",
+                "distanceStr": "距市中心62.3km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/1410286.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "中国湖笔博物馆": {
+                "commentCount": 122,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/350o1d000001ee0688564.jpg",
+                "distanceStr": "距市中心4.4km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/56953.html?scene=online",
+                "isFree": false,
+                "price": 18.0
+            },
+            "余村": {
+                "commentCount": 30,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102012000f7vkajsD623.jpg",
+                "distanceStr": "距市中心61.6km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/139895.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "雷峰塔": {
+                "commentCount": 7292,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100v0x000000lrchnB808.jpg",
+                "distanceStr": "距湖州74.0km",
+                "detailUrl": "https://you.ctrip.com/sight/hangzhou14/2033.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小杭坑": {
+                "commentCount": 26,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000az1bhtiAAE2.jpg",
+                "distanceStr": "距市中心67.0km",
+                "detailUrl": "https://you.ctrip.com/sight/anji686/131170467.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "小莲庄及嘉业藏书楼": {
+                "commentCount": 29,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102i12000ar6l15x03C9.jpg",
+                "distanceStr": "距市中心32.7km",
+                "detailUrl": "https://you.ctrip.com/sight/huzhou68/136331753.html?scene=online",
+                "isFree": false,
+                "price": ""
+            }
+        }
+    }
+}

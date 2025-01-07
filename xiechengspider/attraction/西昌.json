@@ -1,0 +1,807 @@
+{
+    "四川": {
+        "西昌": {
+            "泸山": {
+                "commentCount": 322,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gzo6a7AC0.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/49892.html?scene=online",
+                "isFree": false,
+                "price": 65.0
+            },
+            "邛海": {
+                "commentCount": 29,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000f6n8nfzD3C0.jpg",
+                "distanceStr": "距市中心9.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5124310.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "阿惹妞民俗村寨": {
+                "commentCount": 16,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102j12000f6qzqhe3D3E.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/2002526.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "邛海国家湿地公园": {
+                "commentCount": 1611,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100r0q000000gajih19D3.jpg",
+                "distanceStr": "距市中心7.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/19706.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "邛海泸山风景区": {
+                "commentCount": 43,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m12000f6rm2s434F8.jpg",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5141131.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西昌建昌古城": {
+                "commentCount": 101,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000f6q5fpj3D28.jpg",
+                "distanceStr": "距市中心1.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1416329.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大石板古村": {
+                "commentCount": 5,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102z12000f6q307f9892.jpg",
+                "distanceStr": "距市中心12.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/133855620.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "安哈彝寨仙人洞": {
+                "commentCount": 167,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0EQ4112000ezmxm1i784B.jpg",
+                "distanceStr": "距市中心20.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1418756.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "西昌观鸟": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100u0q000000gc37aBC01.jpg",
+                "distanceStr": "凉山",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/0.html?poiId=148849136",
+                "isFree": false,
+                "price": ""
+            },
+            "邛海17度": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103m12000f6tl5dp68F9.jpg",
+                "distanceStr": "距市中心3.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/136061885.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西昌看日落": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103h12000fei5mpwE643.jpg",
+                "distanceStr": "凉山",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/0.html?poiId=148892214",
+                "isFree": false,
+                "price": ""
+            },
+            "西昌看日出": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100j12000000s66qd999D.jpg",
+                "distanceStr": "凉山",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/0.html?poiId=148928504",
+                "isFree": false,
+                "price": ""
+            },
+            "金鳞沙滩": {
+                "commentCount": 21,
+                "commentScore": 3.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104f12000f6g9k5060EF.jpg",
+                "distanceStr": "距市中心12.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/4943350.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "唐园": {
+                "commentCount": 4,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102912000f6tkrm00201.jpg",
+                "distanceStr": "距市中心2.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/136028779.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "螺髻九十九里温泉瀑布风景区": {
+                "commentCount": 1247,
+                "commentScore": 4.1,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k120009syzihr9273.jpg",
+                "distanceStr": "距西昌49.2km",
+                "detailUrl": "https://you.ctrip.com/sight/puge1446232/1407700.html?scene=online",
+                "isFree": false,
+                "price": 140.0
+            },
+            "月色风情小镇": {
+                "commentCount": 17,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s120008e2cq21AB8F.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/4944348.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "黄联土林": {
+                "commentCount": 55,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100g1f000001gqx8c9548.jpg",
+                "distanceStr": "距市中心25.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/49881.html?scene=online",
+                "isFree": false,
+                "price": 19.9
+            },
+            "凉山州博物馆": {
+                "commentCount": 8,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106b12000f6s1rzsA72E.jpg",
+                "distanceStr": "距市中心678m",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5704044.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "矿泉花园": {
+                "commentCount": 28,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp4f5BC74.jpg",
+                "distanceStr": "距市中心4.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1478786.html?scene=online",
+                "isFree": false,
+                "price": 36.7
+            },
+            "西昌市火把广场(阿惹妞实景剧场)": {
+                "commentCount": 65,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/010671200085zzkta3279.jpg",
+                "distanceStr": "距市中心2.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1713632.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "螺髻山": {
+                "commentCount": 1738,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1A0e1a0000019tqlz97C2.jpg",
+                "distanceStr": "距西昌38.6km",
+                "detailUrl": "https://you.ctrip.com/sight/puge1446232/19705.html?scene=online",
+                "isFree": false,
+                "price": 85.0
+            },
+            "小渔村": {
+                "commentCount": 8,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0107012000auz29an1FB8.jpg",
+                "distanceStr": "距市中心6.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5068675.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西昌卫星发射中心": {
+                "commentCount": 982,
+                "commentScore": "",
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo5w12000dmrz1x66FBE.jpg",
+                "distanceStr": "距西昌45.1km",
+                "detailUrl": "https://you.ctrip.com/sight/mianning3091/19704.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月亮湖湿地公园": {
+                "commentCount": 32,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106f12000aeygugh1EF5.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/131896560.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凉山彝族奴隶社会博物馆": {
+                "commentCount": 48,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106a12000f6tufl32CB3.jpg",
+                "distanceStr": "距市中心6.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/134005.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "灵鹰寺": {
+                "commentCount": 3,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100z12000f6s31fj7946.jpg",
+                "distanceStr": "距市中心12.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5718690.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "凉山彝族自治州西昌市商业步行街(达达购物广场东北)": {
+                "commentCount": 2,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105612000ath46ymB29A.jpg",
+                "distanceStr": "距市中心511m",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5171037.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "邛海泸山国家级风景名胜区-光福寺": {
+                "commentCount": 37,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105m120008g2mwqk92E6.jpg",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1416463.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西昌建昌古城城墙公园": {
+                "commentCount": 14,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1mh5p12000bpg5whpCC1F.jpg",
+                "distanceStr": "距市中心842m",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/136593463.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "观鸟岛湿地公园": {
+                "commentCount": 16,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c10000000pqnj3050D.jpg",
+                "distanceStr": "距市中心5.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1713633.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "众欣豪生温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo6t12000bz1qe4d484B.png",
+                "distanceStr": "距市中心13.7km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/136629324.html?scene=online",
+                "isFree": false,
+                "price": 38.0
+            },
+            "西昌泡温泉": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1lo2712000bz1q8f2B154.png",
+                "distanceStr": "凉山",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/0.html?poiId=148928501",
+                "isFree": false,
+                "price": ""
+            },
+            "听涛小镇": {
+                "commentCount": 1,
+                "commentScore": 3.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100e12000f6qr82iE9B4.jpg",
+                "distanceStr": "距市中心8.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/80053677.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "蒋介石特宅": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000f6u4gp60B66.jpg",
+                "distanceStr": "距市中心7.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5069010.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泸沽湖": {
+                "commentCount": 8431,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100t1f000001gqbm5EF3C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/4200.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "星月湖公园": {
+                "commentCount": 4,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106412000atgto3gD272.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5719737.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "月亮湾景区": {
+                "commentCount": 17,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10071f000001h6xj379FE.jpg",
+                "distanceStr": "距市中心10.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/4944351.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "银鳞沙滩": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me7312000ecek63y6FBA.jpg",
+                "distanceStr": "距市中心9.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/145090152.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "颛顼龙洞旅游景区": {
+                "commentCount": 335,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106g1200094p2tj5C7A2.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/miyi3097/61163.html?scene=online",
+                "isFree": false,
+                "price": 50.0
+            },
+            "大凉山民族文化创意产业园": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103912000athfrdxE969.jpg",
+                "distanceStr": "距市中心2.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/131896570.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "航天北路": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5q12000b30lddcDDE4.jpg",
+                "distanceStr": "距市中心1.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/133999242.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "钓鱼台": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q12000f0i450v1AC8.jpg",
+                "distanceStr": "距市中心5.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/145632170.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "礼州古镇": {
+                "commentCount": 25,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000f6rbwooE8E4.jpg",
+                "distanceStr": "距市中心19.4km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/49891.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "西昌建川电影博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me3e12000fuh12w1BCA0.jpg",
+                "distanceStr": "距市中心8.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/144974604.html?scene=online",
+                "isFree": false,
+                "price": 55.0
+            },
+            "川兴温泉": {
+                "commentCount": 6,
+                "commentScore": 3.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106512000gieda4v57F6.jpg",
+                "distanceStr": "距市中心6.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/2485960.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "大通门": {
+                "commentCount": 35,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103e120008g2mzdh2F6E.jpg",
+                "distanceStr": "距市中心730m",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/128014.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "青龙寺": {
+                "commentCount": 23,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102k1200092mdj3a8D15.jpg",
+                "distanceStr": "距市中心13.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/134003.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凉山彝族自治州民族风情园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me5t12000h3w5yenBFEE.jpg",
+                "distanceStr": "距市中心2.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/145716905.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "德昌元坤温泉": {
+                "commentCount": 37,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104d120008f1f7kx9591.jpg",
+                "distanceStr": "距西昌55.1km",
+                "detailUrl": "https://you.ctrip.com/sight/dechang1446215/107851721.html?scene=online",
+                "isFree": false,
+                "price": 49.9
+            },
+            "烟雨鹭洲湿地公园": {
+                "commentCount": 28,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104z1200085mh9v2D0F6.jpg",
+                "distanceStr": "距市中心3.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1409301.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "会理古城": {
+                "commentCount": 850,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/10010z000000o24xr0895.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/huili3106/1416510.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "艾雅康鸟类生态博物馆": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01035120009pwvh4c1966.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/134444519.html?scene=online",
+                "isFree": false,
+                "price": 79.0
+            },
+            "新山梯田": {
+                "commentCount": 149,
+                "commentScore": 4.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A4b12000990eb0tC745.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/miyi3097/130369406.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "梦里水乡湿地公园": {
+                "commentCount": 7,
+                "commentScore": 4.4,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104q120008qiwqnw34B0.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/4992341.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "二滩国家森林公园": {
+                "commentCount": 335,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106u12000f6qb1y63054.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yanbian3139/61152.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "俄鸠坝": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106612000c815qyt88B3.jpg",
+                "distanceStr": "距市中心21.9km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/135311555.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "灵山寺": {
+                "commentCount": 112,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p1200092lweo88D1F.jpg",
+                "distanceStr": "距西昌72.6km",
+                "detailUrl": "https://you.ctrip.com/sight/mianning3091/49918.html?scene=online",
+                "isFree": false,
+                "price": 58.0
+            },
+            "四川泸沽湖": {
+                "commentCount": 148,
+                "commentScore": 4.7,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106d12000f6s0l6dF915.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yanyuan3142/5551420.html?scene=online",
+                "isFree": false,
+                "price": 70.0
+            },
+            "森呼吸运动乐园": {
+                "commentCount": 3,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103n1200090pzfgg4144.jpg",
+                "distanceStr": "距市中心22.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5717951.html?scene=online",
+                "isFree": false,
+                "price": 68.0
+            },
+            "西昌恐龙乐园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104m1200093ptv75BF09.png",
+                "distanceStr": "距市中心4.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/5716787.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泸山森林公园-泸山滑道索道": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106r12000g3nfxnl0337.png",
+                "distanceStr": "距市中心7.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/148913529.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西昌旅游景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101t12000fa64tqy4F5E.png",
+                "distanceStr": "距市中心10.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/144184416.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "格萨拉生态旅游区": {
+                "commentCount": 247,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i12000000rplapA81B.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yanbian3139/61159.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "天下第一缸": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103x12000anequneF108.jpg",
+                "distanceStr": "距市中心10.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/69567930.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西波鹤影湿地": {
+                "commentCount": 1,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106712000ax5xn1q5483.jpg",
+                "distanceStr": "距市中心8.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/69551066.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "梦寻花海湿地公园": {
+                "commentCount": 6,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01A23120009brzx96AD91.jpg",
+                "distanceStr": "距市中心6.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/4945348.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "将军会馆温泉汤屋": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102u1200086k28vc0A5C.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/146051295.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "月城广场": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100p12000evp7tdsE0AC.jpg",
+                "distanceStr": "距市中心628m",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/2125480.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "泸沽湖格姆女神山索道": {
+                "commentCount": 106,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p1200098dgp7tAC86.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ninglang2169/5066888.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "观海湾": {
+                "commentCount": 10,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0106p120008dghs3lC88E.jpg",
+                "distanceStr": "距市中心10.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1830812.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "大漕河温泉瀑布": {
+                "commentCount": 32,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103k120009db4pfo2B2E.jpg",
+                "distanceStr": "距西昌48.3km",
+                "detailUrl": "https://you.ctrip.com/sight/puge1446232/1409753.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            },
+            "中国西昌上山下乡知识青年博物馆": {
+                "commentCount": 1,
+                "commentScore": 2.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0104s12000cwunuot37DE.jpg",
+                "distanceStr": "距市中心30.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/2593795.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "马鹿塘火普": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100d1g000001gzhnj239E.png",
+                "distanceStr": "距市中心42.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/83812525.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "西昌市袁家山动物园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0101h120009aqp6w0DAB4.png",
+                "distanceStr": "距市中心5.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/2593938.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "洁福温泉山庄": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/01009120008xf68tl2E68.png",
+                "distanceStr": "距市中心19.8km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/119335877.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "龙泉人家水上乐园": {
+                "commentCount": 14,
+                "commentScore": 3.9,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105t12000f6sgwbm3525.jpg",
+                "distanceStr": "距市中心35.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/1409451.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "峨眉山": {
+                "commentCount": 67478,
+                "commentScore": 4.8,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i10000000o0q8v2A65.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/emeishan24/110282.html?scene=online",
+                "isFree": false,
+                "price": 110.0
+            },
+            "二滩水电站观景台": {
+                "commentCount": 101,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105d12000f6ugmwv924C.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yanbian3139/69348572.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "黑竹沟": {
+                "commentCount": 353,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100c1f000001gswu0B5FA.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/ebian3146/49087.html?scene=online",
+                "isFree": false,
+                "price": 48.0
+            },
+            "邛海国家湿地公园-露营地": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103y12000f6ofrmy42D8.jpg",
+                "distanceStr": "距市中心3.5km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/145224005.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "星际丛林乐园": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0102g120009rhyj352230.jpg",
+                "distanceStr": "距市中心3.2km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/134564399.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "海河天街": {
+                "commentCount": 1,
+                "commentScore": 4.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100112000atgl44j5A4E.jpg",
+                "distanceStr": "距市中心3.3km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/133528173.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "螺髻山温泉山庄": {
+                "commentCount": 23,
+                "commentScore": 4.3,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100e1f000001gt2mhFDB4.jpg",
+                "distanceStr": "距西昌61.7km",
+                "detailUrl": "https://you.ctrip.com/sight/puge1446232/4274367.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "稻城亚丁": {
+                "commentCount": 8962,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/100i1f000001gp1in90CD.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/daocheng342/11875.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "古榕月韵广场": {
+                "commentCount": 6,
+                "commentScore": 4.5,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0100g12000ats4hchBA13.jpg",
+                "distanceStr": "距市中心6.6km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/4942351.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "凉山彝族自治州博物馆": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg",
+                "distanceStr": "距市中心3.1km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/145720750.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "土林景区": {
+                "commentCount": 0,
+                "commentScore": 0.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0105w12000def918s3277.jpg",
+                "distanceStr": "距市中心25.0km",
+                "detailUrl": "https://you.ctrip.com/sight/xichang592/144183925.html?scene=online",
+                "isFree": false,
+                "price": ""
+            },
+            "山海洞": {
+                "commentCount": 91,
+                "commentScore": 4.6,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/0103l120008ry24sp916A.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yongshan1446278/5714555.html?scene=online",
+                "isFree": false,
+                "price": 69.0
+            },
+            "昔格达村": {
+                "commentCount": 103,
+                "commentScore": 5.0,
+                "coverImageUrl": "https://dimg04.c-ctrip.com/images/1me6y12000big6e6r17DC.jpg",
+                "distanceStr": "",
+                "detailUrl": "https://you.ctrip.com/sight/yanbian3139/133548112.html?scene=online",
+                "isFree": true,
+                "priceTypeDesc": "免费"
+            }
+        }
+    }
+}
