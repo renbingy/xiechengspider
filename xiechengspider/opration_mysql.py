@@ -35,10 +35,10 @@ def insert_mysql(host, user, password, database, port, data ):
 
 
 if __name__ == '__main__':
-    host='123.56.173.220'  # 数据库主机
-    user='easondbroot'  # 数据库用户名
-    password='JIL4zgd3uUKv@2022'  # 数据库密码
-    database='ry-vue'  # 选择数据库
+    host=''  # 数据库主机
+    user=''  # 数据库用户名
+    password=''  # 数据库密码
+    database=''  # 选择数据库
     port=7581
     data = [(6998, 'yanqing', 126, '2024-12-12'),
             (6999, 'yanqing', 129, '2024-12-12')
